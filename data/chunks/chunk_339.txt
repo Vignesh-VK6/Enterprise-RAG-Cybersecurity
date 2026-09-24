@@ -1,0 +1,15 @@
+rmines which minimum baseline security controls are selected from NIST SP
+800-53, and (2) aids in estimating the level of risk posed by a threat/vulnerability
+92
+CHAPTER 10 Risk Management
+pair identified during the risk assessment (see Chapter 5 of this handbook and NIST
+SP 800-30 for a discussion on identifying threat/vulnerability pairs). FIPS 200,
+Minimum Security Requirements for Federal Information and Information Systems,
+mandates the use of NIST SP 800-53 for selecting minimum baseline security
+controls for government systems. System security controls selected are grouped
+into one of the three categories of management, operational, or technical controls,
+and are either preventive or detective in nature.
+For new systems, once the security controls for the system have been identified
+and refined and an initial risk assessment conducted, the selected controls must be
+implemented. For legacy systems, the security controls that are selected are
+verified. Organizations can leverage c

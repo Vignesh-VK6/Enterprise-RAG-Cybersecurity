@@ -1,0 +1,21 @@
+10. Life Cycle Management
+Is there a system life cycle management process
+that requires each system to be C&A? Is each
+system officially approved to operate? Is the
+
+74 http://cio.gov/documents/Security_and_Privacy_Profile_v2.pdf
+108
+CHAPTER 11 Certification, Accreditation, and Security Assessments
+Program Questions Policy Procedures Implemented Tested Integrated Comments
+system LCM process communicated to
+appropriate persons?
+
+109
+CHAP
+
+TER 11 Certification, Accreditation, and Security Assessments
+110
+Question Accomplished? Comments
+Senior Agency Information Security Officer
+Has a senior agency information security officer been appointed with the mission
+and resources to develop and maintain an agency information security program?

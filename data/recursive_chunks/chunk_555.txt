@@ -1,0 +1,9 @@
+investments that do not have Exhibit 300s (for example, legacy systems with
+costs below agency thresholds).
+Q. What is the relationship between Exhibit 53 and Exhibit 300?
+A. OMB evaluates an agency’s Exhibit 53 and Exhibit 300s and determines
+appropriate funding amounts for the budget year based on the justification
+articulated. Even though the Exhibit 53 and Exhibit 300s are submitted to OMB
+each September, the budgeting process is not confined to the late summer
+months. Planning, acquiring, and executing information security budgets are
+year-round activities.

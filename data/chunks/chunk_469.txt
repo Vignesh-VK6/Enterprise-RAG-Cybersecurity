@@ -1,0 +1,15 @@
+achieve gains in mission capability by
+protecting the information systems and data that support their organizations’
+missions.”86 Risk management encompasses the process of identifying, analyzing,
+and responding to risk. This process includes identifying existing vulnerabilities in a
+system or in its respective components. Since risk is oftentimes an uncertainty on
+whether or not a given event will occur, an executable plan must be in place if a
+potential risk is exploited. Risk identification involves determining the possible effect
+on an information system due to a risk. During this phase, initial baselines of security
+controls are being selected based on assessing the risk level of a network. After the
+security controls are established, the CM process can begin. The documented CM
+
+86 See Chapter 10, Risk Management, of this guide for additional guidance on risk management.
+133
+CHAPTER 14 Configuration Management
+process should contain procedures and techniques to change a system wit

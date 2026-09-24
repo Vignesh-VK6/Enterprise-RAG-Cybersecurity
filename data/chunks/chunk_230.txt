@@ -1,0 +1,16 @@
+tion Security Management Act
+(FISMA).
+National Institute of Standards and Technology (NIST) Special Publication (SP)
+800-55, Security Metrics Guide for Information Technology Systems, provides
+guidance on how an organization, by using metrics, identifies the adequacy of in-
+place security controls, policies, and procedures. It provides an approach to help
+management decide where to invest in additional security protection resources or
+how to identify and evaluate nonproductive controls. It explains the metrics
+development and implementation process and how it can also be used to adequately
+justify security control investments. The results of an effective metrics program can
+provide useful data for directing the allocation of information security resources and
+should simplify the preparation of performance-related reports.
+59
+CHAPTER 7 Performance Measures
+Fiscal constraints and market conditions compel government and industry to
+operate on reduced budgets. In such an environment, it is

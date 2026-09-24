@@ -1,0 +1,27 @@
+ their architecture and a well-established business case.
+Table 12-6. Information Security Product Selection Questions
+Consideration
+Type Questions Comments
+Organizational  Is the anticipated user community identified?
+Organizational  How many and what type of users does the
+organization anticipate will use the security product?
+
+Organizational  Is the relationship between this security product and
+the organization’s mission performance understood
+and documented?
+
+119
+CHAPTER 12 Security Services and Products Acquisition
+Consideration Questions Comments Type
+Organizational  Has the sensitivity of the data the organization is
+trying to protect been determined?
+In the case of cryptographic modules,
+where agencies have determined the
+need to protect information via
+cryptographic means, they may only
+select products compliant with
+cryptographic module validation program
+(CMVP).
+Organizational  Are the organization security requirements
+supported by the security plan, policies, and
+pro

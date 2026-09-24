@@ -1,0 +1,20 @@
+ng
+responsibilities in relation to security certification and accreditation:
+• Serve as the principal advisor to the authorizing official, information system
+owner, or SAISO on all matters relating to the security of the information
+system;
+• Perform or oversee performance of day-to-day security operations of the
+system;
+• Develop or assist in development of system security policy;
+• Ensure compliance with system security policy;
+• Coordinate/manage changes to the system with the system owner and the
+information owner, as necessary;
+• Assess security impact of system changes; and
+• Develop and update the system security plan.
+99
+Chapter 11 Certification, Accreditation, and Security Assessments
+11.1.7 Certification Agent
+The certification agent is either an individual, a group, or an organization
+responsible for conducting a security certification or a comprehensive assessment of
+the effectiveness of security controls in an information system. The impartiality and
+independence of the ce

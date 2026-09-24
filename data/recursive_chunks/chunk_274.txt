@@ -1,0 +1,14 @@
+48 Also see Chapter 10, Risk Management, and Chapter 11, Certification, Accreditation, and Security
+Assessments, of this guide for additional guidance on prioritizing corrective actions.
+65
+CHAPTER 7 Performance Measures
+7.4.5 Apply Corrective Actions
+Phase 6 of the process, Apply Corrective Actions, involves implementing
+corrective actions as determined through data analysis and as defined in an
+applicable business case or a POA&M. After corrective actions are applied, the cycle
+completes itself and restarts with subsequent data collection and analysis. Iterative
+data collection, analysis, and reporting will track the progress of corrective actions
+through the POA&M, among others, measure improvement, and identify areas for
+further improvement to be included in tactical plans, Program Management Plans, or
+other agency planning mechanisms. The iterative nature of the cycle ensures that
+the progress is monitored, and the corrective actions are affecting system security

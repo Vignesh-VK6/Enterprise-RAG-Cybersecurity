@@ -1,0 +1,26 @@
+use metrics/performance
+measures as an input into decision making regarding
+prioritization of activities and resource and funding
+allocations.
+ Agency uses metrics/perform ance measures that can be
+obtained without spending extraordinary resources.
+ Metrics/performance meas ures provide numerical and
+empirical data rather than opinions.
+ Metrics/performance measures are regularly verified by
+third-party reviewers for accuracy and validity.
+ Metrics/performance measures provide meaningful data to
+assess the impact of changes over time.
+ Agency collects data to calculate metrics/performance
+measures at the most discrete, unanalyzed level possible.
+ Agency uses well-defined and specified
+metrics/performance measures.
+Continuous
+Assessment15
+
+The continuous assessment process
+monitors the initial security
+accreditation of an information system
+to track the changes to the information
+system, analyzes the security impact
+of those changes, makes appropriate
+adjustments to the security c

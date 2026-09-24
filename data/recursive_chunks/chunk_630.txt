@@ -1,0 +1,11 @@
+• Whether security components are affected by the change.
+Q. A change has just been implemented, is the job complete?
+A. No. The system should be continuously monitored to ensure that it is operating
+as intended and that changes that have been implemented do not have an
+adverse effect on the performance of the system. Configuration verification and
+audits should be performed during this step to ensure that the updates to the
+system have not adversely affected the system. Verification and audits consist of
+an examination of system characteristics and the supporting documentation to
+verify that the configuration meets users’ needs, and that the current
+configuration is the approved system configuration baseline.
+B-29

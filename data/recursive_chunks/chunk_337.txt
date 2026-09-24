@@ -1,0 +1,13 @@
+Plan exercises should be designed to individually and then collectively examine
+various components of the entire plan. Exercises may be conducted in a classroom
+setting: discussing specific components of the plan and/or impact issues; or they
+may be functional exercises: simulating the recovery using actual replacement
+equipment, data, and alternate sites.
+9.7 Step 7: Plan Maintenance
+The IT contingency plan must always be maintained in a ready state for use
+immediately upon notification. Periodic reviews of the plan must be conducted for
+currency of key personnel and vendor information, system components and
+dependencies, the recovery strategy, vital records, and operational requirements.
+While some changes may be obvious (e.g., personnel turnover or vendor changes),
+others will require analysis. The BIA should be reviewed periodically and updated
+with new information to identify new contingency requirements and priorities.

@@ -1,0 +1,18 @@
+.
+National Institute of Standards and Technology Special Publication 800-42,
+Guidelines on Network Security Testing, October 2003.
+National Institute of Standards and Technology Special Publication 800-47, Security
+Guide for Interconnecting Information Technology Systems, August 2002.
+National Institute of Standards and Technology Special Publication 800-53, Revision
+1, Recommended Security Controls for Federal Information System, February 2006.
+National Institute of Standards and Technology Special Publication 800-60, Guide for
+Mapping Types of Information and Information Systems to Security Categories, June
+2004.
+58
+CHAPTER 7 Performance Measures
+Chapter 7
+7. Performance Measures
+A performance measures program provides numerous organizational and financial
+benefits to federal agencies. Agencies can develop information security metrics that
+measure the effectiveness of their security program, and provide data to be analyzed
+and used by program managers and system owners to isolate pro

@@ -1,0 +1,12 @@
+.....................1
+2. Information Security Governance.................................................................... 2
+2.1 Information Security Governance Requirements ........................................................2
+2.2 Information Security Governance Components ..........................................................5
+2.2.1 Information Security Strategic Planning............................................. 6
+2.2.2 Information Security Governance Structures...................................... 7
+2.2.3 Key Governance Roles and Responsibilities ........................................ 8
+2.2.3.1 Agency Head...................................................................... 9
+2.2.3.2 Chief Information Officer...................................................... 9
+2.2.3.3 Senior Agency Information Security Officer............................. 9
+2.2.3.4 Chief Enterprise Architect................................................... 10
+2.2.3.5 Related Roles ..........

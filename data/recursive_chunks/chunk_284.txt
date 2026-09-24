@@ -1,0 +1,12 @@
+52 NIST SP 800-37 defines a minor application as an application, other than major application, that
+requires attention to security due to the risk and magnitude of harm resulting from the loss, misuse, or
+unauthorized access to or modification of the information in the application. Minor applications are
+typically included as part of a GSS.
+53 See NIST SP 800-37, Guide for the Security Certification and Accreditation of Federal Information
+Systems, and Chapter 11, Certification and Accreditation, of this guide for additional guidance on the
+C&A process.
+54 Caution should be exercised when one individual fill s multiple roles in the security planning process to
+ensure that the individual retains an appropriate level of independence and remains free from conflicts
+of interest.
+55 See Chapter 2, Governance, Chapter 5, Capital Planning, Chapter 11, Certification, Accreditation, and
+Security Assessments, and Chapter 14, Configuration Management, of this guide for additional guidance

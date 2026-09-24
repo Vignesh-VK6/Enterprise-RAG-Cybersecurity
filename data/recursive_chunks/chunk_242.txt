@@ -1,0 +1,13 @@
+G Is there a general description of the information/data being made available, exchanged,
+or passed?
+
+H Is there a description of the information services (e.g., e-mail, file transfer protocol,
+database query, file query, general computational services) offered over the
+interconnected system by each participating organization?
+
+I Have system users been identified and has an approval been put in place?
+J Is there a description of all system security technical services pertinent to the secure
+exchange of information/data among and between the systems in question?
+
+K Are there documented rules of behavior for users of each system in the
+interconnection?

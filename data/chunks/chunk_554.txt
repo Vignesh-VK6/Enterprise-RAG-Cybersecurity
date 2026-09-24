@@ -1,0 +1,17 @@
+ and training
+plans, information system rules of behavior, configuration management (CM)
+plans, security configuration checklists, privacy impact assessments, system
+interconnection agreements).
+Q. What are the phases of the C&A process?
+A. The security C&A process consists of four distinct phases:
+1. Initiation Phase. This phase will ensure that the authorizing official and
+senior agency information security officer agree with the contents of the
+system security plan before the certification agent begins assessing the
+security controls in the information system.
+2. Security Certification Phase. This phase will determine the extent to which
+the security controls in the information system are implemented correctly,
+operating as intended, and producing the desired outcome with respect to
+meeting the security requirements for the system.
+3. Security Accreditation Phase. This phase will determine whether the
+remaining known vulnerabilities in the information system (after the
+implementatio

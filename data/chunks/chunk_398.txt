@@ -1,0 +1,14 @@
+ices
+cannot be underestimated because of the potential impact associated with those
+risks. In selecting this type of services, agencies should employ risk management
+processes in the context of information security services life cycle, which provides an
+organizational framework for information security decision makers. NIST SP 800-35,
+Guide to Information Technology Security Services, provides assistance with the
+selection, implementation, and management of information security services by
+guiding the reader through the various phases of the information security services
+life cycle. Information security decision makers must consider the costs involved, the
+underlying security requirements, and the impact of their decisions on the
+organizational mission, operations, strategic functions, personnel, and service-
+provider arrangements.
+The process of selecting information security products and services involves
+numerous people throughout an organization. Each person involved in the process

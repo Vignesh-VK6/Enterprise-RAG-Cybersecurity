@@ -1,0 +1,32 @@
+ation 800-60, Guide for
+Mapping Types of Information and Information Systems to Security Categories, June
+2004.
+National Institute of Standards and Technology Special Publication 800-64, Security
+Considerations in the Information System Development Life Cycle, Rev. 1, June
+2004.
+105
+C
+
+hapter 11 Certification, Accreditation, and Security Assessments
+106
+Annex 11.A Agency Information Security Program
+Assessment Questionnaire
+Low: _______ Moderate: ________ High: __________
+
+Number of Systems in each FIPS 199 Impact Level Category
+
+Agency System Summary:
+
+Purpose of Report: __________________________________________
+
+Time Period Covered in Report: ________________________________
+
+Date of Report: _____________________________________________
+
+Name(s) of Assessors: _______________________________________
+
+Name of Responsible Individual: _______________________________
+
+Name of Agency: ____________________________________________
+
+CHAPTER 11 Certification, Accreditation, and Security Asses

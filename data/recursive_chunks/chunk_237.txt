@@ -1,0 +1,14 @@
+PRIVACY REQUIREMENTS
+
+Both parties agree to examine privacy issues related to data that will be exchanged or passed
+over the interconnection and determine whether such use is restricted under current statutes,
+regulations, or policies. Examples of data that might be restricted include personally identifiable
+information such as names and social security numbers, or confidential business information
+55
+CHAPTER 6 Interconnecting Systems
+such as contractor bid rates and trade secrets. Each party should consult with its Privacy Officer
+or Legal Counsel to determine whether such information may be shared or transferred.
+Permission to exchange or transfer data should be documented, along with a commitment to
+protect such data.
+
+COST CONSIDERATIONS

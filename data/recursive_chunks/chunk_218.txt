@@ -1,0 +1,15 @@
+45 See NIST SP 800-37, Guide for the Security Certification and Accreditation of Federal Information
+Systems, and Chapter 11, Certification, Accreditation, and Security Assessments, of this guide can be
+consulted for additional guidance on C&A.
+49
+CHAPTER 6 Interconnecting Systems
+understanding/memorandum of agreement (MOU/MOA) between the organizations.
+Specifically, the ISA documents the requirements for connecting the information
+systems, describes the security controls that will be used to protect the systems and
+data, contains a topological drawing of the interconnection, and provides a signature
+line.
+The joint planning team should document an agreement governing the
+interconnection and the terms under which the organizations will abide. The
+agreement should be based on the team’s review of all relevant technical, security,
+and administrative requirements identified and examined in Step 4.
+The MOU/MOA documents the terms and conditions for sharing data and

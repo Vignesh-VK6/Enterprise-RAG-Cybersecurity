@@ -1,0 +1,15 @@
+mation security
+activities (e.g., incident data, revenue lost to cyber attacks) to the respective
+requirements and to information security investments.
+Departments and agencies can also demonstrate compliance with applicable laws,
+such as FISMA, rules, and regulations by implementing and maintaining an
+information security metrics program as described in this handbook. Information
+security metrics will assist in satisfying the annual FISMA reporting requirement by
+providing an infrastructure for organized data collection, analysis, and reporting.
+Information security metrics can also be used as input into the Government
+Accountability Office (GAO) and Inspector General (IG) audits.
+7.1 Metric Types
+Metrics are tools that support decision making. Like experience, external
+mandates, and strategies, metrics are one element of a manager’s toolkit for making
+and substantiating decisions. Metrics are used to answer three basic questions:
+• “Am I implementing the tasks for which I am responsi

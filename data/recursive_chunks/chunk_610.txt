@@ -1,0 +1,6 @@
+organization can add more security controls to those listed for each control
+family, require more descriptive information, and even pre-mark certain security
+controls if applicable. Additional columns may be added to reflect the status of
+the control, e.g., planned action date or location of documentation. The System
+Reporting Form should not have security controls removed or modified to reduce
+the effectiveness of the control.

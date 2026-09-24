@@ -1,0 +1,23 @@
+ing security into the life cycle. These components include
+selection of the appropriate contract type, participation by all necessary functional groups
+within an organization, participation by the certifier and accreditor, and development and
+execution of necessary contracting plans and processes.
+C. Implementation Phase
+Security Test and
+Evaluation
+ Develop test data.
+ Test unit, subsystem, and entire system.
+ Ensure system undergoes technical evaluation (e.g., according to federal laws [Sec. 508],
+regulations, policies, guidelines, and standards).
+Inspection and
+Acceptance
+ Verify and validate that the functionality de scribed in the specification is included in the
+deliverables.
+System Integration/
+Installation
+ Integrate the system at the operational site where it is to be deployed for operation. Enable
+security control settings and switches in accordance with vendor instructions and proper
+security implementation guidance.
+Security
+Certification28
+ Ensure that the controls a

@@ -1,0 +1,16 @@
+workforce with the information and tools needed to protect an agency’s vital
+information resources. Agencies that continually train their workforce in
+organizational security policy and role-based security responsibilities will have a
+higher rate of success in protecting information.
+Q. What is security awareness?
+A. “Awareness” constitutes the point-of-entry for all employees in pursuing IT
+security knowledge. Awareness seeks to focus an individual’s attention on an
+issue or a set of issues. Awareness is not training.
+Security awareness programs provide a blended solution of activities that
+promote security, establish accountability, and inform the workforce of security
+B-1
+Appendix B Frequently Asked Questions
+news. Awareness programs continually push the security message to users in a
+variety of formats and provide security information to users.
+Q. What is security training?
+A. Security training strive s to produce relevant and needed security knowledge and

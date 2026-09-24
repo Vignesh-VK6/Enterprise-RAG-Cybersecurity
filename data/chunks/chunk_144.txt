@@ -1,0 +1,16 @@
+or Information Technology Systems, and Chapter 7,
+Performance Measures, of this guide for additional guidance on measurements and metrics.
+32
+CHAPTER 4 Awareness and Training
+4.4.2 Evaluation and Feedback
+Formal evaluation and feedback mechanisms are critical components of any
+security awareness and training program. Continuous improvement cannot occur
+without a good sense of how the existing program is working. In addition, the
+feedback mechanism must be designed to address objectives initially established for
+the program. Once the baseline requirements have been solidified, a feedback
+strategy can be designed and implemented. Various evaluation and feedback
+mechanisms that can be used to update the awareness and training program plan
+include surveys, evaluation forms, independent observation, status reports,
+interviews, focus groups, technology shifts, and/or benchmarking.
+A feedback strategy should incorporate elements that address quality, scope,
+deployment method (e.g., Web-based,

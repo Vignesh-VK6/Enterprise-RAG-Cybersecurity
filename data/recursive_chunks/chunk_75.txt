@@ -1,0 +1,14 @@
+development life cycle.11 In addition to complying with OMB requirements, the
+integration of information security into the agency enterprise architecture efforts
+benefits both the agencies and the federal government:
+• Reduction of the reporting burden. The FEA requires agencies to collect and
+analyze significant amounts of data. The security efforts already under way
+can provide information relevant to the data, technology, and performance
+metrics in place throughout a department, such as the information contained in
+FISMA quarterly and annual reports, accreditation letters, and plan of actions
+and milestones (POA&M).
+• Integration of security data. Organizations should use existing information
+security data sources to identify data for their FEA submissions, thus allowing
+for a continuous and reliable transmission and roll-up of security requirements
+and controls from initial security certification and accreditation documentation
+and POA&Ms into the FEA.

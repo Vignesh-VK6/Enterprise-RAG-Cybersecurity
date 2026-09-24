@@ -1,0 +1,21 @@
+Product  Have product specifications been reviewed with
+respect to existing and planned organizational
+programs, policies, procedures, and standards?
+Examples include an organization’s Web
+policy, public key infrastructure (PKI)
+program and policy, Smart Card
+program, and network interconnection
+and approval policy.
+Product  Does the product have any security critical
+dependencies on other products?
+For example, an operating system or
+cryptographic module.
+Product  Does interfacing the new product with the existing
+infrastructure introduce new vulnerabilities or
+interdependencies?
+
+121
+CHAPTER 12 Security Services and Products Acquisition
+Consideration Questions Comments Type
+Product  What is the frequency of product failures and
+adequacy of corrective actions?

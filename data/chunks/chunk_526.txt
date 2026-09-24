@@ -1,0 +1,22 @@
+s
+process?
+A. The information security metrics deve lopment process consists of two major
+activities:
+1. Identification and definition of the current information security program;
+and
+2. Development and selection of specific metrics to measure implementation,
+efficiency, effectiveness, and the impact of the security controls.
+Q. What are the activities that comprise the information security
+implementation process?
+A. The information security implementa tion process consists of six phases:
+1. Prepare for data collection;
+2. Collect data and analyze results;
+3. Identify corrective actions;
+4. Develop business case;
+5. Obtain resources; and
+6. Apply corrective actions.
+Q. Can the use of a metrics program assist an organization with federal
+requirements or FISMA?
+A. Yes. Information security metrics will assist in satisfying the annual FISMA
+reporting requirement by providing an infrastructure for organized data
+collection, analysis and reporting. Also, information security metrics can be 

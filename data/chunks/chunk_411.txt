@@ -1,0 +1,14 @@
+rvices
+In identifying the service provider that best meets an organization’s needs,
+decision makers will need to have many questions answered. Specifically, depending
+on the nature of the data the service provider accesses and processes on behalf of
+the agency, the service provider may be subject to legislative and regulatory
+requirements, including Federal Information Security Management Act (FISMA) and
+NIST standards and guidance, such as SP 800-53, Recommended Security Controls
+for Federal Information Systems, SP 800-37, Guide for the Security Certification and
+Accreditation of Federal Information Systems, and others. Questions pertaining to
+these requirements should become part of the organization’s standard process for
+researching and evaluating information security services and service providers. Table
+12-4 is a representative sample of such questions, which includes general questions
+grouped into the six issue categories.
+These questions are intended as a guide, and each organiz

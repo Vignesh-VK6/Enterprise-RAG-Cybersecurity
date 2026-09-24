@@ -1,0 +1,15 @@
+tion to configuration verification tests,
+agencies can also perform system audits. Both configuration verification tests and
+system audits entail an examination of characteristics of the system and supporting
+documentation to verify that the configuration meets user needs and ensure that the
+current configuration is the approved system configuration baseline.
+As part of the overall CM process, agencies should also perform patch
+management activities during this step. Patch management assists in the process of
+lowering the potential risk to a network by “patching” or repairing known
+vulnerabilities in any of the network or system environments. Increasingly, vendors
+are proactive in developing and releasing to the public fixes (or antidotes) to known
+vulnerabilities, and agencies must remain vigilant to ensure that they capture all
+relevant fixes as they are released, test their implementation for adverse effects, and
+136
+CHAPTER 14 Configuration Management
+implement them if deemed appro

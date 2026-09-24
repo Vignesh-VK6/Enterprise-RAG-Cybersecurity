@@ -1,0 +1,21 @@
+ppropriate persons?
+
+109
+CHAP
+
+TER 11 Certification, Accreditation, and Security Assessments
+110
+Question Accomplished? Comments
+Senior Agency Information Security Officer
+Has a senior agency information security officer been appointed with the mission
+and resources to develop and maintain an agency information security program?
+
+FISMA requires each agency to appoint a Senior Agency Information Security Officer (SAISO) who heads an office with the
+mission and resources to develop and maintain an agency information security program. A “Yes” response affirms compliance.
+A “No” response should be accompanied by explanatory comments and a date when this will be done.
+
+Annex 11.B Minimum Security Controls
+
+Security controls in the security control catalog (NIST SP 800-53, Appendix F) have a well-
+defined organization and structure. The security controls are organized into classes and families
+for ease of use in the control selection and specification process. There are three general classes

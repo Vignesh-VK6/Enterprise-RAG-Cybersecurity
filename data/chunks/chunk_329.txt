@@ -1,0 +1,14 @@
+essful. In this scenario, the appropriate likelihood rating
+would be high. The likelihood ratings of moderate and low are similarly defined to
+successively lesser degrees.
+10.1.4.3 Impact Analysis
+The third factor used in determining the level of risk to a system is impact. A
+proper overall impact analysis considers the following factors: impact to the systems,
+data, and the organization’s mission. Additionally, this analysis should also consider
+the criticality and sensitivity of the system and its data. FIPS 199 provides a
+consistent, focused process for categorizing a system’s criticality and sensitivity for
+the three security domains of confidentiality, integrity, and availability. Using FIPS
+199 to determine a security category and applying an assessment of the system’s
+and organization’s mission using tools such as mission-impact reports, asset
+criticality assessment reports, and business impact analyses results in a rating
+describing the estimated impact to the system and organi

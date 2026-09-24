@@ -1,0 +1,12 @@
+Selecting the most appropriate services, service mix, and service level is a
+complex decision, as is deciding who should provide the needed services. A broad
+range of possible service arrangements exists. An organization may select its
+internal employees and teams to provide the service required, or it may choose to
+fully export the service to an external service provider. This external service
+provider could be any organization, including an external group from a subsidiary
+organization, a business unit, or a commercial service provider.
+12.2.1 Selecting Information Security Services Management Tools
+Because of the potential harm caused by inadequate security, information
+security program managers and decision makers must employ effective management
+tools to increase the likelihood of success of acquired security services. Two
+important tools are metrics and service agreements, both of which can be used to

@@ -1,0 +1,17 @@
+Figure 6-3. Recommended Steps for Establishing the Interconnection
+Step 1: Develop an Implementation Plan
+To ensure that the information systems are connected properly and securely, the
+joint planning team should develop a system interconnection implementation plan. At
+a minimum, the implementation plan should:
+50
+CHAPTER 6 Interconnecting Systems
+• Describe the information systems that will be connected;
+• Identify the sensitivity or classification level of data that will be made available,
+exchanged, or passed one way across the interconnection;
+• Identify personnel who will establish and maintain the interconnection and
+specify their responsibilities;
+• Identify implementation tasks and procedures;
+• Identify and describe security controls that will be used to protect the
+confidentiality, integrity, and availability of the connected systems and data;
+• Provide test procedures and measurement criteria to ensure that the
+interconnection operates properly and securely;

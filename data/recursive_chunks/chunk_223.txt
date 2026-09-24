@@ -1,0 +1,17 @@
+confidentiality, integrity, and availability of the connected systems and data;
+• Provide test procedures and measurement criteria to ensure that the
+interconnection operates properly and securely;
+• Specify training requirements for users, including a training schedule; and
+• Cite or include all relevant documentation, such as system security plans,
+design specifications, and standard operating procedures (SOPs).
+Step 2: Execute the Implementation Plan
+After the implementation plan is developed, it should be reviewed and approved
+by senior members of the planning team and then executed. A list of recommended
+tasks for establishing an interconnection includes:
+• Implement or configure security controls;
+• Install or configure hardware and software;
+• Integrate applications;
+• Conduct operational and security assessments;
+• Conduct security training and awareness;
+• Update system security plans; and
+• Perform recertification and reaccreditation.

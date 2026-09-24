@@ -1,0 +1,12 @@
+To determine which security controls to select for review, agencies should first
+prioritize testing on POA&M items that become closed. These newly implemented
+controls should be validated. Agencies should test against system-related security
+control changes that occurred but did not constitute a major change necessitating a
+new C&A. Agencies should identify all security controls that are continuously
+monitored as annual testing and evaluation activities. Examples of this include (but
+are not limited to) ongoing security training, Denial of Service and Malicious Code
+protection activities, Intrusion Detection monitoring, Log File reviews, etc. Once this
+is completed, agencies should look at the remaining controls that have not been
+tested for that year and make a decision on further annual testing based on risk,
+importance of control, and date of last test.
+The results of continuous monitoring should be reported to the authorizing official

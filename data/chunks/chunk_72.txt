@@ -1,0 +1,16 @@
+ement and Budget Circular A-130, Appendix III,’ 1996.
+13
+CHAPTER 2 Information Security Governance
+the tool would handle. Since the federal government has numerous IT-related
+efforts under way, including critical infrastructure protection (CIP) and COOP
+processes that seek to preserve national resources as well as the ability of
+departments and agencies to operate in adverse or emergency conditions, a
+security-enabled FEA will provide support to those other efforts while
+simultaneously ensuring that information is appropriately protected within
+these efforts.
+2.2.5 Information Security Policy and Guidance
+Information security policy is an aggregate of directives, rules, and practices that
+prescribes how an organization manages, protects, and distributes information.12
+Information security policy is an essential component of information security
+governance—without the policy, governance has no substance and rules to enforce.
+Information security policy should be based on a combination o

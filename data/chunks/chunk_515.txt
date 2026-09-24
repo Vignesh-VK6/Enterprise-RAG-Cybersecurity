@@ -1,0 +1,16 @@
+year, this agreement will expire…”).
+B-9
+Appendix B Frequently Asked Questions
+• Section 10: Signatory Authority
+Please note this is an abbreviated description of each section. For more
+information on each of the sections, please refer to Section 4.12.
+Q. What is the difference between ISA and MOU/MOA ?
+A. An ISA is used to support an MOU/MO A that establishes the requirements for
+data exchange between two organizations. The MOU/MOA is used to document
+the business and legal requirements necessary to support the business relations
+between the two organizations. The MOU/MOA should not include technical
+details regarding how the interconnection is established; that is the function of
+the ISA. An ISA is a distinct security-related document that outlines the technical
+solution and security requirements for the interconnection. It does not replace an
+MOU/MOA. As older MOUs/MOAs are updated, they should be changed to refer to
+the appropriate ISA covering the connectivity addressed by the MOU

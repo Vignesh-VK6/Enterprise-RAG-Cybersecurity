@@ -1,0 +1,14 @@
+government for the benefit of the American people.”1 GAO reviews agency
+implementation of legislative and regulatory requirements and reports to Congress
+and the American public on its findings.
+At a minimum, information security governance in a federal department or
+agency must meet the requirements as they are detailed in applicable legislation,
+regulations, and directives. Furthermore, agencies can benefit from identifying
+overall good governance practices for establishing strong management and
+oversight. Agencies should tailor their information security governance practices to
+their organization’s own missions, operations, and needs.
+The following are a few key legislative acts that define overall federal agency
+governance requirements:
+• The Government Performance and Results Act (GPRA) of 1993 establishes the
+foundation for budget decision making to achieve strategic goals in order to
+meet agency mission objectives.

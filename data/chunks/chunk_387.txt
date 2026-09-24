@@ -1,0 +1,20 @@
+mented. For the “Tested” maturity level, to answer
+“Yes,” documents should be examined and interviews should be conducted to verify that the policies and procedures for the
+question are implemented and operating as intended and provide the desired level of security. For the “Integrated” maturity
+level, to answer “Yes,” the policies, procedures, implementation, and testing are continually monitored and improvements are
+made as a normal business process of the agency.
+Program Questions Policy Procedures Implemented Tested Integrated Comments
+1. Security Control Review Process
+Does management ensure that corrective
+information security actions are tracked using the
+Plan of Action & Milestones (POA&M) process?
+
+2. Capital Planning and Investment Control
+Does the agency require the use of a business
+case/Exhibit 300/Exhibit 53 to record the
+resources required for security at an acceptable
+level of risk for all programs and systems in the
+agency?
+
+3. Investment Review Board
+Is there an Inves

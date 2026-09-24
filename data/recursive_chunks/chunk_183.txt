@@ -1,0 +1,15 @@
+38 The information presented in this special publication provides an overview of the prioritization process.
+For a detailed explanation of suggested system- and enterprise-level prioritization procedures, see NIST
+SP 800-65, pages 28-36.
+40
+CHAPTER 5 Capital Planning and Investment Control
+1. System-level prioritization: prioritize corrective actions to address
+system-level security weaknesses and vulnerabilities found during the
+baseline assessment against the predefined prioritization criteria. This
+prioritization is performed at the operating unit level by system owners and
+program managers.39
+2. Enterprise-level prioritization: prioritize enterprise-wide security
+corrective actions identified during the baseline assessment based on
+predefined prioritization criteria. This prioritization is performed at the
+enterprise level by agency information security stakeholders.
+The prioritization methodology relies primarily on existing data sources and

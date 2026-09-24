@@ -1,0 +1,16 @@
+ws of the
+agency’s information security program and report the results to OMB. OMB uses this
+data to assist in its oversight responsibilities and to prepare an annual report to
+Congress on agency compliance with FISMA.
+103
+Chapter 11 Certification, Accreditation, and Security Assessments
+In addition, FISMA requires each agency to conduct an independent evaluation of
+its information security program each year. For agencies with an inspector general
+(IG), that evaluation is to be done by the agency IG. For agencies without an IG, the
+evaluation is to be done by an external auditor. In either case, the agency annual
+report to OMB must include the independent evaluation.
+Each quarter, agencies prepare and submit plan of action and milestone (POA&M)
+reports to OMB for all programs and systems where an information system security
+weakness has been found. In addition, program officials shall regularly (at the
+direction of the CIO) update the agency CIO on their program to enable the CIO to
+mo

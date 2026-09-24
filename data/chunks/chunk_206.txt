@@ -1,0 +1,20 @@
+ecution. Each agency should closely and frequently examine the system’s
+audit logs and the types of assistance requested by the system’s users during this
+time to ensure that it operates properly and securely. Lastly, the appropriate agency
+should promptly document and address any security weaknesses or problems.
+6.2.3 Phase 3: Maintaining the Interconnection
+After the interconnection is established, the participating organizations must
+actively maintain it to ensure that it operates properly and securely. The following
+activities are recommended for maintaining the interconnection:
+• Maintain the equipment;
+• Manage user profiles;
+• Conduct security reviews;
+• Analyze audit logs;
+• Report and respond to security incidents;
+• Coordinate contingency planning activities;
+• Perform change management; and
+• Maintain system security plans.
+51
+CHAPTER 6 Interconnecting Systems
+6.2.4 Phase 4: Disconnecting the Interconnection
+Phase-out may either be planned or it may be an emergency. Organiza

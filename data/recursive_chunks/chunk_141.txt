@@ -1,0 +1,17 @@
+32 NIST SP 800-50, Building an Information Technology Security Awareness and Training Program, October
+2003.
+28
+CHAPTER 4 Awareness and Training
+plan is needed to identify stakeholders, types of information that is to be
+disseminated, channels for disseminating information, and the frequency of
+information exchanges. The plan also identifies whether the communications
+are one-way or two-way. Activities that support communication include:
+– Assessment (as is/to be models);
+– Strategic plan; and
+– Program implementation.
+• Outreach. Outreach is critical for leveraging best practices within the federal
+sector. It has two elements for intra- and interagency awareness. The intra-
+agency element promotes internal awareness of information security. A Web
+portal that provides a one-stop-shop for security information can be an
+effective outreach tool. Policy, frequently asked questions (FAQs), security e-
+newsletters, links to resources, and other useful information are easily

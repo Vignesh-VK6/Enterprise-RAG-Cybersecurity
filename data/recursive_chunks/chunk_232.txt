@@ -1,0 +1,13 @@
+COMMUNICATIONS
+
+Frequent formal communications are essential to ensure the successful management and
+operation of the interconnection. The parties agree to maintain open lines of communication
+between designated staff at both the managerial and technical levels. All communications
+described herein must be conducted in writing unless otherwise noted. The owners of System A
+and System B agree to designate and provide contact information for technical leads for their
+respective system, and to facilitate direct contacts between technical leads to support the
+management and operation of the interconnection. To safeguard the confidentiality, integrity, and
+54
+CHAPTER 6 Interconnecting Systems
+availability of the connected systems and the data they store, process, and transmit, the parties
+agree to provide notice of specific events within the time frames indicated below:

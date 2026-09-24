@@ -1,0 +1,16 @@
+ident has been handled, the organization should hold a lessons-
+learned meeting to review the effectiveness of the incident handling process and
+identify necessary improvements to existing security controls and practices.
+Lessons-learned meetings should also be held periodically for lesser incidents. The
+information accumulated from all lessons-learned meetings, as well as the data
+collected while handling each incident, should be used to identify systemic security
+weaknesses and deficiencies in policies and procedures. Follow-up reports generated
+for each resolved incident can be important for evidentiary purposes, used as a
+reference in handling future incidents, and used in training new incident response
+team members. An incident database, with detailed information on each incident
+that occurs, can be another valuable source of information for incident handlers.
+-------------------------------------------------
+Websites:
+
+United States Computer Emergency Response Team (US-CERT)
+http

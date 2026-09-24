@@ -1,0 +1,24 @@
+forts for
+security weaknesses found in
+programs and systems. The POA&M
+tracks the measures implemented to
+correct deficiencies and to reduce or
+eliminate known vulnerabilities.
+POA&Ms can also assist in identifying
+performance gaps, evaluating an
+agency’s security performance and
+efficiency, and conducting oversight.
+ Agency maintains separate program and system POA&Ms.
+ Weaknesses are listed according to OMB criteria, identified
+in annual OMB FISMA guidance.
+ System POA&Ms are tied to capital planning documents.
+ Number of ongoing POA&M actions is either constant or is
+increasing, while the number of completed POA&M actions
+is increasing and the number of delayed POA&M actions is
+decreasing.
+ Weaknesses do not reappear on the POA&M after being
+rectified and marked complete.
+ Managers use POA&Ms for their respective systems and
+programs as management tools for weakness mitigation.
+ POA&M is updated as weaknesses are closed and
+discovered, and therefore reflects the latest weakne

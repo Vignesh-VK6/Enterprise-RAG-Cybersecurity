@@ -1,0 +1,17 @@
+user accounts. For some incidents, eradication is either unnecessary or is performed
+during recovery. In recovery, administrators restore systems to normal operation
+and (if applicable) harden systems to prevent similar incidents. Recovery may
+involve such actions as:
+• Restoring systems from clean backups;
+• Rebuilding systems from scratch;
+• Replacing compromised files with clean versions;
+• Installing patches;
+• Changing passwords; and
+• Tightening network perimeter security (e.g., firewall rule sets).
+It is also often desirable to employ higher levels of system logging or network
+monitoring as part of the recovery process. Once a resource is successfully
+attacked, it is often attacked again, or other resources within the organization are
+attacked in a similar manner
+13.4 Post-Incident Activity
+After a major incident has been handled, the organization should hold a lessons-
+learned meeting to review the effectiveness of the incident handling process and

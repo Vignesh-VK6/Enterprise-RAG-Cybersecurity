@@ -1,0 +1,18 @@
+urity patches.
+Q. What should be evaluated during an impact analysis of the proposed
+change?
+A. During an impact analysis, one should look for the following:
+• Whether the change is viable and improves the performance or the security of
+the system;
+• Whether the change is technically correct, necessary, and feasible within the
+system constraints;
+• Whether system security will be affected by the change;
+• Whether associated costs for implementing the change were given
+consideration; and
+• Whether security components are affected by the change.
+Q. A change has just been implemented, is the job complete?
+A. No. The system should be continuously monitored to ensure that it is operating
+as intended and that changes that have been implemented do not have an
+adverse effect on the performance of the system. Configuration verification and
+audits should be performed during this step to ensure that the updates to the
+system have not adversely affected the system. Verification and audits consist 

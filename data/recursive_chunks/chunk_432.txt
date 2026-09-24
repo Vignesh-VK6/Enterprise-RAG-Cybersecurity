@@ -1,0 +1,15 @@
+112
+CHAPTER 12 Security Services and Products Acquisition
+Chapter 12
+12. Security Services and Products
+Acquisition
+Information security services and products are essential elements of an
+organization’s information security program. Many products and services to support
+an agency’s information security program for information systems are widely
+available in the marketplace today, and are frequently used by federal agencies.
+Security products and services should be selected and used within the organization’s
+overall program to manage the design, development, and maintenance of its
+information security infrastructure, and to protect its mission-critical information. In
+the acquisition of both, agencies should apply risk management principles to aide in
+the identification and mitigation of risks associated with the acquisition.
+In the acquisition of information security products, agencies are encouraged to

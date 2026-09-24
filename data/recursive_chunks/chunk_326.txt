@@ -1,0 +1,21 @@
+Figure 9-1. The Seven-Step IT Contingency Planning Process
+9.1 Step 1: Develop Contingency Planning Policy Statement
+When developing an IT contingency plan, the first step is to establish a
+contingency planning policy within the organization. This policy may exist at the
+department, agency, and/or program level of the organization. The statement should
+define the organization’s overall contingency objectives; identify leadership, roles
+and responsibilities, resource requirements, test, training, and exercise schedules;
+and develop maintenance schedules and determine the minimum required backup
+frequency.
+9.2 Step 2: Conduct Business Impact Analysis
+A business impact analysis
+(BIA) is a critical step to
+understanding the information
+systems components,
+interdependencies, and potential
+downtime impacts. Contingency
+plan strategy and procedures should be designed in consideration of the results of
+the BIA.
+A BIA is conducted by
+identifying the system’s critical
+resources. Each critical

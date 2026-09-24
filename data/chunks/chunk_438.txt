@@ -1,0 +1,15 @@
+3 Incident Response
+response process. The major phases of the incident response process—preparation,
+detection and analysis, containment/eradication/recovery, and post-incident activity,
+are described in detail throughout the rest of this chapter. Figure 13-1 illustrates the
+incident response life cycle.
+13.1 Preparation
+Incident preparation involves not only establishing an incident response capability
+so that the organization is ready to respond to incidents but also preventing incidents
+by ensuring that systems, networks, and applications are afforded sufficient security.
+Incident prevention is now considered a fundamental component of incident response
+programs, also known as incident management programs, although the incident
+response team is not typically responsible for it. The incident response team’s
+expertise should be used to establish recommendations for securing systems and
+preventing incidents, as much as possible. This section provides an overview of
+actions needed to pr

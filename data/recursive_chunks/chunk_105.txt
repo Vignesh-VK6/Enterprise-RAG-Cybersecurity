@@ -1,0 +1,7 @@
+19 See NIST Federal Information Processing Standard (FIPS) 199, Standards for Security Categorization of
+Federal Information and Information Systems; NIST SP 800-60, Guide for Mapping Types of Information
+and Information Systems to Security Categories; and NIST 800-37, (Guide for the Security Certification
+and Accreditation of Federal Information Systems); for additional guidance on security and the SDLC
+process.
+19
+CHAPTER 3 System Development Life Cycle

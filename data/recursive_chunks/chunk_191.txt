@@ -1,0 +1,7 @@
+prioritization may be used to facilitate the decision-making process.
+Figure 5-6 demonstrates an example of a corrective action prioritization
+visualization approach using notional data. From a system-level perspective, Figure
+5-6 plots system category along the vertical axis and corrective action impact along
+the horizontal axis. The notional agency systems are denoted as the small letters at
+the top of each quadrant. In this example, systems “N” and “F” were found to have
+category rankings of “high” and corrective action impacts of “great.”

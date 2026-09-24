@@ -1,0 +1,47 @@
+# Python virtual environments
+.venv/
+test312/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Environment / secrets
+.env
+.env.*
+!.env.example
+
+# Vector databases / generated indexes
+vector_db/
+*.index
+*.faiss
+*.pkl
+*.bin
+*.safetensors
+
+# Logs
+logs/
+*.log
+
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+# Large/generated project data
+data/uploads/
+data/semantic_chunks/
+data/test.txt
+
+# Original/private documents
+raw_documents/
+*.pdf
+
+# Test scripts
+test_gemini.py

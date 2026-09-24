@@ -1,0 +1,16 @@
+address the root cause of the problem.
+Root causes for faulty security run the gamut between highly technical
+misconfiguration issues to lack of training or outdated policies or practices. Below
+are examples of causation factors that contribute to poor security control
+implementation and effectiveness:
+• Resources—insufficien t human, monetary, or other resources;
+• Training—lack of appropriate training for the personnel installing, administering,
+maintaining, or using the systems;
+• System Upgrades—security patches that have been removed but not replaced
+during the operating system upgrades;
+• Configuration Management (CM) Practices—new or upgraded systems that are
+not configured with required security settings and patches;
+• Software Compatibility—security patches or upgrades that are incompatible
+with software applications supported by the system;
+• Awareness and Commitment—lack of management awareness and/or
+commitment to security;

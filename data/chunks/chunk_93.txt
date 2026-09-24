@@ -1,0 +1,26 @@
+ posture and the overall performance of the
+organization.
+-------------------------------------------------
+
+Websites:
+www.csrc.nist.gov
+www.gao.gov
+www.whitehouse.gov/omb/
+References:
+Public Law 107-347 [H.R. 2458], The E-Government Act of 2002, Title III of this Act
+is the Federal Information Security Management Act of 2002 (FISMA), December 17,
+2002.
+Office of Management and Budget Circular A-130, Management of Federal
+Information Resources, November 2000.
+
+18
+CHAPTER 3 System Development Life Cycle
+Chapter 3
+3. System Development Life Cycle
+The system development life cycle (SDLC) is the overall process of developing,
+implementing, and retiring information systems through a multistep process from
+initiation, analysis, design, implementation, and maintenance to disposal. There are
+many different SDLC models and methodologies, but each generally consists of a
+series of defined steps or phases.
+Various SDLC methodologies have been developed to guide the processes
+involved, and some me

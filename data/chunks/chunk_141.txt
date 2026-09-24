@@ -1,0 +1,15 @@
+schedules and
+completion requirements must be communicated.
+Once the plan for implementing the awareness and training program has been
+explained to (and accepted by) agency management, the implementation can begin.
+Since there are several ways to present and disseminate awareness and training
+material throughout an organization, agencies should tailor their implementation to
+the size, organization, and complexity of their enterprise.33
+4.4 Post-Implementation
+An organization’s information security awareness and training program can
+quickly become obsolete if sufficient attention is not paid to technology
+advancements, IT infrastructure changes, organizational changes, and shifts in
+organizational mission and priorities. CIOs and senior agency information security
+officers (SAISOs) need to be cognizant of this potential problem and incorporate
+mechanisms into their strategy to ensure that the program continues to be relevant
+and compliant with overall objectives. Continuous improvement 

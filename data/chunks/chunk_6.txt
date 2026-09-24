@@ -1,0 +1,21 @@
+elped craft the Handbook, prepare
+drafts, and review materials:
+
+Nadya Bartol of Booz, Allen, Hamiliton (BAH), served as Project Manager for BAH on
+this project. In addition, many BAH employees contributed to the Handbook, including:
+Anthony Brown, Linda Duncan, Gina Jamaldinian, Sedar Labarre, Ines Murphy, Steven
+Peck, Mike Kapetanovic, Michael Rohde, Jacob Tsizis, Aderonke Adeniji, and Marge
+Spanninger.
+
+The authors also gratefully acknowledge and appreciate the many contributions from individuals
+in the public and private sectors whose thoughtful and constructive comments improved the
+quality and usefulness of this publication.
+v
+
+Errata
+The following changes have been incorporated into Special Publication 800-100.
+1. Chapter 10 Risk Management, Figure 10-1. Risk Management in the System
+Security Life Cycle diagram has been modified to remove numbers from diagram
+and to show the steps clearly in the risk management process in the system security
+life cycle.
+2. Chapter 10 Risk Manage

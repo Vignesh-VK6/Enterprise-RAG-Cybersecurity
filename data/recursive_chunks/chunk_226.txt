@@ -1,0 +1,12 @@
+configuration. The decision to terminate the interconnection should be made by the
+system owner with the advice of appropriate management and technical staff. Before
+terminating the interconnection, the initiating party should provide written notice to
+the receiving party. In turn, the receiving party should acknowledge receipt of the
+notification. The notification should describe the reason(s) for the disconnection,
+provide the proposed timeline for the disconnection, and identify technical and
+management staff that will conduct the disconnection.
+The schedule for terminating the interconnection should permit a reasonable time
+period for internal business planning so both sides can make appropriate
+arrangements. In addition, staff from both organizations should coordinate to
+determine the logistics of the disconnection and the disposition of shared data,
+including purging and overwriting sensitive data. The disconnection should be

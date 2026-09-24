@@ -1,0 +1,17 @@
+B-20
+Appendix B Frequently Asked Questions
+B.8 Certification, Accreditation, and Security Assessments – Summary of
+Frequently Asked Questions
+Q. What is security certification?
+Q. What is security accreditation?
+Q. Are there any necessary activities to support security accreditation?
+Q. What are the phases of the certification and accreditation process?
+Q. What is included in a se curity accreditation package?
+Q. What is the Information Security Program Assessment Questionnaire?
+Q. Do all the 800-53 security controls need annual testing to satisfy the FISMA
+annual testing requirement?
+Q. What factors should be considered wh en using an automated system assessment
+reporting tool?
+Q. What key security-related activities should be completed before a system is
+assessed?
+Q. Can the System Reporting Form be customized by the organization?

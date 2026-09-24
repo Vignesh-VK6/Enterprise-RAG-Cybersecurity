@@ -1,0 +1,14 @@
+applications or databases. Still other organizations may establish an interconnection
+that permits full transparency and access across their respective enterprises.
+Interconnecting information systems can expose the participating organizations
+to risk. If the interconnection is not properly designed, security failures could
+compromise the connected systems and their data. Similarly, if one of the connected
+systems is compromised, the interconnection could be used as a conduit to
+compromise the other system and its data.
+Federal policy requires that federal agencies establish interconnection security
+agreements. Specifically, Office of Management and Budget (OMB) Circular A-130,
+Appendix III, requires that agencies obtain written management authority before
+connecting their information systems to other systems, based on a mutually
+acceptable level of risk. National Institute of Standards and Technology (NIST)
+46
+CHAPTER 6 Interconnecting Systems

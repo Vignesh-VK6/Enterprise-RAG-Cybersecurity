@@ -1,0 +1,16 @@
+ontrols from the low baseline of security controls defined in NIST SP
+800-53 and must ensure that the minimum assurance requirements associated
+with the low baseline are satisfied.
+• For moderate-impact information systems, an agency must, at a minimum,
+employ the security controls from the moderate baseline of security controls
+defined in NIST SP 800-53 and must ensure that the minimum assurance
+requirements associated with the moderate baseline are satisfied.
+• For high-impact information systems, an agency must, at a minimum, use the
+security controls from the high baseline of security controls defined in NIST SP
+800-53 and must ensure that the minimum assurance requirements associated
+with the high baseline are satisfied.
+
+62 OMB Circular A-130, Appendix III, defines adequate security as security comm ensurate with the risk
+and the magnitude of harm resulting from the loss, misuse, or unauthorized access to or modification of
+information.
+63 Security categorization must be accompli

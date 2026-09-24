@@ -1,0 +1,14 @@
+assume that all risk will be eliminated and the remaining residual risk should be
+analyzed to ensure that it is at an acceptable level. For federal agencies, after
+the appropriate controls have been put in place for the identified risks, the
+authorizing official will sign a statement accepting any residual risk and authorize
+the operation of the new information system or the continued processing of the
+existing information system. If the residual risk has not been reduced to an
+acceptable level, the risk management cycle must be repeated to identify a way
+of lowering the residual risk to an acceptable level.
+Q. What is the formal definition of risk?
+A. National Institute of Standards and Technology (NIST) Special Publication (SP)
+800-30, Risk Management Guide for Information Technology Systems, defines
+risk as, “a function of the likelihood of a given threat-source’s exercising a
+particular potential vulnerability, and the resulting impact of that adverse event
+on the organization.”

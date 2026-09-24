@@ -1,0 +1,33 @@
+President’s Management Agenda
+POA&M Plan of Action and Milestones
+POC Point of Contact
+PRA Paperwork Reduction Act
+PRISMA Program Review for Information Security Management Assistance
+PRM Performance Reference Model
+PY Prior Year
+RTO Recovery Time Objective
+SAISO Senior Agency Information Security Officer
+A-2
+Appendix A Acronyms List
+SANS SysAdmin, Audit, Network, Security
+SDLC System Development Life Cycle
+SLA Service-Level Agreement
+SOP Standard Operating Procedure
+SP Special Publication
+SPP Security and Privacy Profile
+SRM Service Component Reference Model
+ST&E Security, Test, and Evaluation
+TRM Technical Reference Model
+U.S. United States
+U.S.C. United States Code
+UPS Uninterruptible Power Supply
+US-CERT United States Computer Emergency Readiness Team
+VPN Virtual Private Network
+WAN Wide Area Network
+
+A-3
+Appendix B Frequently Asked Questions
+Appendix B – Frequently Asked
+Questions
+B.1 Awareness and Training – Summary of FAQs
+Q. Why is a thorough awareness and traini ng program vit

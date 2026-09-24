@@ -1,0 +1,15 @@
+ Figure 3-1, to ensure the selection, acquisition, and
+use of appropriate and cost-effective security controls.19
+3.1 Initiation Phase
+All information technology (IT) projects have a starting point, what is commonly
+referred to as the initiation phase. During the initiation phase, the organization
+establishes the need for a particular system and documents its purpose. The
+information to be processed, transmitted, or stored is typically evaluated, as well as
+who is required access to such information and how (in high-level terms). In
+addition, it is often determined whether the project will be an independent
+information system or a component of an already-defined system. A preliminary risk
+assessment is typically conducted in this phase, and security planning documents are
+initiated (system security plan).
+
+19 See NIST Federal Information Processing Standard (FIPS) 199, Standards for Security Categorization of
+Federal Information and Information Systems; NIST SP 800-60, Guide for Mappin

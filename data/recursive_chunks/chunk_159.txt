@@ -1,0 +1,16 @@
+and/or implementation of awareness and training material. Finally, as security
+policies evolve, awareness and training material should reflect these changes.
+4.6 Program Success Indicators
+CIOs, program officials, and SAISOs should be primary advocates for awareness,
+training, education, and professionalization. Securing an organization’s information
+and infrastructure is a team effort, requiring the dedication of capable individuals to
+carry out their assigned security roles within the organization. Listed below are
+some key indicators to gauge the support for, and acceptance of, the program:
+• Key stakeholder demonstrates commitment and support;
+• Sufficient funding is budgeted and available to implement the agreed-upon
+awareness and training strategy;
+• Appropriate organizational placement of senior officials with key security
+responsibilities (CIO, program officials, and SAISO) facilitates strategy
+implementation;
+33
+CHAPTER 4 Awareness and Training

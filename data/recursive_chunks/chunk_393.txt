@@ -1,0 +1,17 @@
+in relation to security certification and accreditation:
+98
+Chapter 11 Certification, Accreditation, and Security Assessments
+• Develop and maintain the system security plan;
+• Ensure system is deployed and operated according to the agreed-upon security
+requirements;
+• Authorize user access to the information system (and with what types of
+privileges or access rights);
+• Ensure system users and support personnel receive the requisite security
+training (e.g., instruction in rules of behavior);
+• Inform key agency officials of the need to conduct a security certification and
+accreditation of the information system;
+• Ensure appropriate resources are available for the security certification and
+accreditation effort;
+• Provide necessary system-related documentation to the certification agent;
+• Take appropriate steps to reduce or eliminate system vulnerabilities identified
+in the security certification and accreditation process; and

@@ -1,0 +1,16 @@
+ and Training
+• Infrastructure to support broad distribution (e.g., Web, e-mail, learning
+management systems) and posting of security awareness and training
+materials is funded and implemented;
+• Executive/senior-level officials deliver messages to staff regarding security
+(e.g., staff meetings, broadcasts to all users by agency head), champion the
+program, and demonstrate support for training by committing financial
+resources to the program;
+• Metrics indicate improved security performance by the workforce (e.g., to
+explain a decline in security incidents or violations, indicate that the gap
+between existing awareness and training coverage and identified needs is
+shrinking, the percentage of users being exposed to awareness material is
+increasing, the percentage of users with significant security responsibilities
+being appropriately trained is increasing);
+• Executives and managers do not use their status in the organization to avoid
+security controls that are consistently adhered to 

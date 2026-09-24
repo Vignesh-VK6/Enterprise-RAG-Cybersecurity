@@ -1,0 +1,19 @@
+thin the
+system constraints;
+• Whether system security will be affected by the change;
+• Whether associated costs for implementing the change were considered; and
+• Whether security components are affected by the change.
+Step 3: Implementation Decision
+Once the change has been evaluated and tested, one of the following actions
+should be taken:
+• Approve. Implementation is authorized and may occur at any time after the
+appropriate authorization signature has been documented.
+• Deny. Immediate denial of the request regardless of circumstances and
+information provided.
+• Defer. Immediate decision is postponed until further notice. In this situation,
+additional testing or analysis may be needed before a final decision can be
+made.
+Step 4: Implement Approved Change Request
+Once the decision to implement the change has been made, it should be moved
+from the test environment into production. If required, the personnel updating the
+production environment should be separate from those individua

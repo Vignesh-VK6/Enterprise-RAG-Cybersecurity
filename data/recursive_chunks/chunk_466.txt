@@ -1,0 +1,9 @@
+by reviewing the relevant vulnerabilities for a
+product?
+Known vulnerabilities for many products
+can be found using the NIST National
+Vulnerability Database (NVD)
+(http://nvd.nist.gov) (formerly known as
+I-CAT)
+Product  Have all relevant patches been tested and
+implemented?

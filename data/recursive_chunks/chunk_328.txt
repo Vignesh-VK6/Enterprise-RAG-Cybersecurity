@@ -1,0 +1,17 @@
+access, e-mail, and an e-mail server..
+BIA Resource Impact Example
+LAN disruption to the time and attendance reporting system
+for 8 hours may create a delay in time sheet processing.
+79
+BIA Recovery Time Objective Example
+The LAN server must be recovered within 8 hours to avoid a
+delay in time sheet processing.
+CHAPTER 9 Contingency Planning
+can be without the critical resource then provides a recourse recovery priority around
+which an organization can plan recovery activities. The balancing point between the
+MAO and the cost to recover establishes the information system’s recovery time
+objective (RTO). Recovery strategies must be created to meet the RTO.
+The strategy must also address recovering information system critical
+components within a priority, as established by their individual RTOs.
+9.3 Step 3: Identify Preventive Controls
+In some cases, implementing preventive controls might mitigate outage impacts

@@ -1,0 +1,11 @@
+Having selected choices for each component of the recovery strategy, the final
+consideration should be given to cost. The recovery strategy must meet criticality,
+availability, and RTO requirements while remaining within budget. Less obvious
+costs—such as shipping, awareness programs, tests and exercises, travel, labor
+hours, and contracted services—must also be incorporated into the evaluation.
+9.5 Step 5: Develop IT Contingency Plan
+Procedures for executing the recovery strategy are outlined in the IT contingency
+plan. The plan must be written in a format that will provide the users (recovery
+team leadership and members) the context in which the plan is to be implemented
+and the direct procedures, based on role, to execute. IT contingency plans are
+constructed using five components as depicted in Figure 9-2.

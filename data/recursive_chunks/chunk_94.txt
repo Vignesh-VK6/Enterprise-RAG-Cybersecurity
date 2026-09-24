@@ -1,0 +1,22 @@
+Incident statistics are valuable in
+determining the effectiveness of
+security policies and procedures
+implementation. Incident statistics
+provide security program managers
+with further insights into the status of
+security programs under their purview,
+observe program activities
+performance trends, and inform
+program managers about the needs to
+change policies and procedures.
+ Agency collects incident statistics in such a manner that
+they can be used for regular data mining and information
+trending and for improving incident handling and response
+processes.
+ Incident statistical informat ion is summarized and provided
+to information security program managers.
+ Incident statistics are mined for trends and correlated with
+other data sources, including network monitoring, POA&M,
+CM, training and awareness, and other available sources.
+ Information security managers and system owners are able
+to receive and use incident statistics to assess security

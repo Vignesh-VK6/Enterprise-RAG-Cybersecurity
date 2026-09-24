@@ -1,0 +1,16 @@
+y
+nongovernmental organizations on a voluntary basis and is not subject to copyright regulations.
+(Attribution would be appreciated by NIST.)
+Nothing in this document should be taken to contradict standards and guidelines made
+mandatory and binding on federal agencies by the Secretary of Commerce under statutory
+authority. Nor should these guidelines be interpreted as altering or superseding the existing
+authorities of the Secretary of Commerce, Director of the OMB, or any other federal official.
+
+Certain commercial entities, equipment, or materials may be identified in this document in order
+to describe an experimental procedure or concept adequately. Such identification is not intended
+to imply recommendation or endorsement by NIST, nor is it intended to imply that the entities,
+materials, or equipment are necessarily the best available for the purpose.
+
+Acknowledgements
+NIST would like to thank the many people who assisted with the development of this handbook.
+NIST management offic

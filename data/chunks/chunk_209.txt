@@ -1,0 +1,14 @@
+ or both organizations detect an attack, intrusion attempt, or other
+contingency that exploits or jeopardizes the connected systems or their data, it
+might be necessary to abruptly terminate the interconnection without providing
+written notice to the other party. This extraordinary measure should be taken only
+in extreme circumstances and only after consultation with appropriate technical staff
+and senior management.
+The decision to make the emergency disconnection should be made by the
+system owner (or a designated staff member) and implemented by technical staff.
+The system owner or designee should immediately notify the other party verbally
+and receive confirmation of the notification. Both parties should work together to
+isolate and investigate the incident, in accordance with incident response procedures.
+If necessary, law enforcement authorities should be notified, and evidence should be
+preserved.
+The initiating party should provide a written notification to the other party in a

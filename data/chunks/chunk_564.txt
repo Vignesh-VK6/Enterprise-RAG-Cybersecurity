@@ -1,0 +1,16 @@
+ and concerns normally addressed by
+management in the organization’s computer security program. They focus on
+managing the computer security program and the risk within the organization.
+B-24
+Appendix B Frequently Asked Questions
+• Operational Services are focused on controls implemented and executed by
+people (as opposed to systems). They often require technical or specialized
+expertise and rely on management activities and technical controls.
+• Technical Services are focused on the security controls an information system
+executes. These services are dependent on the proper function of the system
+for effectiveness.
+Q. What is an organizational conflict of interest (OCI)?
+A. An OCI may exist when a party to an agreement has a past, present, or future
+interest related to the work performed (or to be performed), which may diminish
+the capacity to provide impartial, technically sound, objective service, or results
+in an unfair competitive advantage. Of course, it is best to avoid organiza

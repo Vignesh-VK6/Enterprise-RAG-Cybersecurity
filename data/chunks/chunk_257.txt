@@ -1,0 +1,16 @@
+al Information Systems, which provides a
+Systems Security Plan Template in Appendix A of the document. The guidance below
+provides basic information on how to prepare a system security plan in accordance
+with applicable federal requirements, and it is easily adaptable to a variety of
+organizational structures.
+8.1 Major Applications, General Support Systems, and Minor Applications
+All information systems must be covered by a system security plan and labeled
+as a major application (MA)50
+or general support system (GSS).51 Specific system
+
+49 See NIST Publication 800-64, Security Considerations in the Information System Development Life
+Cycle, and Chapter 3, System Development Life Cycle, of this guide for additional guidance on the
+SDLC.
+50 Office of Management and Budget (OMB) Circular A- 130, Appendix III, defines major application as an
+application that requires special attention to security due to the risk and magnitude of harm resulting
+from the loss, misuse, or unauthorized access

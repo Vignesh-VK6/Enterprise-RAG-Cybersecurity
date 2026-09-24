@@ -1,0 +1,18 @@
+eral Information Processing Standard 200, Minimum Security Requirements for
+Federal Information and Information Systems, March 2006.
+National Institute of Standards and Technology Special Publication 800-53A, Guide
+for Assessing the Security Controls in Federal Information Systems (draft), April
+2006
+National Institute of Standards and Technology Special Publication 800-30, Risk
+Management Guide for Information Technology Systems, July 2002.
+National Institute of Standards and Technology Special Publication 800-37, Guide for
+the Security Certification and Accreditation of Federal Information Systems, May
+2004.
+National Institute of Standards and Technology Special Publication 800-53, Revision
+1, Recommended Security Controls for Federal Information System, February 2006.
+
+69 See Chapter 14, Configuration Management, of this guide for additional guidance on configuration
+management.
+94
+CHAPTER 10 Risk Management
+National Institute of Standards and Technology Special Publication 800-60, 

@@ -1,0 +1,26 @@
+AUTHORITY The authority for this agreement is based on "Proclamation A" issued by the
+Agency Head on (date).
+
+BACKGROUND It is the intent of both parties to this agreement to interconnect the following
+information technology (IT) systems to exchange data between "ABC database" and "XYZ
+database." Organization A requires the use of Organization B's ABC database, and Organization
+B requires the use of Organization A's XYZ database, as approved and directed by the Agency
+Head in Proclamation A. The expected benefit of the interconnection is to expedite the processing
+of data associated with "Project R" within prescribed timelines. Each information system is
+described below:
+
+SYSTEM A
+– Name
+– Function
+– Location
+– Description of data, including sensitivity or classification level and security categorization/impact
+level
+
+SYSTEM B
+– Name
+– Function
+– Location
+– Description of data, including sensitivity or classification level and security categorization/impact
+level
+
+COMMUNICATIONS

@@ -1,0 +1,16 @@
+requirements throughout the life cycle of each agency information system to
+ensure compliance with applicable requirements;
+• Facilitating development of subordinate plans for providing adequate
+information security for networks, facilities, and systems or groups of
+information systems;
+• Ensuring that agency personnel, including contractors, receive appropriate
+information security awareness training;
+• Training and overseeing personnel with significant responsibilities for
+information security with respect to such responsibilities;
+• Periodically testing and evaluating the effectiveness of information security
+policies, procedures, and practices;
+• Establishing and maintaining a process for planning, implementing, evaluating,
+and documenting remedial action to address any deficiencies in the information
+security policies, procedures, and practices of the agency;
+• Developing and implementing procedures for detecting, reporting, and
+responding to security incidents;

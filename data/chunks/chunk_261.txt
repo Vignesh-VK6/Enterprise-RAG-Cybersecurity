@@ -1,0 +1,16 @@
+s section are specific to information system
+security planning. Recognizing that agencies have widely varying missions and
+organizational structures, there may be differences in naming conventions for
+security planning-related roles and how the associated responsibilities are allocated
+among agency personnel (e.g., multiple individuals filling a single role or one
+individual filling multiple roles).54,55
+8.2.1 Chief Information Officer
+The chief information officer (CIO)56 is the agency official responsible for
+developing and maintaining an agency-wide information security program and has
+the following system security planning responsibilities:
+
+52 NIST SP 800-37 defines a minor application as an application, other than major application, that
+requires attention to security due to the risk and magnitude of harm resulting from the loss, misuse, or
+unauthorized access to or modification of the information in the application. Minor applications are
+typically included as part of a GSS.
+53 

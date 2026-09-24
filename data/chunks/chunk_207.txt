@@ -1,0 +1,17 @@
+agement; and
+• Maintain system security plans.
+51
+CHAPTER 6 Interconnecting Systems
+6.2.4 Phase 4: Disconnecting the Interconnection
+Phase-out may either be planned or it may be an emergency. Organizations may
+wish to restore some of the disconnections but not others.
+6.3 Terminating Interconnection
+An organization might have a variety of reasons to terminate an interconnection,
+for instance, changed business needs, cost considerations, or changes in system
+configuration. The decision to terminate the interconnection should be made by the
+system owner with the advice of appropriate management and technical staff. Before
+terminating the interconnection, the initiating party should provide written notice to
+the receiving party. In turn, the receiving party should acknowledge receipt of the
+notification. The notification should describe the reason(s) for the disconnection,
+provide the proposed timeline for the disconnection, and identify technical and
+management staff that will conduct th

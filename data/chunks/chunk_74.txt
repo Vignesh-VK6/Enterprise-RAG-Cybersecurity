@@ -1,0 +1,13 @@
+y implement specific
+controls across the enterprise should be developed to augment an agency’s security
+policy. This subsequent guidance on information security, created by the agency, in
+consideration of external guidance (e.g. NIST Special Publications and OMB
+memoranda), should be consistent with the information security policy and may not
+supersede it, unless the policy itself is being modified. Agencies should ensure that
+their information security policy is sufficiently current to accommodate the
+information security environment and agency mission and operational requirements.
+To ensure that information security does not become obsolete, agencies should
+implement a policy review and revision cycle. As a part of the periodic review and
+the initial development of the information security policies, agencies should work to
+ensure that all internal security policies (i.e., physical and personnel) are sufficiently
+coordinated to ensure effective implementation of crosscutting and conve

@@ -1,0 +1,19 @@
+em may require more
+than one authorizing official. If so,
+agreements should be established
+among the authorizing officials and
+documented in the system security
+plan. In most cases, it may be
+advantageous to agree to elect a lead authorizing official to represent the interests of
+the other authorizing officials. The authorizing official has inherent U.S. government
+authority and, as such, must be a government employee. The authorizing official
+has the following responsibilities in relation to security certification and accreditation:
+Authorizing Official’s Designated Representative
+The Authorizing Official’s Designated Representative can
+be empowered to act on behalf of the authorizing official
+in all C&A activities for which the authorizing official is
+responsible with the following exceptions: 1) rendering
+the system security accreditation decision, and 2) signing
+the system security accreditation decision letter.
+• Oversee the budget and business operations of the system;
+• Approve 

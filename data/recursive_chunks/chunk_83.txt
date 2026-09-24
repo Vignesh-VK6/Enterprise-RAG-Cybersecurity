@@ -1,0 +1,9 @@
+monitoring of information security program activities. Ongoing monitoring combines
+the use of existing data to oversee a security program, and typically occurs
+throughout all phases of the program life cycle. Agencies can use a variety of data
+originating from the ongoing information security program activities to monitor
+performance of programs under their purview, including POA&Ms, performance
+measurements and metrics, continuous assessment, configuration management and
+control, network monitoring, and incident statistics.
+Table 2-1 provides a broad overview of key ongoing activities that can assist in
+monitoring and improving an agency’s information governance activities.

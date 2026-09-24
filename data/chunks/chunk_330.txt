@@ -1,0 +1,14 @@
+on’s mission using tools such as mission-impact reports, asset
+criticality assessment reports, and business impact analyses results in a rating
+describing the estimated impact to the system and organization should a threat
+successfully exploit a vulnerability. While impact can be described using either a
+quantitative or qualitative approach, in the context of IT systems and data, impact is
+generally described in qualitative terms. As with the ratings used to describe
+likelihood, impact levels are described using the terms of high, moderate, and low.
+NIST SP 800-30 provides definitions for the impact ratings of low, medium, and high.
+10.1.4.4 Risk Determination
+Once the ratings for likelihood and impact have been determined through
+appropriate analyses, the level of risk to the system and the organization can be
+derived by multiplying the ratings assigned for threat likelihood (e.g., probability)
+and threat impact. Table 10-1 shows how to calculate an overall risk rating using
+inputs fr

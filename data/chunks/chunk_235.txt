@@ -1,0 +1,17 @@
+may prove to
+have an impact by showing that fewer interruptions or losses of data due to
+security incidents are experienced among correctly accredited systems than
+among incorrectly accredited or nonaccredited systems.
+
+46 See NIST SP 800-65, Integrating Security into the Capital Planning and Investment Control Process, and
+Chapter 5, Capital Planning, of this guide for additional guidance on business case development.
+60
+CHAPTER 7 Performance Measures
+7.2 Metrics Development and Implementation Approach
+Two processes guide the establishment and operation of an information security
+metrics program: metrics development and metrics implementation. The metrics
+development process establishes the initial set of metrics and selection of the metrics
+subset appropriate for an organization at a given time. The metrics program
+implementation process operates a metrics program that is iterative by nature and
+ensures that appropriate aspects of information security are measured for a specific
+time

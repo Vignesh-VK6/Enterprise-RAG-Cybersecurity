@@ -1,0 +1,17 @@
+system should capture this data at an
+agency level, so it can be used to provide enterprise-wide analysis and reporting
+regarding awareness, training, and education initiatives.
+Tracking compliance involves assessing the status of the program as indicated by
+the database information and mapping it to standards established by the agency.
+Reports can be generated and used to identify gaps or problems. Corrective action
+and necessary follow-up can then be taken. This follow-up may take the form of
+formal reminders to management; additional awareness, training, or education
+offerings; and/or the establishment of a corrective plan with scheduled completion
+dates.
+
+33 See NIST SP 800-50 for techniques for delivering awareness and training material.
+34 See NIST SP 800-55, Security Metrics Guide for Information Technology Systems, and Chapter 7,
+Performance Measures, of this guide for additional guidance on measurements and metrics.
+32
+CHAPTER 4 Awareness and Training
+4.4.2 Evaluation and Feed

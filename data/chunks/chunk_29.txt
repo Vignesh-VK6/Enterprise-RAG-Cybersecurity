@@ -1,0 +1,15 @@
+s requirements.
+1.1 Purpose and Applicability
+The purpose of this publication is to inform members of the information security
+management team (agency heads; chief information officers [CIOs]; senior agency
+information security officers [SAISOs], also commonly referred to as Chief
+Information Security Officers [CISOs]; and security managers) about various aspects
+of information security that they will be expected to implement and oversee in their
+respective organizations. In addition, the handbook provides guidance for facilitating
+a more consistent approach to information security programs across the federal
+government. Even though the terminology in this document is geared toward the
+federal sector, the handbook can also be used to provide guidance on a variety of
+other governmental, organizational, or institutional security requirements.
+1.2 Relationship to Existing Guidance
+This handbook summarizes and augments a number of existing NIST standards
+and guidance documents and provides

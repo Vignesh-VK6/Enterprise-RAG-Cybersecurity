@@ -1,0 +1,17 @@
+cy analyses and identify duplicative
+12
+CHAPTER 2 Information Security Governance
+investments, gaps, and opportunities for collaboration within and across federal
+agencies.10 FEA facilitates identification of duplicative or wasteful investments, areas
+where investments should be made, and where departments and agencies can
+collaborate to improve government operations or services.
+The FEA consists of five reference models:
+• The Performance Reference Model (PRM) is a common framework for
+performance measurement that can be applied throughout the FEA.
+• The Business Reference Model (BRM) is a function-driven framework for
+describing the business operations of the federal government independent of
+the agencies.
+• The Service Component Reference Model (SRM) is a business- and
+performance-driven functional framework that classifies service components
+with respect to how they support business and/or performance objectives.
+• The Data and Information Reference Model (DRM) describes, at an agg

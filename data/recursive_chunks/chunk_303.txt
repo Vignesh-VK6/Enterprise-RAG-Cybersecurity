@@ -1,0 +1,12 @@
+compensating controls provide an equivalent security capability or level of protection
+for the information system, and (3) the agency assesses and formally accepts the
+risk associated with using the compensating controls in the information system. The
+use of compensating security controls must be reviewed, documented in the system
+security plan, and approved by the authorizing official for the information system.
+8.4.5 Common Security Controls
+An agency-wide view of the information security program facilitates the
+identification of common security controls that can be applied to one or more agency
+information systems. Common security controls can apply to (1) all agency
+information systems; (2) a group of information systems at a specific site
+(sometimes associated with the term site certification/accreditation); or (3) common
+information systems, subsystems, or applications (i.e., common hardware, software,

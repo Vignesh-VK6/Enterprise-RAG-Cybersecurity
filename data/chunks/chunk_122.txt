@@ -1,0 +1,14 @@
+ty awareness
+and training program as part of the overall information security program is the
+primary conduit for providing the workforce with the information and tools needed to
+protect an agency’s vital information resources. These programs will ensure that
+personnel at all levels of the organization understand their information security
+responsibilities to properly use and protect the information and resources entrusted
+to them. Agencies that continually train their workforce in organizational security
+policy and role-based security responsibilities will have a higher rate of success in
+protecting information.
+As cited in audit reports, periodicals, and conference presentations, people are
+arguably the weakest element in the security formula that is used to secure systems
+and networks. The people factor, not technology, is a critical factor that is often
+overlooked in the security equation. It is for this reason that the Federal Information
+Security Management Act (FISMA) and the Off

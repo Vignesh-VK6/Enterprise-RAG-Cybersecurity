@@ -1,0 +1,17 @@
+w the security controls for the
+interconnection at least annually or whenever a significant change occurs to
+ensure that they are operating properly and are providing appropriate levels of
+protection.
+Q. What criteria should the organizations use to establish a baseline of
+minimum-security controls that must be implemented on each of the
+interconnecting systems?
+A. The security controls of the interconnected systems should be evaluated and
+meet the standards of the management, operational, and technical controls of
+the highest classification between the two in accordance with NIST SP 800-53,
+Revision 1, Recommended Security Controls for Federal Information Systems.
+B-10
+Appendix B Frequently Asked Questions
+Q. Do organizations need to up date a system security plan?
+A. Yes. Both organizations should update their system security plans and other
+relevant documentation at least annually or whenever there is a significant
+change to their information systems or to the interconnection. Refer

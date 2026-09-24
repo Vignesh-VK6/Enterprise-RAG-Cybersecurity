@@ -1,0 +1,15 @@
+ges. A change in the organizational mission and/or objectives will influence
+ideas on how best to design training solutions and content. Emerging issues, such
+as homeland defense, will also impact the nature and extent of professional
+development activities that will be necessary to keep users informed/educated
+about the latest threats, vulnerabilities, and countermeasures. Finally, as security
+policies evolve, awareness and training material should reflect these changes.
+B-2
+Appendix B Frequently Asked Questions
+Q. What is role-based training?
+A. Individuals need security training based on their particular job functions. Over
+time, individuals acquire different roles relative to the use of IT within an
+organization or as they make a career move to a different organization.
+Sometimes they will be users of applications, in other instances they may be
+involved in developing a new system, and in some situations, they may serve on
+a source selection board to evaluate vendor proposals for I

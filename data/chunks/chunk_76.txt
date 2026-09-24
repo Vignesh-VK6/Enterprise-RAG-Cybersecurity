@@ -1,0 +1,14 @@
+2 Information Security Governance
+Over time, policies and procedures may become inadequate because of changes
+in agency mission and operational requirements, threats, environment, deterioration
+in the degree of compliance, changes in technology or infrastructure, or business
+processes. Periodic assessments and reports on activities can be a valuable means of
+identifying areas of noncompliance, reminding users of their responsibilities and
+demonstrating management's commitment to the security program. While an
+organization’s mission does not frequently change, the agency may expand its
+mission to secure agency programs and assets and, by extension, require
+modification to its information security requirements and practices. It is important
+that a change in an organization’s internal requirements is checked against external
+federal requirements as, for example, a change to an information system’s security
+posture may alter its subsequent reporting requirements.
+To facilitate ongoing moni

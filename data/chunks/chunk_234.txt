@@ -1,0 +1,15 @@
+ system change. One might measure the
+efficiency of a security certification and accreditation program by determining
+the time lag between each major system change and that system’s renewed
+accreditation. Or one might measure the effectiveness of a security
+certification and accreditation program by determining the number of
+accredited systems whose certification process included the creation of a
+system security plan.
+• “What impact are those tasks having on the mission?” Activities are initially
+selected with the belief that they will contribute to the mission. After an
+activity is shown to be fully implemented, managers must validate that the
+activity is delivering the expected benefit. These metrics are the most difficult
+to generate. A security certification and accreditation process may prove to
+have an impact by showing that fewer interruptions or losses of data due to
+security incidents are experienced among correctly accredited systems than
+among incorrectly accredited or nona

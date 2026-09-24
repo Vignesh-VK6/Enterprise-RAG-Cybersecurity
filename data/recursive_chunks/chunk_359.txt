@@ -1,0 +1,14 @@
+controls extracted from NIST SP 800-53. The results are used to strengthen the
+determination of the likelihood that a specific threat might successfully exploit a
+particular vulnerability.
+88
+CHAPTER 10 Risk Management
+10.1.4.2 Likelihood Determination
+Likelihood determination considers a threat source’s motivation and capability to
+exploit a vulnerability, the nature of the vulnerability, the existence of security
+controls, and the effectiveness of mitigating security controls. Likelihood ratings are
+described in the qualitative terms of high, moderate, and low, and are used to
+describe how likely is a successful exploitation of a vulnerability by a given threat.
+For example, if a threat is highly motivated and sufficiently capable, and controls
+implemented to protect the vulnerability are ineffective, then it is highly likely that
+the attack would be successful. In this scenario, the appropriate likelihood rating

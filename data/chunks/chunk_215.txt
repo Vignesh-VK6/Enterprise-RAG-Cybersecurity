@@ -1,0 +1,15 @@
+ity of the connected systems and the data they store, process, and transmit, the parties
+agree to provide notice of specific events within the time frames indicated below:
+
+Security Incidents: Technical staff will immediately notify their designated counterparts by
+telephone or e-mail when a security incident(s) is detected, so the other party may take steps to
+determine whether its system has been compromised and to take appropriate security
+precautions. The system owner will receive formal notification in writing within five (5) business
+days after detection of the incident(s).
+
+Disasters and Other Contingencies: Technical staff will immediately notify their designated
+counterparts by telephone or e-mail in the event of a disaster or other contingency that disrupts
+the normal operation of one or both of the connected systems.
+
+Material Changes to System Configuration: Planned technical changes to the system
+architecture will be reported to technical staff before such changes are impl

@@ -1,0 +1,17 @@
+
+who requires a broad overview of information security practices.
+1
+CHAPTER 2 Information Security Governance
+Chapter 2
+2. Information Security Governance
+Federal agencies rely heavily on information technology (IT) to run their daily
+operations and deliver products and services. With an increasing reliability on IT, a
+growing complexity of federal government IT infrastructure, and a constantly
+changing information security threat and risk environment, information security has
+become a mission-essential function. This function must be managed and governed
+to reduce the risks to federal government operations and to ensure the federal
+government’s ability to do business and serve the American public.
+The purpose of information security governance is to ensure that agencies are
+proactively implementing appropriate information security controls to support their
+mission in a cost-effective manner, while managing evolving information security
+risks. As such, information security governance h

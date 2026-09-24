@@ -1,0 +1,17 @@
+Q. Why is a thorough awareness and training program vital to a security
+program?
+A. The workforce is the largest component of the information security solution. It
+comprises the resources that:
+• Develop policy and procedures;
+• Design and develop applications and systems;
+• Implement and monitor security controls;
+• Ensure regulatory compliance;
+• Manage mission and business objectives; and
+• Use the information.
+In terms of the total security solution, the importance of the workforce in
+achieving information security goals and the importance of training as a
+countermeasure cannot be overstated. Establishing and maintaining a robust and
+relevant information security awareness and training program, as part of the
+overall information security program, is the primary conduit for providing the
+workforce with the information and tools needed to protect an agency’s vital
+information resources. Agencies that continually train their workforce in

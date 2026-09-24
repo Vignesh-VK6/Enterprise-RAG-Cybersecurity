@@ -1,0 +1,14 @@
+d speaking skills are important as well. Most
+incident response teams have a team manager and a deputy team manager
+who assumes authority in the absence of the team manager. In addition, some
+teams also have a technical lead who assumes oversight of and final
+responsibility for the quality of the technical work performed by the entire
+incident response team. Also, larger teams often assign an incident lead as the
+primary POC for handling a specific incident.
+Organizations typically find it challenging to maintain situational awareness for
+handling large-scale incidents because of their complexity. Many people within the
+organization may play a role in the incident response, and the organization may need
+to communicate rapidly and efficiently with various external groups. Collecting,
+organizing, and analyzing all the pieces of information so that the right decisions can
+be made and executed are not easy tasks. The key to maintaining situational
+awareness is to prepare thoroughly to hand

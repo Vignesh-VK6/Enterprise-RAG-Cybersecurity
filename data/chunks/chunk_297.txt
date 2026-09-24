@@ -1,0 +1,14 @@
+mation system design concept during the Initiation phase. Recovery strategies
+should be built into the GSS or MA’s architecture during the Development phase. The
+contingency processes should be tested and maintained during the Implementation
+phase; contingency plans should be exercised and maintained during the
+Operations/Maintenance phase. When the information system has reached the
+Disposal phase, the legacy system should remain intact and operational as a
+contingency to the replaced information system until, at least, the new system has
+been sufficiently tested. At some point, the legacy system may no longer support
+the needs of the organization, and the recovery strategy may transition away from
+the legacy system to a new recovery strategy designed during the Development
+phase of the new system.
+
+64 All departments and agencies must have IT contingency plans for certified and accredited systems and
+must also have an organizational Continuity of Operations (COOP) plan for essential 

@@ -1,0 +1,14 @@
+investments, the agency can begin the prioritizing process by rank-ordering
+requirements against the prioritization criteria. The objective of this activity is to
+fund first the most critical security investment. The next layer of funding should
+then be applied to the next critical security investment and so forth, until the
+security budget is entirely expended, or priorities met, whichever comes first.
+Before conducting corrective action prioritization, the agency should allocate the
+funding necessary to mitigate significant deficiencies and other needs that obviously
+require attention. These initiatives should then be removed from the prioritization
+process to avoid duplication of effort.
+After identifying the security baseline and prioritization criteria, an agency can
+prioritize corrective actions at two levels:
+
+38 The information presented in this special publication provides an overview of the prioritization process.
+For a detailed explanation of suggested system- and enterprise

@@ -1,0 +1,27 @@
+e initial security
+accreditation of an information system
+to track the changes to the information
+system, analyzes the security impact
+of those changes, makes appropriate
+adjustments to the security controls
+and to the system’s security plan, and
+reports the security status of the
+system to appropriate agency officials.
+ Many agency information systems are certified and
+accredited more frequently than every three years.
+ System security plans are updated frequently, as system
+changes occur.
+ Results of continuous assessment process can be tracked
+throughout system POA&Ms.
+ Appropriate agency officials are aware of the status of
+systems under their purview.
+ System control assessments and security assessment and
+evaluation occur at least annually.
+Configuration
+Management16
+Configuration management (CM) is an
+essential component of monitoring the
+status of security controls and
+identifying potential security-related
+problems in information systems. This
+information can help securit

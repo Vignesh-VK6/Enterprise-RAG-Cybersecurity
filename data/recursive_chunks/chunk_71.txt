@@ -1,0 +1,14 @@
+security controls. As information security programs are developed, senior agency
+officials should work to ensure this coordination of complementary controls. In
+consideration of information security, the personnel security officer serves as the
+senior official responsible for:
+• Developing, promulgating, implementing, and monitoring the organization’s
+personnel security programs;
+• Developing and implementing position categorization (including third-party
+controls), access agreements, and personnel screening, termination, and
+transfers; and
+• Ensuring consistent and appropriate sanctions for personnel violating
+management, operation, or technical information security controls.
+Acquisitions/Contracting. The Acquisitions/Contracting function is responsible for
+managing contracts and overseeing their implementation. Personnel executing this
+function have the following responsibilities in regards to information security:

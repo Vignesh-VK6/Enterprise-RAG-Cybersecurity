@@ -1,0 +1,17 @@
+Figure 14-2. CM Process
+Step 1: Identify Change
+The first step of the CM process begins with a person or process associated with
+the information system identifying a need for a change. The change can be initiated
+by numerous individuals, such as users or system owners, or they may be identified
+by audit findings or other reviews. A change may consist of updating the fields or
+records of a database to upgrading the operating system with the latest security
+patches. Once the need for a change has been identified, a change request should
+be submitted to the appropriate decision-making body.
+135
+CHAPTER 14 Configuration Management
+Step 2: Evaluate Change Request
+After initiating a change request, the effects that the change may have on the
+system or other interrelated systems must be evaluated. An impact analysis of the
+change should be conducted using the following as a guideline:
+• Whether the change is viable and improves the performance or the security of
+the system;

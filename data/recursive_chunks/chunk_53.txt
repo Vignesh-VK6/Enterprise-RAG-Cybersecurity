@@ -1,0 +1,15 @@
+departmental information security program, but not over the operating units’
+information security programs. Operating unit SAISOs report to the unit head,
+not to the departmental SAISO. Operating unit SAISOs are responsible for
+implementing and monitoring information security practices within their
+respective operating units.
+Completely centralized or decentralized information security governance
+implementations are quite rare. In reality, the variety of implemented information
+security governance structures spans the continuum from a centralized structure at
+one end to a decentralized structure at the other. Agencies usually adopt hybrid
+structures that include some characteristics of both centralized and decentralized
+types of structures, and they adopt the particular mix of these characteristics to fit
+their agency mission, size, homogeneity of their components, and existing
+governance structure.
+7
+CHAPTER 2 Information Security Governance

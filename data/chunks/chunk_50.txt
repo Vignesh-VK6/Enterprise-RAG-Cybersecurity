@@ -1,0 +1,18 @@
+information security practices within their
+respective operating units.
+Completely centralized or decentralized information security governance
+implementations are quite rare. In reality, the variety of implemented information
+security governance structures spans the continuum from a centralized structure at
+one end to a decentralized structure at the other. Agencies usually adopt hybrid
+structures that include some characteristics of both centralized and decentralized
+types of structures, and they adopt the particular mix of these characteristics to fit
+their agency mission, size, homogeneity of their components, and existing
+governance structure.
+7
+CHAPTER 2 Information Security Governance
+Agencies in the process of establishing or changing their information security
+governance structure should consider the following key factors to determine the
+optimal extent of the centralization or decentralization:
+• Agency size;
+• Agency mission and its level of diversification or homogeneity;
+•

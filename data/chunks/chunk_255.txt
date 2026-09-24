@@ -1,0 +1,14 @@
+. It should reflect
+input from various managers with responsibilities concerning the system, including
+information owners, the system owner, and the senior agency information security
+officer (SAISO). Agencies, at their discretion, can include additional information in
+the basic plan and add sections to the basic format prescribed herein, as long as the
+major sections described in this document are adequately covered and readily
+identifiable.
+Program managers, system owners, and security personnel in the organization
+must understand the system security planning process. In addition, users of the
+information system and those responsible for defining system requirements should
+also be familiar with the system security planning process, as the system security
+plan is an important deliverable in the system development life cycle (SDLC)
+process.49 Those responsible for implementing and managing information systems
+must participate in addressing security controls to be applied to their syste

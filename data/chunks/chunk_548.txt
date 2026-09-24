@@ -1,0 +1,15 @@
+ it s ratings of High, Moderate, and Low, represents the degree
+or level of risk to which an information system, facility, or procedure might be
+exposed if a given vulnerability were exercised. The risk scale also presents
+actions that senior management, the mission owners, must take for each risk
+level. The risk descriptions and associated necessary actions are:
+• High: If an observation or finding is evaluated as a high risk, there is a strong
+need for corrective measures. An existing system may continue to operate, but
+a corrective action plan must be put in place as soon as possible.
+• Moderate: If an observation is rated as moderate risk, corrective actions are
+needed and a plan must be developed to incorporate these actions within a
+reasonable period of time.
+• Low: If an observation is described as low risk, the system’s authorizing official
+must determine whether corrective actions are still required or decide to accept
+the risk.
+Q. How often is the risk assessment process cond

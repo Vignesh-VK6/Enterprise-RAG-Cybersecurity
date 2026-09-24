@@ -1,0 +1,49 @@
+including means for protecting
+personal privacy and proprietary
+information.
+[44 U.S.C., SEC. 3542]
+The unauthorized
+disclosure of information
+could be expected to
+have a limited adverse
+effect on organizational
+operations,
+organizational assets, or
+individuals.
+The unauthorized
+disclosure of information
+could be expected to
+have a serious adverse
+effect on organizational
+operations,
+organizational assets, or
+individuals.
+The unauthorized
+disclosure of information
+could be expected to
+have a severe or
+catastrophic adverse
+effect on organizational
+operations,
+organizational assets, or
+individuals.
+Integrity
+Guarding against improper
+information modification or
+destruction, and includes ensuring
+information non-repudiation and
+authenticity.
+[44 U.S.C., SEC. 3542]
+The unauthorized
+modification or
+destruction of
+information could be
+expected to have a
+limited adverse effect
+on organizational
+operations,
+organizational assets, or
+individuals.
+The unauthorized
+modification or
+destruction of

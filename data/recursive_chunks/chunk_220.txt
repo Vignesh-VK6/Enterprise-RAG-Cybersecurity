@@ -1,0 +1,16 @@
+modification, damage, or destruction.
+Step 6: Approve or Reject System Interconnection
+The joint planning team should submit the ISA and the MOU/MOA to the AO of
+each organization, requesting approval for the interconnection. Upon receipt, the
+AOs should review the ISA, the MOU/MOA, and any other relevant documentation or
+activities. Organizations may combine ISAs and MOU/MOAs to simplify their
+management processes and reduce paperwork if these two documents fall within the
+purview of the same AO. When combining ISAs and MOU/MOAs, organizations must
+ensure that the contents and the intent of these two documents remain unaltered.
+Based on this review, the AOs should decide on one of the following:
+• Approve the interconnection;
+• Grant interim approval; or
+• Reject the interconnection.
+6.2.2 Phase 2: Establishing the Interconnection
+After the system interconnection is planned and approved, it can be
+implemented. The recommended steps for establishing the system interconnection

@@ -1,0 +1,32 @@
+ used
+to understand the current risks to the agency’s
+mission? Is that information used to help program
+and agency executives select the best
+security and privacy solutions to enable the
+mission?74
+
+9. Critical Infrastructure Protection Plan
+If required in your agency, is there a documented
+critical infrastructure and key resources protection
+plan that meets the requirements of HSPD-7
+
+10. Life Cycle Management
+Is there a system life cycle management process
+that requires each system to be C&A? Is each
+system officially approved to operate? Is the
+
+74 http://cio.gov/documents/Security_and_Privacy_Profile_v2.pdf
+108
+CHAPTER 11 Certification, Accreditation, and Security Assessments
+Program Questions Policy Procedures Implemented Tested Integrated Comments
+system LCM process communicated to
+appropriate persons?
+
+109
+CHAP
+
+TER 11 Certification, Accreditation, and Security Assessments
+110
+Question Accomplished? Comments
+Senior Agency Information Security Officer
+Has a senior agency informat

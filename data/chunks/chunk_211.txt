@@ -1,0 +1,23 @@
+e, if the interconnection was
+terminated because of an attack, intrusion, or other contingency, both parties should
+implement appropriate countermeasures to prevent a recurrence of the problem. If
+52
+CHAPTER 6 Interconnecting Systems
+necessary, they also should modify the ISA and MOU/MOA to address issues
+requiring attention. Alternately, if the interconnection has been terminated for more
+than 90 days, each party should perform a risk assessment on its respective system
+and reexamine all relevant planning and implementation requirements, including
+developing a new ISA and MOU/MOA.
+Sample MOU/MOA and ISA Checklist follow.
+
+53
+CHAPTER 6 Interconnecting Systems
+Annex 6.A Sample MOU/MOA
+This annex provides a sample MOU/MOA template that agencies can use as a starting point for
+developing their own MOU/MOAs. This sample does not cover all possible scenarios and should
+be used as an example only.
+
+FOR OFFICIAL USE ONLY
+(MEMORANDUM OF UNDERSTANDING / MEMORANDUM OF AGREEMENT)
+
+SUPERSEDES: (No

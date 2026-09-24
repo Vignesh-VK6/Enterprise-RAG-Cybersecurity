@@ -1,0 +1,29 @@
+ey may only
+select products compliant with
+cryptographic module validation program
+(CMVP).
+Organizational  Are the organization security requirements
+supported by the security plan, policies, and
+procedures?
+
+Organizational  Have security requirements been identified and
+compared against product specifications?
+
+Organizational  Has appropriate contract language been used for
+the specific product under selection?
+
+Organizational  Have operational issues such as daily operation,
+maintenance, contingency planning, awareness and
+training, and documentation been considered?
+
+Organizational  Have policies been developed for the procurement
+and use of evaluated products as appropriate?
+Organizations should give consideration
+to acquisition and deployment of
+information security products that have
+been evaluated and tested by
+independent accredited laboratories
+against appropriate security
+specifications and requirements.
+Examples of these specifications include
+protection profiles based 

@@ -1,0 +1,20 @@
+model; and
+• Staff and train the incident response team.
+Q. What should be included in the incident response policy?
+A. An incident response policy should defi ne which events are considered incidents,
+establish the organizational structure for incident response, define roles and
+responsibilities, and list the requirements for reporting incidents.
+Q. What elements should be considered when selecting a team structure
+and staffing model?
+A. The organization should select the appropriate team structure and staffing
+models based on several factors, including the size of the organization, the
+geographic diversity of major computing resources, the need for 24/7 availability,
+cost, and staff expertise.
+B-27
+Appendix B Frequently Asked Questions
+B.11 Configuration Management (CM) – Summary of FAQs
+Q. What is configuration management?
+Q. Why is configuration management important?
+Q. What should be considered and ta ken into account when developing a
+configuration management process?
+Q. What ste

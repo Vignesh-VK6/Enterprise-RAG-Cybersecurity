@@ -1,0 +1,22 @@
+.
+
+Figure 9-2. Contingency Plan Structure
+The procedures are documented in the Notification/Activation Phase, Recovery
+Phase, and Reconstitution Phase components of the plan. The Supporting
+Information and Appendices components provide supplemental information
+81
+CHAPTER 9 Contingency Planning
+necessary to understand the context in which the plan is to be used and gives
+additional information that may be necessary to execute procedures (e.g.,
+emergency contact information and the BIA).
+9.6 Step 6: Plan Testing, Training, and Exercises
+Personnel selected to execute the IT contingency plan must be trained to perform
+the procedures, the plan must be exercised, and the system strategy must be tested.
+Plan testing should include:
+• System recovery on an alternate
+platform from backup media
+• System performance using
+alternate equipment
+• Coordination among recovery teams • Restoration of normal operations
+• Internal and external connectivity • Notification procedures.
+Personnel training sho

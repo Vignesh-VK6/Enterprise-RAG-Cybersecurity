@@ -1,0 +1,9 @@
+Organizational  Have security reviews included requirements for
+support, plug-in components, or middleware?
+
+Product  Have total life cycle support, ease-of-use,
+scalability, and interoperability requirements been
+determined?
+The total life cycle covers “cradle to
+grave” and hence includes security
+product disposal requirements.

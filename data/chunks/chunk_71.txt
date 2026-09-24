@@ -1,0 +1,17 @@
+s. Documenting and preserving
+information about applicable security requirements ensures that it can be used
+as a part of any higher-level federal management or decision-making process.
+If, for example, the federal government were to try and implement a large-
+scale reorganization (such as creating a new department or agency), a
+security-aware FEA would be able to clearly outline not only the intersections of
+common business lines but also the corresponding security requirements. In
+another example, if a department were to mandate using a specific type of
+technological tool, the FEA would be able to highlight the security and privacy
+requirements for the technology as well as the requirements for the data that
+
+10 OMB, ‘Federal Enterprise Architecture’ (FEA), 2002.
+11 OMB, ‘Office of Management and Budget Circular A-130, Appendix III,’ 1996.
+13
+CHAPTER 2 Information Security Governance
+the tool would handle. Since the federal government has numerous IT-related
+efforts under way, includ

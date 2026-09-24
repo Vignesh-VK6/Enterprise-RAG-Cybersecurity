@@ -1,0 +1,14 @@
+ the process of establishing
+and maintaining a framework and supporting management structure and
+processes to provide assurance that information security strategies are aligned
+with and support business objectives, are consistent with applicable laws and
+regulations through adherence to policies and internal controls, and provide
+assignment of responsibility, all in an effort to manage risk.
+2.1 Information Security Governance Requirements
+The United States (U.S.) Congress and the Office of Management and Budget
+(OMB) have instituted a number of laws, regulations, and directives that govern
+establishment and implementation of federal information security practices. These
+laws, regulations, and directives establish federal- and agency-level responsibilities
+for information security, define key information security roles and responsibilities,
+identify minimum information security controls, specify compliance reporting rules
+and procedures, and provide other essential requirements and gui

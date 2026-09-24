@@ -1,0 +1,9 @@
+Figure 8-1. Decomposition of Large and Complex Information Systems
+AGENCY GENERAL SUPPORT SYSTEM
+FIPS 199 High Impact
+• One system security plan reflects information system decomposition with adequate security
+controls assigned to each subsystem component.
+
+SYSTEM
+GUARD
+FIPS 199

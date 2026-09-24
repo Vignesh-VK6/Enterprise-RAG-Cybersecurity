@@ -1,0 +1,13 @@
+system owners, and others through activities, such as assessment (as is/to be
+models), strategic plan, and program implementation;
+• Outreach to leverage internal and external awareness “best practices,” such as
+Web portals, security e-newsletters, and FAQs; and
+• Metrics to measure the effectiveness of the awareness program.
+Q. When should an awareness and training program be changed?
+A. Awareness and training programs should be continually changing to meet the
+unique needs of your environment, culture, business, and mission. Programs
+should continue to evolve as new technology and associated security issues
+emerge. Training needs will shift as new skills and capabilities become necessary
+to respond to new policy and the resultant architectural and technological
+changes. A change in the organizational mission and/or objectives will influence
+ideas on how best to design training solutions and content. Emerging issues, such

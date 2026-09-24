@@ -1,0 +1,17 @@
+ and Technology Special Publication 800-30, Risk
+Management Guide for Information Technology Systems, July 2002.
+National Institute of Standards and Technology Special Publication 800-55, Security
+Metrics Guide for Information Technology Systems, July 2003.
+66
+CHAPTER 8 Security Planning
+Chapter 8
+8. Security Planning
+Today’s rapidly changing technical environment requires that federal agencies
+adopt a minimum set of security controls to protect their information and information
+systems. The purpose of the system security plan is to provide an overview of the
+security requirements of the system and describe the controls in place or planned for
+meeting those requirements. The system security plan also delineates responsibilities
+and expected behavior of all individuals who access the system. It should reflect
+input from various managers with responsibilities concerning the system, including
+information owners, the system owner, and the senior agency information security
+officer (SAISO).

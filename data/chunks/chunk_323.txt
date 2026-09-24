@@ -1,0 +1,18 @@
+alent, and government and
+industry organizations continually collect data on security events, thereby improving
+the ability to realistically assess threats. Sources of information include, but are not
+limited to, the following:
+• Intelligence agencies (for example, the Federal Bureau of Investigation’s
+National Infrastructure Protection Center);
+• United States Computer Emergency Readiness Team (US-CERT) found at
+www.us-cert.gov); and
+• Mass media, including Web-based resources.
+87
+CHAPTER 10 Risk Management
+10.1.3 Step 3 – Vulnerability Identification
+NIST SP 800-30 defines vulnerability as “a flaw or weakness in system security
+procedures, design, implementation, or internal controls that could be exercised
+(accidentally triggered or intentionally exploited) and result in a security breach or a
+violation of the system’s security policy.” Vulnerabilities can be identified using a
+combination of a number of techniques and sources. Reviews of such sources as
+previous risk assessments, a

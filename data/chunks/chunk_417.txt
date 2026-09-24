@@ -1,0 +1,20 @@
+ER 12 Security Services and Products Acquisition
+12.3 Selecting Information Security Products
+As with security services, before selecting specific products, organizations should
+review the current status of their security programs and the security controls that
+are either planned or in place to protect their information and information systems.
+Table 12-5 lists the general issues for consideration prior to the selection of
+information security products.
+Table 12-5. Information Security Product Selection Considerations
+Consideration
+Type Considerations
+Organizational  Identify the user community
+ Define the relationship between the secu rity product and the organization’s mission
+ Identify data sensitivity
+ Identify an organization’s security requirements
+ Review security plan
+ Review policies and procedures
+ Identify operational issues such as da ily operation, maintenance, and training
+Product  Determine total LCC (inc luding acquisition and support)
+ Assess ease of use
+ Ass

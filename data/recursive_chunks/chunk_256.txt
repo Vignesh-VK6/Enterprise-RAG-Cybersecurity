@@ -1,0 +1,6 @@
+7.3 Metrics Development Process
+Figure 7-1 illustrates the place of information security metrics within a larger
+organizational context and demonstrates that information security metrics can be
+used to progressively measure implementation, efficiency, effectiveness, and the
+business impact of information security activities within organizations or for specific
+systems.

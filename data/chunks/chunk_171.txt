@@ -1,0 +1,27 @@
+ce System-level information security metrics
+or an aggregation of information security
+compliance percentages from, risk
+assessments, security certification and
+accreditation, or other sources, organized
+according to the prioritization criteria
+categories
+Risk Assessments, and security certification
+and accreditation activities are required for all
+agencies. Required data can be easily
+aggregated in the required form.
+Corrective action cost System POA&M POA&M is a required activity for all agencies.
+Required data can be easily aggregated in
+the required form.
+Enterprise-Level Information
+Stakeholder rankings of
+enterprise-wide initiatives
+Prioritization sessions with agency
+information security stakeholders
+New activity – requires collaboration among
+agency information security stakeholders.
+Enterprise-wide initiative
+information security status
+Enterprise-level information security
+metrics or an aggregation of information
+security compliance percentages from risk
+assessments, security

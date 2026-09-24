@@ -1,0 +1,21 @@
+ng amounts for the budget year based
+on the justification articulated in the Exhibit 300s. Agencies then receive their
+budget year funding and must implement or maintain their investments throughout
+the year by applying allocated funding.
+
+-------------------------------------------------
+Websites:
+Exhibit 300 Information:
+http://www.whitehouse.gov/omb/circulars/a11/current_year/s300.pdf
+www.csrc.nist.gov
+References:
+Public Law 107-347 [H.R. 2458], The E-Government Act of 2002, Title III of this Act
+is the Federal Information Security Management Act of 2002 (FISMA), December 17,
+2002.
+Office of Management and Budget Circular A-130, Management of Federal
+Information Resources, November 2000.
+Federal Information Processing Standard 199, Requirements for Security
+Categorization of Federal Information and Information Systems, February 2004.
+Federal Information Processing Standard 200, Minimum Security Standards for
+Federal Information and Information Systems, March 2006.
+National Institute

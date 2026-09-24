@@ -1,0 +1,15 @@
+Q. Is it acceptable to combine the MOU/MOA and the ISA?
+A. Yes. Organizations may combine I SAs and MOUs/MOAs to simplify their
+management processes and reduce paperwork. When combining ISAs and
+MOUs/MOAs, organizations must ensure that the contents and the intent of these
+two documents remain intact.
+Q. When does C&A need to occur?
+A. Before interconnecting their informatio n systems, each organization should
+ensure that its respective system is properly certified and accredited in
+accordance with federal C&A guidelines. The C&A process is applicable for both
+emerging systems and those already in production. It involves a series of
+security-related activities, including developing or updating a system security
+plan, conducting a risk assessment, preparing a contingency plan, and conducting
+a security review.
+Establishing an interconnection may represent a significant change to the
+connected systems. Each organization should perform an assessment to

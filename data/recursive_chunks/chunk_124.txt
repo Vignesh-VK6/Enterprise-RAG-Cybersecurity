@@ -1,0 +1,17 @@
+Control30
+ Ensure adequate consideration of the potential secu rity impacts due to specific changes to an
+information system or its surrounding environment. CM and configuration control procedures
+are critical to establishing an initial baseline of hardware, software, and firmware components
+for the information system and for subsequently controlling and maintaining an accurate
+inventory of any changes to the system.
+ Develop CM plan
+− Establish baselines
+− Identify configuration
+− Describe configuration control process
+− Identify schedule for configuration audits
+Continuous
+Monitoring
+ Monitor security controls to ensure that cont rols continue to be effective in their application
+through periodic testing and evaluation. Security control monitoring (i.e., verifying the
+continued effectiveness of those controls over time) and reporting the security status of the
+information system to appropriate agency officials is an essential activity of a comprehensive

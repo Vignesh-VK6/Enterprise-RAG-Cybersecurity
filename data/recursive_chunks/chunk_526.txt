@@ -1,0 +1,15 @@
+information provided.
+• Defer. Immediate decision is postponed until further notice. In this situation,
+additional testing or analysis may be needed before a final decision can be
+made.
+Step 4: Implement Approved Change Request
+Once the decision to implement the change has been made, it should be moved
+from the test environment into production. If required, the personnel updating the
+production environment should be separate from those individuals that developed
+the change to provide a greater assurance that unapproved changes do not get
+implemented into production.
+Step 5: Continuous Monitoring
+The CM process calls for continuous system monitoring to ensure that it is
+operating as intended and that implemented changes do not adversely impact either
+the performance or security posture of the system. Agencies can achieve the goals
+of continuous system monitoring by performing configuration verification tests to

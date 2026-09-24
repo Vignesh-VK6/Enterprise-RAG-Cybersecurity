@@ -1,0 +1,24 @@
+ occurs, can be another valuable source of information for incident handlers.
+-------------------------------------------------
+Websites:
+
+United States Computer Emergency Response Team (US-CERT)
+http://www.us-cert.gov/
+
+www.csrc.nist.gov
+129
+CHAPTER 13 Incident Response
+References:
+Federal Information Processing Standard 199, Standards for Security Categorization
+of Federal Information and Information Systems, February 2004.
+National Institute of Standards and Technology Special Publication 800-30, Risk
+Management Guide for Information Technology Systems, July 2002.
+National Institute of Standards and Technology Special Publication 800-61, Computer
+Security Incident Handling Guide, January 2003.
+130
+CHAPTER 14 Configuration Management
+Chapter 14
+14. Configuration Management
+The purpose of Configuration Management (CM) is to manage the effects of
+changes or differences in configurations on an information system or network. CM
+assists in streamlining change management processes and prev

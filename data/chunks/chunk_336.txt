@@ -1,0 +1,18 @@
+riately reflected in the system’s Plan of Action and Milestones (POA&M) and
+System Security Plan.
+At a minimum, the risk assessment report should describe the following:
+• Scope of the assessment based on the system characterization;
+• Methodology used to conduct the risk assessment;
+• Individual observations resulting from conducting the risk assessment; and
+• Estimation of the overall risk posture of the system.
+91
+CHAPTER 10 Risk Management
+10.2 Risk Mitigation
+The second phase of the risk management process is risk mitigation. Because it
+is impractical, if not impossible, to eliminate all risk from a system, risk mitigation
+strives to prioritize, evaluate, and implement the appropriate risk-reducing controls
+recommended from the risk assessment process based on the guidance provided in
+NIST SP 800-53.
+System and organizational managers may use several options to reduce the risk
+to a system. These options are risk assumption; risk avoidance; risk limitation; risk
+planning, research,

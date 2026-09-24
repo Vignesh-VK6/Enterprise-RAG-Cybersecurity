@@ -1,0 +1,13 @@
+plan, to include coordinating system changes with the information system
+owner and assessing the security impact of those changes.
+8.3 Rules of Behavior
+The rules of behavior, which are required in OMB Circular A-130, Appendix III,
+and are also a form of security control found in NIST SP 800-53, should clearly
+delineate responsibilities and expected behavior of all individuals with access to the
+system. The rules should state the consequences of inconsistent behavior or
+noncompliance and be made available to every user prior to receiving authorization
+for system access. It is required that the rules contain a signature page for each
+user to acknowledge receipt, indicating that they have read, understand, and agree
+to abide by the rules of behavior. Electronic signatures are acceptable for use in
+acknowledging the rules of behavior.
+Table 8-1 lists examples from OMB Circular A-130, Appendix III, of what should

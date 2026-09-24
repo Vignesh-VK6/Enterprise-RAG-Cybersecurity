@@ -1,0 +1,19 @@
+Figure 10-4. Risk Mitigation Strategy
+Once the decision has been made on which risks are to be addressed in the risk
+mitigation process, a seven-step approach is used to guide the selection of security
+controls:
+1. Prioritize actions;
+2. Evaluate recommended control options;
+3. Conduct cost-benefit analyses;
+4. Select controls;
+5. Assign responsibility;
+6. Develop a safeguard implementation plan; and
+7. Implement selected control(s).
+The process of selecting controls to mitigate identified risks to an acceptable level
+is based on the security categorization of the system using the methodology
+provided in FIPS 199. The security categorization is used in two ways: (1)
+determines which minimum baseline security controls are selected from NIST SP
+800-53, and (2) aids in estimating the level of risk posed by a threat/vulnerability
+92
+CHAPTER 10 Risk Management
+pair identified during the risk assessment (see Chapter 5 of this handbook and NIST

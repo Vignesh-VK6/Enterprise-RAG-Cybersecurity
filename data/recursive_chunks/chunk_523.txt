@@ -1,0 +1,8 @@
+• Developers. The developers are responsible for coordinating and working with
+the CM manager to identify, resolve, and implement controls and other CM
+issues.
+14.3 Configuration Management Process
+The CM process identifies the steps required to ensure that all changes are
+properly requested, evaluated, and authorized. The CM process also provides a
+detailed, step-by-step procedure for identifying, processing, tracking, and
+documenting changes. An example CM process is depicted in Figure 14-2.

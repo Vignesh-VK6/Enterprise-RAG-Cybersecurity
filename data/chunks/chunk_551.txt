@@ -1,0 +1,15 @@
+formation system, made in
+support of security accreditation, to determine the extent to which the controls
+are implemented correctly, operating as intended, and producing the desired
+outcome with respect to meeting the security requirements for the system. The
+results of a security certification are used to reassess the risks and update the
+system security plan, thus providing the factual basis for an authorizing official to
+render a security accreditation decision.
+Q. What is security accreditation?
+A. Security accreditation is the official management decision given by a senior
+agency official to authorize operation of an information system and to explicitly
+accept the risk to agency operations, agency assets, or individuals based on the
+implementation of an agreed-upon set of security controls. By accrediting an
+information system, an agency official accepts responsibility for the security of
+the system and is fully accountable for any adverse impacts to the agency if a
+breach of sec

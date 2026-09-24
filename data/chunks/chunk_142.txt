@@ -1,0 +1,15 @@
+be cognizant of this potential problem and incorporate
+mechanisms into their strategy to ensure that the program continues to be relevant
+and compliant with overall objectives. Continuous improvement should always be
+the theme for security awareness and training initiatives, as this is one area where
+“you can never do enough.” Efforts supporting this post-implementation feedback
+loop should be developed in consideration of the security organization’s overall
+ongoing performance measures program.34
+4.4.1 Monitoring Compliance
+Once the program has been implemented, processes must be put in place to
+monitor compliance and effectiveness. An automated tracking system should be
+designed to capture key information on program activity (e.g., courses, dates,
+audience, costs, sources). The tracking system should capture this data at an
+agency level, so it can be used to provide enterprise-wide analysis and reporting
+regarding awareness, training, and education initiatives.
+Tracking compliance in

@@ -1,0 +1,18 @@
+ecurity controls that must be implemented on each of the interconnecting
+systems?
+Q. Do organizations need to update a system security plan?
+Q. Do individual PC(s) connecting to an application, housed behind a firewall through
+the Internet, require ISA(s)?
+Q. Can an ISA be terminated by any of the participating parties?
+Q. Do both parties need to an swer each item in the ISA?
+Q. Are there any federal requirements regarding ISA?
+
+Q. What is an ISA?
+A. An Interconnection Security Agreem ent (ISA) is an agreement established
+between the organizations that own and operate connected information systems
+to document the technical requirements of the interconnection. The ISA is a
+security document that specifies the requirements for connecting the information
+systems, describes the security controls that will be used to protect the systems
+and data, and contains a topographical drawing of the interconnection. It is a
+commitment between the owners of two systems to abide by specific rules of
+be

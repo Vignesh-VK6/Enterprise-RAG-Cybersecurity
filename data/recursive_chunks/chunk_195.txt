@@ -1,0 +1,13 @@
+budget to implement information security corrective actions. As Figure 5-6
+demonstrates, adding the three highest priority cells together (HG, HA, and MG)
+brings a total of $891,775, which is nearly half of the corrective action budget. The
+agency would then move to the next tier of prioritization, or cells HB, MA, and LG.
+Totaling these cells yields a total of $503,350, which combined with the previous
+43
+CHAPTER 5 Capital Planning and Investment Control
+total from HG, HA, and MG, yields a running total of $1,395,125. With $604,875
+remaining in the corrective action budget, the agency would proceed with
+prioritization into cells MB and LA. Totaling those two cells yields $2,619,505.
+Clearly, this total exceeds the remaining corrective action budget, so stakeholders
+will have to decide on how to allocate the remaining dollars. Should stakeholders
+determine that the corrective action impact order (G, A, B) is the driving factor, the

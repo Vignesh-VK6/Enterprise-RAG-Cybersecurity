@@ -1,0 +1,23 @@
+ncies, and potential
+downtime impacts. Contingency
+plan strategy and procedures should be designed in consideration of the results of
+the BIA.
+A BIA is conducted by
+identifying the system’s critical
+resources. Each critical
+resource is then further
+examined to determine how
+long functionality of the resource could be withheld from the information system
+before an unacceptable impact is experienced.
+The impact may be something that materializes over time or may be tracked
+across related resources and dependent systems (e.g., cascading domino effect).
+The time identified is called a maximum allowable outage (MAO). Based on the
+potential impacts, the amount
+of time the information system
+BIA Critical Resource Example
+Time and attendance reporting may require use of a local
+area network (LAN) server, wide area network (WAN)
+access, e-mail, and an e-mail server..
+BIA Resource Impact Example
+LAN disruption to the time and attendance reporting system
+for 8 hours may create a delay in time she

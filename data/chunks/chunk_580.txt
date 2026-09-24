@@ -1,0 +1,7 @@
+the system. Configuration verification and
+audits should be performed during this step to ensure that the updates to the
+system have not adversely affected the system. Verification and audits consist of
+an examination of system characteristics and the supporting documentation to
+verify that the configuration meets users’ needs, and that the current
+configuration is the approved system configuration baseline.
+B-29

@@ -1,0 +1,14 @@
+
+and refined and an initial risk assessment conducted, the selected controls must be
+implemented. For legacy systems, the security controls that are selected are
+verified. Organizations can leverage controls used among multiple systems by
+designating them as common controls where implementation, assessment, and
+monitoring is conducted at an organizational level or by areas of specific expertise
+(e.g., human resources, physical security, building management). The system
+owner must understand who is responsible for implementing these controls and
+identify the risk that this extension of trust will generate. For information on
+common controls, see NIST SP 800-53, Revision 1.
+Because it is impracticable to eliminate all risk, it is important to note that even
+after the controls have been selected and implemented, some degree of residual risk
+will remain. The remaining residual risk should be analyzed to ensure that it is at an
+acceptable level. For federal agencies, after the appropriate c

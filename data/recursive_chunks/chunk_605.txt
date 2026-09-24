@@ -1,0 +1,15 @@
+operating as intended, and producing the desired outcome with respect to
+meeting the security requirements for the system.
+3. Security Accreditation Phase. This phase will determine whether the
+remaining known vulnerabilities in the information system (after the
+implementation of an agreed-upon set of security controls) pose an
+acceptable level of risk to agency operations, agency assets, or
+individuals.
+4. Continuous Monitoring Phase. This phase will provide regular oversight
+and monitoring of the security controls in the information system and will
+inform the authorizing official when changes may impact the security of
+the system.
+Q. What is included in a security accreditation package?
+A. The security accreditation package cont ains the following documents: approved
+system security plan, the security assessment report, and the POA&M. After
+these documents are completed, the information system owner submits the final

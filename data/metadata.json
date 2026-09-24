@@ -1,0 +1,25 @@
+{
+    "file_name": "pdf 1.pdf",
+    "file_size_bytes": 8230015,
+    "number_of_pages": 178,
+    "title": "NIST SP 800-100, Information Security Handbook: A Guide for Managers",
+    "author": "NIST Computer Security Division (CSD)",
+    "subject": null,
+    "creator": "Acrobat PDFMaker 8.0 for Word",
+    "producer": "Acrobat Distiller 8.0.0 (Windows)",
+    "creation_date": "2007-03-09 14:44:09-05:00",
+    "modification_date": "2013-06-11 11:18:10-04:00"
+}
+"category": "Cybersecurity & Privacy",
+"department": "Information Security",
+"topic": [
+    "Information Security",
+    "Risk Management",
+    "Security Governance",
+    "Security Controls",
+    "Security Awareness",
+    "Incident Response",
+    "Contingency Planning",
+    "Access Control"
+],
+"document_date": "2006-10"

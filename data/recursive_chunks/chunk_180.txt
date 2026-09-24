@@ -1,0 +1,14 @@
+agency officials an understanding of the strengths, weaknesses, and vulnerabilities
+that exist within the agency’s security controls and to help identify investments that
+are required to mitigate weaknesses. The resulting vulnerabilities and weaknesses
+then serve as inputs into the next step of the CPIC process: identifying prioritization
+criteria.
+5.5 Identify Prioritization Criteria
+Available funding does not always allow all security needs identified in the
+baseline assessment to be addressed immediately. Therefore, requirements must be
+prioritized to address the most pressing security investment needs first. Specific
+prioritization criteria will vary from agency to agency depending on specific agency
+mission and goals and applicable legislation and regulations. Examples of
+information security priorities include:
+• Complying with statutory requirements in Clinger-Cohen Act, FISMA, and OMB
+Circular A-130 guidance;

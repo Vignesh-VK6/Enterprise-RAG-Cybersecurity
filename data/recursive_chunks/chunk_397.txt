@@ -1,0 +1,14 @@
+in relation to security certification and accreditation:
+• Assess the system security plan to ensure the plan provides applicable security
+controls prior to initializing the certification process;
+• Performs a comprehensive assessment of the management, operational, and
+technical controls in the information system; and
+• Recommend corrective actions to reduce or eliminate vulnerabilities in the
+information system.
+11.1.8 User Representatives
+Users are responsible for identifying mission/operational requirements and for
+complying with the security requirements and security controls described in the
+system security plan. User representatives are individuals that represent the
+operational interests of the user community and serve as liaisons for that community
+throughout the SDLC of the information system. The user representatives assist in
+the security certification and accreditation process, when needed, to ensure that

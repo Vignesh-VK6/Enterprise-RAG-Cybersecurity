@@ -1,0 +1,12 @@
+establish logging standards and procedures to ensure that adequate information is
+collected by logs and security software and that the data is reviewed regularly.
+Proper and efficient reviews of incident-related data require people with extensive,
+specialized technical knowledge and experience.
+When a potential incident is identified, the incident response team should work
+quickly to analyze and validate it, documenting each step taken. The team should
+rapidly perform an initial analysis to determine the incident’s scope, attack methods,
+and targeted vulnerabilities. This analysis should provide enough information for the
+team to prioritize subsequent activities, including the containment of the incident.
+When in doubt, incident handlers should assume the worst until additional analyses
+indicate otherwise. In addition to prioritization guidelines, organizations should also
+establish an escalation process for those instances when the incident response team

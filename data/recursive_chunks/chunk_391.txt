@@ -1,0 +1,16 @@
+has the following responsibilities in relation to security certification and accreditation:
+Authorizing Official’s Designated Representative
+The Authorizing Official’s Designated Representative can
+be empowered to act on behalf of the authorizing official
+in all C&A activities for which the authorizing official is
+responsible with the following exceptions: 1) rendering
+the system security accreditation decision, and 2) signing
+the system security accreditation decision letter.
+• Oversee the budget and business operations of the system;
+• Approve system security requirements, system security plans, and
+memorandums of understanding (MOU) and/or memorandums of agreement
+(MOA);
+• Make and issue final or interim decision on granting, conditionally granting, or
+denying authority to operate system; and
+• Appoint, if so chosen, a designated representative to act on the authorizing
+official’s behalf in coordinating and carrying out the necessary activities

@@ -1,0 +1,20 @@
+of the organization must
+formally waive the OCI.
+Identifying the existence of OCIs, mitigating the effect of the OCI to an
+acceptable level, or waiving the OCI are important steps for consideration when
+122
+CHAPTER 12 Security Services and Products Acquisition
+managing the information security service life cycle. However, each of these is a
+complex matter involving legal and regulatory issues and, as such, should not be
+considered without the counsel of an organization’s legal department.
+-------------------------------------------------
+
+Website:
+http://www.csrc.nist.gov/
+References:
+National Institute of Standards and Technology Special Publication 800-35, Guide to
+Information Technology Security Services, October 2003.
+National Institute of Standards and Technology Special Publication 800-36, Guide to
+Selecting Information Technology Security Products, October 2003.
+National Institute of Standards and Technology Special Publication 800-53, Revision
+1, Recommended Security Controls f

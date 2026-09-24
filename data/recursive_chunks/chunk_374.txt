@@ -1,0 +1,5 @@
+information for the authorizing official.
+Many of the risk management activities are conducted during a snapshot in time—a
+static representation of a dynamic environment. All the changes that occur to
+systems during normal, daily operations have the potential to adversely affect the
+security of the system in some fashion, and it is the goal of the risk management

@@ -1,0 +1,17 @@
+10.1.5 Step 5 – Control Recommendations
+The goal of the control recommendations is to reduce the level of risk to the
+information system and its data to a level the organization deems acceptable. These
+recommendations are essential input for the risk mitigation process, during which the
+recommended procedural and technical security controls are evaluated, prioritized,
+and implemented. This step is designed to help agencies identify and select controls
+appropriate to the organization’s operations and mission that could mitigate or
+eliminate the risks identified in the preceding steps. The following factors should be
+considered in recommending controls and alternative solutions to minimize or
+eliminate identified risks:
+• Effectiveness of recommended options (e.g., system compatibility);
+• Legislation and regulation;
+90
+CHAPTER 10 Risk Management
+• Organizational policy;
+• Operational impact; and
+• Safety and reliability.

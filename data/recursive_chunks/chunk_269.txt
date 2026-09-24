@@ -1,0 +1,18 @@
+with software applications supported by the system;
+• Awareness and Commitment—lack of management awareness and/or
+commitment to security;
+• Policies and Procedures—lack of policies and procedures that are required to
+ensure existence, use, and audit of required security functions;
+• Architectures—poor system and security architectures that make systems
+vulnerable; and
+64
+CHAPTER 7 Performance Measures
+• Inefficient Processes—ineffi cient planning and communication processes that
+influence the metrics.
+7.4.3 Identify Corrective Actions
+Phase 3 of the process, Identify Corrective Actions, involves developing a plan
+that will provide the roadmap of how to close the implementation gap identified in
+Phase 2. This phase includes the following activities:
+• Determine Range of Corrective Actions. Based on the results and causation
+factors, identify corrective actions that could be applied to each performance
+issue. Corrective actions may include changing system configurations; training

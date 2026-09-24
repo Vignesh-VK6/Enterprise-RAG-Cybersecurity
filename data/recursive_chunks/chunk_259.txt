@@ -1,0 +1,14 @@
+61
+CHAPTER 7 Performance Measures
+Phases 5, 6, and 7, depicted in Figure 7-1, involve developing metrics that
+measure process implementation, effectiveness and efficiency, and mission impact.
+The specific aspect of information security that metrics will focus on at any given
+point will depend on information security program maturity. Implementation
+evidence, required to prove higher levels of effectiveness, will change from
+establishing existence of policy and procedures to quantifying implementation of
+these policies and procedures, then to quantifying results of implementation of
+policies and procedures, and ultimately to identifying the impact of implementation
+on the organization’s mission.
+Based on existing policies and procedures, the universe of possible metrics can
+be prohibitively large; therefore, agencies should prioritize metrics to ensure that the
+final set selected for initial implementation has the following attributes:

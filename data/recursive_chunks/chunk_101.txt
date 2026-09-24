@@ -1,0 +1,15 @@
+18
+CHAPTER 3 System Development Life Cycle
+Chapter 3
+3. System Development Life Cycle
+The system development life cycle (SDLC) is the overall process of developing,
+implementing, and retiring information systems through a multistep process from
+initiation, analysis, design, implementation, and maintenance to disposal. There are
+many different SDLC models and methodologies, but each generally consists of a
+series of defined steps or phases.
+Various SDLC methodologies have been developed to guide the processes
+involved, and some methods work better than others for specific types of projects.
+Regardless of the type of the life cycle used by an organization, information security
+must be integrated into the SDLC to ensure appropriate protection for the
+information that the system is intended to transmit, process, and store. Security is
+most useful and cost-effective when such integration begins with a system

@@ -1,0 +1,16 @@
+of two or more
+information systems for sharing data and other information resources. Organizations
+choose to interconnect their information systems for a variety of reasons based on
+their organizational needs. For example, they may interconnect information systems
+to exchange data, collaborate on joint projects, or securely store data and backup
+files.
+An interconnection is a direct connection between one organization’s system with
+another system of the same or different organization through a mechanism by which
+they are joined (the “pipe” through which data is made available, exchanged, or
+passed one way only). The “pipe” may be a dedicated line that is owned by one of
+the organizations or is leased from a third party (e.g., Integrated Services Digital
+Network [ISDN], T1 or T3 line). Alternately, the systems may be connected over a
+public network (e.g., Internet) using a virtual private network (VPN).
+Figure 6-1 depicts the concept of information system interconnection.
+
+Figure 6-1. I

@@ -1,0 +1,21 @@
+the agency body of policies and procedures governing information security and other
+applicable policies in the text of the rules of behavior.
+70
+CHAPTER 8 Security Planning
+Table 8-1. Rules of Behavior Examples
+Examples of Controls Contained in Rules of Behavior
+ Delineate responsibilities , expected use of system, and behavior of all users
+ Describe appropriate limits on interconnections
+ Define service provisions and restoration priorities
+ Be clear on consequences of behav ior not consistent with rules
+ Covers the following topics:
+− Work at home
+− Dial-in access
+− Connection to the Internet
+− Use of copyrighted work
+− Unofficial use of government equipment
+− Assignment and limitations of system privileges and individual accountability
+− Password usage
+− Searching databases and divulging information
+8.4 System Security Plan Approval
+Organizational policy should clearly define who is responsible for system security

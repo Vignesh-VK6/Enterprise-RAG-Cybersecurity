@@ -1,0 +1,14 @@
+35 See Chapter 11, Certification, Accreditation, and Security Assessments, of this guide for additional
+guidance on FISMA reporting.
+36 See Chapter 11, Certification, Accreditation, and Security Assessments, of this guide for additional
+guidance on POA&Ms.
+35
+CHAPTER 5 Capital Planning and Investment Control
+53. Exhibit 300s and Exhibit 53 are part of the agency’s budget submission to OMB
+and provide an overview of an agency’s IT portfolio.
+To facilitate effective implementation of OMB capital planning and NIST security
+requirements, the Government Accountability Office (GAO) offers a Select-Control-
+Evaluate investment life-cycle model as a best practices approach to investment
+management. While not compulsory, the framework articulates key activities for
+managing IT investments throughout the life cycle. The three phases ensure that
+investment management practices, including security, are disciplined and thorough

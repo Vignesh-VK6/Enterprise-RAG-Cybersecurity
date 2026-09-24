@@ -1,0 +1,15 @@
+17 See NIST 800-42, Guidelines on Network Security Testing, for additional guidance on network
+monitoring.
+18 See NIST SP 800-61, Computer Security Incident Handling Guide, and Chapter 13, Incident Response,
+of this guide for additional guidance on incident and event statistics.
+17
+CHAPTER 2 Information Security Governance
+supports. The following list is a summary of good information security governance
+practices that are critical for ensuring the security of enterprise information assets:
+• Information security activities should be governed based on relevant
+requirements, including laws, regulations, and organizational policies.
+• Senior managers should be actively involved in establishing information
+security governance framework and the act of governing the agency’s
+implementation of information security.
+• Information security responsibilities must be assigned and carried out by
+appropriately trained individuals.

@@ -1,0 +1,15 @@
+• NIST SP 800-53 identifies a set of minimum security controls applicable to
+information systems based on FIPS 199 categorization (low, moderate, high).
+• OMB Circular A-11 directs agencies to complete Exhibit 300s and an Exhibit
+53. The Exhibit 300 reflects an investment’s plan for capital asset management.
+The Exhibit 300 is an input to the Exhibit 53, which provides the total
+information technology (IT) and information security spending for the year.
+• FISMA Report is an annual report to OMB detailing the agency’s security
+posture and any areas of weakness.35
+• Plan of Action and Milestones (POA&M) documents each agency security
+weakness, associated corrective action, and the corrective action cost.36
+As Figure 5-1 illustrates, the corrective action and cost information contained in
+the POA&M serve as inputs to the Exhibit 300s and are then rolled into the Exhibit
+
+35 See Chapter 11, Certification, Accreditation, and Security Assessments, of this guide for additional
+guidance on FIS

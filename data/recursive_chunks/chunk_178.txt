@@ -1,0 +1,13 @@
+Figure 5-4. Roles and Responsibilities throughout the CPIC Process
+5.4 Identify Baseline
+The first step in integrating information security and the CPIC process is to
+assess the security baseline. The security baseline provides a snapshot of the
+agency’s compliance with baseline security requirements (BLSRs) and is instrumental
+in identifying information security strengths and weaknesses. The result of a
+security baseline analysis enables agency executives to evaluate their information
+security posture and identify areas for improvement. Agencies can identify their
+baselines for enterprise-level and system-level investments. System-level
+investments are those security investments designed to strengthen a discrete
+system’s security posture, such as strengthening password controls or testing a
+contingency plan for a particular system. Enterprise-level investments are those
+security investments that are ubiquitous across the agency and will improve the

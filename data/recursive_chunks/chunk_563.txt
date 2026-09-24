@@ -1,0 +1,17 @@
+management and operation of the interconnection. In this section, the
+parties agree to maintain open lines of communication among designated
+staff at both the managerial and technical levels.
+• Section 6: Purpose of the ISA
+– This section states the purpose of the ISA.
+• Section 7: Security Requirement
+– Both parties agree to work together to ensure the joint security of the
+connected systems and the data they store, process, and transmit, as
+specified in the ISA. Each party should have identified security controls that
+apply to the interconnection based on each system’s information security
+categorization and impact level and agree on a mutual set of applicable
+controls.
+• Section 8: Cost Considerations
+– This section describes the terms and conditions of the associated costs of the
+interconnecting mechanism and/or media.
+• Section 9: Timeline
+– This section states the agreement’s timeline (e.g., “This agreement will

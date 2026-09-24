@@ -1,0 +1,15 @@
+environmental security mechanisms are described.
+Q. Are there common threats to a system?
+A. Yes. There are common threat sources that typically apply, regardless of the
+system that should be evaluated. These common threats can be categorized into
+three areas: (1) natural threats (e.g., floods, earthquakes, tornadoes, landslides,
+avalanches, electrical storms), (2) human threats (intentional or unintentional),
+and (3) environmental threats (e.g., power failure).
+Q. What is a vulnerability?
+A. NIST SP 800-30 defines vulnerability as “a flaw or weakness in system security
+procedures, design, implementation, or internal controls that could be exercised
+(accidentally triggered or intentionally exploited) and result in a security breach
+or a violation of the system’s security policy.”
+Q. What are the levels of risk?
+A. This risk scale, with it s ratings of High, Moderate, and Low, represents the degree
+or level of risk to which an information system, facility, or procedure might be

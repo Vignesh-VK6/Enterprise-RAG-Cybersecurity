@@ -1,0 +1,18 @@
+ Metrics are not easily obtainable if there are no
+procedures in place;
+3. Quantifiable performance metrics that are designed to capture and provide
+meaningful performance data. To provide meaningful data, quantifiable
+security metrics must be based on information security performance goals
+and objectives, and be easily obtainable and feasible to measure. They must
+also be repeatable, provide relevant performance trends over time, and be
+useful for tracking performance and directing resources; and
+4. Consistent, periodic analysis of the metrics data to apply lessons learned,
+improve the effectiveness of existing security controls, and plan future
+controls to meet new security requirements as they occur. Accurate data
+B-12
+Appendix B Frequently Asked Questions
+collection must be a priority with stakeholders and users if the collected data
+is to be meaningful to management and faciliate improvement of the overall
+security program.
+Q. What do information security metrics measure?
+A. Metri

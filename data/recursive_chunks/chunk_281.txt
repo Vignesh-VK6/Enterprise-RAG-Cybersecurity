@@ -1,0 +1,14 @@
+67
+CHAPTER 8 Security Planning
+security plans for minor applications52 are not required because the security controls
+for those applications are typically provided by the GSS or MA in which they operate.
+In those cases where the minor application is not connected to an MA or GSS, the
+minor application should be briefly described in a GSS plan that either has a common
+physical location or is supported by the same organization.
+8.2 Security Planning Roles and Responsibilities
+Agencies should develop policy on the system security planning process. System
+security plans are living documents that require periodic review, modification, and
+plans of action and milestones (POA&M) for implementing security controls.
+Procedures should be in place outlining who reviews the plans, keeps the plan
+current, and follows up on planned security controls. In addition, procedures should
+require that system security plans be developed and reviewed prior to proceeding

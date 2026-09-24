@@ -1,0 +1,18 @@
+ effect.
+Q. Is configuration management requ ired by all federal organizations?
+A. Yes. CM requirements are set forth by OMB and NIST and must be addressed by
+all federal organizations. NIST SP 800-53, Revision 1, Recommended Security
+Controls for Federal Information Systems, defines seven CM controls that
+B-28
+Appendix B Frequently Asked Questions
+organizations are required to implement based on an information system’s
+security categorization.
+Q. Is configuration manage ment a security function?
+A. No. Although not traditionally regarded as a security function, CM needs to be
+included in the SDLC due to its strong security implications. CM is just one
+component of an information system’s security posture. It falls under the
+operational controls of an information system and is interrelated with numerous
+other security disciplines, such as project management, risk management, C&A,
+and security awareness training.
+Q. What are the steps in the configuration management process?
+A. The CM p

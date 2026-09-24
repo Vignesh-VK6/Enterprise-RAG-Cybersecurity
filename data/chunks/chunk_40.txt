@@ -1,0 +1,17 @@
+curity programs, building upon
+earlier legislation through added emphasis on the management dimension of
+information security.
+– FISMA delegates to the National Institute of Standards and Technology
+(NIST) the responsibility to develop detailed information security standards
+and guidance for federal information systems, with the exception of national
+security systems.
+– FISMA designates to OMB the oversight of federal agencies’ information
+security implementation.
+– FISMA provides a comprehensive framework for securing federal government
+IT resources, including defining key federal government and agency roles
+and responsibilities, requiring agencies to integrate information security into
+their capital planning and enterprise architecture processes, requiring
+agencies to conduct annual information security reviews of all programs and
+systems, and reporting the results of those reviews to OMB.2
+• OMB Circular A-130, Management of Federal Information Resources, Appendix
+III, Security of F

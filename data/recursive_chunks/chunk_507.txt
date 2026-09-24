@@ -1,0 +1,17 @@
+an initial baseline of hardware, software, and firmware components for the
+information system and subsequently to controlling and maintaining an accurate
+inventory of any changes to the system. Changes to the hardware, software, or
+firmware of a system can have a significant impact on the security of the
+system…changes should be documented, and their potential impact on security
+should be assessed regularly.” NIST SP 800-53, Revision 1, Recommended Security
+Controls for Federal Information Systems, defines seven CM controls that
+organizations are required to implement based on an information system’s security
+categorization. The required CM controls are defined in Table 14-1.82
+Table 14-1. NIST SP 800-53 CM Control Family
+Identifier Title Control
+CM-1 Configuration
+Management
+Policy and
+Procedures
+The organization develops, disseminates, and periodically reviews/updates:
+(1) a formal, documented CM policy that addresses purpose, scope, roles,

@@ -1,0 +1,15 @@
+ject or
+task. As mentioned earlier, it is nearly impossible to carry out a systems
+development or management project with success in the absence of a sound and
+effective CM process. In the SDLC, the planning of the CM process falls in Phases 2
+and 3; the primary implementation of the CM process is performed during Phase 4,
+the Operations/ Maintenance phase. SDLC and its associated key tasks are depicted
+in Figure 14-1.
+
+83 See NIST SP 800-64, Security Considerations in the Information System Development Life Cycle, and
+Chapter 3, System Development Life Cycle, of this guide for additional information on the SDLC.
+84 See NIST SP 800-37, Guide for the Security Certification and Accreditation of Federal Information
+Systems, and Chapter 11, Certification, Accreditation, and Security Assessments, of this guide for
+additional guidance on C&A.
+85 See NIST SP 800-16, Information Technology Security Training Requirements: A Role- and
+Performance-Based Model; NIST SP 800-50, Building an Informat

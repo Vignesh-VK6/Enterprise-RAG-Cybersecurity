@@ -1,0 +1,33 @@
+lementation of individual security controls in
+the security control baselines defined in NIST SP 800-53. Several considerations
+described below can potentially impact how the baseline security controls are applied
+by the agency. System security plans should clearly identify which security controls
+used scoping guidance and include a description of the type of considerations that
+were made. The application of scoping guidance must be reviewed and approved by
+the authorizing official for the information system.
+
+Figure 8-1. Decomposition of Large and Complex Information Systems
+AGENCY GENERAL SUPPORT SYSTEM
+FIPS 199 High Impact
+• One system security plan reflects information system decomposition with adequate security
+controls assigned to each subsystem component.
+
+SYSTEM
+GUARD
+FIPS 199
+
+Subsystem Boundary
+LOCAL AREA
+NETWORK ALPHA
+FIPS 199
+Hi
+LOCAL AREA
+NETWORK BRAVO
+FIPS 199
+Moderate Impact
+Subsystem Boundary
+gh Impact
+Subsystem Boundary
+General Support System Boundary
+72
+CHAPTER 8 Secu

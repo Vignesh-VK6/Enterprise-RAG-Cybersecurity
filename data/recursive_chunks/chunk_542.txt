@@ -1,0 +1,13 @@
+Sometimes they will be users of applications, in other instances they may be
+involved in developing a new system, and in some situations, they may serve on
+a source selection board to evaluate vendor proposals for IT systems. An
+individual’s security knowledge and skills, and therefore training needs, change
+as their role changes.
+To address this reality, knowledge and skill needs have been categorized by job
+functions into six role-based specialties, which represent categories of generic
+organizational roles: Manage, Acquire, Design and Develop, Implement and
+Operate, and Review and Evaluate. Actual positions within your agency are then
+assigned to a role to determine the actual training requirements for that position.
+For example, personnel in positions with duties and tasks for contracting officer,
+contracting officer’s technical representative, and source selection board member
+would be aligned with the “acquire” role. The authorizing official, information

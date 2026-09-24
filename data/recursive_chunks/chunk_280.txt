@@ -1,0 +1,12 @@
+49 See NIST Publication 800-64, Security Considerations in the Information System Development Life
+Cycle, and Chapter 3, System Development Life Cycle, of this guide for additional guidance on the
+SDLC.
+50 Office of Management and Budget (OMB) Circular A- 130, Appendix III, defines major application as an
+application that requires special attention to security due to the risk and magnitude of harm resulting
+from the loss, misuse, or unauthorized access to or modification of the information in the application.
+51 OMB Circular A-130, Appendix III, defines general support system as an interconnected set of
+information resources under the same direct management control that shares common functionality. It
+normally includes hardware, software, information, data, applications, communications, and people.
+67
+CHAPTER 8 Security Planning
+security plans for minor applications52 are not required because the security controls

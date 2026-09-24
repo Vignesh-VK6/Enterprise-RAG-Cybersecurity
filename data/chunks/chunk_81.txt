@@ -1,0 +1,27 @@
+surement
+and Metrics14
+Metrics are tools designed to improve
+performance and accountability
+through the collection, analysis, and
+reporting of relevant performance-
+related data. Information security
+metrics monitor the accomplishment of
+goals and objectives by quantifying
+the implementation level of security
+controls and the efficiency and
+effectiveness of the controls, by
+analyzing the adequacy of security
+activities, and by identifying possible
+improvement actions.
+ Metrics/performance measures are aligned to the agency
+strategy and information security strategy, and therefore
+are aligned to mission requirements.
+ Agency uses metrics/performance measures to quantify
+and assess its information security performance and to
+identify and target corrective actions.
+ Agency decision makers use metrics/performance
+measures as an input into decision making regarding
+prioritization of activities and resource and funding
+allocations.
+ Agency uses metrics/perform ance measures that can be
+o

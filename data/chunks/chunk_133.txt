@@ -1,0 +1,19 @@
+ertification
+In response to the growing demand for information security personnel within
+federal agencies, there has been a movement toward increased professional
+standards for federal and contracted security personnel. This “professionalization”
+integrates training, education, and experience with an assessment mechanism to
+validate knowledge and skills, resulting in the “certification” of a predefined level of
+competence. The relationship among these professional development elements is
+illustrated in Figure 4-2.
+
+29
+CHAPTER 4 Awareness and Training
+
+Figure 4-2. Elements of Professional Development
+It should be noted that there are distinct differences among certifications that are
+offered by a variety of organizations. Primarily, one will encounter certificates of
+completion, certifications awarded by an industry and/or vendors, and graduate-level
+certificates awarded by academic institutions:
+• Certificates of completion are provided to individuals solely as a testament
+to completio

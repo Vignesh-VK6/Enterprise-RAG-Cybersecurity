@@ -1,0 +1,15 @@
+n listed on
+the cover sheet is the number of agency systems in the low, moderate, and high
+FIPS 199 impact categories.
+The series of questions are related to the management of an agency-wide
+information security program. Each of these questions addresses information
+security program elements critical to the success of an agency information security
+program. This section is flexible and extensible. The agency may add as many
+questions as desired to more fully assess the status and/or effectiveness of the
+agency information security program or to address questions or concerns that are
+raised by other interested parties.
+Each question should be answered for each level of IT Security maturity. For the
+“Policy” maturity level, to answer “Yes,” the topic should be documented in agency
+policy. For the “Procedures” maturity level, to answer “Yes,” the topic should be
+documented in detailed procedures. For the “Implemented” maturity level, to answer
+“Yes,” the implementation is verified by exam

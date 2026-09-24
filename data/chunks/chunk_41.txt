@@ -1,0 +1,15 @@
+rmation security reviews of all programs and
+systems, and reporting the results of those reviews to OMB.2
+• OMB Circular A-130, Management of Federal Information Resources, Appendix
+III, Security of Federal Automated Information Resources, establishes a
+minimum set of controls to be included in federal automated information
+security programs, assigns federal agency responsibilities for the security of
+automated information, and links agency automated information security
+programs and agency management control systems.3
+• Homeland Security Presidential Directive 12 (HSPD-12), released in August
+2004, specifies a "policy for a common identification standard for all Federal
+employees and contractors."4 HSPD-12 intends to increase identification
+security and interoperability by standardizing the process to issue a Federal
+employee or contractor an identification credential, and also by specifying the
+electronic and physical properties of the credential itself. The HSPD-12
+credential is kno

@@ -1,0 +1,15 @@
+, and date of last test.
+The results of continuous monitoring should be reported to the authorizing official
+and senior agency information security officer on a regular basis and any necessary
+updates made to the system security plan. A continuous monitoring reporting form is
+provided in NIST SP 800-53A.
+11.7 Program Assessments
+FISMA requires each agency to develop, document, and implement an agency-
+wide information security program to provide information security for the information
+and information systems that support the operations and assets of the agency,
+including those provided or managed by another agency, contractor, or other source.
+To ensure the adequacy and effectiveness of information security controls, FISMA
+requires agency program officials and CIOs to conduct annual reviews of the
+agency’s information security program and report the results to OMB. OMB uses this
+data to assist in its oversight responsibilities and to prepare an annual report to
+Congress on agency comp

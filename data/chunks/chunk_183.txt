@@ -1,0 +1,17 @@
+s IT portfolio, the agency aggregates Exhibit
+300s into the Exhibit 53. The Exhibit 53 provides an overview of the agency’s entire
+IT portfolio by listing every IT investment, life cycle, and budget-year cost
+information.
+In addition to containing all investments with Exhibit 300s, the Exhibit 53 also
+contains other IT investments that do not have Exhibit 300s (e.g., legacy systems
+with costs below agency thresholds). OMB evaluates an agency’s Exhibit 53 and
+
+42 The information presented in this special publication provides an overview of the prioritization process.
+For a detailed explanation of suggested system- and enterprise-level prioritization procedures, see NIST
+SP 800-65, pages 28-36.
+44
+CHAPTER 5 Capital Planning and Investment Control
+Exhibit 300s and determines appropriate funding amounts for the budget year based
+on the justification articulated in the Exhibit 300s. Agencies then receive their
+budget year funding and must implement or maintain their investments throughout
+t

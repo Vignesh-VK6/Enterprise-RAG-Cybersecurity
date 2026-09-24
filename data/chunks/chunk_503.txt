@@ -1,0 +1,16 @@
+ all systems or implementing public key infrastructure (PKI)
+throughout the enterprise. It is important to note that OMB/Executive Branch
+guidance or laws should be ranked highest among these priorities.
+Q. What is the basis for information security priorities the organization
+should consider in all agency investments?
+A. Priorities may be based on agency mi ssion, executive branch guidance such as
+the PMA, OMB guidance, or other external/internal priorities. Examples of
+security priorities include certifying and accrediting all systems or implementing
+PKI throughout the enterprise. It is important to note that OMB/executive branch
+guidance or laws should be ranked highest among these priorities.
+B-5
+Appendix B Frequently Asked Questions
+Q. What is the compliance gap?
+A. The compliance gap is the difference between the desired and actual compliance
+with the security requirements. For example, if an information system has
+completed 80 percent of certification and accreditation (C&A) act

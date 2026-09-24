@@ -1,0 +1,16 @@
+ for coordinating all aspects
+of the planning process and ensuring that it has both clear direction and sufficient
+resources. It also must have the commitment and support of the system and data
+owners, and other senior managers.
+Step 2: Define the Business Case
+Both organizations should work together to define the purpose of the
+interconnection, determine how it will support their mission requirements, and
+identify potential costs and risks. Defining the business case will establish the basis
+of the interconnection and facilitate the planning process. Factors that should be
+considered are estimated costs (e.g., staffing, equipment, facilities), expected
+benefits (e.g., improved efficiency), and potential risks (e.g., technical, legal, and
+financial).
+Step 3: Perform Certification and Accreditation
+Establishing an interconnection may represent a significant change to the
+connected systems. Before proceeding further, each organization should consider
+recertification and reaccreditation o

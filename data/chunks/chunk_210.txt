@@ -1,0 +1,16 @@
+ response procedures.
+If necessary, law enforcement authorities should be notified, and evidence should be
+preserved.
+The initiating party should provide a written notification to the other party in a
+timely manner (e.g., within five days). The notification should describe the nature of
+the incident, explain why and how the interconnection was terminated, and identify
+actions taken to isolate and investigate the incident. The notification should also
+specify when and under what conditions the interconnection may be restored, if
+appropriate.
+6.3.2 Restoration of Interconnection
+Both organizations may choose to restore the system interconnection after it has
+been terminated. The decision to restore the interconnection should be based on the
+cause and duration of the disconnection. For example, if the interconnection was
+terminated because of an attack, intrusion, or other contingency, both parties should
+implement appropriate countermeasures to prevent a recurrence of the problem. If
+52

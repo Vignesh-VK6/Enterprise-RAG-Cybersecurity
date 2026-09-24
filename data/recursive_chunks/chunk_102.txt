@@ -1,0 +1,12 @@
+information that the system is intended to transmit, process, and store. Security is
+most useful and cost-effective when such integration begins with a system
+development or integration project initiation, and is continued throughout the SDLC
+through system disposal. A number of federal laws and directives require integrating
+security into the SDLC, including the Federal Information Security Management Act
+(FISMA) and Office of Management and Budget (OMB) Circular A-130, Appendix III.
+This section provides a general overview of security integration into the SDLC and
+is not intended to prescribe any particular model or methodology. Each phase of the
+SDLC includes a minimum set of information security-related activities required to
+effectively incorporate security into a system. An organization can either use a
+generic SDLC as described in this section or develop a tailored SDLC that meets its
+specific needs. National Institute of Standards and Technology (NIST) Special

@@ -1,0 +1,18 @@
+he frequency of
+information exchanges. The plan also identifies whether the communications
+are one-way or two-way. Activities that support communication include:
+– Assessment (as is/to be models);
+– Strategic plan; and
+– Program implementation.
+• Outreach. Outreach is critical for leveraging best practices within the federal
+sector. It has two elements for intra- and interagency awareness. The intra-
+agency element promotes internal awareness of information security. A Web
+portal that provides a one-stop-shop for security information can be an
+effective outreach tool. Policy, frequently asked questions (FAQs), security e-
+newsletters, links to resources, and other useful information are easily
+accessible to all employees. This tool promotes a consistent and standard
+message. The interagency element promotes sharing among agencies and is
+used to leverage awareness and training resources.
+4.2.2 Training
+Information security training strives to produce relevant and needed security
+knowled

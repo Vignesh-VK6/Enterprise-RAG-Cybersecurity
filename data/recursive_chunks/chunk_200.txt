@@ -1,0 +1,9 @@
+42 The information presented in this special publication provides an overview of the prioritization process.
+For a detailed explanation of suggested system- and enterprise-level prioritization procedures, see NIST
+SP 800-65, pages 28-36.
+44
+CHAPTER 5 Capital Planning and Investment Control
+Exhibit 300s and determines appropriate funding amounts for the budget year based
+on the justification articulated in the Exhibit 300s. Agencies then receive their
+budget year funding and must implement or maintain their investments throughout
+the year by applying allocated funding.

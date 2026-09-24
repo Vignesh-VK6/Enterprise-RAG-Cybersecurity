@@ -1,0 +1,17 @@
+s and Technology Special Publication 800-60, Guide for
+Mapping Types of Information and Information Systems to Security Categories, June
+2004.
+National Institute of Standards and Technology Special Publication 800-64, Security
+Considerations in the Information System Development Life Cycle, Rev. 1 June 2004.
+83
+CHAPTER 10 Risk Management
+Chapter 10
+10. Risk Management
+An effective risk management process is an important component of a successful
+information security program. The principal goal of an organization’s risk
+management process is to protect the organization and its ability to perform its
+mission, not just its information assets. Therefore, the risk management process
+should not be treated primarily as a technical function carried out by the information
+security experts who operate and manage the information security system, but as an
+essential management function of the organization that is tightly woven into the
+system development life cycle (SDLC), 67 as depicted in Figure

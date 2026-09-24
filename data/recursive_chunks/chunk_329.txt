@@ -1,0 +1,18 @@
+components within a priority, as established by their individual RTOs.
+9.3 Step 3: Identify Preventive Controls
+In some cases, implementing preventive controls might mitigate outage impacts
+identified by the BIA. Preventive controls are measures that detect, deter, and/or
+reduce impacts to the system. When cost-effective, preventing an impact is desired
+over implementing recovery strategies (and therefore risking data loss and impact to
+the organization). Preventive measures are specific to individual components and
+the environment in which the components operate. Common controls include:
+• Uninterruptible power supply (UPS);
+• Fire suppression systems;
+• Gasoline or diesel-powered generators;
+• Air conditioning systems with excess capacity to permit failure of certain
+components;
+• Heat-resistant and waterproof containers for backup media and vital
+• nonelectronic records; and
+• Frequent, scheduled data backups.
+9.4 Step 4: Develop Recovery Strategies
+When a disruption occurs

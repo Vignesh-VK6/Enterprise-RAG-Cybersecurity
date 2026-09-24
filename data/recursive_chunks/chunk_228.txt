@@ -1,0 +1,15 @@
+and senior management.
+The decision to make the emergency disconnection should be made by the
+system owner (or a designated staff member) and implemented by technical staff.
+The system owner or designee should immediately notify the other party verbally
+and receive confirmation of the notification. Both parties should work together to
+isolate and investigate the incident, in accordance with incident response procedures.
+If necessary, law enforcement authorities should be notified, and evidence should be
+preserved.
+The initiating party should provide a written notification to the other party in a
+timely manner (e.g., within five days). The notification should describe the nature of
+the incident, explain why and how the interconnection was terminated, and identify
+actions taken to isolate and investigate the incident. The notification should also
+specify when and under what conditions the interconnection may be restored, if
+appropriate.
+6.3.2 Restoration of Interconnection

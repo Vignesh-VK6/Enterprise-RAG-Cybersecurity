@@ -1,0 +1,10 @@
+Websites:
+www.csrc.nist.gov
+www.gao.gov
+www.whitehouse.gov/omb/
+References:
+Public Law 107-347 [H.R. 2458], The E-Government Act of 2002, Title III of this Act
+is the Federal Information Security Management Act of 2002 (FISMA), December 17,
+2002.
+Office of Management and Budget Circular A-130, Management of Federal
+Information Resources, November 2000.

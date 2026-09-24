@@ -1,0 +1,4 @@
+6.2.2 Phase 2: Establishing the Interconnection
+After the system interconnection is planned and approved, it can be
+implemented. The recommended steps for establishing the system interconnection
+are provided in Figure 6-3.

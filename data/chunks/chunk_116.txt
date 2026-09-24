@@ -1,0 +1,18 @@
+configuration audits
+Continuous
+Monitoring
+ Monitor security controls to ensure that cont rols continue to be effective in their application
+through periodic testing and evaluation. Security control monitoring (i.e., verifying the
+continued effectiveness of those controls over time) and reporting the security status of the
+information system to appropriate agency officials is an essential activity of a comprehensive
+information security program. Monitor to ensure system security controls are functioning as
+required.
+ Perform self-administered or independent securi ty audits or other assessments periodically.
+Types: using automated tools, internal control audits, security checklists, and penetration
+testing.
+ Monitor system and/or users. Methods: re view system logs and reports, use automated
+tools, review change management, monitor external sources (trade literature, publications,
+electronic news, etc.), and perform periodic reaccreditation.
+− POA&Ms
+− Measurement and metrics
+− Netw

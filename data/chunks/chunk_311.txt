@@ -1,0 +1,23 @@
+ business processes or information systems,
+the changes must be clearly communicated and properly annotated in the beginning
+of the document.
+-------------------------------------------------
+
+Websites:
+Federal Emergency Management Agency (FEMA)
+http://www.FEMA.gov
+www.csrc.nist.gov
+
+82
+CHAPTER 9 Contingency Planning
+References:
+Federal Information Processing Standard 199, Standards for Security Categorization
+of Federal Information and Information Systems, February 2004.
+National Institute of Standards and Technology Special Publication 800-30, Risk
+Management Guide for Information Technology Systems, July 2002.
+National Institute of Standards and Technology Special Publication 800-34,
+Contingency Planning Guide for Information Technology Systems, June 2002.
+National Institute of Standards and Technology Special Publication 800-60, Guide for
+Mapping Types of Information and Information Systems to Security Categories, June
+2004.
+National Institute of Standards and Technology Special Pu

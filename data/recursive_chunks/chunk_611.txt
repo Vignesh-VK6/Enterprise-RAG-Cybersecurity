@@ -1,0 +1,12 @@
+B-23
+Appendix B Frequently Asked Questions
+B.9 Security Services and Products Acquisition – Summary of FAQs
+Q. What must be considered when ma naging a security services project?
+Q. What are the steps in the se curity services life cycle?
+Q. What should take place before selecting a security service?
+Q. Are there security services categories?
+Q. What is an organizational conflict of interest (OCI)?
+Q. What is a se rvice agreement?
+Q: Why should security products be used?
+Q. What important steps sh ould be taken while selecting a security product?
+Q. Who should be involved during th e security product selection process?

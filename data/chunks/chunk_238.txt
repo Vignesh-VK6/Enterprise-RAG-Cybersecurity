@@ -1,0 +1,15 @@
+ency, and mission impact.
+The specific aspect of information security that metrics will focus on at any given
+point will depend on information security program maturity. Implementation
+evidence, required to prove higher levels of effectiveness, will change from
+establishing existence of policy and procedures to quantifying implementation of
+these policies and procedures, then to quantifying results of implementation of
+policies and procedures, and ultimately to identifying the impact of implementation
+on the organization’s mission.
+Based on existing policies and procedures, the universe of possible metrics can
+be prohibitively large; therefore, agencies should prioritize metrics to ensure that the
+final set selected for initial implementation has the following attributes:
+• Facilitates improvement of high-priority security control implementation. High
+priority may be defined by the latest GAO or IG reports, results of a risk
+assessment, or an internal organizational goal;
+• Uses data t

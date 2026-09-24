@@ -1,0 +1,16 @@
+34
+CHAPTER 5 Capital Planning and Investment Control
+Chapter 5
+5. Capital Planning and Investment
+Control
+Increased competition for limited federal budgets and resources requires that
+agencies allocate available funding toward their highest-priority information security
+investments to afford the agency and its systems and data, the appropriate degree
+of security for their needs. This goal can be achieved through a formal enterprise
+capital planning and investment control (CPIC) process designed to facilitate and
+control the expenditure of agency funds. The Federal Information Security
+Management Act (FISMA) and other existing federal regulations charge federal
+agencies with integrating information security activities and the capital planning and
+investment control process. The practices discussed in this chapter are designed to
+help security practitioners and managers identify funding needs to secure systems
+and provide strategies for obtaining the necessary funding.

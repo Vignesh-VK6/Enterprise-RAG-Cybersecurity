@@ -1,0 +1,14 @@
+organization requesting the service. As service arrangements become more
+complex and employ commercial service providers, the formality of the
+agreement should increase. A fully externalized service arrangement with a
+commercial entity, for example, will require a formal contract so that managers
+can hold service providers accountable for their actions.
+Q. Why should security products be used?
+A. Security products should be selected and used within the organization’s overall
+program to manage the design, development, and maintenance of its information
+security infrastructure, and to protect the confidentiality, integrity, and
+availability of its mission-critical information.
+Q. What important steps should be taken while selecting a security
+product?
+A. It is important to perform a cost-ben efit analysis when selecting security
+products. As part of the cost-benefit analysis, a life cycle cost (LCC) estimate for

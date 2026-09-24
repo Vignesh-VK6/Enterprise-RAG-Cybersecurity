@@ -1,0 +1,18 @@
+ith this definition of risk in mind, the goal of the risk
+assessment process is to identify and assess the risks to a given environment. The
+depth of the risk assessment performed can vary greatly and is determined by the
+criticality and sensitivity of the system, as applied to confidentiality, integrity, and
+availability, a process which is described in detail in Federal Information Processing
+Standard (FIPS) 199. To meet the goal of the risk assessment, a nine-step process
+is defined in NIST SP 800-30 and summarized here. To simplify the process
+somewhat, the nine-step process described in NIST SP 800-30 is reduced to a six-
+85
+CHAPTER 10 Risk Management
+
+Figure 10-2. Risk Function
+
+Figure 10-3. Risk Assessment Process
+step process, whereby Steps 4, 5, and 6 of the process are combined to create the
+Risk Analysis step (see Figures 10-2 and 10-3). Depicted in Figure 10-2, below, is a
+high-level depiction of risk assessment process.
+The likelihood of a given threat successfully exploit

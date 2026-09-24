@@ -1,0 +1,31 @@
+ have
+been evaluated and tested by
+independent accredited laboratories
+against appropriate security
+specifications and requirements.
+Examples of these specifications include
+protection profiles based on ISO/IEC
+15408, the Common Criteria for IT
+Security Evaluation.77 However, agencies
+should consider their overall
+requirements and select products
+accordingly.
+Organizational  Is communication required across a domain
+boundary (implies the need for a boundary
+controller; e.g., subsystem of firewall, intrusion
+detection system, and/or routers)?
+
+Organizational  Are the system components (hardware or software)
+required for this product identified?
+
+Organizational  Is the security product c onsistent with physical
+security and other policy requirements?
+
+Organizational  Has the impact on the enterprise operational
+environment where this product will operate been
+considered?
+
+Organizational  Has the impact of emerging technologies on the
+product been considered?
+
+Organizational  Is the

@@ -1,0 +1,25 @@
+M controls are defined in Table 14-1.82
+Table 14-1. NIST SP 800-53 CM Control Family
+Identifier Title Control
+CM-1 Configuration
+Management
+Policy and
+Procedures
+The organization develops, disseminates, and periodically reviews/updates:
+(1) a formal, documented CM policy that addresses purpose, scope, roles,
+responsibilities, and compliance; and (2) formal, documented procedures to
+facilitate the implementation of the CM policy and associated CM controls.
+CM-2 Baseline
+Configuration
+The organization develops, documents, and maintains a current baseline
+configuration of the information system and an inventory of the system’s
+constituent components.
+
+82 See NIST SP 800-53, Revision 1, Recommended Security Controls for Federal Information Systems, for
+supplemental guidance and control enhancements associated with the implementation of these controls.
+131
+CHAPTER 14 Configuration Management
+Identifier Title Control
+CM-3 Configuration
+Change Control
+The organization documents and controls c

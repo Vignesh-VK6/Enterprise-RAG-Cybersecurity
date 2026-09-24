@@ -1,0 +1,12 @@
+of an information system and to explicitly accept the risk to agency operations,
+agency assets, or individuals based on the implementation of an agreed-upon set of
+security controls.” Within the security certification and accreditation process are four
+phases (Initiation, Security Certification, Security Accreditation, and Continuous
+Monitoring). The fourth phase, Continuous Monitoring, primarily deals with CM. “With
+regard to configuration management and control, it is important to document the
+proposed or actual changes to the information system and to subsequently
+determine the impact of those proposed or actual changes on the security of the
+system. …. Documenting information system changes and assessing the potential
+impact those changes may have on the security of the system is an essential aspect
+of continuous monitoring and maintaining the security accreditation.”87
+Lastly, in Phase 4, Operations/Maintenance, CM change control and auditing

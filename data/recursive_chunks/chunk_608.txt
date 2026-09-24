@@ -1,0 +1,17 @@
+Q. What factors should be consider ed when using an automated system
+assessment reporting tool?
+A. Automated tools can be used to suppo rt the assessment process and provide for
+easier roll-up of data for internal or external reporting. Factors to consider in
+using automated tools include:
+• Ascertaining the completeness of tool functionality in terms of supporting all
+components listed in NIST SP 800-53A;
+• Determining who will have access to the tools, including specific roles and
+responsibilities;
+• Ensuring that the system processing the tool is secure and is certified and
+accredited;
+• Providing adequate training for those using the tool(s); and
+• Establishing technical support capability.
+Q. What key security-related activities should be completed before a system
+is assessed?
+A. Before a system is assessed, there are ke y security-related activities that should
+be completed. An inventory of all systems should be conducted, and then all

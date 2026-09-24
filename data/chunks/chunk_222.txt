@@ -1,0 +1,22 @@
+S NO
+1 ISA Requirements:
+A Is there a formal requirement and justification for connecting two systems?
+B Are there two systems being interconnected?
+If YES, have the systems been specified?
+If NO, the two systems need to be specified.
+
+C Is there a list of benefits of required interconnection(s)?
+D Is the agency name or organization that initiated the requirement listed?
+2 System Security Considerations:
+A Has a security certification and accreditation of the system been completed?
+B Has the security certification and accreditation status been verified?
+C Are there security features in place to protect the confidentiality, integrity, and
+availability of the data and the systems being interconnected?
+
+D Has each system’s security categorization been identified per FIPS 199?
+E Have minimum controls been identified for each system in accordance with
+NIST SP 800-53?
+
+F Have both parties answered each subject item regardless if the subjected item only
+affects one party?
+If No, both parties 

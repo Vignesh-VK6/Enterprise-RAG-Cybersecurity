@@ -1,0 +1,16 @@
+ir organization. NIST SP 800-16
+provides guidance for establishing role- and performance-based security training
+programs.
+4.2.3 Education
+Education integrates all of the security skills and competencies of the various
+functional specialties into a common body of knowledge and adds a multidisciplinary
+study of concepts, issues, and principles (technological and social). Information
+security education strives to produce information security specialists and
+professionals who are capable of vision and proactive response. Several colleges and
+universities provide academic programs to support the information security needs of
+the public and private sectors. Many of these schools partner with the federal sector
+to accomplish research and development tasks to improve information security.
+4.2.4 Certification
+In response to the growing demand for information security personnel within
+federal agencies, there has been a movement toward increased professional
+standards for federal and contracted 

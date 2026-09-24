@@ -1,0 +1,27 @@
+e enterprise operational
+environment where this product will operate been
+considered?
+
+Organizational  Has the impact of emerging technologies on the
+product been considered?
+
+Organizational  Is the product necessary to mitigate risk? When selecting IT products,
+organizations need to consider the threat
+environment and the security functions
+needed to cost effectively mitigate the
+risks to an acceptable level.
+Organizational  Are the system components (hardware or software)
+required for the identified product?
+
+Organizational  Have security reviews included requirements for
+support, plug-in components, or middleware?
+
+Product  Have total life cycle support, ease-of-use,
+scalability, and interoperability requirements been
+determined?
+The total life cycle covers “cradle to
+grave” and hence includes security
+product disposal requirements.
+
+77 Product considerations for Common Criteria, National Information Assurance Partnership (NIAP) CMVP
+are further addressed in NIST SP 800-23, Gui

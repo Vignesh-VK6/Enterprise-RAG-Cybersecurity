@@ -1,0 +1,15 @@
+5 OMB, ‘Office of Management and Budget Circular A-130 Appendix III,’ 1996.
+6 OMB, Section 306, ‘Government Performance and Results Act’ (GPRA), 1993.
+6
+CHAPTER 2 Information Security Governance
+• Clear and comprehensive mission, vision, goals, and objectives and how they
+relate to agency mission;
+• High-level plan for achieving information security goals and objectives,
+including short- and mid-term objectives and performance targets, specific for
+each goal and objective, to be used throughout the life of this plan to manage
+progress toward successfully fulfilling the identified objectives; and
+• Performance measures to continuously monitor accomplishment of identified
+goals and objectives and their progress toward stated targets.
+Agencies should document their information security strategy in an information
+security strategic plan or another document, if appropriate. Regardless of how the
+information security strategy is documented, its contents should be aligned with the

@@ -1,0 +1,12 @@
+incidents can be prevented. Every organization that depends on information systems
+and networks to carry out its mission should identify and assess the risks to its
+systems and its information and reduce those risks to an acceptable level.78 An
+important component of this risk management process is the trending analysis of
+past computer security incidents and identifying effective ways to deal with them. A
+well-defined incident response capability helps the organization detect incidents
+rapidly, minimize loss and destruction, identify weaknesses, and restore information
+technology (IT) operations rapidly.
+The Federal Information Security Management Act (FISMA) specifically directs
+federal agencies to develop and implement procedures for detecting, reporting, and
+responding to security incidents. In addition, OMB79 directs federal agencies to
+identify in their FISMA report any incidents (physical or electronic) involving the loss

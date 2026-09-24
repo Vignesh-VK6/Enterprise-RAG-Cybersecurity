@@ -1,0 +1,24 @@
+nd typically occurs
+throughout all phases of the program life cycle. Agencies can use a variety of data
+originating from the ongoing information security program activities to monitor
+performance of programs under their purview, including POA&Ms, performance
+measurements and metrics, continuous assessment, configuration management and
+control, network monitoring, and incident statistics.
+Table 2-1 provides a broad overview of key ongoing activities that can assist in
+monitoring and improving an agency’s information governance activities.
+
+Table 2-1. Ongoing Monitoring Activities
+Activities Description of Activities Supporting Processes and Information
+Plans of
+Action and
+Milestones
+(POA&M)13
+POA&Ms assist in identifying,
+assessing, prioritizing, and monitoring
+the progress of corrective efforts for
+security weaknesses found in
+programs and systems. The POA&M
+tracks the measures implemented to
+correct deficiencies and to reduce or
+eliminate known vulnerabilities.
+POA&Ms can also assist 

@@ -1,0 +1,5 @@
+security controls is tied to the mission of the organization and the role of the system
+within the organization as it supports that mission. A more in-depth look at the
+various types of security controls can be found in NIST SP 800-53, Revision 1,
+Recommended Security Controls for Federal Information Systems, February 2006.
+Table 12-2 lists categories of information security services.

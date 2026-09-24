@@ -1,0 +1,9 @@
+activities required and assurance evidence needed to produce the desired level of confidence
+that the product will provide required information security features correctly and effectively.
+The analysis, based on legal, regulatory, protection, and functional security requirements, will
+be used as the basis for determining how much and what kinds of assurance are required.
+Risk Assessment24  Conduct formal risk assessment to identify syst em protection requirements. This analysis
+builds on the initial risk assessment performed during the initiation phase, but will be more in-
+depth and specific. Security categories derived from FIPS 199 are typically considered during
+the risk assessment process to help guide the initial selection of security controls for an
+information system.

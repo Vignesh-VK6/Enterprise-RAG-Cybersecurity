@@ -1,0 +1,16 @@
+these weights should be used to prioritize corrective actions. Alternatively,
+weights may be assigned to corrective actions in the Identify Corrective Actions
+phase based on the criticality of implementing specific corrective actions, the cost
+of corrective actions, and the magnitude of corrective actions’ impact on the
+organization’s security posture.
+Q. Are there any specific characteristics that should be defined in each
+metric?
+A. Once applicable metrics that contain th e qualities described above are identified,
+they will need to be documented with supporting detail, including frequency of
+data collection, data source, formula for calculation, implementation evidence for
+measured activity, and guide for metric data interpretation.
+B-14
+Appendix B Frequently Asked Questions
+B.5 Security Planning – Summary of FAQs
+Q. Are specific system security pl ans for minor applications required?
+Q. What are “Rules of Behavior”?

@@ -1,0 +1,13 @@
+be based on the overall risk mitigation goals, is likely to reflect higher criticality of
+department-level initiatives versus smaller-scale initiatives, and is a useful tool that
+facilitates integration of information security into the departmental capital planning
+process.
+A phased approach may be required to identify short-, mid-, and long-term
+metrics in which the implementation time frame depends on a combination of
+system-level effectiveness, metric priority, data availability, and process stability.
+Once applicable metrics that contain the qualities described above are identified,
+they will need to be documented with supporting detail, including frequency of data
+collection, data source, formula for calculation, implementation evidence for
+measured activity, and a guide for metric data interpretation. Other information
+about each metric can be defined based on an organization’s processing and
+business requirements.

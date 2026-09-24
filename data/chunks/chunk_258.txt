@@ -1,0 +1,14 @@
+130, Appendix III, defines major application as an
+application that requires special attention to security due to the risk and magnitude of harm resulting
+from the loss, misuse, or unauthorized access to or modification of the information in the application.
+51 OMB Circular A-130, Appendix III, defines general support system as an interconnected set of
+information resources under the same direct management control that shares common functionality. It
+normally includes hardware, software, information, data, applications, communications, and people.
+67
+CHAPTER 8 Security Planning
+security plans for minor applications52 are not required because the security controls
+for those applications are typically provided by the GSS or MA in which they operate.
+In those cases where the minor application is not connected to an MA or GSS, the
+minor application should be briefly described in a GSS plan that either has a common
+physical location or is supported by the same organization.
+8.2 Security Pla

@@ -1,0 +1,13 @@
+security programs, assigns federal agency responsibilities for the security of
+automated information, and links agency automated information security
+programs and agency management control systems.3
+• Homeland Security Presidential Directive 12 (HSPD-12), released in August
+2004, specifies a "policy for a common identification standard for all Federal
+employees and contractors."4 HSPD-12 intends to increase identification
+security and interoperability by standardizing the process to issue a Federal
+employee or contractor an identification credential, and also by specifying the
+electronic and physical properties of the credential itself. The HSPD-12
+credential is known as the Personal Identity Verification card.
+Figure 2-1 illustrates key roles of legislative, regulatory, and oversight bodies in
+establishing governance and information security governance requirements for the
+federal enterprise.

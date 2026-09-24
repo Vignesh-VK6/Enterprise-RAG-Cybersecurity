@@ -1,0 +1,10 @@
+applications. This process is intended to reduce the frequency of incidents, thereby
+allowing the incident response team to focus on handling serious incidents.
+Examples of practices that help to prevent incidents are as follows:
+• Having a patch management program to assist system administrators in
+identifying, acquiring, testing, and deploying patches that eliminate known
+vulnerabilities in systems and applications;
+• Hardening all hosts appropriately to eliminate vulnerabilities and configuration
+weaknesses;
+• Configuring the network perimeter to deny all activity that is not expressly
+permitted;

@@ -1,0 +1,13 @@
+validation of the placement of the various systems to ensure that stakeholders’
+priorities are met.
+Agency information security stakeholders should review the prioritization results
+to ensure that the prioritization is appropriate and given the opportunity to
+reprioritize their inputs if the results of the process are found to be unsatisfactory.
+Assuming the agency stakeholders agree that all prioritized corrective actions are
+appropriate, as displayed in Figure 5-6, the analysis can proceed accordingly. As
+indicated by the axes, the implementation of corrective actions should begin with cell
+HG and proceed diagonally down to cell LB to ensure that the agency implements the
+most cost-effective, high-impact corrective actions.
+To continue with the example, assume the notional agency has a $2,000,000
+budget to implement information security corrective actions. As Figure 5-6
+demonstrates, adding the three highest priority cells together (HG, HA, and MG)

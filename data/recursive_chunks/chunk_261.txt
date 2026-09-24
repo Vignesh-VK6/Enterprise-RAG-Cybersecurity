@@ -1,0 +1,12 @@
+measurement may not be entirely useless, because such a metric will certainly
+produce poor results and will therefore identify an area that needs
+improvement.
+Metrics can be derived from existing data sources, including security certification
+and accreditation, security assessments, plan of action and milestones (POA&M),
+incident statistics, and agency-initiated or independent reviews.47 Agencies may
+decide to use a weighting scale to differentiate the importance of selected metrics
+and to ensure that the results accurately reflect existing security program priorities.
+This process would involve assigning values to each metric based on the importance
+of a metric in the context of the overall security program. Metrics weighting should
+be based on the overall risk mitigation goals, is likely to reflect higher criticality of
+department-level initiatives versus smaller-scale initiatives, and is a useful tool that

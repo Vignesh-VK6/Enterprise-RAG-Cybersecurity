@@ -1,0 +1,14 @@
+ and magnitude of harm resulting from the loss, misuse, or
+unauthorized access to or modification of the information in the application. Minor applications are
+typically included as part of a GSS.
+53 See NIST SP 800-37, Guide for the Security Certification and Accreditation of Federal Information
+Systems, and Chapter 11, Certification and Accreditation, of this guide for additional guidance on the
+C&A process.
+54 Caution should be exercised when one individual fill s multiple roles in the security planning process to
+ensure that the individual retains an appropriate level of independence and remains free from conflicts
+of interest.
+55 See Chapter 2, Governance, Chapter 5, Capital Planning, Chapter 11, Certification, Accreditation, and
+Security Assessments, and Chapter 14, Configuration Management, of this guide for additional guidance
+on roles and responsibilities.
+56 When an agency has not designated a formal CIO position, the Federal Information Security
+Management Act (FISMA) requir

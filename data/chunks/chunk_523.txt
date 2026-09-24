@@ -1,0 +1,16 @@
+termining the effectiveness of implemented information security processes,
+procedures, and controls by relating results of information security activities
+(e.g., incident data, revenue lost to cyber attacks) to the respective
+requirements and to information security investments.
+Q. What are the interdependent components of the security metrics
+program?
+A. The interdependent components of the security metrics program are:
+1. Strong upper-level management support, which establishes a focus on
+security within the highest levels of the organization;
+2. Practical security policies and procedures backed by the authority necessary
+to enforce compliance. Practical security policies and procedures are defined
+as those that are attainable and provide meaningful security through
+appropriate controls. Metrics are not easily obtainable if there are no
+procedures in place;
+3. Quantifiable performance metrics that are designed to capture and provide
+meaningful performance data. To provide meaningful 

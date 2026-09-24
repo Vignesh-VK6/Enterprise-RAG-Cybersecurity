@@ -1,0 +1,10 @@
+9. Information Technology Contingency Planning ............................................. 78
+9.1 Step 1: Develop Contingency Planning Policy Statement.........................................79
+9.2 Step 2: Conduct Business Impact Analysis...............................................................79
+9.3 Step 3: Identify Preventive Controls ..........................................................................80
+9.4 Step 4: Develop Recovery Strategies .......................................................................80
+9.5 Step 5: Develop IT Contingency Plan .......................................................................81
+viii
+Table of Contents
+9.6 Step 6: Plan Testing, Training, and Exercises ..........................................................82
+9.7 Step 7: Plan Maintenance .........................................................................................82

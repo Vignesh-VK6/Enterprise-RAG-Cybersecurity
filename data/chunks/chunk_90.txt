@@ -1,0 +1,17 @@
+legislation is frequently introduced.
+• Prioritizing available funding according to requirements. Increased
+competition for limited federal budgets and resources requires that agencies
+allocate available funding toward their highest-priority information security
+investments.
+Information security governance provides a framework for establishing and
+maintaining an information security program that will evolve with the organization it
+
+17 See NIST 800-42, Guidelines on Network Security Testing, for additional guidance on network
+monitoring.
+18 See NIST SP 800-61, Computer Security Incident Handling Guide, and Chapter 13, Incident Response,
+of this guide for additional guidance on incident and event statistics.
+17
+CHAPTER 2 Information Security Governance
+supports. The following list is a summary of good information security governance
+practices that are critical for ensuring the security of enterprise information assets:
+• Information security activities should be governed based on releva

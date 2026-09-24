@@ -1,0 +1,14 @@
+73 See NIST 800-18, Guide for Developing Security Plans for Federal Information Systems, Revision 1, and
+Chapter 8, Security Planning, of this guide for additional guidance on system security planning.
+102
+Chapter 11 Certification, Accreditation, and Security Assessments
+• Supporting rationale for the decision – justification for the authorizing official’s
+decision; and
+• Terms and conditions for the authorization – limitations or restrictions placed
+on the operation of the system to which the system owner is bound.
+The contents of security certification and accreditation-related documentation,
+especially information dealing with information system vulnerabilities, should be
+marked and protected appropriately in accordance with agency policy, and retained
+in accordance with the agency’s record retention policy.
+11.6 Continuous Monitoring
+The Continuous Monitoring phase is an essential component in any security

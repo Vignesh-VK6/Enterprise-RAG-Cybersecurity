@@ -1,0 +1,21 @@
+plain the rules of
+behavior for using an agency’s information systems and information and
+establishes a level of expectation on the acceptable use of the information and
+information systems. Types of tools include:
+– Events, such as a security awareness day;
+– Promotional materials;
+– Briefings (program- or system-specific- or issue-specific); and
+– Rules of behavior.
+• Communication. A large part of an awareness effort is communication with
+users, managers, executives, system owners, and others. A communications
+
+32 NIST SP 800-50, Building an Information Technology Security Awareness and Training Program, October
+2003.
+28
+CHAPTER 4 Awareness and Training
+plan is needed to identify stakeholders, types of information that is to be
+disseminated, channels for disseminating information, and the frequency of
+information exchanges. The plan also identifies whether the communications
+are one-way or two-way. Activities that support communication include:
+– Assessment (as is/to be models);
+– S

@@ -1,0 +1,17 @@
+1 GAO, GAO-04-534SP, 'GAO Strategic Plan 2004-2009,' March 2004.
+3
+CHAPTER 2 Information Security Governance
+– Conduct and submit to OMB privacy impact assessments for all new IT
+investments administering information in identifiable form collected from or
+about members of the public.
+Supporting these acts, three legislative documents emerge as the foundational
+sources for specific information security governance requirements:
+• The Federal Information Security Management (FISMA) Act is the primary
+legislation governing federal information security programs, building upon
+earlier legislation through added emphasis on the management dimension of
+information security.
+– FISMA delegates to the National Institute of Standards and Technology
+(NIST) the responsibility to develop detailed information security standards
+and guidance for federal information systems, with the exception of national
+security systems.
+– FISMA designates to OMB the oversight of federal agencies’ information

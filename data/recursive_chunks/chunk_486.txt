@@ -1,0 +1,15 @@
+guidelines so that only the appropriate information is shared with the right
+parties. If sensitive information is inappropriately released, it can lead to
+125
+CHAPTER 13 Incident Response
+greater disruption and financial loss than the incident itself. Creating and
+maintaining a list of internal and external points of contact (POC), along with
+backups for each contact, should assist in making communications among
+parties easier and faster.
+• Define Incident Response Team Services. Although the main focus of an
+incident response team is performing incident response, most teams offer
+additional services. Examples of the types of services an incident response
+team can provide to the organization include security advisory distribution,
+vulnerability assessment, intrusion detection, and education and awareness.
+• Select a Team Structure and Staffing Model. The organization should
+select the team structure and staffing model best suited to its needs. When

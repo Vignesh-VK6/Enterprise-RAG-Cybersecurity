@@ -1,0 +1,14 @@
+have been previously identified in other sources.
+In addition, developing a security requirements checklist based on the security
+requirements specified for the system during the conceptual, design, and
+implementation phases of the SDLC can be used to provide a 360-degree inspection
+of the system. The checklist can be developed using the guidance provided in NIST
+SP 800-53A, Guide for Assessing the Security Controls in Federal Information
+Systems (draft), and NIST SP 800-53, Recommended Security Controls for Federal
+Information Systems, to ensure the inclusion of appropriate questions in the areas of
+management, operational, and technical security controls. The results of the
+checklist (or questionnaire) can be used as input for evaluating compliance and
+noncompliance, which in turn identifies system, process, and procedural weaknesses
+that represent potential vulnerabilities.
+10.1.4 Step 4 – Risk Analysis
+The risk analysis is a determination (or estimation) of risk to the system, an

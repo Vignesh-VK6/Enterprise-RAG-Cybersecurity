@@ -1,0 +1,8 @@
+during its operational phase to determine whether the investment is within the cost
+and schedule milestones established at the beginning of the investment life cycle.
+Typical processes involved in the Control phase include using a set of performance
+measures to monitor the developmental progress for each IT project to enable early
+problem identification and resolution.
+The Evaluate phase refers to determining the efficacy of the investment,
+answering the question, “Did the investment achieve the desired results and
+performance goals identified during the Select phase?”

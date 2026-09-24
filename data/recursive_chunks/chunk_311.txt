@@ -1,0 +1,7 @@
+employ the security controls from the moderate baseline of security controls
+defined in NIST SP 800-53 and must ensure that the minimum assurance
+requirements associated with the moderate baseline are satisfied.
+• For high-impact information systems, an agency must, at a minimum, use the
+security controls from the high baseline of security controls defined in NIST SP
+800-53 and must ensure that the minimum assurance requirements associated
+with the high baseline are satisfied.

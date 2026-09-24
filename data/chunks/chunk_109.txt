@@ -1,0 +1,18 @@
+personnel, and training.
+Security Planning26
+
+ Fully document agreed-upon security controls, planned or in place.
+ Develop the system security plan.
+ Develop documents supporting the agency’s information security program (e.g., CM plan,
+contingency plan, incident response plan, security awareness and training plan, rules of
+behavior, risk assessment, security test and evaluation results, system interconnection
+agreements, security authorizations/accreditations, and plans of action and milestones
+[POA&M]).
+ Develop awareness and training require ments, including user manuals and
+operations/administrative manuals.
+Security Control
+Development27
+ Develop, design, and implement security controls described in the respective security plans.
+For information systems currently in operation, the security plans for those systems that may
+call for developing additional security controls to supplement the controls already in place or
+for those that may call for modifying selected controls that

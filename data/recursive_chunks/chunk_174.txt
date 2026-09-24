@@ -1,0 +1,6 @@
+5.3 Capital Planning and Investment Control Roles and Responsibilities37
+Integrating information security into the CPIC process requires input and
+collaboration across operating units and lines of business throughout the life cycle of
+technology investments. Figure 5-3 depicts a hierarchical approach to the CPIC
+process in which investment decisions are made at both the enterprise and
+operating-unit levels.

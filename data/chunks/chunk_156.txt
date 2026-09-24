@@ -1,0 +1,18 @@
+ivities designated to monitor the investment
+during its operational phase to determine whether the investment is within the cost
+and schedule milestones established at the beginning of the investment life cycle.
+Typical processes involved in the Control phase include using a set of performance
+measures to monitor the developmental progress for each IT project to enable early
+problem identification and resolution.
+The Evaluate phase refers to determining the efficacy of the investment,
+answering the question, “Did the investment achieve the desired results and
+performance goals identified during the Select phase?”
+
+Figure 5-1. Select-Control-Evaluate Investment Life Cycle
+
+36
+CHAPTER 5 Capital Planning and Investment Control
+Figure 5-1 illustrates the relationship between security drivers in the GAO Select-
+Control-Evaluate investment lifecycle and the System Development Life Cycle
+(SDLC). During the Select phase, security drivers include assessment activities to
+ensure that IT security

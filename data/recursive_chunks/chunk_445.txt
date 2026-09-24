@@ -1,0 +1,14 @@
+tools to increase the likelihood of success of acquired security services. Two
+important tools are metrics and service agreements, both of which can be used to
+make security service providers accountable for the results derived from the services
+they provide to the organization.
+• Metrics are a management tool that facilitates decision making and
+accountability through practical, relevant data collection, data analysis, and
+performance data reporting.
+• A service agreement is an agreement between the service provider and the
+organization requesting the service that specifies all services the service
+provider is to provide, to what extent, the duration of services, etc.
+12.2.2 Information Security Services Issues
+Implementing a security service and service arrangement can be complex. Each
+security service carries its own costs and associated risks, as does each service
+arrangement. Making a decision based on one single issue can have major

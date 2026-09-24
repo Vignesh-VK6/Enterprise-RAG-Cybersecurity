@@ -1,0 +1,21 @@
+• Heat-resistant and waterproof containers for backup media and vital
+• nonelectronic records; and
+• Frequent, scheduled data backups.
+9.4 Step 4: Develop Recovery Strategies
+When a disruption occurs
+despite the preventive
+measures implemented, a
+recovery strategy must be in
+place to recover and restore
+data and system operations
+within the RTO period. The recovery strategy is designed from a combination of
+methods, which together address the full spectrum of information system risks.
+Several options may be evaluated during the Development phase; the most cost-
+effective option, based on potential impact, should be selected and integrated into
+the information system architecture and operating procedures.
+System data must be backed
+up regularly; therefore, all IT
+contingency plans should
+include a method and frequency
+for conducting data backups.
+The frequency of backup methods—daily or weekly, incremental or full—should be

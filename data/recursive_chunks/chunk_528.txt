@@ -1,0 +1,13 @@
+lowering the potential risk to a network by “patching” or repairing known
+vulnerabilities in any of the network or system environments. Increasingly, vendors
+are proactive in developing and releasing to the public fixes (or antidotes) to known
+vulnerabilities, and agencies must remain vigilant to ensure that they capture all
+relevant fixes as they are released, test their implementation for adverse effects, and
+136
+CHAPTER 14 Configuration Management
+implement them if deemed appropriate after testing is concluded. Patching is
+associated with Phase 4 in the life cycle as well as with Phases 2 and 3. In Phase 2,
+patch management relates to risk management to prevent any vulnerability from
+being exploited and compromised. Phase 3 contains the testing to ensure that any
+change (including the patching) does not negatively impact the system.
+-------------------------------------------------

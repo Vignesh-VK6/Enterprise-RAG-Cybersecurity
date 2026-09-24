@@ -1,0 +1,16 @@
+Certain commercial entities, equipment, or materials may be identified in this document in order
+to describe an experimental procedure or concept adequately. Such identification is not intended
+to imply recommendation or endorsement by NIST, nor is it intended to imply that the entities,
+materials, or equipment are necessarily the best available for the purpose.
+
+Acknowledgements
+NIST would like to thank the many people who assisted with the development of this handbook.
+NIST management officials who supported this effort include: Joan Hash, William C. Barker,
+Elizabeth Chew, and Matthew Scholl.
+
+The authors would like to thank Elizabeth Lennon, Alicia Clay, Elizabeth Chew, Richard Kissel,
+Carol Schmidt, Matthew Scholl, and Patricia Toth who assisted with reviewing this Handbook
+and provided comments and suggestions for improvement.
+Additional drafters of Handbook chapters include:
+
+Ron Ross, Tim Grance, and Marianne Swanson, NIST.

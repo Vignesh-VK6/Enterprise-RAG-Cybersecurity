@@ -1,0 +1,18 @@
+ocess to plan a system interconnection. A more
+detailed process is described in the following paragraphs.
+
+44 See NIST SP 800-30, Risk Management Guide for Information Technology Systems; Chapter 10, Risk
+Management, and Chapter 11, Certification, Accreditation, and Security Assessments, of this guide can
+be consulted for additional guidance on security control reviews.
+48
+CHAPTER 6 Interconnecting Systems
+
+Figure 6-2. Steps to Plan a System Interconnection
+Step 1: Establish a Joint Planning Team
+The organizations should consider establishing a joint planning team composed of
+appropriate management and technical staff that includes program managers,
+system security officers, system administrators, network administrators, and system
+architects. The typical joint planning team is responsible for coordinating all aspects
+of the planning process and ensuring that it has both clear direction and sufficient
+resources. It also must have the commitment and support of the system and data
+owners

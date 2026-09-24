@@ -1,0 +1,17 @@
+etrics will assist in satisfying the annual FISMA
+reporting requirement by providing an infrastructure for organized data
+collection, analysis and reporting. Also, information security metrics can be used
+as input into Government Accountability Office (GAO) and Inspectors General
+(IG) audits. Implementation of an information security metrics program will
+demonstrate agency commitment to proactive security.
+Q. Metrics help answer three basic questions, what are they?
+A. Metrics are one element of a manager’s toolkit for making and substantiating
+decisions. Metrics are used to answer three basic questions:
+1. Am I implementing the tasks for which I am responsible?
+2. How efficiently or effectively am I accomplishing those tasks?
+B-13
+Appendix B Frequently Asked Questions
+3. What impact are those tasks having on the mission of my organization?
+Q. How are the different metrics selected?
+A. The universe of possible metrics, based on existing policies and procedures, will
+be quite large. Met

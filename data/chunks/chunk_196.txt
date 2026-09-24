@@ -1,0 +1,17 @@
+e “life-cycle management” approach for
+interconnecting information systems that emphasizes proper attention to information
+security:
+• Phase 1: Planning the Interconnection;
+• Phase 2: Establishing the Interconnection;
+• Phase 3: Maintaining the Interconnection; and
+• Phase 4: Disconnecting the Interconnection.
+6.2.1 Phase 1: Planning the Interconnection
+The process of connecting two or more information systems begins with a
+planning phase, where the participating organizations perform preliminary activities
+and examine all relevant technical, security, and administrative issues. The planning
+phase ensures that the interconnection will operate as efficiently and securely as
+possible. Six steps are recommended for planning a system interconnection. Figure
+6-2 illustrates the step-by-step process to plan a system interconnection. A more
+detailed process is described in the following paragraphs.
+
+44 See NIST SP 800-30, Risk Management Guide for Information Technology Systems; Chapter 10, 

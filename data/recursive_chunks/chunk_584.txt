@@ -1,0 +1,17 @@
+89 NIST SP 800-37 defines a minor application as an application, other than a major application, that
+requires attention to security due to the risk and magnitude of harm resulting from the loss, misuse, or
+unauthorized access to or modification of the information in the application. Minor applications are
+typically included as part of a GSS.
+B-15
+Appendix B Frequently Asked Questions
+B.6 IT Contingency Planning – Summary of FAQs
+Q. What is IT contingency planning?
+Q. In what time frame must systems and data be recovered and restored when a
+disruption occurs?
+Q. What is the contingency planning policy statement?
+Q. What is a business impact analysis (BIA)?
+Q. What is maximum allowable outage (MAO)?
+Q. What is the recovery time objective (RTO)?
+Q. What are the components of the IT contingency plan strategy that must be
+tested?
+Q. Where should backup data be stored?

@@ -1,0 +1,16 @@
+rovide an overview of the integration of information
+security into the CPIC process to help ensure that corrective actions identified in the
+annual FISMA reporting process through POA&Ms are incorporated into the CPIC
+process to deliver maximum security in a cost-effective manner.
+5.3 Capital Planning and Investment Control Roles and Responsibilities37
+Integrating information security into the CPIC process requires input and
+collaboration across operating units and lines of business throughout the life cycle of
+technology investments. Figure 5-3 depicts a hierarchical approach to the CPIC
+process in which investment decisions are made at both the enterprise and
+operating-unit levels.
+
+Figure 5-3. Notional IT Management Hierarchy
+While specific practices for investment management can differ at the operating-
+unit level because of varying mission scopes, the process generally mirrors the
+process at the departmental level. The CIO formulates and articulates information
+security priorities

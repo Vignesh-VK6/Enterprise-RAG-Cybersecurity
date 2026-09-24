@@ -1,0 +1,14 @@
+• Enable more consistent, comparable, and repeatable assessments of security
+controls in federal information systems;
+• Promote a better understanding of agency-related mission risks resulting from
+the operation of information systems; and
+• Create more complete, reliable, and trustworthy information for authorizing
+officials to facilitate more informed security accreditation decisions.
+NIST SP 800-37 provides augmented, updated security certification and
+accreditation information to federal agencies and replaced Federal Information
+Processing Standard (FIPS) 102, Guidelines for Computer Security Certification and
+Accreditation, September 1983, when it was rescinded in February 2005.
+11.1 Certification, Accreditation, and Security Assessments Roles and
+Responsibilities
+While federal agencies have in place widely varied naming
+conventions/nomenclatures for IT security or security certification and accreditation

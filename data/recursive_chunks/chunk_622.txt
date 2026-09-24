@@ -1,0 +1,16 @@
+timeframe of when it needs to be reported to US-CERT. These time frames are
+as follows:
+• Unauthorized Access: Within one (1) hour of discovery and/or detection;
+• Denial of Service: Within two (2) hours of discovery and/or detection;
+• Malicious Code: Daily or within one (1) hour if discovery and/or detection is
+widespread; and
+• Improper Usage: On a weekly basis.
+In addition, agencies must report Sc ans/Probes/Attempted Access on a monthly
+basis or within one (1) hour of discover if it is a classified system.
+In addition, a system-speci fic incident response plan is considered an integral
+part of a complete system certification and accreditation package.
+Q. Is it possible to prepare for incident response?
+A. Yes. To prepare for incident response, the organization should do the following:
+• Create an organization-specific definition of the term “incident” so that the
+scope of the term is clear;
+• Create an incident response policy;

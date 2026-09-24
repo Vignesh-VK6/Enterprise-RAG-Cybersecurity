@@ -1,0 +1,17 @@
+ew system.
+
+64 All departments and agencies must have IT contingency plans for certified and accredited systems and
+must also have an organizational Continuity of Operations (COOP) plan for essential federal functions.
+65 See NIST FIPS 199, Standards for Security Categorization of Federal Information and Information
+Systems, NIST 800-60, Guide for Mapping Types of Information and Information Systems to Security
+Categories, and Chapter 8, Security Planning, of this guide for additional guidance on determining
+system classifications.
+66 See National Institute of Standards and Technology Special Publication 800-64, Security Considerations
+in the Information System Development Life Cycle, and Chapter 3, System Development Life Cycle, of
+this guide for additional guidance on the SDLC.
+78
+CHAPTER 9 Contingency Planning
+
+Figure 9-1. The Seven-Step IT Contingency Planning Process
+9.1 Step 1: Develop Contingency Planning Policy Statement
+When developing an IT contingency plan, the first step is

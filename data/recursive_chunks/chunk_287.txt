@@ -1,0 +1,15 @@
+• Ensuring that system users and support personnel receive the requisite security
+training (e.g., instruction in rules of behavior) and assisting in the
+identification, implementation, and assessment of the common security
+controls.
+8.2.3 Information Owner
+The information owner is the agency official with statutory or operational
+authority for specified information and is responsible for establishing the controls for
+information generation, collection, processing, dissemination, and disposal. The
+information owner has the following responsibilities related to system security plans:
+• Establishing the rules for the appropriate use and protection of the subject
+data/information (rules of behavior);58
+• Providing input to information system owners on the security requirements and
+security controls for the information systems where the information resides;
+• Deciding who has access to the information system and determining what types
+of privileges or access rights; and

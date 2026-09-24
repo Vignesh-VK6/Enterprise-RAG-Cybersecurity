@@ -1,0 +1,14 @@
+to abide by the rules of behavior. Electronic signatures are acceptable for use in
+acknowledging the rules of behavior.
+Table 8-1 lists examples from OMB Circular A-130, Appendix III, of what should
+be covered in typical rules of behavior. These are examples only and agencies have
+flexibility in the detail and content. When developing the rules of behavior, agencies
+should be aware that the intended function of this document is to make all users
+accountable for their actions by acknowledging that they have read, understood, and
+agreed to abide by the rules of behavior. The rules, while not intended as a complete
+copy of the security policy or procedures guide, should cover, at a high level, some
+of the controls described in Table 8-1. Lastly, agencies can incorporate, by reference,
+the agency body of policies and procedures governing information security and other
+applicable policies in the text of the rules of behavior.
+70
+CHAPTER 8 Security Planning

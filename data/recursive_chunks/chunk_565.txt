@@ -1,0 +1,13 @@
+between the two organizations. The MOU/MOA should not include technical
+details regarding how the interconnection is established; that is the function of
+the ISA. An ISA is a distinct security-related document that outlines the technical
+solution and security requirements for the interconnection. It does not replace an
+MOU/MOA. As older MOUs/MOAs are updated, they should be changed to refer to
+the appropriate ISA covering the connectivity addressed by the MOU/MOA. An
+ISA can be signed only by the two AOs/DAAs (or other authorizing management
+officials as designated by the organizations involved) whose names appear in
+Section 4 of the agreement. The ISA should be formally signed before the
+interconnection is declared operational.
+Q. Is it acceptable to combine the MOU/MOA and the ISA?
+A. Yes. Organizations may combine I SAs and MOUs/MOAs to simplify their
+management processes and reduce paperwork. When combining ISAs and

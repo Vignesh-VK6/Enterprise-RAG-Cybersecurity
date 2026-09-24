@@ -1,0 +1,19 @@
+program?
+A. The metrics development process establishes the initial set of metrics and selects
+the metrics subset appropriate for an organization at a given time. The metrics
+program implementation process operates a metrics program that is iterative by
+nature and ensures that appropriate aspects of information security are
+measured for a specific time period.
+Q. What are the activities that comprise the information security metrics
+process?
+A. The information security metrics deve lopment process consists of two major
+activities:
+1. Identification and definition of the current information security program;
+and
+2. Development and selection of specific metrics to measure implementation,
+efficiency, effectiveness, and the impact of the security controls.
+Q. What are the activities that comprise the information security
+implementation process?
+A. The information security implementa tion process consists of six phases:
+1. Prepare for data collection;
+2. Collect data and analyze results;

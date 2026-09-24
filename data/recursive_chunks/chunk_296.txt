@@ -1,0 +1,11 @@
+how large GSSs can be broken down for the purpose of security planning.
+The process of uniquely assigning information resources60 to an information
+system defines the security boundary for that system. Agencies have great flexibility
+in determining what constitutes an information system (i.e., MA or GSS). If a set of
+information resources is identified as an information system, the resources should
+generally be under the same direct management control. Direct management
+control61 does not necessarily imply that there is no intervening management. It is
+also possible for an information system to contain multiple subsystems. A subsystem
+is a major subdivision or component of an information system consisting of
+information, information technology (IT), and personnel that perform one or more
+specific functions.

@@ -1,0 +1,17 @@
+sage: On a weekly basis.
+In addition, agencies must report Sc ans/Probes/Attempted Access on a monthly
+basis or within one (1) hour of discover if it is a classified system.
+In addition, a system-speci fic incident response plan is considered an integral
+part of a complete system certification and accreditation package.
+Q. Is it possible to prepare for incident response?
+A. Yes. To prepare for incident response, the organization should do the following:
+• Create an organization-specific definition of the term “incident” so that the
+scope of the term is clear;
+• Create an incident response policy;
+• Develop incident response and reporting procedures;
+• Set guidelines for communicating with external parties;
+• Determine incident response team services;
+• Select a team structure and staffing model; and
+• Staff and train the incident response team.
+Q. What should be included in the incident response policy?
+A. An incident response policy should defi ne which events are considered incidents

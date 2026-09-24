@@ -1,0 +1,15 @@
+ompleted, the information system owner submits the final
+security accreditation package to the authorizing official or a designated
+representative.
+Q. What is the Information Security Program Assessment Questionnaire?
+A. To assist agencies in meeting their annual FISMA reporting requirements, the
+Information Security Program Assessment Questionnaire (Annex 11.A) provides
+questions on many of the areas typically required for inclusion in agency reports.
+Q. Do all the 800-53 security controls need annual testing to satisfy the
+FISMA annual testing requirement?
+A. All 800-53 security controls do not need to be tested to satisfy annual testing and
+evaluation requirements. Agencies should first prioritize testing on POA&M items
+that become closed. These newly implemented controls should be validated.
+Agencies should test against system related security control changes that
+occurred but did not constitute a major change necessitating a new C&A.
+Agencies should identify all security controls 

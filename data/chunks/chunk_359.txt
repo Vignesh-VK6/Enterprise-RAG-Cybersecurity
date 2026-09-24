@@ -1,0 +1,19 @@
+g official's
+designated representative. The SAISO serves as the CIO’s primary liaison to the
+agency’s authorizing officials, information system owners, and Information System
+Security Officers (ISSOs).
+11.1.4 Information System Owner
+The information system owner is responsible for the overall procurement,
+development, integration, modification, or operation and maintenance of an
+information system. The information system owner has the following responsibilities
+in relation to security certification and accreditation:
+98
+Chapter 11 Certification, Accreditation, and Security Assessments
+• Develop and maintain the system security plan;
+• Ensure system is deployed and operated according to the agreed-upon security
+requirements;
+• Authorize user access to the information system (and with what types of
+privileges or access rights);
+• Ensure system users and support personnel receive the requisite security
+training (e.g., instruction in rules of behavior);
+• Inform key agency officials of the

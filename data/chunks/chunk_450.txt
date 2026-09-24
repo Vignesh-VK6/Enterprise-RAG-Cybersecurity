@@ -1,0 +1,18 @@
+e extensive damage,
+and longer periods of service unavailability. Incident handling can be performed
+more effectively if organizations complement their incident response capability with
+adequate resources to actively maintain the security of networks, systems, and
+applications. This process is intended to reduce the frequency of incidents, thereby
+allowing the incident response team to focus on handling serious incidents.
+Examples of practices that help to prevent incidents are as follows:
+• Having a patch management program to assist system administrators in
+identifying, acquiring, testing, and deploying patches that eliminate known
+vulnerabilities in systems and applications;
+• Hardening all hosts appropriately to eliminate vulnerabilities and configuration
+weaknesses;
+• Configuring the network perimeter to deny all activity that is not expressly
+permitted;
+
+81 See Chapter 7, Performance Measures, for additional guidance on collecting and reporting incident data.
+127
+CHAPTER 13 Incid

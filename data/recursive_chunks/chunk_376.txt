@@ -1,0 +1,19 @@
+(SDLC), beginning with the early stages of project inception through the retirement
+of the system and its data. From inception forward, agencies should consider the
+possible threats, vulnerabilities, and risks to the system so that they can better
+prepare it to operate in its intended environment, securely and effectively, and
+within a select risk threshold, as deemed acceptable by an agency senior official
+during the security certification and accreditation process.
+-------------------------------------------------
+Websites:
+National Institute of Standards and Technology (NIST) National Vulnerability
+Database
+nvd.nist.gov
+www.csrc.nist.gov
+United States Computer Emergency Response Team (US-CERT)
+http://www.us-cert.gov/
+References:
+Public Law 107-347 [H.R. 2458], The E-Government Act of 2002, Title III of this Act
+is the Federal Information Security Management Act of 2002 (FISMA), December 17,
+2002.
+Office of Management and Budget Circular A-130, Management of Federal

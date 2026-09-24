@@ -1,0 +1,15 @@
+attack; nor the impact to the system and organization should successful exploitation
+of a vulnerability occur. The following four steps—control analysis, likelihood
+determination, impact analysis, and risk determination—are, in a practical sense,
+performed simultaneously or nearly simultaneously because they are so tightly linked
+to each other.
+10.1.4.1 Control Analysis
+As previously discussed, the analysis of controls in place to protect the system
+can be accomplished using a checklist or questionnaire, which is based on the
+security requirements for the system as specified by NIST SP 800-53. This analysis
+can be refined using the NIST SP 800-53A, Guide for Assessing the Security Controls
+in Federal Information Systems (draft), which provides guidance on testing security
+controls extracted from NIST SP 800-53. The results are used to strengthen the
+determination of the likelihood that a specific threat might successfully exploit a
+particular vulnerability.
+88

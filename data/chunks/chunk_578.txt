@@ -1,0 +1,20 @@
+ with numerous
+other security disciplines, such as project management, risk management, C&A,
+and security awareness training.
+Q. What are the steps in the configuration management process?
+A. The CM process identifies the steps required to ensure all changes are properly
+requested, evaluated, and authorized. The CM process also provides a detailed,
+step-by-step procedure for identifying, processing, tracking, and documenting
+changes. The following steps comprise the CM process:
+• Identify change;
+• Evaluate change request;
+• Implementation decision;
+• Implement approved change request; and
+• Continuous monitoring.
+Q. What constitutes a “change”?
+A. A change may consist of various things: from updating the fields or records of a
+database to upgrading the operating system with the latest security patches.
+Q. What should be evaluated during an impact analysis of the proposed
+change?
+A. During an impact analysis, one should look for the following:
+• Whether the change is viable and improve

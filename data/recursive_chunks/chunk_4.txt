@@ -1,0 +1,7 @@
+This guideline has been prepared for use by federal agencies. It may also be used by
+nongovernmental organizations on a voluntary basis and is not subject to copyright regulations.
+(Attribution would be appreciated by NIST.)
+Nothing in this document should be taken to contradict standards and guidelines made
+mandatory and binding on federal agencies by the Secretary of Commerce under statutory
+authority. Nor should these guidelines be interpreted as altering or superseding the existing
+authorities of the Secretary of Commerce, Director of the OMB, or any other federal official.

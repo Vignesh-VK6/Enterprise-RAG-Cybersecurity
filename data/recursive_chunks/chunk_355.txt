@@ -1,0 +1,12 @@
+procedures, design, implementation, or internal controls that could be exercised
+(accidentally triggered or intentionally exploited) and result in a security breach or a
+violation of the system’s security policy.” Vulnerabilities can be identified using a
+combination of a number of techniques and sources. Reviews of such sources as
+previous risk assessments, audit reports, vulnerability lists [e.g., NIST National
+Vulnerability Database (NVD), formerly known as I-CAT, found at nvd.nist.gov], and
+security advisories can be used to begin the process of vulnerability identification.
+System security testing, using methods such as automated vulnerability scanning
+tools; security, test, and evaluation (ST&E); and penetration testing can be used to
+augment the vulnerability source reviews and identify vulnerabilities that may not
+have been previously identified in other sources.
+In addition, developing a security requirements checklist based on the security

@@ -1,0 +1,14 @@
+curity certification
+and accreditation, security assessments, plan of action and milestones (POA&M),
+incident statistics, and agency-initiated or independent reviews.47 Agencies may
+decide to use a weighting scale to differentiate the importance of selected metrics
+and to ensure that the results accurately reflect existing security program priorities.
+This process would involve assigning values to each metric based on the importance
+of a metric in the context of the overall security program. Metrics weighting should
+be based on the overall risk mitigation goals, is likely to reflect higher criticality of
+department-level initiatives versus smaller-scale initiatives, and is a useful tool that
+facilitates integration of information security into the departmental capital planning
+process.
+A phased approach may be required to identify short-, mid-, and long-term
+metrics in which the implementation time frame depends on a combination of
+system-level effectiveness, metric priority, data avai

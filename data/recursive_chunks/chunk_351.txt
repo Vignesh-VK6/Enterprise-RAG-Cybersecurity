@@ -1,0 +1,21 @@
+reviews, and automated scanning tools, can be used to collect the information
+86
+CHAPTER 10 Risk Management
+needed to fully characterize the system. At a minimum, the system characterization
+describes the following individual system components:
+• Hardware (e.g., IBM mainframe running the z/OS operating system, Dell server
+running Windows 2003);
+• Software (e.g., Oracle, Apache web server, Microsoft Internet Information
+Server [IIS]);
+• External interfaces to other systems;
+• Data; and
+• People.
+In addition to the component descriptions, the system characterization describes
+other factors with the potential to affect the security of the system, such as:
+• System functional requirements;
+• Organizational security policy and architecture;
+• System network topology;
+• Information flows throughout the system;
+• Management, operational, and technical security controls implemented or
+planned to be implemented for the system; and
+• Physical and environmental security mechanisms.

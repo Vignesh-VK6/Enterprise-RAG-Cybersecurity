@@ -1,0 +1,16 @@
+28 See NIST SP 800-37, Guide for the Security Certification and Accreditation of Federal Information
+Systems, and Chapter 11, Certification, Accreditation, and Security Assessments of this guide for
+additional guidance on security certification.
+29 See NIST SP 800-37, Guide for the Security Certification and Accreditation of Federal Information
+Systems, and Chapter 11, Certification, Accreditation, and Security Assessments of this guide for
+additional guidance on security accreditation.
+30 See Chapter 14, Configuration Management, of this guide for additional guidance on configuration
+management and control.
+24
+CHAPTER 3 System Development Life Cycle
+References:
+Public Law 107-347 [H.R. 2458], The E-Government Act of 2002, Title III of this Act
+is the Federal Information Security Management Act of 2002 (FISMA), December 17,
+2002.
+Office of Management and Budget Circular A-130, Management of Federal
+Information Resources, November 2000.

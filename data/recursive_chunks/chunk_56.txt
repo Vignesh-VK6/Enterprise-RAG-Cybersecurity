@@ -1,0 +1,7 @@
+2.2.3 Key Governance Roles and Responsibilities7
+There are several governance stakeholders common to most organizations that
+span the organization. These stakeholders include senior leadership, a CIO,
+information security personnel, and a chief financial officer (CFO), among others. The
+specific requirements of each role may differ with the degree of information security
+governance centralization or in response to the specific missions and needs of an
+organization.

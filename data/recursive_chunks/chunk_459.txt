@@ -1,0 +1,6 @@
+Table 12-6. Information Security Product Selection Questions
+Consideration
+Type Questions Comments
+Organizational  Is the anticipated user community identified?
+Organizational  How many and what type of users does the
+organization anticipate will use the security product?

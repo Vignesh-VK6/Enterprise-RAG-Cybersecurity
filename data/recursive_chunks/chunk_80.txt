@@ -1,0 +1,14 @@
+To ensure that information security does not become obsolete, agencies should
+implement a policy review and revision cycle. As a part of the periodic review and
+the initial development of the information security policies, agencies should work to
+ensure that all internal security policies (i.e., physical and personnel) are sufficiently
+coordinated to ensure effective implementation of crosscutting and convergent
+security objectives, such as access control initiatives.
+2.2.6 Ongoing Monitoring
+An effective information security governance program requires constant review.
+Agencies should monitor the status of their programs to ensure that:
+• Ongoing information security activities are providing appropriate support to the
+agency mission;
+• Policies and procedures are current and aligned with evolving technologies, if
+appropriate; and
+• Controls are accomplishing their intended purpose.

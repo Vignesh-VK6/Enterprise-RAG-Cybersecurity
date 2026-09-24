@@ -1,0 +1,18 @@
+ikelihood is largely
+subjective, it is best to assign each rating a numeric value for ease of calculation.
+The rationale for this justification can be explained in terms of the probability
+assigned for each threat likelihood level and a value assigned for each impact level.
+For example:
+• The probability assigned for each threat likelihood level is 1.0 for high, 0.5 for
+moderate, and 0.1 for low.
+• The value assigned for each impact level is 100 for high, 50 for moderate, and
+10 for low.
+Table 10-2, below, describes the risk levels shown in the above matrix. This risk
+scale, with its ratings of high, moderate, and low, represents the degree of risk to
+which an information system, facility, or procedure might be exposed if a given
+vulnerability were exploited. It also describes the type of action senior managers
+must take for each risk level.
+Table 10-2. Risk Scale and Necessary Management Action
+Risk Level Risk Description and Necessary Management Action
+High
+If an observation or findi

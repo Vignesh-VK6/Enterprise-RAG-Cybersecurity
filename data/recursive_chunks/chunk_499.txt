@@ -1,0 +1,13 @@
+It is important to contain an incident before it spreads to avoid overwhelming
+resources and increasing damage caused by the incident. Most incidents require
+containment, so it is important to consider it early in the course of handling each
+incident. An essential part of containment is decision making, such as shutting down
+a system, disconnecting it from the network, or disabling certain system functions.
+Such decisions are much easier to make if strategies and procedures for containing
+128
+CHAPTER 13 Incident Response
+the incident have been predetermined. Organizations should define acceptable risks
+in dealing with incidents and develop strategies accordingly.
+Containment strategies vary based on the type of incident. For example, the
+overall strategy for containing an e-mail-borne virus infection is quite different from
+that of a network-based distributed denial of service attack. Organizations should

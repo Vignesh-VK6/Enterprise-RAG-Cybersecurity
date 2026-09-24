@@ -1,0 +1,21 @@
+aterials
+is funded and implemented.
+• Executive/senior-level officials deliver messages to staff about security (e.g.,
+staff meetings, broadcasts to all users by agency head), champion the
+program, and demonstrate support for training by committing financial
+resources to the program.
+• Executives and managers do not use their status in the organization to avoid
+security controls that are consistently adhered to by the rank and file.
+• Level of attendance at voluntary security forums/briefings/training is
+consistently high.
+Q. How can the effectiveness of an awareness and training program be
+measured?
+A. The effectiveness of an awareness and training program can be shown through
+many indicators. A few examples are:
+• Rampant Internet virus attacks no longer plague an organization.
+• Users can identify “spam” e-mail traffic and reduce it.
+• FISMA scores improve.
+B-3
+Appendix B Frequently Asked Questions
+• Scores on pre-awareness assessments indicate retention of security knowledge
+from p

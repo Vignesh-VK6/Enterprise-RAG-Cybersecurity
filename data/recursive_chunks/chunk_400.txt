@@ -1,0 +1,14 @@
+• Continuous Monitoring Phase.
+100
+Chapter 11 Certification, Accreditation, and Security Assessments
+The Initiation phase consists of three tasks: (1) preparation, (2) notification
+and resource identification, and (3) system security plan review, analysis, and
+acceptance. This phase will ensure that the authorizing official and the SAISO agree
+with the contents of the system security plan before the certification agent begins
+assessing the security controls in the information system.
+The Security Certification phase consists of two tasks: (1) security control
+assessment, and (2) security certification documentation. An information system
+must meet the minimum security requirements in FIPS 200, Minimum Security
+Requirements for Federal Information and Information Systems, by implementing
+the appropriate security controls and assurance requirements as described in NIST
+SP 800-53, Recommended Security Controls for Federal Information Systems.

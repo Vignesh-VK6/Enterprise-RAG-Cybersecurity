@@ -1,0 +1,17 @@
+nment in which the system or product will operate.
+B. Development/Acquisition Phase
+Requirements
+Analysis/
+Development
+ Conduct a more in-depth study of the need that draws on and further develops the work
+performed during the initiation phase.
+ Develop and incorporate security requirements into specifications.
+ Analyze functional requirements that may include system security environment (e.g.,
+enterprise information security policy and enterprise security architecture) and security
+functional requirements.
+ Analyze assurance requirements that address the acquisition and product integration
+activities required and assurance evidence needed to produce the desired level of confidence
+that the product will provide required information security features correctly and effectively.
+The analysis, based on legal, regulatory, protection, and functional security requirements, will
+be used as the basis for determining how much and what kinds of assurance are required.
+Risk Assessment24  Cond

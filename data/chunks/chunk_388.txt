@@ -1,0 +1,30 @@
+iness
+case/Exhibit 300/Exhibit 53 to record the
+resources required for security at an acceptable
+level of risk for all programs and systems in the
+agency?
+
+3. Investment Review Board
+Is there an Investment Review Board (or similar
+group) designated and empowered to ensure that
+all investment requests include the security
+resources needed or that all exceptions to this
+requirement are documented?
+
+4. Integrating Information Security and
+Critical Infrastructure Protection into Capital
+Planning and Investment Control
+Is there integration of information security and
+Critical Infrastructure Protection (CIP) into the
+Capital Planning and Investment Control(CPIC)
+Process?
+
+107
+CHAPTER 11 Certification, Accreditation, and Security Assessments
+Program Questions Policy Procedures Implemented Tested Integrated Comments
+5. Budget and Resources
+Are information security resources (internal FTEs
+and funding) allocated to protect information and
+information systems in accordance with assessed
+risks?
+

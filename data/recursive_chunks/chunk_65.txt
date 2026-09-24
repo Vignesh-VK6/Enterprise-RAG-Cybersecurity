@@ -1,0 +1,16 @@
+integration of lines of business into enterprise architecture;
+• Participating in agency strategic planning and performance planning activities to
+ensure proper integration of enterprise architecture;
+• Facilitating integration of information security into all layers of enterprise
+architecture to ensure agency implementation of secure solutions; and
+• Working closely with the program managers, the senior agency information
+security officer (SAISO), and the business owners to ensure that all technical
+10
+CHAPTER 2 Information Security Governance
+architecture requirements are adequately addressed by applying FEA and the
+Security and Privacy Profile (SPP).
+2.2.3.5 Related Roles
+Many other individuals within an organization have a stake in information
+security, from top senior management down to individual users. A few of the
+primary senior management roles and their coinciding responsibilities are listed
+below. The scope of each role will depend on whether or not these roles should be

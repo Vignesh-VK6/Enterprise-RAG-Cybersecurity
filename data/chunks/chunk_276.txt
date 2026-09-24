@@ -1,0 +1,14 @@
+cordance with NIST SP 800-53 and the designated impact levels of the information
+systems. An agency has the flexibility to tailor the security control baseline in
+accordance with the terms and conditions set forth in the standard. Tailoring
+activities include (1) the application of scoping guidance, (2) the specification of
+compensating controls, and (3) the specification of agency-defined parameters in the
+security controls, where allowed. The system security plan should document all
+tailoring activities.
+8.4.3 Scoping Guidance
+Subsystems typically fall under the same management authority and are included
+within a single system security plan. Figure 8-1 depicted a GSS with three
+subsystems. Scoping guidance provides an agency with specific terms and
+conditions on the applicability and implementation of individual security controls in
+the security control baselines defined in NIST SP 800-53. Several considerations
+described below can potentially impact how the baseline security control

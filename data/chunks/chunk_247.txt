@@ -1,0 +1,20 @@
+taining, or using the systems;
+• System Upgrades—security patches that have been removed but not replaced
+during the operating system upgrades;
+• Configuration Management (CM) Practices—new or upgraded systems that are
+not configured with required security settings and patches;
+• Software Compatibility—security patches or upgrades that are incompatible
+with software applications supported by the system;
+• Awareness and Commitment—lack of management awareness and/or
+commitment to security;
+• Policies and Procedures—lack of policies and procedures that are required to
+ensure existence, use, and audit of required security functions;
+• Architectures—poor system and security architectures that make systems
+vulnerable; and
+64
+CHAPTER 7 Performance Measures
+• Inefficient Processes—ineffi cient planning and communication processes that
+influence the metrics.
+7.4.3 Identify Corrective Actions
+Phase 3 of the process, Identify Corrective Actions, involves developing a plan
+that will provide the r

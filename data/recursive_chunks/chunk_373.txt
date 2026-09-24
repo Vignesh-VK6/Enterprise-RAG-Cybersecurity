@@ -1,0 +1,13 @@
+changing information technology (IT) environments must be ongoing and
+continuously evolving. Systems are upgraded and expanded, components are
+improved, and architectures are constantly evolving.
+The security control evaluation and assessment, which is conducted during the
+Security Certification Phase of a system’s security certification and accreditation,
+provides input needed to finalize the risk assessment.68 The results are used to
+provide the Authorizing Official with the essential information needed to make a
+credible, risk-based decision on whether to authorize the operation of the
+information system. Ideally, the risk assessment activities would be conducted at
+the same time the system is being certified and accredited. The reuse of assessment
+data will not only save valuable resources, but also provide the most up-to-date risk
+information for the authorizing official.
+Many of the risk management activities are conducted during a snapshot in time—a

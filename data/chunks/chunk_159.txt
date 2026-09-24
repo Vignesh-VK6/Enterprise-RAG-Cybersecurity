@@ -1,0 +1,21 @@
+ category
+and corrective action impact.
+5. Develop Supporting Materials:
+for enterprise-level investments,
+develop concept paper, business
+case analysis, and Exhibit 300. For system-level investments, adjust Exhibit
+300 to request additional funding to mitigate prioritized weaknesses.
+
+Figure 5-2. Integrating Information Security
+into the CPIC Process
+6. Implement Investment Review Board (IRB) and Portfolio
+Management: prioritize agency-wide business cases against requirements
+and CIO priorities and determine investment portfolio.
+7. Submit Exhibit 300s, Exhibit 53, and Conduct Program Management:
+ensure approved 300s become part of the agency’s Exhibit 53; ensure
+investments are managed through their life cycle.
+37
+CHAPTER 5 Capital Planning and Investment Control
+The following sections provide an overview of the integration of information
+security into the CPIC process to help ensure that corrective actions identified in the
+annual FISMA reporting process through POA&Ms are incorpora

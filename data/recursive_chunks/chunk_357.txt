@@ -1,0 +1,13 @@
+that represent potential vulnerabilities.
+10.1.4 Step 4 – Risk Analysis
+The risk analysis is a determination (or estimation) of risk to the system, an
+analysis that requires the consideration of closely interwoven factors, such as the
+security controls in place for the system under review, the likelihood that those
+controls will be either insufficient or ineffective protection of the system, and the
+impact of that failure. In other words, it is not possible to estimate the level of risk
+posed by the successful exploitation of a given vulnerability without considering the
+efficacy of the security controls that have been or are to be implemented to mitigate
+or eliminate the potential for such an exploitation; nor the threat’s motivation,
+opportunity, and capabilities, which contribute to the likelihood of a successful
+attack; nor the impact to the system and organization should successful exploitation
+of a vulnerability occur. The following four steps—control analysis, likelihood

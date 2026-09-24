@@ -1,0 +1,14 @@
+key information security roles and responsibilities,
+identify minimum information security controls, specify compliance reporting rules
+and procedures, and provide other essential requirements and guidance. These laws
+and regulations place responsibility and accountability for information security at all
+levels within federal agencies, from the agency head to IT users. They also provide
+an infrastructure for developing and promulgating detailed standards and
+implementation guidance to federal agencies and overseeing implementation of
+required practices through NIST and the Government Accountability Office (GAO),
+respectively.
+These three entities, the U.S. Congress, OMB, and GAO, define and influence
+federal agency governance and information security requirements. Congress creates
+laws and oversight measures to establish objectives, present timely analyses to
+establish overall governance standards across the federal government, and provide
+aid in economic and budget decisions, includin

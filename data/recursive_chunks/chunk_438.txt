@@ -1,0 +1,26 @@
+114
+CHAPTER 12 Security Services and Products Acquisition
+Table 12-1. Information Security Services Life Cycle
+Phase Activity
+Phase 1 –
+Initiation
+ When the need to initiate the serv ices life cycle is recognized
+ Consists of needs determination, security categorization, and the preliminary risk assessment
+Phase 2 –
+Assessment
+ Involves developing an accurate portrait of t he current environment before decision makers can
+implement a service and install a service provider
+ Baselines the existing environment; metrics creat ion, gathering, and analysis; total cost of
+ownership
+ Analyzes opportunities and barriers
+ Identifies options and risks
+Phase 3 –
+Solution
+ Decision makers choose the appropriate solution from the viable options identified during the
+assessment phase
+ Develops the business case
+ Develops the service arrangement
+ Develops the implementation plan
+Phase 4 –
+Implementation
+ The service providers are implemented during this phase

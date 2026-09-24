@@ -1,0 +1,15 @@
+n of performance-related reports.
+59
+CHAPTER 7 Performance Measures
+Fiscal constraints and market conditions compel government and industry to
+operate on reduced budgets. In such an environment, it is difficult to justify broad
+investments in the information security infrastructure. Historically, arguments for
+investing in specific areas of information security lack detail and specificity and fail to
+adequately mitigate specific system risk. Information security metrics can facilitate
+the capital planning and investment control (CPIC) process by providing quantifiable
+information for business case development.46 Information security metrics can also
+assist with determining the effectiveness of implemented information security
+processes, procedures, and controls by relating results of information security
+activities (e.g., incident data, revenue lost to cyber attacks) to the respective
+requirements and to information security investments.
+Departments and agencies can also demonstrate co

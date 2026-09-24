@@ -1,0 +1,18 @@
+• Implement approved change request; and
+• Continuous monitoring.
+Q. What constitutes a “change”?
+A. A change may consist of various things: from updating the fields or records of a
+database to upgrading the operating system with the latest security patches.
+Q. What should be evaluated during an impact analysis of the proposed
+change?
+A. During an impact analysis, one should look for the following:
+• Whether the change is viable and improves the performance or the security of
+the system;
+• Whether the change is technically correct, necessary, and feasible within the
+system constraints;
+• Whether system security will be affected by the change;
+• Whether associated costs for implementing the change were given
+consideration; and
+• Whether security components are affected by the change.
+Q. A change has just been implemented, is the job complete?
+A. No. The system should be continuously monitored to ensure that it is operating

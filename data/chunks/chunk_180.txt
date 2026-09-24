@@ -1,0 +1,15 @@
+e to decide on how to allocate the remaining dollars. Should stakeholders
+determine that the corrective action impact order (G, A, B) is the driving factor, the
+corrective actions in cell LA will be implemented. If the stakeholders determine that
+the system and security control category (H, M, L) is the driving factor, the
+corrective actions from cell MB will be implemented until the remaining $604,875 is
+expended.42
+5.7 Develop Supporting Materials
+Once prioritizing against requirements is completed, operating units are poised to
+select their investments for the budget year and begin the process of requesting
+funding from OMB for the next year to implement the corrective actions and security
+controls.
+The Exhibit 300 is the capture mechanism for all of the analyses and activities
+required for full internal review (e.g., IRB, CIO). More importantly, Exhibit 300 is
+the document that OMB uses to assess investments and ultimately make funding
+decisions, and therefore should be leveraged b

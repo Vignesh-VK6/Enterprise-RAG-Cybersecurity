@@ -1,0 +1,19 @@
+their agency mission, size, homogeneity of their components, and existing
+governance structure.
+7
+CHAPTER 2 Information Security Governance
+Agencies in the process of establishing or changing their information security
+governance structure should consider the following key factors to determine the
+optimal extent of the centralization or decentralization:
+• Agency size;
+• Agency mission and its level of diversification or homogeneity;
+• Existing agency IT infrastructure;
+• Existing federal and internal governance requirements;
+• Size of agency budget;
+• Agency information security capabilities;
+• Number of, and distance between, physical locations; and
+• Decision-making practices and desired rate of change in information security
+practices.
+To the degree that these factors are limited or varied, an organization’s hybrid
+information security governance structure will fall somewhere between the extremes
+of a completely centralized or decentralized structure, as depicted in Figure 2-3. An

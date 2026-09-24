@@ -1,0 +1,16 @@
+n by both sides of security incidents and system
+disruptions and facilitate coordinated response, if necessary.
+
+43 OMB, M-05-15, ‘FY05 Reporting Instructions for the Federal Information Security Management Act and
+Agency Privacy Management.’
+47
+CHAPTER 6 Interconnecting Systems
+Identifying and implementing security controls is vital in protecting the
+confidentiality, integrity, and availability of the connected systems and the data that
+is transferred between the systems. If security controls are not in place or if they
+are configured improperly, the process of establishing the interconnection could
+expose the information systems to unauthorized access. Agencies should select
+applicable controls from NIST SP 800-53, based on the security categorization of the
+systems involved in the interconnection from FIPS 199, Standards for Security
+Categorization of Federal Information and Information Systems, and NIST SP 800-
+60, Guide for Mapping Types of Information and Information Systems to S

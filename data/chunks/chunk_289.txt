@@ -1,0 +1,30 @@
+on
+or an information system
+could be expected to
+have a serious adverse
+effect on organizational
+operations,
+organizational assets, or
+individuals.
+The disruption of access
+to or use of information
+or an information system
+could be expected to
+have a severe or
+catastrophic adverse
+effect on organizational
+operations,
+organizational assets, or
+individuals.
+
+8.6 Completion and Approval Dates
+The completion date of the system security plan should be provided. The
+completion date should be updated whenever the plan is periodically reviewed and
+updated. The system security plan should also contain the date the authorizing
+official or the designated approving authority approves the plan. Approval
+documentation, e.g., accreditation letter, should be on file or attached as part of the
+plan.
+8.7 Ongoing System Security Plan Maintenance
+Once the information system security plan is accredited, it is important to
+periodically assess the plan; review any change in system status, functionality,
+desi

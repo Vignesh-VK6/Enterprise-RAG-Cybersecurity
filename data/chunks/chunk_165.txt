@@ -1,0 +1,16 @@
+s security posture, such as the acquisition of an enterprise-wide
+firewall or intrusion detection system (IDS).
+39
+CHAPTER 5 Capital Planning and Investment Control
+NIST SP 800-55, Security Metrics Guide for Information Technology Systems,
+provides guidance on developing and implementing an information security metrics
+program. Metrics can provide baseline compliance percentages that indicate the
+existence of adequate security controls, highlight current weaknesses, and identify
+gaps between actual and desired implementation status of information security
+controls. The goal of the security baseline establishment exercise is to provide
+agency officials an understanding of the strengths, weaknesses, and vulnerabilities
+that exist within the agency’s security controls and to help identify investments that
+are required to mitigate weaknesses. The resulting vulnerabilities and weaknesses
+then serve as inputs into the next step of the CPIC process: identifying prioritization
+criteria.
+5.5 Id

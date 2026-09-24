@@ -1,0 +1,18 @@
+A-3
+Appendix B Frequently Asked Questions
+Appendix B – Frequently Asked
+Questions
+B.1 Awareness and Training – Summary of FAQs
+Q. Why is a thorough awareness and traini ng program vital to a security program?
+Q. What is security awareness?
+Q. What is security training?
+Q. How can an awareness and trai ning program be established?
+Q. How can an organization enhance security awareness?
+Q. When should an awareness an d training program be changed?
+Q. What is role-based training?
+Q. How can the support for an awaren ess and training program be gauged?
+Q. How can the effectiveness of an awar eness and training program be measured?
+Q. What is the difference between various “certificates” that are awarded by vendors,
+third parties, or universities?
+Q. What do “professionalization” and professional development have to do with
+security?

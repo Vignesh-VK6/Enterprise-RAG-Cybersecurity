@@ -1,0 +1,12 @@
+must understand the system security planning process. In addition, users of the
+information system and those responsible for defining system requirements should
+also be familiar with the system security planning process, as the system security
+plan is an important deliverable in the system development life cycle (SDLC)
+process.49 Those responsible for implementing and managing information systems
+must participate in addressing security controls to be applied to their systems.
+Federal Information Processing Standard (FIPS) 200, Minimum Security
+Requirements for Federal Information and Information Systems, specifies the
+minimum security requirements for federal information and information systems in
+seventeen security-related areas. Federal agencies must meet the minimum security
+requirements defined in FIPS 200 by using the security controls in National Institute
+of Standards and Technology (NIST) Special Publication (SP) 800-53, Recommended

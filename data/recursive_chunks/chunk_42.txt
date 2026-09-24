@@ -1,0 +1,15 @@
+and guidance for federal information systems, with the exception of national
+security systems.
+– FISMA designates to OMB the oversight of federal agencies’ information
+security implementation.
+– FISMA provides a comprehensive framework for securing federal government
+IT resources, including defining key federal government and agency roles
+and responsibilities, requiring agencies to integrate information security into
+their capital planning and enterprise architecture processes, requiring
+agencies to conduct annual information security reviews of all programs and
+systems, and reporting the results of those reviews to OMB.2
+• OMB Circular A-130, Management of Federal Information Resources, Appendix
+III, Security of Federal Automated Information Resources, establishes a
+minimum set of controls to be included in federal automated information
+security programs, assigns federal agency responsibilities for the security of
+automated information, and links agency automated information security

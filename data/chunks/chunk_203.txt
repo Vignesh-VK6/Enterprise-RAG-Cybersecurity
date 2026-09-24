@@ -1,0 +1,20 @@
+contents and the intent of these two documents remain unaltered.
+Based on this review, the AOs should decide on one of the following:
+• Approve the interconnection;
+• Grant interim approval; or
+• Reject the interconnection.
+6.2.2 Phase 2: Establishing the Interconnection
+After the system interconnection is planned and approved, it can be
+implemented. The recommended steps for establishing the system interconnection
+are provided in Figure 6-3.
+
+Figure 6-3. Recommended Steps for Establishing the Interconnection
+Step 1: Develop an Implementation Plan
+To ensure that the information systems are connected properly and securely, the
+joint planning team should develop a system interconnection implementation plan. At
+a minimum, the implementation plan should:
+50
+CHAPTER 6 Interconnecting Systems
+• Describe the information systems that will be connected;
+• Identify the sensitivity or classification level of data that will be made available,
+exchanged, or passed one way across the interconnection

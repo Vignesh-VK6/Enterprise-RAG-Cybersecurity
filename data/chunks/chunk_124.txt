@@ -1,0 +1,17 @@
+idelines that can help federal departments and agencies meet
+their information security awareness and training responsibilities defined in FISMA
+and in Office of Management and Budget (OMB) policy. The publication identifies
+models for building and maintaining a comprehensive awareness and training
+program as part of an organization’s information security program.
+NIST SP 800-50 is a companion publication to NIST SP 800-16, Information
+Technology Security Training Requirements: A Role- and Performance-Based Model.
+NIST SP 800-50 works at a higher strategic level and discusses how to build and
+maintain an information security awareness and training program; NIST SP 800-16
+addresses a more tactical level and discusses the awareness-training-education
+continuum, role-based training, and course content considerations. The learning
+continuum is shown in Figure 4-1.
+
+31 Office of Personnel Management (OPM), 5 Code of Federal Regulations (CFR), Subpart C, Section 930,
+301.
+26
+CHAPTER 4 Awaren

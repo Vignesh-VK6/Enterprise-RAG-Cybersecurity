@@ -1,0 +1,11 @@
+.........61
+7.3 Metrics Development Process...................................................................................61
+7.4 Metrics Program Implementation ..............................................................................63
+7.4.1 Prepare for Data Collection............................................................ 63
+7.4.2 Collect Data and Analyze Results.................................................... 64
+7.4.3 Identify Corrective Actions............................................................. 65
+7.4.4 Develop Business Case and Obtain Resources .................................. 65
+7.4.5 Apply Corrective Actions ............................................................... 66
+8. Security Planning .......................................................................................... 67
+8.1 Major Applications, General Support Systems, and Minor Applications ...................67
+8.2 Security Planning Roles and Responsibilities .......................

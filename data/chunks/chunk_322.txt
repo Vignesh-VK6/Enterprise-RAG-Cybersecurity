@@ -1,0 +1,13 @@
+d-user computing habits), which is accomplished by performing
+a threat evaluation, using the system characterization as the basis, for the potential
+to cause harm to the system.
+There are common threat sources that typically apply, regardless of the system,
+that should be evaluated. These common threats can be categorized into three
+areas: (1) natural threats (e.g., floods, earthquakes, tornadoes, landslides,
+avalanches, electrical storms), (2) human threats (intentional or unintentional), and
+(3) environmental threats (e.g., power failure). In general, information on natural
+threats (e.g., floods, earthquakes, storms) should be readily available, as known
+threats have been identified by many government and private sector organizations.
+Intrusion detection tools also are becoming more prevalent, and government and
+industry organizations continually collect data on security events, thereby improving
+the ability to realistically assess threats. Sources of information include, but are not

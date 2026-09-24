@@ -1,0 +1,20 @@
+ge or technical curriculum and is supplemented frequently by on-the-
+job experience.
+• Graduate certificates in information security are awarded by an academic
+institution to individuals who successfully complete all graduation requirements
+for a particular program. These graduate certificates generally require 18 to 21
+credit hours of academic study, have at least four required courses, allow for
+one or two electives, and may require some form of research paper, project, or
+case study.
+4.3 Designing, Developing, and Implementing an Awareness and Training
+Program
+The development of an information security awareness and training program
+involves three major steps:
+1. Designing the program (including the development of the information security
+awareness and training program plan);
+30
+CHAPTER 4 Awareness and Training
+2. Developing the awareness and training material; and
+3. Implementing the program.
+Even a small amount of information security awareness and training can go a
+long way towar

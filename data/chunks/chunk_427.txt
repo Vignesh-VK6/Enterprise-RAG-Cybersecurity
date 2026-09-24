@@ -1,0 +1,28 @@
+eful nor cost
+effective. Organizations should consider
+their overall requirements and select the
+best products accordingly.
+Product  Have the FIPS 140-2 program Validated Products
+lists been reviewed?
+Federal Information Processing Standard
+(FIPS) 140-2 program Validated Products
+lists should be reviewed to ensure that
+evaluated products are used whenever
+required.
+Product  Has the vendor’s policy or stance on revalidating
+products when new releases of the product are
+issued been considered?
+
+Product  Have product specifications been reviewed with
+respect to existing and planned organizational
+programs, policies, procedures, and standards?
+Examples include an organization’s Web
+policy, public key infrastructure (PKI)
+program and policy, Smart Card
+program, and network interconnection
+and approval policy.
+Product  Does the product have any security critical
+dependencies on other products?
+For example, an operating system or
+cryptographic module.
+Product  Does interfacing the new pr

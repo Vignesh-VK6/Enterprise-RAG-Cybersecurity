@@ -1,0 +1,15 @@
+security priorities include certifying and accrediting all systems or implementing
+PKI throughout the enterprise. It is important to note that OMB/executive branch
+guidance or laws should be ranked highest among these priorities.
+B-5
+Appendix B Frequently Asked Questions
+Q. What is the compliance gap?
+A. The compliance gap is the difference between the desired and actual compliance
+with the security requirements. For example, if an information system has
+completed 80 percent of certification and accreditation (C&A) activities, that
+investment would have a C&A compliance gap of 20 percent. The actual
+compliance of 80 percent is subtracted from the desired compliance of 100
+percent to yield a 20 percent compliance gap. The smaller the compliance gap,
+the more compliant the system or enterprise control. For key information
+security activities, this information is part of the FISMA report.
+Q. What is the corrective action impact?

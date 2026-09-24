@@ -1,0 +1,15 @@
+25 See NIST SP 800-65, Integrating Security into the Capital Planning Process and Investment and Control
+Process, and Chapter 5, Capital Planning, of this guide for additional guidance on cost considerations
+and reporting.
+26 See NIST SP 800-18, Guide for Developing Security Plans for Federal Information Systems Revision 1,
+NIST SP 800-65, Integrating Security into the Capital Planning Process and Investment and Control
+Process, and Chapter 5, Capital Planning, of this guide for additional guidance on cost considerations
+and reporting, and Chapter 8, Security Planning, of this guide for additional guidance on security
+planning.
+27 See NIST FIPS 200, Minimum Security Requirements for Federal Information and Information Systems,
+and NIST SP 800-53, Recommended Security Controls for Federal Information Systems, for additional
+guidance on security control development.
+23
+CHAPTER 3 System Development Life Cycle
+Security
+Accreditation29

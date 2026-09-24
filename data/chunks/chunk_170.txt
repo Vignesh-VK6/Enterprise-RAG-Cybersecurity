@@ -1,0 +1,23 @@
+ criteria. This prioritization is performed at the
+enterprise level by agency information security stakeholders.
+The prioritization methodology relies primarily on existing data sources and
+inputs. Specific data inputs for the two types of prioritization are highlighted in
+Table 5-1.
+Table 5-1. Prioritization Data Inputs
+Inputs Source Data Accessibility
+System-Level Information
+System categorization System security certification and
+accreditation, security plan or
+categorization according to NIST SP 800-
+60 and Federal Information Processing
+Standard (FIPS) 199.40
+Security certification and accreditation,
+security plans, and NIST SP 800-60/NIST
+FIPS 199 categorizations are required for all
+agency systems. Required data is easily
+extractable from appropriate documentation.
+Security compliance System-level information security metrics
+or an aggregation of information security
+compliance percentages from, risk
+assessments, security certification and
+accreditation, or other sources, organi

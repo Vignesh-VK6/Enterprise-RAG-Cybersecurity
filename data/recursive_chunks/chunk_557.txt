@@ -1,0 +1,5 @@
+sections of each major investment’s Exhibit 300 before submitting to OMB to
+ensure that the exhibit is accurate and represents the security controls in place
+in the system; and
+• Assists with corrective action prioritization based on agency IT security
+concerns.

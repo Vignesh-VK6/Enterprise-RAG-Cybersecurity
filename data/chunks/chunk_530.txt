@@ -1,0 +1,19 @@
+hould be defined in each
+metric?
+A. Once applicable metrics that contain th e qualities described above are identified,
+they will need to be documented with supporting detail, including frequency of
+data collection, data source, formula for calculation, implementation evidence for
+measured activity, and guide for metric data interpretation.
+B-14
+Appendix B Frequently Asked Questions
+B.5 Security Planning – Summary of FAQs
+Q. Are specific system security pl ans for minor applications required?
+Q. What are “Rules of Behavior”?
+Q. What should be considered when select ing the initial set of security controls?
+Q. Can an agency tailor their security control baseline?
+Q. After the informatio n system security plan is developed, what is the next step?
+
+Q. Are specific system security plans for minor applications required?
+A. No. Specific system security plans for minor applications 89 are not required
+because the security controls for those applications are typically provided by the
+general s

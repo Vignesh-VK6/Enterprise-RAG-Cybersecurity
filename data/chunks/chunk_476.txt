@@ -1,0 +1,17 @@
+dentified in current versions of the software.
+• Developers. The developers are responsible for coordinating and working with
+the CM manager to identify, resolve, and implement controls and other CM
+issues.
+14.3 Configuration Management Process
+The CM process identifies the steps required to ensure that all changes are
+properly requested, evaluated, and authorized. The CM process also provides a
+detailed, step-by-step procedure for identifying, processing, tracking, and
+documenting changes. An example CM process is depicted in Figure 14-2.
+
+Figure 14-2. CM Process
+Step 1: Identify Change
+The first step of the CM process begins with a person or process associated with
+the information system identifying a need for a change. The change can be initiated
+by numerous individuals, such as users or system owners, or they may be identified
+by audit findings or other reviews. A change may consist of updating the fields or
+records of a database to upgrading the operating system with the latest se

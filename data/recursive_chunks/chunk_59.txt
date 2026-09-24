@@ -1,0 +1,14 @@
+by or on behalf of an agency, and on information systems used or operated by
+an agency or by a contractor of an agency or other organization on behalf of an
+agency;
+• Ensuring that an information security program is developed, documented, and
+implemented to provide security for all systems, networks, and data that
+support the operations of the organization;
+• Ensuring that information security processes are integrated with strategic and
+operational planning processes to secure the organization’s mission;
+• Ensuring that senior agency officials within the organization are given the
+necessary authority to secure the operations and assets under their control;
+• Designating a CIO and delegating authority to that individual to ensure
+compliance with applicable information security requirements;
+• Ensuring that the agency has trained personnel to support compliance with
+information security policies, processes, standards, and guidelines; and

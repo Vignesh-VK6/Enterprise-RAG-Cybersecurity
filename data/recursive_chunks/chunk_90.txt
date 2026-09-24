@@ -1,0 +1,27 @@
+Configuration
+Management16
+Configuration management (CM) is an
+essential component of monitoring the
+status of security controls and
+identifying potential security-related
+problems in information systems. This
+information can help security
+managers understand and monitor the
+evolving nature of vulnerabilities as
+they appear in a system under their
+responsibility, thus enabling managers
+to direct appropriate changes as
+required.
+ Agency deploys a Configuration Control Board (CCB) or a
+similar body.
+ An information security representative participates in the
+CCB.
+ Vendor patches are tested for impact to information
+security and system settings.
+ Agencies observe a decrease in incidents caused by
+known vulnerabilities for which patches have been
+distributed to system administrators.
+ Known vulnerabilities are rarely discovered during various
+assessments.
+ Staff who are responsible for CM receive appropriate
+information security training and are aware of their security-

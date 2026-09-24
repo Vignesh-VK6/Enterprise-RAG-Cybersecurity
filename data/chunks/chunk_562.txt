@@ -1,0 +1,16 @@
+re the steps in the security services life cycle?
+A. The information security services life cycle provides a framework around which
+the various information security decision makers can organize their information
+security efforts—from initiati on to closeout. The steps for the life cycle are:
+1. Initiation Phase: Determining the need;
+2. Assessment Phase: Identifying viable solutions;
+3. Solution Phase: Specifying the right solution;
+4. Implementation Phase: Engaging the right source;
+5. Operations Phase: Ensuring operational success; and
+6. Closeout Phase: Ensuring successful closure.
+Q. What should take place before selecting a security service?
+A. Before selecting specific services, organi zations should review the current status
+of their security programs and the security controls that are planned or in place
+to protect information and information systems. Organizations should use the
+risk management process to identify the most effective mix of management,
+operational, and technica

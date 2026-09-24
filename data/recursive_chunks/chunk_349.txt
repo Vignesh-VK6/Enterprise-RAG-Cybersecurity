@@ -1,0 +1,14 @@
+and availability, is found by applying the concepts and processes discussed in detail
+within FIPS 199, Standards for Security Categorization of Federal Information and
+Information Systems.
+As mandated by OMB Circular A-130, the risk assessment process is usually
+repeated at least every three years for federal agencies. However, risk assessments
+should be conducted and integrated into the SDLC for information systems, not
+because it is required by law or regulation, but because it is a good practice and
+supports the organization’s business objectives or mission.
+10.1.1 Step 1 – System Characterization
+Characterizing an information system establishes the scope of the risk
+assessment effort, delineates the operational authorization (or accreditation)
+boundaries, and provides information (e.g., hardware, software, system connectivity,
+and responsible division or support personnel). This step begins with the
+identification of the information system boundaries, resources, and information.

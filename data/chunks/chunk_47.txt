@@ -1,0 +1,15 @@
+elate to agency mission;
+• High-level plan for achieving information security goals and objectives,
+including short- and mid-term objectives and performance targets, specific for
+each goal and objective, to be used throughout the life of this plan to manage
+progress toward successfully fulfilling the identified objectives; and
+• Performance measures to continuously monitor accomplishment of identified
+goals and objectives and their progress toward stated targets.
+Agencies should document their information security strategy in an information
+security strategic plan or another document, if appropriate. Regardless of how the
+information security strategy is documented, its contents should be aligned with the
+overall agency strategic planning activities. The document should be revisited when a
+major change in the agency information security environment occurs, including:
+• Change in applicable legislation, regulations, or directives;
+• Change in agency mission priorities; and
+• Emerging in

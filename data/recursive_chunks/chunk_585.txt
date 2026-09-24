@@ -1,0 +1,15 @@
+Q. What is IT contingency planning?
+A. IT contingency planning is one modular piece of a larger contingency and
+continuity-planning program that encompasses IT, business processes, risk
+management, financial management, crisis communications, safety and security
+of personnel and property, and continuity of government. Each piece is operative
+in its own right, but together can create a coordinated synergy that efficiently
+and effectively protects the entire organization.
+Q. In what time frame must systems and data be recovered and restored
+when a disruption occurs?
+A. When a disruption occurs, a recovery strategy must be implemented within the
+recovery time objective (RTO) period.
+Q. What is the contingency planning policy statement?
+A. The contingency planning policy statement is the first step in developing an IT
+contingency plan. This policy may exist at the department, agency, and/or
+program level of the organization. The statement should define the organizations

@@ -1,0 +1,4 @@
+information systems should be carefully reviewed to determine which
+functions and services are candidates for elimination (e.g., voice over
+internet protocol, instant messaging, file transfer protocol, hyper text transfer
+protocol, file sharing).

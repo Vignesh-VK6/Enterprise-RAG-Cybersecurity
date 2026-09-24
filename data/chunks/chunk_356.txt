@@ -1,0 +1,21 @@
+ommon security control assessments; and
+– Any other general information that may be of assistance to information
+system owners and their supporting security staffs.
+• In concert with authorizing official, determine appropriate allocation of
+resources for security programs and systems; and
+• In certain instances, operate as the authorizing official for agency-wide general
+support systems (GSS) or as co-authorizing official with other senior officials
+for selected agency systems.
+11.1.2 Authorizing Official
+The authorizing official (or designated approving/accrediting authority) is a senior
+management official or executive with the authority to formally assume responsibility
+for operating an information system
+at an acceptable level of risk to an
+agency. It is possible that a
+particular system may require more
+than one authorizing official. If so,
+agreements should be established
+among the authorizing officials and
+documented in the system security
+plan. In most cases, it may be
+advantag

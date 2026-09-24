@@ -1,0 +1,17 @@
+60, Guide for Mapping Types of Information and Information Systems to Security
+Categories. The security controls should be appropriately selected in consideration
+of the systems that will be connected and the environment in which the
+interconnection will operate.
+One or both organizations should review the security controls for the
+interconnection at least annually or whenever a significant change occurs to either
+system or the operational environment. This review is intended to ensure that all
+controls are operating properly and still provide the requisite degree of system and
+data security.44
+6.2 Life-Cycle Management Approach
+NIST SP 800-47 details a four-phase “life-cycle management” approach for
+interconnecting information systems that emphasizes proper attention to information
+security:
+• Phase 1: Planning the Interconnection;
+• Phase 2: Establishing the Interconnection;
+• Phase 3: Maintaining the Interconnection; and
+• Phase 4: Disconnecting the Interconnection.

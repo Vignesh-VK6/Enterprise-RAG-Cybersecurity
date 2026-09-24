@@ -1,0 +1,18 @@
+ess and training to be two distinct
+functions, each with separate purposes, goals, and approaches. Proper
+implementation of these components (with consideration of options like education
+and professional certification) promotes professional development, which leads to a
+high-performance workforce.
+Requirements for the security awareness and training program should be
+documented in the enterprise-level policy and should include:
+• Definition of security roles and responsibilities;
+• Development of program strategy and a program plan;
+• Implementation of the program plan; and
+• Maintenance of the security awareness and training program.32
+4.2.1 Awareness
+Security awareness is a blended solution of activities that promote security,
+establish accountability, and inform the workforce of security news. Awareness
+seeks to focus an individual’s attention on an issue or a set of issues. Awareness is a
+program that continually pushes the security message to users in a variety of
+formats.
+An awar

@@ -1,0 +1,13 @@
+ystemic security
+weaknesses and threats, changes in incident trends, or other data that can be used
+in support of the risk assessment process. Another good use of the data is
+measuring the success of the incident response team. If incident data is collected
+and stored properly, it should provide several measures of the success (or at least
+the activities) of the incident response team. Furthermore, organizations that are
+required to report incident information will need to collect the necessary data to
+meet their requirements (e.g., FISMA reporting of annual incident statistics).81
+In the process of preparing to collect incident data, organizations should focus on
+collecting data that is actionable, rather than collecting data simply because it is
+available. Absolute numbers are not informative—understanding how they represent
+threats to and vulnerabilities of the business processes of the organization is what
+matters. Organizations should decide what incident data to collect based on

@@ -1,0 +1,21 @@
+agement, of this guide for additional guidance
+on roles and responsibilities.
+56 When an agency has not designated a formal CIO position, the Federal Information Security
+Management Act (FISMA) requires the associated responsibilities to be handled by a comparable agency
+official.
+68
+CHAPTER 8 Security Planning
+• Designating an SAISO who shall carry out the CIO's responsibilities for system
+security planning;
+• Developing and maintaining information security policies, procedures, and
+control techniques to address system security planning;
+• Managing the identification, implementation, and assessment of common
+security controls;
+• Ensuring that personnel with significant responsibilities for system security
+plans are trained;
+• Assisting senior agency officials with their responsibilities for system security
+plans; and
+• Identifying and developing common security controls for the agency.
+8.2.2 Information System Owner
+The information system owner57
+is the agency official responsible for

@@ -1,0 +1,13 @@
+authority before interconnecting information systems, OMB recommends that
+agencies use NIST SP 800-47 to ensure compliance for connections to non-agency
+systems.43
+When organizations are properly managing interconnected systems, the added
+benefits include greater efficiency, centralized access to data, and greater
+functionality. The security controls of each of the interconnected systems should be
+evaluated and meet each other’s requirements for implementing security controls
+that are appropriate for the particular interconnection. Both organizations should
+specify their requirements regarding the security controls to be implemented in
+accordance with NIST FIPS 200, Minimum Security Requirements for Federal
+Information and Information Systems, and NIST SP 800-53, Recommended Security
+Controls for Federal Information Systems.
+Each system involved in interconnection should be governed by an organization’s

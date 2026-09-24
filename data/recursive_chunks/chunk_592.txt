@@ -1,0 +1,14 @@
+government and “ensuring that information security management processes are
+integrated with agency strategic and operational planning processes.”
+Q. What options do system and organizational managers have to reduce the
+risk present on the system?
+A. System and organizational managers may use several options to reduce the risk
+present on a system. These options are risk assumption, risk avoidance, risk
+limitation, risk planning, research and acknowledgement, and risk transference.
+Q. Define risk mitigation and explain what steps are involved to control
+implementation.
+A. The second process in the overall risk management process is that of risk
+mitigation. Because it is impractical, if not impossible, to eliminate all risks from
+a system, risk mitigation strives to prioritize, evaluate, and implement the
+appropriate risk-reducing controls recommended from the risk assessment
+process based on NIST SP 800-53 guidance. Once the decision has been made

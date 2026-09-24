@@ -1,0 +1,12 @@
+could detrimentally affect the security posture of a system before they happen. In
+its entirety, the CM process reduces the risk that any changes made to a system
+(insertions/installations, deletions/uninstalling, and modifications) result in a
+compromise to system or data confidentiality, integrity, or availability in that it
+provides a repeatable mechanism for effecting system modifications in a controlled
+environment. In accordance with the CM process, system changes must be tested
+prior to implementation to observe the effects of the change, thereby minimizing the
+risk of adverse results.
+Each organization must take into account the associated costs and expenses, the
+required planning and scheduling, and the necessary training associated with a
+thorough and effective CM process. However, since each general CM approach is
+universal, agencies can structure and implement a repeatable CM process to save

@@ -1,0 +1,19 @@
+ stays current in the
+technology/service field?
+Policy/Process 1. Does <the service provider> foresee changes to the organization’s policies and/or
+processes?
+2. How do <the service provider’s> security policies (e.g., contingency planning) differ
+from that of the organization? If the organization’s policy meets a higher standard,
+will <the service provider’s> have trouble meeting this higher standard? If lower, will
+<the service provider> abide by the stricter policies of the organization?
+3. How does <the service provider> address the commingling of its data with that of
+another organization? Are processes in place to ensure that an organization’s data is
+protected?
+
+76 A word or phrase bounded by ‘<’ and ‘>’ indicates that information should be substituted inside the
+brackets.
+118
+CHAPTER 12 Security Services and Products Acquisition
+12.3 Selecting Information Security Products
+As with security services, before selecting specific products, organizations should
+review the current sta

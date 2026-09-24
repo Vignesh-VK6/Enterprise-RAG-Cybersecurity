@@ -1,0 +1,14 @@
+evels of detail and fidelity. Automated detection
+capabilities include network-based and host-based intrusion detection systems
+(IDSs), antivirus software, and log analyzers. Incidents may also be detected
+through manual means, such as user reports. Some incidents have overt signs that
+can be easily detected, whereas others are virtually undetectable without
+automation.
+In a typical organization, the thousands or millions of possible signs of incidents
+that occur any given day are recorded mainly by computer security software.
+Automation is needed to perform an initial analysis of the data and select events of
+interest for human review. Event correlation software and centralized logging can be
+of great value in automating the analysis process. However, the effectiveness of the
+process depends on the quality of the data that goes into it. Organizations should
+establish logging standards and procedures to ensure that adequate information is
+collected by logs and security software and tha

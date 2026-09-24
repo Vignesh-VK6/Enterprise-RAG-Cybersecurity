@@ -1,0 +1,18 @@
+• Individual responsibilities.
+Plan exercises should be designed to individually and then collectively examine
+various components of the entire plan. Exercises may be conducted in a
+classroom setting: discussing specific components of the plan and/or impact
+issues; or they may be functional exercises: simulating the recovery using actual
+replacement equipment, data, and alternate sites.
+B-17
+Appendix B Frequently Asked Questions
+B.7 Risk Management– Summary of Frequently Asked Questions (FAQs)
+Q. What is the principal goal of a risk management process?
+Q. How many processes does risk management encompass?
+Q. What options do system and organizational managers have to reduce the risk
+present on the system?
+Q. Define risk mitigation and explain what steps are involved to control
+implementation.
+Q. The security controls have been establis hed. Is it possible to proceed to the final
+step of the risk management process?
+Q. What is the formal definition of risk?

@@ -1,0 +1,16 @@
+s in the information system; and
+• Recommend corrective actions to reduce or eliminate vulnerabilities in the
+information system.
+11.1.8 User Representatives
+Users are responsible for identifying mission/operational requirements and for
+complying with the security requirements and security controls described in the
+system security plan. User representatives are individuals that represent the
+operational interests of the user community and serve as liaisons for that community
+throughout the SDLC of the information system. The user representatives assist in
+the security certification and accreditation process, when needed, to ensure that
+mission requirements are satisfied while meeting the security requirements and
+using the security controls defined in the system security plan.
+11.2 Delegation of Roles
+At the discretion of senior agency officials, certain security certification and
+accreditation roles may be delegated and, if so, appropriately documented. Agency
+officials may appoint su

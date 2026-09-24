@@ -1,0 +1,13 @@
+CM-1 Configuration
+Management
+Policy and
+Procedures
+The organization develops, disseminates, and periodically reviews/updates:
+(1) a formal, documented CM policy that addresses purpose, scope, roles,
+responsibilities, and compliance; and (2) formal, documented procedures to
+facilitate the implementation of the CM policy and associated CM controls.
+CM-2 Baseline
+Configuration
+The organization develops, documents, and maintains a current baseline
+configuration of the information system and an inventory of the system’s
+constituent components.

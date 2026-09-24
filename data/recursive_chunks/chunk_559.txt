@@ -1,0 +1,14 @@
+Q. What is an ISA?
+A. An Interconnection Security Agreem ent (ISA) is an agreement established
+between the organizations that own and operate connected information systems
+to document the technical requirements of the interconnection. The ISA is a
+security document that specifies the requirements for connecting the information
+systems, describes the security controls that will be used to protect the systems
+and data, and contains a topographical drawing of the interconnection. It is a
+commitment between the owners of two systems to abide by specific rules of
+behavior. These rules are discretionary and should be based on risk.
+Q. What are the components of ISA?
+A. An ISA should contain a cover sheet followed by a document of four numbered
+sections. The information presented within those four sections should address the
+need for the interconnection and the security controls required and implemented
+to protect the confidentiality, integrity, and availability of the systems and data.

@@ -1,0 +1,7 @@
+Following selection into the agency’s IT portfolio, the agency aggregates Exhibit
+300s into the Exhibit 53. The Exhibit 53 provides an overview of the agency’s entire
+IT portfolio by listing every IT investment, life cycle, and budget-year cost
+information.
+In addition to containing all investments with Exhibit 300s, the Exhibit 53 also
+contains other IT investments that do not have Exhibit 300s (e.g., legacy systems
+with costs below agency thresholds). OMB evaluates an agency’s Exhibit 53 and

@@ -1,0 +1,16 @@
+onger available in the future as a result of obsolescence or incompatibility with new
+technologies. Additionally, the organization should consider what measures must be
+taken for the future use of data that has been encrypted, such as taking appropriate
+steps to ensure the secure long-term storage of cryptographic keys. It is equally
+important to consider legal requirements for records retention when disposing of
+information systems. For federal systems, system management officials should
+consult with their office responsible for retaining and archiving federal records.
+The removal of information from a storage medium, such as a hard disk or tape,
+is called sanitization. There are four categories of media sanitization: disposal,
+
+20 See Chapter 14, Configuration Management, of this guide for additional guidance on configuration
+management.
+21
+CHAPTER 3 System Development Life Cycle
+clearing, purging, and destroying.21 Because different kinds of sanitization provide
+different levels of 

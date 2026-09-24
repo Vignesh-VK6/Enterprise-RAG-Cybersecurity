@@ -1,0 +1,14 @@
+• Select a Team Structure and Staffing Model. The organization should
+select the team structure and staffing model best suited to its needs. When
+contemplating the best team structure and staffing model, an organization
+should considers several factors, such as size of the organization, the
+geographic diversity of major computing resources, the need for 24/7
+availability, cost, and staff expertise.
+• Staff and Train the Incident Response Team. Members of the incident
+response team should have excellent technical and problem-solving skills
+because they are critical to the team’s success. Excellent teamwork,
+organizational, communication, and speaking skills are important as well. Most
+incident response teams have a team manager and a deputy team manager
+who assumes authority in the absence of the team manager. In addition, some
+teams also have a technical lead who assumes oversight of and final
+responsibility for the quality of the technical work performed by the entire

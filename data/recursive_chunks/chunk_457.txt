@@ -1,0 +1,19 @@
+ Identify data sensitivity
+ Identify an organization’s security requirements
+ Review security plan
+ Review policies and procedures
+ Identify operational issues such as da ily operation, maintenance, and training
+Product  Determine total LCC (inc luding acquisition and support)
+ Assess ease of use
+ Assess scalability
+ Identify interoperability requirements
+ Identify test requirements
+ Review known vulnerabilities
+ Test and implement relevant patches
+ Review product specifications against existing and planned organizational programs,
+policies, procedures, and standards
+ Identify security critical dependencies with other products
+ Investigate the new product’s interactions with the existing infrastructure
+Vendor  Determine whether the selection of a particula r product will limit future security choices
+ Assess vendor experience and viability
+ Explore vendor history in responding to security flaws in its products

@@ -1,0 +1,18 @@
+e the information resides;
+• Deciding who has access to the information system and determining what types
+of privileges or access rights; and
+• Assisting in identifying and assessing the common security controls where the
+information resides.
+
+57 The role of the information system owner can be interpreted in a variety of ways depending on the
+particular agency and the SDLC phase of the information system. Some agencies may refer to
+information system owners as program managers or business/asset/mission owners.
+58 The information owner retains that responsibility even when the data/information is shared with other
+organizations.
+69
+CHAPTER 8 Security Planning
+8.2.4 Senior Agency Information Security Officer
+The SAISO is the agency official responsible for serving as the CIO’s primary
+liaison to the agency’s information system owners and ISSOs. The SAISO has the
+following responsibilities related to system security plans:
+• Carrying out the CIO’s responsibilities for system security plan

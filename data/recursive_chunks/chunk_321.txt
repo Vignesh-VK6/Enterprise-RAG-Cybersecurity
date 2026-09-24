@@ -1,0 +1,16 @@
+Considerations in the Information System Development Life Cycle, Rev. 1 June 2004.
+77
+CHAPTER 9 Contingency Planning
+Chapter 9
+9. Information Technology
+Contingency Planning
+Information technology (IT) contingency planning is one modular piece of a
+larger contingency and continuity of operations (COOP) planning process that
+encompasses IT, business processes, risk management, financial management, crisis
+communications, safety and security of personnel and property, and continuity of
+government. Each piece is operative in its own right, but in concert creates synergy
+that efficiently and effectively protects the entire organization.64
+Contingency planning for information systems is a required process for
+developing general support systems (GSS) and major applications (MA) with
+appropriate backup methods and procedures for implementing data recovery and
+reconstitution against IT risks.65 Risks to information systems may be natural,

@@ -1,0 +1,12 @@
+activities include (1) the application of scoping guidance, (2) the specification of
+compensating controls, and (3) the specification of agency-defined parameters in
+the security controls, where allowed. The system security plan should document
+all tailoring activities.
+Q. After the information system security plan is developed, what is the next
+step?
+A. Once the information system security plan is developed, it is important to
+periodically assess the plan; review any change in system status, functionality,
+design, etc.; and ensure that the plan continues to reflect the correct information
+about the system. This documentation and its accuracy are critical for system
+certification activity. All plans should be reviewed and updated, if appropriate, at
+least annually.

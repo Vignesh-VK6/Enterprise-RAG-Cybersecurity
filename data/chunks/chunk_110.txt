@@ -1,0 +1,18 @@
+e security plans for those systems that may
+call for developing additional security controls to supplement the controls already in place or
+for those that may call for modifying selected controls that are deemed to be less than
+effective.
+Developmental
+Security Test and
+Evaluation
+ Test security controls developed for a new information system or product for proper and
+effective operation. Some types of security controls (primarily those controls of a
+nontechnical nature) cannot be tested and evaluated until the information system is deployed;
+these controls are typically management and operational controls.
+ Develop test plan/script/scenarios.
+Other Planning
+Components
+ Ensure that all necessary components of the product acquisition and integration process are
+considered when incorporating security into the life cycle. These components include
+selection of the appropriate contract type, participation by all necessary functional groups
+within an organization, participation by the cer

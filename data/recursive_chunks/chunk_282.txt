@@ -1,0 +1,12 @@
+current, and follows up on planned security controls. In addition, procedures should
+require that system security plans be developed and reviewed prior to proceeding
+with the security certification and accreditation process for the system.
+During the security certification and accreditation process, the system security
+plan is analyzed, updated, and accepted. The certification agent confirms that the
+security controls described in the system security plan are consistent with the FIPS
+199 security category determined for the information system, and that the threat
+and vulnerability identification and initial risk determination is identified and
+documented in the system security plan, risk assessment, or equivalent document.
+The results of a security certification are used to reassess the risks, develop the
+POA&Ms that are required to track remedial actions, and update the system security
+plan, thus providing the factual basis for an authorizing official to render a security

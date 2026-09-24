@@ -1,0 +1,16 @@
+e includes the following activities:
+• Collect metrics data according to the processes defined in the metrics program
+implementation plan;
+• Consolidate collected data and store in a format (i.e., a database or a
+spreadsheet) conducive to data analysis and reporting;
+• Conduct gap analysis, compare collected measurements with targets if defined,
+and identify gaps between actual and desired performance;
+• Identify causes of poor performance; and
+• Identify areas requiring improvement.
+The causes of poor performance can often be identified using the data from more
+than one metric. For example, determining that the percentage of approved security
+plans is unacceptably low would not be helpful for determining how to correct the
+problem. To determine the cause of low compliance, collect information on the
+reasons for low percentages (e.g., lack of guidance, insufficient expertise, or
+conflicting priorities). This information can be collected as separate metrics or as
+implementation evidence

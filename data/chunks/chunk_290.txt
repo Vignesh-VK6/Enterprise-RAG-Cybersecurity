@@ -1,0 +1,19 @@
+going System Security Plan Maintenance
+Once the information system security plan is accredited, it is important to
+periodically assess the plan; review any change in system status, functionality,
+design, etc.; and ensure that the plan continues to reflect the correct information
+about the system. This documentation and its accuracy are imperative for system
+recertification and reaccreditation activity. All plans should be reviewed and updated,
+if appropriate, at least annually. Some items to include in the review are:
+• Change in information system owner;
+• Change in information security representative;
+• Major change in system architecture;
+• Change in system status;
+• Additions/deletions of system interconnections;
+• Change in system scope; and
+• Change in authorizing official.
+75
+CHAPTER 8 Security Planning
+The objective of system security planning is to improve the protection of
+information system resources. All federal systems have some level of sensitivity and
+require protection 

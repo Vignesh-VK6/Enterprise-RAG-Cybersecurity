@@ -1,0 +1,13 @@
+system. Both the risk assessment and the development and maintenance of a
+security plan that accurately reflects the security requirements and controls in place
+for a particular system must be incorporated into the system development life cycle
+(SDLC).70
+In addition to risk assessments and system security plans, security assessments
+have an important role in security accreditation. It is essential that agency officials
+have the most complete and accurate information possible on the security status of
+their information systems in order to make timely and sound risk-based decisions.
+The information and supporting evidence needed for security accreditation are
+developed during a detailed security evaluation of a system, typically referred to as
+security certification.
+Security certification is a comprehensive assessment of the management,
+operational, and technical security controls in an information system, made in

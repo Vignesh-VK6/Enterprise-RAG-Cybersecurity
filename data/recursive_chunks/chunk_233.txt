@@ -1,0 +1,9 @@
+Security Incidents: Technical staff will immediately notify their designated counterparts by
+telephone or e-mail when a security incident(s) is detected, so the other party may take steps to
+determine whether its system has been compromised and to take appropriate security
+precautions. The system owner will receive formal notification in writing within five (5) business
+days after detection of the incident(s).
+
+Disasters and Other Contingencies: Technical staff will immediately notify their designated
+counterparts by telephone or e-mail in the event of a disaster or other contingency that disrupts
+the normal operation of one or both of the connected systems.

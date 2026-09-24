@@ -1,0 +1,27 @@
+ience in producing high
+quality information security products?
+
+Vendor  What is the vendor’s “track record” in responding to
+security flaws in its products?
+
+Vendor  How does the vendor handle software and hardware
+maintenance, end-user support, and maintenance
+agreements?
+
+Vendor  What is the long-term viability of the vendor?
+Vendor  Has the vendor developed a security configuration
+guide?
+
+Vendor  Does the vendor have an associated security guide
+for the product?
+
+Vendor  Does the vendor use or make reference to NIST,
+consortia, or other consensus-based checklists,
+security configurations/settings, or benchmarks?
+
+Some examples of product types include access control, intrusion detection and
+other information security-related products. Before deciding to purchase any type of
+security product, decision makers should consider product capabilities, compatibility
+with other products, and environmental considerations, among others.
+12.4 Security Checklists for IT Products
+Vulnerabi

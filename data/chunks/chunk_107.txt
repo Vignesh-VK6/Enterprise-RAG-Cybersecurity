@@ -1,0 +1,14 @@
+sis, based on legal, regulatory, protection, and functional security requirements, will
+be used as the basis for determining how much and what kinds of assurance are required.
+Risk Assessment24  Conduct formal risk assessment to identify syst em protection requirements. This analysis
+builds on the initial risk assessment performed during the initiation phase, but will be more in-
+depth and specific. Security categories derived from FIPS 199 are typically considered during
+the risk assessment process to help guide the initial selection of security controls for an
+information system.
+
+21 See NIST SP 800-88, Guidelines for Media Sanitization, for additional guidance on media sanitization.
+22 NIST SP 800-60, Guide for Mapping Types of Information and Information Systems to Security
+Categories; FIPS 199, Standards for Security Categorization of Federal Information and Information
+Systems.
+23 See FIPS 199, and Chapter 10, Risk Management, an d Chapter 11, Certification, Accreditation, and
+S

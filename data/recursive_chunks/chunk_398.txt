@@ -1,0 +1,12 @@
+throughout the SDLC of the information system. The user representatives assist in
+the security certification and accreditation process, when needed, to ensure that
+mission requirements are satisfied while meeting the security requirements and
+using the security controls defined in the system security plan.
+11.2 Delegation of Roles
+At the discretion of senior agency officials, certain security certification and
+accreditation roles may be delegated and, if so, appropriately documented. Agency
+officials may appoint suitably qualified individuals, including contractors, to perform
+the activities associated with any security certification and accreditation role with the
+exception of the CIO and authorizing official. The CIO and authorizing official have
+inherent U.S. government authority, and those roles should be assigned to
+government personnel only. Individuals serving in delegated roles are able to

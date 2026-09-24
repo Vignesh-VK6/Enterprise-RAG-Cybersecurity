@@ -1,0 +1,15 @@
+ Typically, during this phase, the organization
+defines high-level information security policy requirements as well as the enterprise
+security system architecture.
+3.2 Development/Acquisition Phase
+During this phase, the system is designed, purchased, programmed, developed,
+or otherwise constructed. This phase often consists of other defined cycles, such as
+the system development cycle or the acquisition cycle.
+During the first part of the development/acquisition phase, the organization
+should simultaneously define the system’s security and functional requirements.
+These requirements can be expressed as technical features (e.g., access control),
+assurances (e.g., background checks for system developers), or operational practices
+(e.g., awareness and training). During the last part of this phase, the organization
+should perform developmental testing of the technical and security
+features/functions to ensure that they perform as intended prior to launching the
+implementation and integrat

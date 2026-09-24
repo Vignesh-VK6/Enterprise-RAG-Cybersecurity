@@ -1,0 +1,12 @@
+security control settings and switches in accordance with vendor instructions and proper
+security implementation guidance.
+Security
+Certification28
+ Ensure that the controls are effectivel y implemented through established verification
+techniques and procedures and give organization officials confidence that the appropriate
+safeguards and countermeasures are in place to protect the organization’s information.
+Security certification also uncovers and describes the known vulnerabilities in the information
+system. Existing security certification may need to be updated to include acquired products.
+NIST SP 800-37 states that security certification determines the extent to which the security
+controls in the information system are implemented correctly, operating as intended, and
+producing the desired outcome with respect to meeting security requirements for the system.

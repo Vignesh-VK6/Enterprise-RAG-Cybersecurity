@@ -1,0 +1,16 @@
+tion on the
+reasons for low percentages (e.g., lack of guidance, insufficient expertise, or
+conflicting priorities). This information can be collected as separate metrics or as
+implementation evidence for the percentage of approved security plans. Once this
+information is collected and compiled, the agency should develop a correction plan to
+address the root cause of the problem.
+Root causes for faulty security run the gamut between highly technical
+misconfiguration issues to lack of training or outdated policies or practices. Below
+are examples of causation factors that contribute to poor security control
+implementation and effectiveness:
+• Resources—insufficien t human, monetary, or other resources;
+• Training—lack of appropriate training for the personnel installing, administering,
+maintaining, or using the systems;
+• System Upgrades—security patches that have been removed but not replaced
+during the operating system upgrades;
+• Configuration Management (CM) Practices—new or upgrade

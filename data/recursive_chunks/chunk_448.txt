@@ -1,0 +1,16 @@
+Technical/
+Architectural
+IT services, including management services with technical implications. Throughout
+the life cycle, information security program managers must consider whether their
+decisions have a technical and architectural effect on the organization.
+Organizational
+Issues such as damage to an organization’s image and reputation, change in focus
+on core competencies, and resiliency of the organization, relate to the intangible
+elements of an organization. In many cases, long-accepted internal controls and
+business practices that have developed over time due to natural business unit
+divisions or regulatory requirements may have to be reconsidered when an
+information security service provider is engaged.
+Personnel
+Issues related to the organization’s contractors and employees. Managers must
+remain aware of the impact of their decisions on their employees. Depending on the
+service arrangement implemented, major ramifications could exist for current

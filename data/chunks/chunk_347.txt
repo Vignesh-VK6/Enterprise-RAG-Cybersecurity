@@ -1,0 +1,21 @@
+, Configuration Management, of this guide for additional guidance on configuration
+management.
+94
+CHAPTER 10 Risk Management
+National Institute of Standards and Technology Special Publication 800-60, Guide for
+Mapping Types of Information and Information Systems to Security Categories, June
+2004.
+National Institute of Standards and Technology Special Publication 800-64, Security
+Considerations in the Information System Development Life Cycle, Rev. 1, June
+2004.
+
+95
+Chapter 11 Certification, Accreditation, and Security Assessments
+Chapter 11
+11. Certification, Accreditation, and
+Security Assessments
+Security certification and accreditation are important activities that support a risk
+management process and an integral part of an agency's information security
+program. The security certification and accreditation process is designed to ensure
+that an information system will operate with the appropriate management review,
+that there is ongoing monitoring of security controls, and that reac

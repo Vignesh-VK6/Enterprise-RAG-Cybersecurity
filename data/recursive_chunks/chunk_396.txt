@@ -1,0 +1,15 @@
+information owner, as necessary;
+• Assess security impact of system changes; and
+• Develop and update the system security plan.
+99
+Chapter 11 Certification, Accreditation, and Security Assessments
+11.1.7 Certification Agent
+The certification agent is either an individual, a group, or an organization
+responsible for conducting a security certification or a comprehensive assessment of
+the effectiveness of security controls in an information system. The impartiality and
+independence of the certification agent are important factors in assessing the
+credibility of the security assessment results and ensuring that the authorizing
+official receives the most objective information possible to make an informed, risk-
+based accreditation decision. The certification agent has the following responsibilities
+in relation to security certification and accreditation:
+• Assess the system security plan to ensure the plan provides applicable security

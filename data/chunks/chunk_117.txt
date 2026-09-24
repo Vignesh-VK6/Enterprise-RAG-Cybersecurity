@@ -1,0 +1,25 @@
+mated
+tools, review change management, monitor external sources (trade literature, publications,
+electronic news, etc.), and perform periodic reaccreditation.
+− POA&Ms
+− Measurement and metrics
+− Network monitoring
+E. Disposal Phase:
+Information
+Preservation
+ Retain information, as necessary, to conform to current legal requirements and to
+accommodate future technology changes that may render the retrieval method obsolete.
+ Consult with agency office on retaining and archiving federal records.
+ Ensure long-term storage of cryptographic keys for encrypted data.
+ Determine archive, discard or destroy information.
+Media Sanitization  Determine sanitization level (overwrite, degauss, or destroy).
+ Delete, erase, and overwrite data as necessary.
+Hardware and
+Software Disposal
+ Dispose of hardware and software as directed by governing agency policy.
+
+-------------------------------------------------
+Website:
+www.csrc.nist.gov
+
+28 See NIST SP 800-37, Guide for the Security Certificatio

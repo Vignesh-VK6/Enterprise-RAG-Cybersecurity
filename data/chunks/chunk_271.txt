@@ -1,0 +1,20 @@
+ics:
+− Work at home
+− Dial-in access
+− Connection to the Internet
+− Use of copyrighted work
+− Unofficial use of government equipment
+− Assignment and limitations of system privileges and individual accountability
+− Password usage
+− Searching databases and divulging information
+8.4 System Security Plan Approval
+Organizational policy should clearly define who is responsible for system security
+plan approval and procedures developed for plan submission, including any special
+memorandum language or other documentation required by the agency. Prior to the
+security certification and accreditation process, the authorizing official, independent
+from the system owner, typically approves the plan.
+8.4.1 System Boundary Analysis and Security Controls
+Before the system security plan can be developed, the information system and
+the information resident within that system must be categorized based on a FIPS 199
+impact analysis.59 Then a determination can be made as to which systems in the
+inventory 

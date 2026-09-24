@@ -1,0 +1,15 @@
+mechanisms that can be used to update the awareness and training program plan
+include surveys, evaluation forms, independent observation, status reports,
+interviews, focus groups, technology shifts, and/or benchmarking.
+A feedback strategy should incorporate elements that address quality, scope,
+deployment method (e.g., Web-based, onsite, offsite), level of difficulty, ease of use,
+duration of session, relevancy, currency, and suggestions for modification.
+Metrics are essential to feedback and evaluation. They can be used to:
+• Measure the effectiveness of the security awareness and training program;
+• Provide information for many of the data requests that an agency must provide
+with regard to compliance; and,
+• Provide an important gauge for demonstrating progress and identifying areas
+for improvement.
+4.5 Managing Change
+It is necessary to ensure that the program, as structured, continues to evolve as
+new technology and associated security issues emerge. Training needs will shift as

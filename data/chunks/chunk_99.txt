@@ -1,0 +1,16 @@
+phase, the organization
+should perform developmental testing of the technical and security
+features/functions to ensure that they perform as intended prior to launching the
+implementation and integration phase.
+3.3 Implementation Phase
+In the implementation phase, the organization configures and enables system
+security features, tests the functionality of these features, installs or implements the
+system, and finally, obtains a formal authorization to operate the system. Design
+reviews and system tests should be performed before placing the system into
+20
+CHAPTER 3 System Development Life Cycle
+operation to ensure that it meets all required security specifications. In addition, if
+new controls are added to the application or the support system, additional
+acceptance tests of those new controls must be performed. This approach ensures
+that new controls meet security specifications and do not conflict with or invalidate
+existing controls. The results of the design reviews and system test

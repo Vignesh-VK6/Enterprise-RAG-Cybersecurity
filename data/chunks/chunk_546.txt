@@ -1,0 +1,19 @@
+ation;
+• Step 3: Vulnerability identification;
+• Step 4: Control analysis, likelihood determination, impact analysis, risk
+determination;
+• Step 5: Control recommendations; and
+• Step 6: Results documentation.
+Q. How is a system described?
+A. The system is described in terms of it s hardware; software; interfaces to other
+systems, data, people, mission; and criticality and sensitivity (as previously
+described using FIPS 199 to determine the system’s appropriate security
+categorization). In addition, the system’s functional requirements; security
+B-19
+Appendix B Frequently Asked Questions
+policy and architecture; network topology; information flows; security controls in
+terms of management, operational, and technical controls; and physical and
+environmental security mechanisms are described.
+Q. Are there common threats to a system?
+A. Yes. There are common threat sources that typically apply, regardless of the
+system that should be evaluated. These common threats can be categorized into

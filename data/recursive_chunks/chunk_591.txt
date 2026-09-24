@@ -1,0 +1,14 @@
+Q. What is the principal goal of a risk management process?
+A. The principal goal of an organization’s risk management process should be to
+protect the organization and its ability to perform its mission, not just its
+information assets.
+Q. How many processes does risk management encompass?
+A. There are three processes of risk mana gement: risk assessment, risk mitigation,
+and evaluation and assessment. When applied appropriately and with due
+diligence, the processes should meet the Federal Information Security
+Management Act (FISMA) requirements of “providing information security
+protections commensurate with the risk and magnitude of the harm resulting
+from unauthorized access, use, disclosure, disruption, modification, or destruction
+of…information…and…informati on systems” collected by and used by the federal
+government and “ensuring that information security management processes are
+integrated with agency strategic and operational planning processes.”

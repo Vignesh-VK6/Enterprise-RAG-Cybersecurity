@@ -1,0 +1,16 @@
+ed to help the accreditation authority determine whether the remaining known
+vulnerabilities in the system (after implementing an agreed-upon set of security
+controls) pose an acceptable level of risk to the agency. After successfully completing
+this phase, the information system owner will be facing one of three scenarios:
+• Formal authorization to operate the information system is granted;
+• An interim authorization to operate the information system under specific terms
+and conditions is granted; or
+• Authorization to operate the information system
+is denied.
+The Continuous Monitoring phase is discussed
+in section 11.6.
+11.4 Security Certification Documentation
+The security certification and accreditation process, in its entirety, culminates in a
+risk management decision by an agency official. The security accreditation package
+documents the results of the security certification and provides the authorizing
+official with the essential information needed to make a credible, risk-based

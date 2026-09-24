@@ -1,0 +1,16 @@
+level. The number and type of appropriate security controls and their
+corresponding information security services may vary throughout a particular
+system’s services life cycle. The relative maturity of an organization’s security
+architecture may influence the types of appropriate security controls.
+Q. Are there security services categories?
+A. Yes. Security services are divided into three categories: management,
+operational, and technical services. Characteristics of each service are listed
+below:
+• Management Services are techniques and concerns normally addressed by
+management in the organization’s computer security program. They focus on
+managing the computer security program and the risk within the organization.
+B-24
+Appendix B Frequently Asked Questions
+• Operational Services are focused on controls implemented and executed by
+people (as opposed to systems). They often require technical or specialized
+expertise and rely on management activities and technical controls.

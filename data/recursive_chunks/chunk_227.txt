@@ -1,0 +1,13 @@
+determine the logistics of the disconnection and the disposition of shared data,
+including purging and overwriting sensitive data. The disconnection should be
+conducted when the impact on users is minimal. Following the disconnection, each
+organization should update its system security plan and related documents.
+6.3.1 Emergency Disconnection
+If one or both organizations detect an attack, intrusion attempt, or other
+contingency that exploits or jeopardizes the connected systems or their data, it
+might be necessary to abruptly terminate the interconnection without providing
+written notice to the other party. This extraordinary measure should be taken only
+in extreme circumstances and only after consultation with appropriate technical staff
+and senior management.
+The decision to make the emergency disconnection should be made by the
+system owner (or a designated staff member) and implemented by technical staff.

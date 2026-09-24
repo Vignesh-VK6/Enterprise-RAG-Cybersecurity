@@ -1,0 +1,16 @@
+B-11
+Appendix B Frequently Asked Questions
+B.4 Performance Measures – Summary of FAQs
+Q. How can an organization benefit from metrics?
+Q. What are the interdependent componen ts of the security metrics program?
+Q. What do information se curity metrics measure?
+Q. What is the difference be tween developing and implementing a metrics program?
+Q. What are the activities that comprise the information security metrics process?
+Q. What are the activities that comprise the information security implementation
+process?
+Q. Can the use of a metrics program a ssist an organization with federal
+requirements or FISMA?
+Q. Metrics help to answer three basic questions, what are they?
+Q. How are the different metrics selected?
+Q. Can a weighting scale be used during the selection process for metrics?
+Q. Are there any specific characteristics th at should be defined in each metric?

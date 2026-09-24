@@ -1,0 +1,12 @@
+Some examples of product types include access control, intrusion detection and
+other information security-related products. Before deciding to purchase any type of
+security product, decision makers should consider product capabilities, compatibility
+with other products, and environmental considerations, among others.
+12.4 Security Checklists for IT Products
+Vulnerabilities in IT products surface nearly every day, and many ready-to-use
+exploits are widely available on the Internet. Because IT products are often intended
+for a wide variety of audiences, restrictive security controls are usually not enabled
+by default, so many IT products are immediately vulnerable out of the box. Security
+program managers should review the NIST SP 800-70, Security Configuration
+Checklists Program for IT Products, May 2005, which helps to facilitate the
+development and dissemination of security checklists so that organizations and

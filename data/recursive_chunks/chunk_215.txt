@@ -1,0 +1,14 @@
+Figure 6-2. Steps to Plan a System Interconnection
+Step 1: Establish a Joint Planning Team
+The organizations should consider establishing a joint planning team composed of
+appropriate management and technical staff that includes program managers,
+system security officers, system administrators, network administrators, and system
+architects. The typical joint planning team is responsible for coordinating all aspects
+of the planning process and ensuring that it has both clear direction and sufficient
+resources. It also must have the commitment and support of the system and data
+owners, and other senior managers.
+Step 2: Define the Business Case
+Both organizations should work together to define the purpose of the
+interconnection, determine how it will support their mission requirements, and
+identify potential costs and risks. Defining the business case will establish the basis
+of the interconnection and facilitate the planning process. Factors that should be

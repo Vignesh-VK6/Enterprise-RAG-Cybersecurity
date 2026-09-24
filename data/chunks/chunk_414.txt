@@ -1,0 +1,15 @@
+ation security service?
+2. Who will provide, i.e., own, the hardware/software needed?
+3. At what level will <the service provider> provide the service (e.g., percent availability,
+metrics reports, maintenance, hardware/software refreshment)?
+4. How will <the service provider> ensure this service level?
+5. What remedies would <the service provider> consider appropriate (i.e., service
+credits) for failure to meet the service targets?
+6. What are < the service provider’s> requirements for early termination and extension?
+7. How are scale-up/down issues handled?
+8. Has <the service provider> provided this type of service at this level for this type of
+organization before? Can <the service provider> provide references for those past
+performance qualifications?
+9. What is the information security environment of <the service provider>?
+10. How would < the service provider> handle emergency situations?
+Organizational 1. What is <the service provider’s> work environment and is it compatible wit

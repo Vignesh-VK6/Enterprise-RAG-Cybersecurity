@@ -1,0 +1,14 @@
+be prohibitively large; therefore, agencies should prioritize metrics to ensure that the
+final set selected for initial implementation has the following attributes:
+• Facilitates improvement of high-priority security control implementation. High
+priority may be defined by the latest GAO or IG reports, results of a risk
+assessment, or an internal organizational goal;
+• Uses data that can realistically be obtained from existing processes and data
+repositories; and
+• Measures processes that already exist and are relatively stable. Measuring
+nonexistent or unstable processes will not provide meaningful information
+about security performance and will therefore not be useful for targeting
+specific aspects of performance. On the other hand, attempting such
+measurement may not be entirely useless, because such a metric will certainly
+produce poor results and will therefore identify an area that needs
+improvement.

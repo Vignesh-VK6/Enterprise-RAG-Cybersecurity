@@ -1,0 +1,7 @@
+undertaken by the certification agent. The security assessment report can also
+contain a list of recommended corrective actions and the completed system reporting
+form.
+The POA&M describes the measures that have been implemented or planned to
+correct any deficiencies noted during the assessment of the security controls and to
+reduce or eliminate known system vulnerabilities. Figure 11-1 provides an overview
+of the key sections of the security accreditation package.

@@ -1,0 +1,16 @@
+71 See Chapter 2, Governance; Chapter 5, Capital Planning; Chapter 8, Security Planning; and Chapter 14,
+Configuration Management, of this guide for additional guidance on roles and responsibilities.
+97
+Chapter 11 Certification, Accreditation, and Security Assessments
+– Threat and vulnerability assessments;
+– Risk assessments;
+– Results from common security control assessments; and
+– Any other general information that may be of assistance to information
+system owners and their supporting security staffs.
+• In concert with authorizing official, determine appropriate allocation of
+resources for security programs and systems; and
+• In certain instances, operate as the authorizing official for agency-wide general
+support systems (GSS) or as co-authorizing official with other senior officials
+for selected agency systems.
+11.1.2 Authorizing Official
+The authorizing official (or designated approving/accrediting authority) is a senior

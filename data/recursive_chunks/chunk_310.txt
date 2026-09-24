@@ -1,0 +1,14 @@
+Subsequent to the security categorization process,
+agency must select an appropriate set of security controls for their information
+systems that satisfy the minimum security requirements set forth in FIPS 200. The
+selected set of security controls must be one of three security control baselines from
+NIST SP 800-53 (see Table 8-2) that are associated with the designated impact
+levels of the agency information systems as determined during the security
+categorization process.
+• For low-impact information systems, an agency must, at a minimum, use the
+security controls from the low baseline of security controls defined in NIST SP
+800-53 and must ensure that the minimum assurance requirements associated
+with the low baseline are satisfied.
+• For moderate-impact information systems, an agency must, at a minimum,
+employ the security controls from the moderate baseline of security controls
+defined in NIST SP 800-53 and must ensure that the minimum assurance

@@ -1,0 +1,14 @@
+and responsible division or support personnel). This step begins with the
+identification of the information system boundaries, resources, and information.
+When characterizing the system, the mission criticality and sensitivity (as
+previously identified using FIPS 199 to determine the system’s appropriate security
+categorization) are described in sufficient terms to form a basis for the scope of the
+risk assessment. The level of effort and the granularity (i.e., the level of depth to
+which the assessment investigates the security of the system) of the risk assessment
+are based on the FIPS 199 security categorization. For example, a system
+determined to be of low impact may not require hands-on security testing and
+evaluation. Various techniques, such as questionnaires, interviews, documentation
+reviews, and automated scanning tools, can be used to collect the information
+86
+CHAPTER 10 Risk Management
+needed to fully characterize the system. At a minimum, the system characterization

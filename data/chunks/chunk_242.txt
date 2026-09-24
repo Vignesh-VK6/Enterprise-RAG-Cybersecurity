@@ -1,0 +1,19 @@
+ccreditation, and Security Assessments, of this guide for
+additional guidance on security assessments.
+62
+CHAPTER 7 Performance Measures
+7.4 Metrics Program Implementation
+Information security metrics should be used for monitoring information security
+control performance and initiating performance improvement actions. This iterative
+process consists of six phases, depicted in Figure 7-2.
+
+Figure 7-2. Information Security Metrics Program Implementation Process
+7.4.1 Prepare for Data Collection
+Phase 1 of the process, Prepare for Data Collection, involves activities that are
+key for establishing a comprehensive information security metrics program. These
+activities include the information security metrics identification, definition,
+development, and selection activities, and developing a metrics program
+implementation plan.
+After the metrics have been identified, specific implementation steps should be
+defined on how to collect, analyze, and report the metrics. These steps should be
+docu

@@ -1,0 +1,16 @@
+with information system owners, ISSOs, and the authorizing official;
+• Coordinating the identification, implementation, and assessment of the common
+security controls; and
+• Possessing professional qualifications, including training and experience,
+required to develop and review system security plans.
+8.2.5 Information System Security Officer
+The ISSO is the agency official assigned responsibility by the SAISO, authorizing
+official, management official, or information system owner for ensuring that the
+appropriate operational security posture is maintained for an information system or
+program. The ISSO has the following responsibilities related to system security
+plans:
+• Assisting the SAISO in identifying, implementing, and assessing the common
+security controls; and
+• Actively supporting the development and maintenance of the system security
+plan, to include coordinating system changes with the information system
+owner and assessing the security impact of those changes.

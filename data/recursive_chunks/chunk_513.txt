@@ -1,0 +1,4 @@
+effective CM process. In the SDLC, the planning of the CM process falls in Phases 2
+and 3; the primary implementation of the CM process is performed during Phase 4,
+the Operations/ Maintenance phase. SDLC and its associated key tasks are depicted
+in Figure 14-1.

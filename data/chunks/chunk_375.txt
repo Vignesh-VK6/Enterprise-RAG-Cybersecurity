@@ -1,0 +1,16 @@
+ntinuous Monitoring
+The Continuous Monitoring phase is an essential component in any security
+program. During this phase, the status of the security controls in the information
+system are checked on an ongoing basis. An effective continuous monitoring
+program can be used to support the annual FISMA requirement for assessing the
+security controls in information systems. At a minimum, an effective monitoring
+program requires the following:
+• Configuration management and configuration control processes for the
+information system;
+• Security impact analyses on changes to the information system; and
+• Assessment of selected security controls in the information system and
+reporting of information system security status to appropriate agency officials.
+To determine which security controls to select for review, agencies should first
+prioritize testing on POA&M items that become closed. These newly implemented
+controls should be validated. Agencies should test against system-related security
+co

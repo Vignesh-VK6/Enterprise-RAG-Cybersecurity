@@ -1,0 +1,14 @@
+39 See Chapter 8, Security Planning, Chapter 10, Risk Management, Chapter 11, Certification,
+Accreditation, and Security Assessments, and Chapter 14, Configuration Management, of this guide for
+additional guidance on security roles and responsibilities.
+40 See NIST SP 800-60, Guide for Mapping Types of Information and Information Systems to Security
+Categories; FIPS 199, Standards for Security Categorization of Federal Information and Information
+Systems.
+41
+CHAPTER 5 Capital Planning and Investment Control
+• Compliance gap: the difference between the desired and actual compliance
+with the security requirements. For example, if an information system has
+completed 80 percent of security certification and accreditation activities, that
+investment would have a security certification and accreditation compliance gap
+of 20 percent. (The actual compliance of 80 percent is subtracted from the
+desired compliance of 100 percent to yield a 20 percent compliance gap.) The

@@ -1,0 +1,16 @@
+ to occur?
+A. Before interconnecting their informatio n systems, each organization should
+ensure that its respective system is properly certified and accredited in
+accordance with federal C&A guidelines. The C&A process is applicable for both
+emerging systems and those already in production. It involves a series of
+security-related activities, including developing or updating a system security
+plan, conducting a risk assessment, preparing a contingency plan, and conducting
+a security review.
+Establishing an interconnection may represent a significant change to the
+connected systems. Each organization should perform an assessment to
+determine whether recertification of the new configuration is appropriate.
+Q. How often should security reviews occur?
+A. One or both organizations should review the security controls for the
+interconnection at least annually or whenever a significant change occurs to
+ensure that they are operating properly and are providing appropriate levels of
+protection.

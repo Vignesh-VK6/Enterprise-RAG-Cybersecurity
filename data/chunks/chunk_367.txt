@@ -1,0 +1,15 @@
+n agent begins
+assessing the security controls in the information system.
+The Security Certification phase consists of two tasks: (1) security control
+assessment, and (2) security certification documentation. An information system
+must meet the minimum security requirements in FIPS 200, Minimum Security
+Requirements for Federal Information and Information Systems, by implementing
+the appropriate security controls and assurance requirements as described in NIST
+SP 800-53, Recommended Security Controls for Federal Information Systems.
+System assessments are conducted by examining, reviewing, and testing the
+implementation of the appropriate security control baseline contained in NIST SP
+800-53. The procedures for assessing and reporting the assessment results are
+contained in NIST SP 800-53A, Guide for Assessing the Security Controls in Federal
+Information Systems.72
+The security certification phase determines the extent to which the security
+controls in the information system are implem

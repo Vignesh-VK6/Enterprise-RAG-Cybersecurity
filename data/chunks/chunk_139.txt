@@ -1,0 +1,18 @@
+
+make all individuals aware of their commonly shared information security
+responsibilities.
+On the other hand, the message in a training class is directed at a specific
+audience. The message in training material should include everything related to
+security that attendees need to know in order to perform their jobs. Training
+material is usually far more in-depth than material used in an awareness session or
+campaign.
+4.3.3 Implementing an Awareness and Training Program
+An information security awareness and training program should be implemented
+only after a needs assessment has been conducted, a strategy has been developed,
+31
+CHAPTER 4 Awareness and Training
+an awareness and training program plan for implementing that strategy has been
+completed, and awareness and training material has been developed.
+The program’s implementation must be fully explained to the organization to
+achieve support for its implementation and commitment of necessary resources.
+This explanation includes expect

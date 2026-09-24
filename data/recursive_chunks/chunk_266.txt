@@ -1,0 +1,18 @@
+63
+CHAPTER 7 Performance Measures
+• Modifications of data collection and tracking tools; and
+• Metrics summary reporting formats.
+7.4.2 Collect Data and Analyze Results
+Phase 2 of the process, Collect Data and Analyze Results, involves activities that
+are essential for ensuring that the collected metrics are used to gain an
+understanding of system security and to identify appropriate improvement actions.
+This phase includes the following activities:
+• Collect metrics data according to the processes defined in the metrics program
+implementation plan;
+• Consolidate collected data and store in a format (i.e., a database or a
+spreadsheet) conducive to data analysis and reporting;
+• Conduct gap analysis, compare collected measurements with targets if defined,
+and identify gaps between actual and desired performance;
+• Identify causes of poor performance; and
+• Identify areas requiring improvement.
+The causes of poor performance can often be identified using the data from more

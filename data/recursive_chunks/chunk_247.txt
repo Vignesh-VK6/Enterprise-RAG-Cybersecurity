@@ -1,0 +1,12 @@
+of those persons in positions that control information resources), the effectiveness of
+the security metrics program can fail when pressured by politics and budget
+limitations. The second component of an effective security metrics program is
+practical security policies and procedures backed by the authority necessary to
+enforce compliance. Metrics are not easily obtainable in the absence of policies and
+procedures. The third component is developing and establishing quantifiable
+performance metrics that are designed to capture and provide meaningful
+performance data. To provide meaningful data, quantifiable security metrics must be
+based on information security performance goals and objectives, and be easily
+obtainable, repeatable, relevant, useful, and measurable. Finally, the security
+metrics program itself must emphasize consistent, periodic analysis of the metrics
+data. The results of this analysis are used to apply lessons learned, improve the

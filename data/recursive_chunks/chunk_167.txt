@@ -1,0 +1,13 @@
+managing IT investments throughout the life cycle. The three phases ensure that
+investment management practices, including security, are disciplined and thorough
+throughout each phase of the investment life cycle. Figure 5-1 illustrates the three
+phases.
+The Select phase refers to activities involved with assessing and prioritizing
+current and proposed IT projects based on mission needs and improvement
+priorities, and then creates a portfolio of IT projects to address these needs and
+priorities. Typical Select phase activities include screening new projects; analyzing
+and ranking all projects based on benefit, cost, and risk criteria; selecting a portfolio
+of projects; and establishing project review schedules.
+The Control phase refers to activities designated to monitor the investment
+during its operational phase to determine whether the investment is within the cost
+and schedule milestones established at the beginning of the investment life cycle.

@@ -1,0 +1,15 @@
+The information security metrics development process consists of two major
+activities:
+1. Identifying and defining the current information security program; and
+2. Developing and selecting specific metrics to measure implementation,
+efficiency, effectiveness, and the impact of the security controls.
+The process steps do not need to be sequential. Rather, the process illustrated in
+Figure 7-1 provides a framework for thinking about metrics and aids in identifying
+metrics to be developed for each system. The type of metric depends on where the
+system is within its life cycle and on the maturity of the information system security
+program. This framework facilitates tailoring metrics to a specific organization and to
+the different stakeholder groups present within each organization.
+61
+CHAPTER 7 Performance Measures
+Phases 5, 6, and 7, depicted in Figure 7-1, involve developing metrics that
+measure process implementation, effectiveness and efficiency, and mission impact.

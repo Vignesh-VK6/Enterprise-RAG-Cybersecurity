@@ -1,0 +1,13 @@
+in the system development life cycle (SDLC)
+process.49 Those responsible for implementing and managing information systems
+must participate in addressing security controls to be applied to their systems.
+Federal Information Processing Standard (FIPS) 200, Minimum Security
+Requirements for Federal Information and Information Systems, specifies the
+minimum security requirements for federal information and information systems in
+seventeen security-related areas. Federal agencies must meet the minimum security
+requirements defined in FIPS 200 by using the security controls in National Institute
+of Standards and Technology (NIST) Special Publication (SP) 800-53, Recommended
+Security Controls for Federal Information Systems, and NIST SP 800-18 Rev.1, Guide
+for Developing Security Plans for Federal Information Systems, which provides a
+Systems Security Plan Template in Appendix A of the document. The guidance below
+provides basic information on how to prepare a system security plan in accorda

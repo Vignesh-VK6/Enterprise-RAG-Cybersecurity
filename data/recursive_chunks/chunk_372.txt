@@ -1,0 +1,13 @@
+will remain. The remaining residual risk should be analyzed to ensure that it is at an
+acceptable level. For federal agencies, after the appropriate controls have been put
+in place for the identified risks, the authorizing official will sign a statement accepting
+any residual risk and either authorize the operation of the new information system or
+request continued processing of the existing information system. If the residual risk
+has not been reduced to an acceptable level, the risk management cycle must be
+repeated to identify a way of lowering the residual risk to an acceptable level.
+10.3 Evaluation and Assessment
+The third and final phase in the risk management process is evaluation and
+assessment. The art of risk management in today’s dynamic and constantly
+changing information technology (IT) environments must be ongoing and
+continuously evolving. Systems are upgraded and expanded, components are
+improved, and architectures are constantly evolving.

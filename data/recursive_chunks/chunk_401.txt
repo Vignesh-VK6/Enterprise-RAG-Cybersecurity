@@ -1,0 +1,13 @@
+the appropriate security controls and assurance requirements as described in NIST
+SP 800-53, Recommended Security Controls for Federal Information Systems.
+System assessments are conducted by examining, reviewing, and testing the
+implementation of the appropriate security control baseline contained in NIST SP
+800-53. The procedures for assessing and reporting the assessment results are
+contained in NIST SP 800-53A, Guide for Assessing the Security Controls in Federal
+Information Systems.72
+The security certification phase determines the extent to which the security
+controls in the information system are implemented correctly, operating as intended,
+and producing the desired system security posture. This phase also identifies specific
+actions taken or planned to correct security control deficiencies and to reduce or
+eliminate known system vulnerabilities. At the conclusion of this phase, the
+authorizing official should have sufficient data to assess the level of risk the system

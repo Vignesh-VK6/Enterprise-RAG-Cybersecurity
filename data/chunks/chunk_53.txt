@@ -1,0 +1,19 @@
+nformation security personnel, and a chief financial officer (CFO), among others. The
+specific requirements of each role may differ with the degree of information security
+governance centralization or in response to the specific missions and needs of an
+organization.
+
+Figure 2-3. Information Security Governance Structures
+
+7 See Chapter 5, Capital Planning; Chapter 8, Security Planning; Chapter 11, Certification, Accreditation,
+and Security Assessments; and Chapter 14, Configuration Management; of this guide for additional
+guidance on system-specific security roles and responsibilities.
+8
+CHAPTER 2 Information Security Governance
+2.2.3.1 Agency Head
+The Clinger-Cohen Act assigns the responsibility for ensuring “that the
+information security policies, procedures, and practices of the executive agency are
+adequate.”8 FISMA provides the following details on agency head responsibilities for
+information security:
+• Providing information security protections commensurate with the risk and
+ma

@@ -1,0 +1,14 @@
+37 See Chapter 2, Information Security Governance, Chapter 8, Security Planning, Chapter 11,
+Certification, Accreditation, and Security Assessments, and Chapter 14, Configuration Management, of
+this guide for additional guidance on roles and responsibilities.
+38
+CHAPTER 5 Capital Planning and Investment Control
+agency level, several committees evaluate IT portfolios from the operating units as
+referenced in Figure 5-3, culminating in a review by the IRB. The IRB then decides
+on an agency-level IT portfolio and forwards recommendations to the agency head
+for review. Once the agency-level IT portfolio is approved by the agency head, the
+necessary Exhibit 300s and Exhibit 53 are forwarded to OMB for funding
+consideration.
+Many different stakeholders, from information security, capital planning, and
+executive leadership areas, have key roles and make decisions on integrating
+information security into the CPIC process with the ultimate goal of forming a well-

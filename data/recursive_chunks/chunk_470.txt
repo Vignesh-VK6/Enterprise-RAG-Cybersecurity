@@ -1,0 +1,29 @@
+121
+CHAPTER 12 Security Services and Products Acquisition
+Consideration Questions Comments Type
+Product  What is the frequency of product failures and
+adequacy of corrective actions?
+
+Vendor  Will the selection of a particular product limit the
+future choices of other computer security or
+operational modifications and improvements?
+Note: the change and pace of technology
+may make it difficult to estimate the
+impact to an organization’s future
+security architecture.
+Vendor  Does the vendor have expe rience in producing high
+quality information security products?
+
+Vendor  What is the vendor’s “track record” in responding to
+security flaws in its products?
+
+Vendor  How does the vendor handle software and hardware
+maintenance, end-user support, and maintenance
+agreements?
+
+Vendor  What is the long-term viability of the vendor?
+Vendor  Has the vendor developed a security configuration
+guide?
+
+Vendor  Does the vendor have an associated security guide
+for the product?

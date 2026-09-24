@@ -1,0 +1,13 @@
+then provides a list of pertinent questions that agencies should ask when selecting
+products.
+As with the acquisition of products, the acquisition of services bears considerable
+risks that federal agencies must identify and mitigate. The importance of
+systematically managing the process for acquisition of information security services
+cannot be underestimated because of the potential impact associated with those
+risks. In selecting this type of services, agencies should employ risk management
+processes in the context of information security services life cycle, which provides an
+organizational framework for information security decision makers. NIST SP 800-35,
+Guide to Information Technology Security Services, provides assistance with the
+selection, implementation, and management of information security services by
+guiding the reader through the various phases of the information security services
+life cycle. Information security decision makers must consider the costs involved, the

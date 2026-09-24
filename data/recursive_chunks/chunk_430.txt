@@ -1,0 +1,10 @@
+Table 11-1: Security Control Class, Family, and Identifier
+
+Security control class designations (i.e., management, operational, and technical) are defined
+below for clarification in preparation of system security plans.
+Management controls focus on the management of the information system and the management
+of risk for a system. They are techniques and concerns that are normally addressed by
+management. Operational controls address security methods focusing on mechanisms primarily
+implemented and executed by people (as opposed to systems). These controls are put in place to
+improve the security of a particular system (or group of systems). They often require technical or
+specialized expertise and often rely upon management activities as well as technical controls.

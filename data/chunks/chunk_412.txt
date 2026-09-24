@@ -1,0 +1,19 @@
+ce providers. Table
+12-4 is a representative sample of such questions, which includes general questions
+grouped into the six issue categories.
+These questions are intended as a guide, and each organization will need to
+decide which questions are relevant to its specific needs. The questions are not an
+exhaustive list, and organizations should develop additional questions. Lastly, the
+question may best be answered by the organization, not the service provider.
+117
+CHAPTER 12 Security Services and Products Acquisition
+Table 12-4. Information Security Service General Considerations
+Category Considerations
+Strategic/
+Mission
+1. What is < the service provider>76 mission?
+2. Does < the service provider> understand the organization’s mission?
+3. How does < the service provider’s> mission and service offering align with and
+enhance the organization’s ability to meet our mission?
+4. Describe < the service provider’s> business, specifying number of staff, customers,
+locations, and business reven

@@ -1,0 +1,22 @@
+Information about network
+performance and user behavior on the
+network will help security program
+managers identify areas in need of
+improvement as well as point out
+potential performance improvements.
+This information can be correlated
+with other sources of information, such
+as POA&M and CM, to create a
+comprehensive picture of security
+program status.
+ Network monitoring information is summarized and
+provided to information security program managers.
+ Network monitoring information is mined for trends and
+correlated with other data sources, including incident
+statistics, POA&M, CM, and other available sources.
+ Information security managers and system owners are able
+to receive and use network monitoring information to
+assess security posture of systems under their purview.
+Incident and
+Event
+Statistics18

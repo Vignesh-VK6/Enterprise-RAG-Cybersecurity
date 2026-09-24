@@ -1,0 +1,19 @@
+Special Publication 800-65,
+Integrating Security into the Capital Planning and Investment Control Process,
+January 2005.
+National Institute of Standards and Technology Special Publication 800-88,
+Guidelines for Media Sanitization, September 2006.
+
+25
+CHAPTER 4 Awareness and Training
+Chapter 4
+4. Awareness and Training
+The security awareness and training program is a critical component of the
+information security program. It is the vehicle for disseminating security information
+that the workforce, including managers, need to do their jobs. In terms of the total
+security solution, the importance of the workforce in achieving information security
+goals and the importance of training as a countermeasure cannot be overstated.
+Establishing and maintaining a robust and relevant information security awareness
+and training program as part of the overall information security program is the
+primary conduit for providing the workforce with the information and tools needed to
+protect an agency’s vi

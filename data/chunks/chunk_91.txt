@@ -1,0 +1,16 @@
+ary of good information security governance
+practices that are critical for ensuring the security of enterprise information assets:
+• Information security activities should be governed based on relevant
+requirements, including laws, regulations, and organizational policies.
+• Senior managers should be actively involved in establishing information
+security governance framework and the act of governing the agency’s
+implementation of information security.
+• Information security responsibilities must be assigned and carried out by
+appropriately trained individuals.
+• Individuals responsible for information security within the agency should be
+held accountable for their actions or lack of actions.
+• Information security priorities should be communicated to stakeholders of all
+levels within an organization to ensure a successful implementation of an
+information security program.
+• Information security activities must be integrated into other management
+activities of the enterprise, including

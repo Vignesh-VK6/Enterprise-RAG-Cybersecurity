@@ -1,0 +1,14 @@
+hat are not identified during the security impact analysis,
+which is conducted as part of the CM and control process.
+3.5 Disposal Phase
+The disposal phase of the system life cycle refers to the process of preserving (if
+applicable) and discarding system information, hardware, and software. This step is
+extremely important because during this phase, information, hardware, and software
+are moved to another system, archived, discarded, or destroyed. If performed
+improperly, the disposal phase can result in the unauthorized disclosure of sensitive
+data. When archiving information, organizations should consider the need and
+methods for future retrieval. While electronic information is relatively easy to store
+and retrieve, problems can arise if the technology used to create the records is no
+longer available in the future as a result of obsolescence or incompatibility with new
+technologies. Additionally, the organization should consider what measures must be
+taken for the future use of dat

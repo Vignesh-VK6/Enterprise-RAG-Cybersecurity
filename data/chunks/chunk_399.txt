@@ -1,0 +1,21 @@
+sonnel, and service-
+provider arrangements.
+The process of selecting information security products and services involves
+numerous people throughout an organization. Each person involved in the process,
+whether on an individual or group level, should understand the importance of
+security in the organization’s information infrastructure and the security impacts of
+their decisions. Depending on its needs, an organization may include all of the
+personnel listed below or a combination of particular positions relevant to
+information security needs.
+113
+CHAPTER 12 Security Services and Products Acquisition
+• Chief Information Officer;
+• Contracting Officer;
+• Contracting Officer’s Technical Representative;
+• Information Technology (IT) Investment Review Board (IRB) or its equivalent;
+• Security Program Manager;
+• Information System Security Officer;
+• Program Manager (Owner of Data)/Acquisition Initiator; and
+• Privacy Officer.
+12.1 Information Security Services Life Cycle
+The security servic

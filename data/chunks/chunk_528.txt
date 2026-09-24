@@ -1,0 +1,16 @@
+hose tasks having on the mission of my organization?
+Q. How are the different metrics selected?
+A. The universe of possible metrics, based on existing policies and procedures, will
+be quite large. Metrics must be prioritized to ensure that the final set selected for
+initial implementation has the following qualities:
+• Facilitates improvement of high-priority security control implementation. High
+priority may be defined by the latest GAO or IG reports, results of a risk
+assessment, or internal organizational goal.
+• Uses data that can realistically be obtained from existing processes and data
+repositories.
+• Measures processes that already exist and are relatively stable. Measuring
+nonexistent or unstable processes will not provide meaningful information
+about security performance and will, therefore, not be useful for targeting
+specific aspects of performance.
+Metrics can be derived from existing data sources, including C&A, security
+assessments, POA&M, incident statistics, and agency

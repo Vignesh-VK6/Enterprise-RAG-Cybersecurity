@@ -1,0 +1,16 @@
+ny of the participating parties?
+A. Yes. The language in the ISA should stipulate how, when, and by whom the
+agreement can be terminated. This action item will be decided during the drafting
+of the agreement.
+Q. Do both parties need to answer each item in the ISA?
+A. Yes. Both parties need to answer each item even if the item affects only one of
+the parties.
+Q. Are there any federal requirements regarding ISA?
+A Yes. ISAs must be addressed by all fe deral organizations. ISA requirements are
+set forth by OMB and NIST (in NIST SP 800-53, Revision 1, Recommended
+Security Controls for Federal Information Systems). ISAs are also mentioned in
+the FY05 FISMA Reporting Guidance. The NIST SP 800-53 requirement states:
+“The organization authorizes all connectio ns from the information system to other
+information systems outside of the accreditation boundary and monitors/controls
+the system interconnections on an ongoing basis. Appropriate organizational
+officials approve information system inter

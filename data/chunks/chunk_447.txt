@@ -1,0 +1,15 @@
+de a description of how the incident
+response team should react under various circumstances, as well as a service-
+level agreement (SLA) that documents appropriate actions and maximum
+response times. This prioritization should facilitate faster and more consistent
+decision making.
+13.1.2 Preparing to Collect Incident Data
+Organizations should be prepared to collect a set of objective and subjective data
+for each incident. Over time, the incident data collected by the organization can be
+used for many ends. For example, data on the total number of hours the incident
+response team has dedicated to incident response activities and its cost over a
+particular period of time, may be used to justify additional funding of the incident
+response team. A study of incident characteristics may reveal systemic security
+weaknesses and threats, changes in incident trends, or other data that can be used
+in support of the risk assessment process. Another good use of the data is
+measuring the success of 

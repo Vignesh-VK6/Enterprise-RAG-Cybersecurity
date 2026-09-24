@@ -1,0 +1,14 @@
+ion and accreditation process is designed to ensure
+that an information system will operate with the appropriate management review,
+that there is ongoing monitoring of security controls, and that reaccreditation occurs
+periodically.
+Required by Office of Management and Budget (OMB) Circular A-130, Appendix
+III, Security of Federal Automated Information Resources, security certification and
+accreditation serves a function similar to quality control. It is the official
+management decision given by a senior agency official to authorize operation of an
+information system and to explicitly accept the risk on behalf of the agency. In this
+vein, it makes senior officials who accept risk fully accountable for their decisions,
+and in doing so, encourages diligence in the decision-making process.
+The Federal Information Security Management Act (FISMA) and OMB Circular A-
+130, Appendix III, both require that federal agencies perform IT security risk
+assessments and prepare security plans for all 

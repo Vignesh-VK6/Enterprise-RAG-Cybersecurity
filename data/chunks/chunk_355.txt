@@ -1,0 +1,18 @@
+th authorizing officials and
+their designated representatives to ensure that an agency-wide security program is
+implemented effectively, including all aspects of the security certification and
+accreditation program component. The CIO has the following responsibilities in
+relation to security certification and accreditation:
+• Promulgate cost-effective practices such as encouraging maximum reuse and
+sharing of security-related information to include:
+
+71 See Chapter 2, Governance; Chapter 5, Capital Planning; Chapter 8, Security Planning; and Chapter 14,
+Configuration Management, of this guide for additional guidance on roles and responsibilities.
+97
+Chapter 11 Certification, Accreditation, and Security Assessments
+– Threat and vulnerability assessments;
+– Risk assessments;
+– Results from common security control assessments; and
+– Any other general information that may be of assistance to information
+system owners and their supporting security staffs.
+• In concert with authorizing offic

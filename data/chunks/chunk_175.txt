@@ -1,0 +1,19 @@
+00,000
+to facilitate further calculations.
+
+Figure 5-5. Corrective Action Impact Calculation
+After assembling process inputs, conduct the following four steps to complete the
+prioritization process:
+1. Rank-order prioritized corrective action categories according to selected
+prioritization criteria in order of importance to the agency;
+2. Rank-order agency systems according to system category;
+3. Calculate the security compliance ga ps at the enterprise and investment
+levels; and
+4. Calculate the corrective action impa ct at the enterprise and investment
+levels.
+Both enterprise- and system-level prioritization should be performed and then
+overlapped to ensure that appropriate agency priorities receive funding
+commensurate with their risk levels. Prioritization may be facilitated using a
+spreadsheet or a more sophisticated automation tool.41 Visualization of the
+prioritization may be used to facilitate the decision-making process.
+Figure 5-6 demonstrates an example of a corrective actio

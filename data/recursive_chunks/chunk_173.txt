@@ -1,0 +1,16 @@
+Figure 5-2. Integrating Information Security
+into the CPIC Process
+6. Implement Investment Review Board (IRB) and Portfolio
+Management: prioritize agency-wide business cases against requirements
+and CIO priorities and determine investment portfolio.
+7. Submit Exhibit 300s, Exhibit 53, and Conduct Program Management:
+ensure approved 300s become part of the agency’s Exhibit 53; ensure
+investments are managed through their life cycle.
+37
+CHAPTER 5 Capital Planning and Investment Control
+The following sections provide an overview of the integration of information
+security into the CPIC process to help ensure that corrective actions identified in the
+annual FISMA reporting process through POA&Ms are incorporated into the CPIC
+process to deliver maximum security in a cost-effective manner.
+5.3 Capital Planning and Investment Control Roles and Responsibilities37
+Integrating information security into the CPIC process requires input and

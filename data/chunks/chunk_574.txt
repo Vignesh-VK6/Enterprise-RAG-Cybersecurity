@@ -1,0 +1,19 @@
+
+Q. What is configuration management?
+Q. Why is configuration management important?
+Q. What should be considered and ta ken into account when developing a
+configuration management process?
+Q. What steps should be performed before implementing a change?
+Q. Is configuration management requ ired by all federal organizations?
+Q. Is configuration management a security function?
+Q. What are the steps in the co nfiguration management process?
+Q. What constitutes a “change”?
+Q. What should be evaluate d during an impact analysis of the proposed change?
+Q. A change has just been impl emented, is the job complete?
+
+Q. What is configuration management?
+A. NIST SP 800-64, Security Considerations in the Information System Development
+Life Cycle, states, “Configuration management and control procedures are critical
+to establishing an initial baseline of hardware, software, and firmware
+components for the information system and subsequently to controlling and
+maintaining an accurate inventory of any 

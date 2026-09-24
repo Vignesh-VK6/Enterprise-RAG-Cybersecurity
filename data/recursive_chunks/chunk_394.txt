@@ -1,0 +1,15 @@
+• Take appropriate steps to reduce or eliminate system vulnerabilities identified
+in the security certification and accreditation process; and
+• Assemble the security accreditation package and submit it to authorizing official
+or authorizing official’s designated representative for adjudication.
+11.1.5 Information Owner
+The information owner has statutory or operational authority for specified
+information and is responsible for establishing the controls for its generation,
+collection, processing, dissemination, and disposal. The information owner has the
+following responsibilities in relation to security certification and accreditation:
+• Establish rules for appropriate use and protection of the subject information
+(e.g., rules of behavior); and
+• Communicate level of information assurance required for the system with the
+appropriate system owner.
+11.1.6 Information System Security Officer
+The ISSO is responsible to the authorizing official, information system owner, or

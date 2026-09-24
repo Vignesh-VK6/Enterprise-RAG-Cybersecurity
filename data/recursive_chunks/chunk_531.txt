@@ -1,0 +1,26 @@
+FAM Financial Audit Manual
+FAQ Frequently Asked Questions
+FEA Federal Enterprise Architecture
+FEMA Federal Emergency Management Agency
+FFMIA Federal Financial Management Improvement Act
+FIPS Federal Information Processing Standard
+FISCAM Federal Information System Controls Audit Manual
+FISMA Federal Information Security Management Act
+FITSAF Federal Information Technology Security Assessment Framework
+FMFIA Federal Managers Financial Integrity Act
+GAO Government Accountability Office
+GPEA Government Paperwork Elimination Act
+GPRA Government Performance and Results Act
+GSA General Services Administration
+GSS General Support System
+A-1
+Appendix A Acronyms List
+IA Information Assurance
+IDS Intrusion Detection System
+IEC International Electrotechnical Commission
+IG Inspector General
+IRB Investment Review Board
+IRS Internal Review Service
+ISA Interconnection Security Agreement
+ISD Instructional System Methodology
+ISDN Integrated Services Digital Network

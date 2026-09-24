@@ -1,0 +1,16 @@
+demonstrate agency commitment to proactive security.
+Q. Metrics help answer three basic questions, what are they?
+A. Metrics are one element of a manager’s toolkit for making and substantiating
+decisions. Metrics are used to answer three basic questions:
+1. Am I implementing the tasks for which I am responsible?
+2. How efficiently or effectively am I accomplishing those tasks?
+B-13
+Appendix B Frequently Asked Questions
+3. What impact are those tasks having on the mission of my organization?
+Q. How are the different metrics selected?
+A. The universe of possible metrics, based on existing policies and procedures, will
+be quite large. Metrics must be prioritized to ensure that the final set selected for
+initial implementation has the following qualities:
+• Facilitates improvement of high-priority security control implementation. High
+priority may be defined by the latest GAO or IG reports, results of a risk
+assessment, or internal organizational goal.

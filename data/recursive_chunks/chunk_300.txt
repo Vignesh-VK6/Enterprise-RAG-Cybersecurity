@@ -1,0 +1,4 @@
+by the agency. System security plans should clearly identify which security controls
+used scoping guidance and include a description of the type of considerations that
+were made. The application of scoping guidance must be reviewed and approved by
+the authorizing official for the information system.

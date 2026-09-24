@@ -1,0 +1,14 @@
+are considered incidents, establish the organizational structure for incident
+response, define roles and responsibilities, and list the organization’s incident
+reporting requirements.
+• Develop Incident Response and Reporting Procedures. Based on the
+incident response policy, standard operating procedures (SOPs) are a
+delineation of the specific technical processes, techniques, checklists, and forms
+used by the incident response team. SOPs should be comprehensive and
+detailed to ensure that the organization’s priorities are properly reflected in
+response operations. In addition, following standardized response procedures
+is also an effective way to minimize errors, particularly those that might be
+caused by incident handling pace and stress. Prior to implementation, the
+organization should test incident response SOPs in order to validate their
+accuracy and usefulness. Once validated, the SOPs must be widely
+disseminated throughout the organization. Incidents can occur in countless and

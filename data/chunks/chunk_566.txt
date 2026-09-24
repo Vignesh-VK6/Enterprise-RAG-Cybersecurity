@@ -1,0 +1,16 @@
+e organization’s overall
+program to manage the design, development, and maintenance of its information
+security infrastructure, and to protect the confidentiality, integrity, and
+availability of its mission-critical information.
+Q. What important steps should be taken while selecting a security
+product?
+A. It is important to perform a cost-ben efit analysis when selecting security
+products. As part of the cost-benefit analysis, a life cycle cost (LCC) estimate for
+the status quo and each alternative identified should be developed. In addition to
+LCC estimates, benefits associated with each alternative should be identified and,
+to the extent practicable, quantified in terms of dollar savings or cost avoidance.
+Once the necessary controls are identified, information security products can be
+identified to provide for these controls.
+Q. Who should be involved during the security product selection process?
+A. Product selection involves numerous people throughout an organization.
+Depending o

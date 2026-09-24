@@ -1,0 +1,20 @@
+s. For example, CP-1, the policy and procedures control
+from the Contingency Planning family, is listed as an operational control but also has characteristics that
+are consistent with security management as well.
+
+111
+
+Technical controls focus on security controls that the computer system executes. The controls
+can provide automated protection for unauthorized access or misuse, facilitate detection of
+security violations, and support security requirements for applications and data.
+
+112
+CHAPTER 12 Security Services and Products Acquisition
+Chapter 12
+12. Security Services and Products
+Acquisition
+Information security services and products are essential elements of an
+organization’s information security program. Many products and services to support
+an agency’s information security program for information systems are widely
+available in the marketplace today, and are frequently used by federal agencies.
+Security products and services should be selected and used within the organization’s

@@ -1,0 +1,5 @@
+who is required access to such information and how (in high-level terms). In
+addition, it is often determined whether the project will be an independent
+information system or a component of an already-defined system. A preliminary risk
+assessment is typically conducted in this phase, and security planning documents are
+initiated (system security plan).

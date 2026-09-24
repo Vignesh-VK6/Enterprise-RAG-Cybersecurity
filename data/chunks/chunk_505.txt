@@ -1,0 +1,17 @@
+ing corrective action(s). This ratio provides a
+proportion of result to cost. The higher the impact proportion, the more “bang
+for the buck” the corrective action will provide. The resulting proportion is
+multiplied by 100,000 to facilitate further calculations.
+
+Q. What is the Exhibit 300?
+A. The Exhibit 300 is the capt ure mechanism for all of the analyses and activities
+required for full internal (investment review board [IRB], Office of the Chief
+Information Officer [OCIO]) review. More importantly, the Exhibit 300 is the
+document that OMB uses to assess investments and ultimately make funding
+decisions. This document provides OMB with a robust assessment of the
+investment and is the vehicle for IT investments to justify life cycle and annual
+funding requests to OMB.
+Q. What is the Exhibit 53?
+A. The Exhibit 53 provides an overview of th e agency’s entire IT portfolio by listing
+every IT investment, life cycle, and budget-year cost information. In addition to
+containing all investm

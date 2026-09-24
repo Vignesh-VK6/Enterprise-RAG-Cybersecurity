@@ -1,0 +1,22 @@
+ns do system and organizational managers have to reduce the risk
+present on the system?
+Q. Define risk mitigation and explain what steps are involved to control
+implementation.
+Q. The security controls have been establis hed. Is it possible to proceed to the final
+step of the risk management process?
+Q. What is the formal definition of risk?
+Q. Is it possible to calculate the like lihood of a threat exploiting a given
+vulnerability?
+Q. What are the steps in th e risk assessment process?
+Q. How is a system described?
+Q. Are there common threats to a system?
+Q. What is a vulnerability?
+Q. What are the levels of risk?
+Q. How often is the risk assessment process conducted?
+
+Q. What is the principal goal of a risk management process?
+A. The principal goal of an organization’s risk management process should be to
+protect the organization and its ability to perform its mission, not just its
+information assets.
+Q. How many processes does risk management encompass?
+A. There are three processes 

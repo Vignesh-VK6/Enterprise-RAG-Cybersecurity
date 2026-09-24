@@ -1,0 +1,20 @@
+B-7
+Appendix B Frequently Asked Questions
+B.3 Interconnecting Systems – Summary of FAQs
+Q. What is an ISA?
+Q. What are the components of ISA?
+Q. What is an MOU/MOA?
+Q. What are the components of MOU/MOA?
+Q. What is the difference between MOU/MOA and ISA?
+Q. Is it acceptable to combine the MOU/MOA and the ISA?
+Q. When does C&A need to occur?
+Q. How often should security reviews occur?
+Q. What criteria should the organizations use to establish a baseline of minimum-
+security controls that must be implemented on each of the interconnecting
+systems?
+Q. Do organizations need to update a system security plan?
+Q. Do individual PC(s) connecting to an application, housed behind a firewall through
+the Internet, require ISA(s)?
+Q. Can an ISA be terminated by any of the participating parties?
+Q. Do both parties need to an swer each item in the ISA?
+Q. Are there any federal requirements regarding ISA?

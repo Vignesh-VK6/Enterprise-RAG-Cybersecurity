@@ -1,0 +1,13 @@
+20 See Chapter 14, Configuration Management, of this guide for additional guidance on configuration
+management.
+21
+CHAPTER 3 System Development Life Cycle
+clearing, purging, and destroying.21 Because different kinds of sanitization provide
+different levels of information protection, organizations should use information
+security requirements as a guide for selecting the sanitization method that best suits
+their needs.
+3.6 Security Activities within the SDLC
+Security activities must be integrated into the SDLC to ensure proper
+identification, design, integration, and maintenance of applicable security controls
+throughout an information system’s life cycle as summarized in Table 3-1.
+Table 3-1. Security Activities in the SDLC

@@ -1,0 +1,15 @@
+• The Business Reference Model (BRM) is a function-driven framework for
+describing the business operations of the federal government independent of
+the agencies.
+• The Service Component Reference Model (SRM) is a business- and
+performance-driven functional framework that classifies service components
+with respect to how they support business and/or performance objectives.
+• The Data and Information Reference Model (DRM) describes, at an aggregate
+level, the data and information that support program and business line
+operations.
+• The Technical Reference Model (TRM) is a component-driven technical
+framework used to identify the standards, specifications, and technologies that
+support and enable the delivery of service components and capabilities.
+OMB requires agencies to integrate security into their enterprise architecture
+development life cycle.11 In addition to complying with OMB requirements, the
+integration of information security into the agency enterprise architecture efforts

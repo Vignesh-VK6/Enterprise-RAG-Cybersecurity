@@ -1,0 +1,14 @@
+prescribes how an organization manages, protects, and distributes information.12
+Information security policy is an essential component of information security
+governance—without the policy, governance has no substance and rules to enforce.
+Information security policy should be based on a combination of appropriate
+legislation, such as FISMA; applicable standards, such as NIST Federal Information
+Processing Standards (FIPS) and guidance; and internal agency requirements.
+Agency information security policy should address the fundamentals of agency
+information security governance structure, including:
+• Information security roles and responsibilities;
+• Statement of security controls baseline and rules for exceeding the baseline;
+and
+• Rules of behavior that agency users are expected to follow and minimum
+repercussions for noncompliance.
+Supporting guidance and procedures on how to effectively implement specific

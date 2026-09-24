@@ -1,0 +1,16 @@
+guiding the reader through the various phases of the information security services
+life cycle. Information security decision makers must consider the costs involved, the
+underlying security requirements, and the impact of their decisions on the
+organizational mission, operations, strategic functions, personnel, and service-
+provider arrangements.
+The process of selecting information security products and services involves
+numerous people throughout an organization. Each person involved in the process,
+whether on an individual or group level, should understand the importance of
+security in the organization’s information infrastructure and the security impacts of
+their decisions. Depending on its needs, an organization may include all of the
+personnel listed below or a combination of particular positions relevant to
+information security needs.
+113
+CHAPTER 12 Security Services and Products Acquisition
+• Chief Information Officer;
+• Contracting Officer;

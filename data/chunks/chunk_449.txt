@@ -1,0 +1,15 @@
+ative—understanding how they represent
+threats to and vulnerabilities of the business processes of the organization is what
+matters. Organizations should decide what incident data to collect based on
+reporting requirements and on the expected return on investment from the data
+(e.g., identifying a new threat and mitigating the related vulnerabilities before they
+can be exploited).
+13.1.3 Preventing Incidents
+Preventing problems is normally less costly and more effective than reacting to
+them after they occur. Thus, incident prevention is an important complement to an
+incident response capability. If security controls are insufficient, high volumes of
+incidents may occur, overwhelming the resources and capacity for response, which
+would result in delayed or incomplete recovery, possibly more extensive damage,
+and longer periods of service unavailability. Incident handling can be performed
+more effectively if organizations complement their incident response capability with
+adequate resou

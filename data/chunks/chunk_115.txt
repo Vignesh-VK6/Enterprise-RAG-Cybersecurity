@@ -1,0 +1,21 @@
+
+successful completion of this phase, system owners will either have authority to operate,
+interim authorization to operate, or denial of authorization to operate the information system.
+D. Operations/Maintenance Phase
+Configuration
+Management and
+Control30
+ Ensure adequate consideration of the potential secu rity impacts due to specific changes to an
+information system or its surrounding environment. CM and configuration control procedures
+are critical to establishing an initial baseline of hardware, software, and firmware components
+for the information system and for subsequently controlling and maintaining an accurate
+inventory of any changes to the system.
+ Develop CM plan
+− Establish baselines
+− Identify configuration
+− Describe configuration control process
+− Identify schedule for configuration audits
+Continuous
+Monitoring
+ Monitor security controls to ensure that cont rols continue to be effective in their application
+through periodic testing and evaluation. Security control 

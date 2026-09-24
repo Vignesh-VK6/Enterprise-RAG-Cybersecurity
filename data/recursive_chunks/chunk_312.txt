@@ -1,0 +1,23 @@
+62 OMB Circular A-130, Appendix III, defines adequate security as security comm ensurate with the risk
+and the magnitude of harm resulting from the loss, misuse, or unauthorized access to or modification of
+information.
+63 Security categorization must be accomplished as an enterprise-wide activity with the involvement of
+senior-level organizational officials including, but not limited to, CIOs, SAISOs, authorizing officials (also
+known as accreditation authorities), information system owners, and information owners. NIST SP 800-
+60 provides implementation guidance for FIPS 199.
+74
+CHAPTER 8 Security Planning
+Table 8-2. FIPS 199 Categorization
+Potential Impact
+Security Objective Low Moderate High
+Confidentiality
+Preserving authorized restrictions on
+information access and disclosure,
+including means for protecting
+personal privacy and proprietary
+information.
+[44 U.S.C., SEC. 3542]
+The unauthorized
+disclosure of information
+could be expected to
+have a limited adverse

@@ -1,0 +1,20 @@
+Certification and Accreditation of Federal Information Systems, May
+2004.
+National Institute of Standards and Technology Special Publication 800-53, Revision
+1, Recommended Security Controls for Federal Information System, February 2006.
+National Institute of Standards and Technology Special Publication 800-60, Guide for
+Mapping Types of Information and Information Systems to Security Categories, June
+2004.
+76
+CHAPTER 8 Security Planning
+National Institute of Standards and Technology Special Publication 800-64, Security
+Considerations in the Information System Development Life Cycle, Rev. 1 June 2004.
+77
+CHAPTER 9 Contingency Planning
+Chapter 9
+9. Information Technology
+Contingency Planning
+Information technology (IT) contingency planning is one modular piece of a
+larger contingency and continuity of operations (COOP) planning process that
+encompasses IT, business processes, risk management, financial management, crisis
+communications, safety and security of personnel and property, and

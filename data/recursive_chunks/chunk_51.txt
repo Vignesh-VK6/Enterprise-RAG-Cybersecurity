@@ -1,0 +1,13 @@
+security strategic plan or another document, if appropriate. Regardless of how the
+information security strategy is documented, its contents should be aligned with the
+overall agency strategic planning activities. The document should be revisited when a
+major change in the agency information security environment occurs, including:
+• Change in applicable legislation, regulations, or directives;
+• Change in agency mission priorities; and
+• Emerging information security issues, such as changes in threat and
+vulnerability environment or the introduction of new technologies.
+2.2.2 Information Security Governance Structures
+Information security governance structures can be characterized in a number of
+ways. There are two basic models of information security governance structures:
+centralized and decentralized. While agency heads are ultimately responsible for
+managing and governing their respective agency, the authority and responsibility

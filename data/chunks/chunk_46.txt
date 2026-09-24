@@ -1,0 +1,18 @@
+rmance planning activities. The
+organization’s information security strategy should establish a comprehensive
+framework to enable the development, institutionalization, assessment, and
+improvement of the agency’s information security program. The information security
+strategy should support the overall agency strategic and performance plans and IT
+strategic plan (if applicable) with its content clearly traceable to these higher-level
+sources. Each agency should define the following for its information security
+program:
+
+5 OMB, ‘Office of Management and Budget Circular A-130 Appendix III,’ 1996.
+6 OMB, Section 306, ‘Government Performance and Results Act’ (GPRA), 1993.
+6
+CHAPTER 2 Information Security Governance
+• Clear and comprehensive mission, vision, goals, and objectives and how they
+relate to agency mission;
+• High-level plan for achieving information security goals and objectives,
+including short- and mid-term objectives and performance targets, specific for
+each goal and objecti

@@ -1,0 +1,18 @@
+(Organization A Official) (Organization B Official)
+
+______________________________ ______________________________
+(Signature Date) (Signature Date)
+
+56
+CHAPTER 6 Interconnecting Systems
+
+Annex 6.B ISA Checklist
+This annex provides a generic checklist that agencies may use in developing their
+ISAs to ensure that they have discussed requirements covered in this section.
+
+ISA CHECKLIST YES NO
+1 ISA Requirements:
+A Is there a formal requirement and justification for connecting two systems?
+B Are there two systems being interconnected?
+If YES, have the systems been specified?
+If NO, the two systems need to be specified.

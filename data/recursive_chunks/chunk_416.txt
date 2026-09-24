@@ -1,0 +1,13 @@
+policy. For the “Procedures” maturity level, to answer “Yes,” the topic should be
+documented in detailed procedures. For the “Implemented” maturity level, to answer
+“Yes,” the implementation is verified by examining the procedures and program area
+documentation, and interviewing key personnel to determine that the procedures are
+implemented. For the “Tested” maturity level, to answer “Yes,” documents should
+be examined and interviews should be conducted to verify that the policies and
+procedures for the question are implemented and operating as intended and provide
+the desired level of security. For the “Integrated” maturity level, to answer “Yes,”
+the policies, procedures, implementation, and testing are continually monitored and
+improvements are made as a normal business process of the agency.
+104
+Chapter 11 Certification, Accreditation, and Security Assessments
+-------------------------------------------------

@@ -1,0 +1,9 @@
+CHAPTER 11 Certification, Accreditation, and Security Assessments
+Information Security Program Questions
+Each question should be answered for each level of IT Security maturity. Each column represents an IT Security Maturity
+Level. For the “Policy” maturity level, to answer “Yes,” the topic should be documented in agency policy. For the “Procedures”
+maturity level, to answer “Yes,” the topic should be documented in detailed procedures. For the “Implemented” maturity level,
+to answer “Yes,” the implementation is verified by examining the procedures and program area documentation, and
+interviewing key personnel to determine that the procedures are implemented. For the “Tested” maturity level, to answer
+“Yes,” documents should be examined and interviews should be conducted to verify that the policies and procedures for the
+question are implemented and operating as intended and provide the desired level of security. For the “Integrated” maturity

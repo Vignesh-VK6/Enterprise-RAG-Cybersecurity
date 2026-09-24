@@ -1,0 +1,14 @@
+with the term site certification/accreditation); or (3) common
+information systems, subsystems, or applications (i.e., common hardware, software,
+and/or firmware) deployed at multiple operational sites (sometimes associated with
+the term type certification/accreditation). Common security controls—typically
+identified during a collaborative agency-wide process that involves the CIO, SAISO,
+authorizing officials, information system owners, and ISSOs (and by developmental
+program managers in the case of common security controls for common hardware,
+software, and/or firmware)—ha ve the following properties:
+• The development, implementation, and assessment of common security
+controls can be assigned to responsible agency officials or organizational
+elements (other than the information system owners whose systems will
+implement or use those common security controls).
+• The results from the assessment of the common security controls can be used
+to support the security certification and accre

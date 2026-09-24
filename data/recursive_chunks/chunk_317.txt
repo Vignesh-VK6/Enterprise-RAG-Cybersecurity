@@ -1,0 +1,18 @@
+recertification and reaccreditation activity. All plans should be reviewed and updated,
+if appropriate, at least annually. Some items to include in the review are:
+• Change in information system owner;
+• Change in information security representative;
+• Major change in system architecture;
+• Change in system status;
+• Additions/deletions of system interconnections;
+• Change in system scope; and
+• Change in authorizing official.
+75
+CHAPTER 8 Security Planning
+The objective of system security planning is to improve the protection of
+information system resources. All federal systems have some level of sensitivity and
+require protection as part of good management practice. The protection of a system
+must be documented in a system security plan. The completion of system security
+plans is a requirement of the OMB Circular A-130, Management of Federal
+Information Resources, Appendix III, Security of Federal Automated Information
+Resources, and Title III of the E-Government Act, FISMA.

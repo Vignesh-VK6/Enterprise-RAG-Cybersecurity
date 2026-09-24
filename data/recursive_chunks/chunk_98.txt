@@ -1,0 +1,16 @@
+implementation of information security.
+• Information security responsibilities must be assigned and carried out by
+appropriately trained individuals.
+• Individuals responsible for information security within the agency should be
+held accountable for their actions or lack of actions.
+• Information security priorities should be communicated to stakeholders of all
+levels within an organization to ensure a successful implementation of an
+information security program.
+• Information security activities must be integrated into other management
+activities of the enterprise, including strategic planning, capital planning, and
+enterprise architecture.
+• Information security organization structure should be appropriate for the
+organization it supports and should evolve with the organization, if the
+organization undergoes change.
+• Information security managers should continuously monitor the performance of
+the security program/effort for which they are responsible, using available tools

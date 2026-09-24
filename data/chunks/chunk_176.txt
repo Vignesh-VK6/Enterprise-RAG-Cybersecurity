@@ -1,0 +1,17 @@
+readsheet or a more sophisticated automation tool.41 Visualization of the
+prioritization may be used to facilitate the decision-making process.
+Figure 5-6 demonstrates an example of a corrective action prioritization
+visualization approach using notional data. From a system-level perspective, Figure
+5-6 plots system category along the vertical axis and corrective action impact along
+the horizontal axis. The notional agency systems are denoted as the small letters at
+the top of each quadrant. In this example, systems “N” and “F” were found to have
+category rankings of “high” and corrective action impacts of “great.”
+
+41 Figures 4-6 and 4-8 on pages 31 and 34 (respectively) in NIST SP 800-65 provide examples of how
+spreadsheets can be used to facilitate the prioritization process.
+42
+CHAPTER 5 Capital Planning and Investment Control
+
+Figure 5-6. Joint Prioritization with Costs
+Drawn from the perspective of the enterprise, Figure 5-6 plots agency-
+determined security controls importance a

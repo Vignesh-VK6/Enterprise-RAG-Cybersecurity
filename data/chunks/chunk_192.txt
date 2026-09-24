@@ -1,0 +1,18 @@
+rdance with NIST FIPS 200, Minimum Security Requirements for Federal
+Information and Information Systems, and NIST SP 800-53, Recommended Security
+Controls for Federal Information Systems.
+Each system involved in interconnection should be governed by an organization’s
+AO who has the authority to formally assume responsibility for operating a system at
+an acceptable level of risk. NIST SP 800-53 specifically defines an information
+systems connections control (specified in Table 6-1) that organizations are required
+to implement based on an information system’s security categorization. Since these
+categorizations and guidance apply to individual systems, agencies should carefully
+weigh the associated risks when systems differing in configuration or security
+controls are interconnected.
+Table 6-1. NIST SP 800-53 Information System Connections Control
+Identifier Title Control
+CA-3 Information
+System
+Connections
+The organization authorizes all connections from the information system to
+other

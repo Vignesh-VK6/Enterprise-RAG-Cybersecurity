@@ -1,0 +1,21 @@
+ to the CM program and for
+providing expertise and decision support to the Configuration Control Review
+Board (CCRB).
+
+87 NIST SP 800-37, Guide for the Security Certification and Accreditation of Federal Information Systems.
+88 See Chapter 2, Governance, Chapter 5, Capital Planning, Chapter 8, Security Planning, Chapter 11,
+Certification, Accreditation, and Security Assessments of this guide for additional guidance on roles and
+responsibilities.
+134
+CHAPTER 14 Configuration Management
+• CCRB. CM responsibilities of the CCRB include:
+– Discussing and resolving change requests that require additional funding or
+resources to implement;
+– Ensuring that change requests do not adversely affect any systems or
+services related to the system or associated systems, subsystems, and
+facilities; and
+– Evaluating CM metric information on funding and other CM-related issues.
+• CM manager. The CM manager is responsible for day-to-day activities,
+including:
+– Documenting and implementing the CM plan;
+–

@@ -1,0 +1,13 @@
+of Standards and Technology
+(NIST) in furtherance of its statutory responsibilities under the Federal Information Security
+Management Act (FISMA) of 2002, Public Law 107-347.
+NIST is responsible for developing standards and guidelines, including minimum requirements,
+and for providing adequate information security for all agency operations and assets, but such
+standards and guidelines shall not apply to national security systems. This guideline is consistent
+with the requirements of the Office of Management and Budget (OMB) Circular A-130, Section
+8b(3), Securing Agency Information Systems, as analyzed in A-130, Appendix IV: Analysis of
+Key Sections. Supplemental information is provided A-130, Appendix III.
+This guideline has been prepared for use by federal agencies. It may also be used by
+nongovernmental organizations on a voluntary basis and is not subject to copyright regulations.
+(Attribution would be appreciated by NIST.)
+Nothing in this document should be taken to contradict sta

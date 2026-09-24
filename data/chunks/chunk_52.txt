@@ -1,0 +1,14 @@
+uum may also shift over time in response to
+changing internal factors or external requirements.
+Since information security governance structure is highly dependent on the
+overall organizational structure, organizations are often limited in their choices about
+how to organize their information security governance activities. Agencies should be
+cognizant of the characteristics and challenges that a centralized or decentralized
+structure presents and work within their respective organizations to ensure the best
+use of information security resources within the boundaries of their own structure.
+2.2.3 Key Governance Roles and Responsibilities7
+There are several governance stakeholders common to most organizations that
+span the organization. These stakeholders include senior leadership, a CIO,
+information security personnel, and a chief financial officer (CFO), among others. The
+specific requirements of each role may differ with the degree of information security
+governance centralization or

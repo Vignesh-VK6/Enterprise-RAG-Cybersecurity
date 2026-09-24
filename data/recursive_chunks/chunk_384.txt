@@ -1,0 +1,13 @@
+70 See National Institute of Standards and Technology(NIST) Special Publication (SP) 800-64, Security
+Considerations in the Information System Development Life Cycle, and Chapter 3, System Development
+Life Cycle, of this guide for additional information on the SDLC.
+96
+Chapter 11 Certification, Accreditation, and Security Assessments
+By accrediting an information system, an agency official accepts the risks
+associated with operating the system and the associated implications on agency
+operations, agency assets, or agency individuals. Completing a security accreditation
+ensures that an information system will be operated with appropriate management
+review, that there is ongoing monitoring of security controls, and that
+reaccredidation occurs periodically in accordance with federal or agency policy and
+whenever there is a significant change to the system or its operational environment.
+In May, 2004, the Information Technology Laboratory (ITL) published National

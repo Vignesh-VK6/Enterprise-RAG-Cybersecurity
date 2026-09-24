@@ -1,0 +1,14 @@
+requirements are seldom contradictory, they are not always complementary,
+and organizations may be faced with the challenge of implementing different
+compliance measures and monitoring these measures for reporting purposes.
+• Balancing legislation and agency-specific policy. Agencies may have more
+stringent requirements that go beyond those required by information security
+legislation, regulation, and directives.
+• Maintaining currency. Governance standards and guidance evolve to support
+different requirements, and new legislation is frequently introduced.
+• Prioritizing available funding according to requirements. Increased
+competition for limited federal budgets and resources requires that agencies
+allocate available funding toward their highest-priority information security
+investments.
+Information security governance provides a framework for establishing and
+maintaining an information security program that will evolve with the organization it

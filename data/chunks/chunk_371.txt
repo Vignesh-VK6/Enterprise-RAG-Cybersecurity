@@ -1,0 +1,20 @@
+an,
+CM plan, security configuration checklists, and any
+system interconnection agreement.
+• Approved system security plan,
+• Security assessment report, and
+• Plan of Action and Milestones.
+
+72 The second draft of NIST SP 800-53A was published in April 2006.
+101
+Chapter 11 Certification, Accreditation, and Security Assessments
+The system security plan provides an overview of the security requirements for
+the information system and explains the measures the information system owner has
+taken or plans to take to comply with those requirements.73 While not strictly
+required and left to the discretion of the agency, the plan may contain supporting
+appendices or as references, other system security documents. Such documents may
+include the risk assessment, privacy impact assessment, contingency plan,
+configuration management plan, security configuration checklists, and any system
+interconnection agreements.
+The security assessment report (SAR) summarizes the results of the activities
+undert

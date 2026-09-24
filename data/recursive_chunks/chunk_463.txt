@@ -1,0 +1,23 @@
+Organizational  Are the system components (hardware or software)
+required for this product identified?
+
+Organizational  Is the security product c onsistent with physical
+security and other policy requirements?
+
+Organizational  Has the impact on the enterprise operational
+environment where this product will operate been
+considered?
+
+Organizational  Has the impact of emerging technologies on the
+product been considered?
+
+Organizational  Is the product necessary to mitigate risk? When selecting IT products,
+organizations need to consider the threat
+environment and the security functions
+needed to cost effectively mitigate the
+risks to an acceptable level.
+Organizational  Are the system components (hardware or software)
+required for the identified product?
+
+Organizational  Have security reviews included requirements for
+support, plug-in components, or middleware?

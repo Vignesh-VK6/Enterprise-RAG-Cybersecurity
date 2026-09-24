@@ -1,0 +1,13 @@
+83 See NIST SP 800-64, Security Considerations in the Information System Development Life Cycle, and
+Chapter 3, System Development Life Cycle, of this guide for additional information on the SDLC.
+84 See NIST SP 800-37, Guide for the Security Certification and Accreditation of Federal Information
+Systems, and Chapter 11, Certification, Accreditation, and Security Assessments, of this guide for
+additional guidance on C&A.
+85 See NIST SP 800-16, Information Technology Security Training Requirements: A Role- and
+Performance-Based Model; NIST SP 800-50, Building an Information Technology Security Awareness
+and Training Program; and Chapter 4, Awareness and Training, of this guide for additional guidance on
+security awareness and training.
+132
+CHAPTER 14 Configuration Management
+
+Figure 14-1. System Development Life Cycle

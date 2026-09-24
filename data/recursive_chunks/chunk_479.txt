@@ -1,0 +1,4 @@
+capability to provide help to users after a system security incident occurs, and to
+share information concerning common vulnerabilities and threats.
+National Institute of Standards and Technology (NIST) Special Publication (SP)
+800-61, Computer Security Incident Handling Guide, details a four-phase incident

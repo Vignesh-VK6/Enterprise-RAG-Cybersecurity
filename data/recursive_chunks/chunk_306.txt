@@ -1,0 +1,16 @@
+guidance on identifying common security controls.
+• The agency has assigned the responsibility for coordinating common security
+control identification and review and obtaining consensus on the common
+control designations with a management official, such as the CIO or SAISO,
+with security program responsibilities.
+• System owners have been briefed on the system security planning process,
+including use of common controls.
+73
+CHAPTER 8 Security Planning
+• Agency experts in the common control areas identified have been consulted as
+part of the process.
+While the concept of security control partitioning into common security controls
+and system-specific controls is straightforward and intuitive, the application of this
+principle within an agency takes planning, coordination, and perseverance. If an
+agency is just beginning to implement this approach or has only partially
+implemented this approach, it may take some time to get the maximum benefits

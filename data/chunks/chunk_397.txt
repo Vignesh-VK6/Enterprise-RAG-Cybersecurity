@@ -1,0 +1,14 @@
+ cost (LCC) estimate for the status quo and one for each
+identified alternative while highlighting the benefits associated with each alternative.
+National Institute of Standards and Technology (NIST) Special Publication (SP) 800-
+36, Guide to Selecting Information Technology (IT) Security Products, first defines
+broad security product categories and specifies product types, product
+characteristics, and environment considerations within those categories. The guide
+then provides a list of pertinent questions that agencies should ask when selecting
+products.
+As with the acquisition of products, the acquisition of services bears considerable
+risks that federal agencies must identify and mitigate. The importance of
+systematically managing the process for acquisition of information security services
+cannot be underestimated because of the potential impact associated with those
+risks. In selecting this type of services, agencies should employ risk management
+processes in the context of inform

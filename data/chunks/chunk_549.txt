@@ -1,0 +1,19 @@
+ is described as low risk, the system’s authorizing official
+must determine whether corrective actions are still required or decide to accept
+the risk.
+Q. How often is the risk assessment process conducted?
+A. As mandated by OMB Circular A-130, the risk assessment process is usually
+repeated at least every three years for federal agencies. However, risk
+assessments should be conducted and integrated into the SDLC for information
+systems, not because it is required by law or regulation, but because it is a good
+practice and supports the organization’s business objectives or mission.
+
+B-20
+Appendix B Frequently Asked Questions
+B.8 Certification, Accreditation, and Security Assessments – Summary of
+Frequently Asked Questions
+Q. What is security certification?
+Q. What is security accreditation?
+Q. Are there any necessary activities to support security accreditation?
+Q. What are the phases of the certification and accreditation process?
+Q. What is included in a se curity accreditation packa

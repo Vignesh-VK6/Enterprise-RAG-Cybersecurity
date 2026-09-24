@@ -1,0 +1,14 @@
+authorization for access to the system.
+Q. What should be considered when selecting the initial set of security
+controls?
+A. The FIPS 199 impact levels must be co nsidered when the system boundaries are
+drawn and when selecting the initial set of security controls (i.e., control
+baseline). The baseline security controls can then be tailored based on an
+assessment of risk and local conditions including organization-specific security
+requirements, specific threat information, cost-benefit analyses, the availability of
+compensating controls, or special circumstances.
+Q. Can an agency tailor their security control baseline?
+A. Yes. An agency has the flexibility to tailor the security control baseline in
+accordance with the terms and conditions set forth in the standard. Tailoring
+activities include (1) the application of scoping guidance, (2) the specification of
+compensating controls, and (3) the specification of agency-defined parameters in

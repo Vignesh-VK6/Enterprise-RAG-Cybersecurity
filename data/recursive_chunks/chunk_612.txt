@@ -1,0 +1,13 @@
+Q. What must be considered when ma naging a security services project?
+A. The importance of systematically managing the information security services
+process cannot be underestimated because of the potential impact on the
+organization if the many issues involved are not properly considered and the
+organizational risks are not managed. Information security decision makers must
+think about not only the costs involved and the underlying security requirements,
+but also the impact of their decisions on the organizational mission, operations,
+strategic functions, personnel, and service provider arrangements.
+Q. What are the steps in the security services life cycle?
+A. The information security services life cycle provides a framework around which
+the various information security decision makers can organize their information
+security efforts—from initiati on to closeout. The steps for the life cycle are:
+1. Initiation Phase: Determining the need;

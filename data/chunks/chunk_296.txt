@@ -1,0 +1,14 @@
+nducting recovery. National
+Institute of Standards and Technology (NIST) Special Publication (SP) 800-34,
+Contingency Planning for Information Technology Systems, details a seven-step
+methodology for developing an IT contingency process and plan. Planning,
+implementing, and testing the contingency strategy are addressed by six of the
+seven steps; documenting the plan and establishing procedures and personnel
+organization to implement the strategy is the final step. SP 800-34 also includes
+technical considerations for developing recovery strategies.
+Figure 9-1 highlights contingency planning activities involved in each step that
+should be addressed during all phases of the system development life cycle (SDLC).66
+The capability to recover and reconstitute data should be integral to the
+information system design concept during the Initiation phase. Recovery strategies
+should be built into the GSS or MA’s architecture during the Development phase. The
+contingency processes should be tested

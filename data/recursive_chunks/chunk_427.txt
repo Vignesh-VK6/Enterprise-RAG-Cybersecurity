@@ -1,0 +1,5 @@
+FISMA requires each agency to appoint a Senior Agency Information Security Officer (SAISO) who heads an office with the
+mission and resources to develop and maintain an agency information security program. A “Yes” response affirms compliance.
+A “No” response should be accompanied by explanatory comments and a date when this will be done.
+
+Annex 11.B Minimum Security Controls

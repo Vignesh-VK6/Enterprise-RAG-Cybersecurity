@@ -1,0 +1,5 @@
+security controls for the information systems where the information resides;
+• Deciding who has access to the information system and determining what types
+of privileges or access rights; and
+• Assisting in identifying and assessing the common security controls where the
+information resides.

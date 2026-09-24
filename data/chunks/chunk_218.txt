@@ -1,0 +1,15 @@
+ensure the joint security of the connected systems and the
+data they store, process, and transmit, as specified in the ISA. Based on National Institute of
+Standards and Technology Special Publication 800-53, Recommended Security Controls for
+Federal Information Systems, both parties should authorize all connections from the information
+system to other information systems outside of that accreditation boundary and monitor and
+control the system interconnections on an ongoing basis. Each party should identify security
+controls that apply to the interconnection based on each system’s information security
+categorization and impact level and agree on a mutual set of applicable controls. Each party
+certifies that its respective system is designed, managed, and operated in compliance with all
+relevant federal laws, regulations, and policies, and will ensure that appropriate security controls
+are maintained throughout the life of this MOU/MOA.
+
+PRIVACY REQUIREMENTS
+
+Both parties agree to exami

@@ -1,0 +1,13 @@
+which an information system, facility, or procedure might be exposed if a given
+vulnerability were exploited. It also describes the type of action senior managers
+must take for each risk level.
+Table 10-2. Risk Scale and Necessary Management Action
+Risk Level Risk Description and Necessary Management Action
+High
+If an observation or finding is evaluated as high risk, there is a strong need for corrective
+measures. An existing system may continue to operate, but a corrective action plan must be
+put in place as soon as possible.
+Moderate If an observation is rated as moderate risk, corrective actions are needed and a plan must be
+developed to incorporate these actions within a reasonable period of time.
+Low If an observation is described as low risk, the system’s authorizing official must determine
+whether corrective actions are still required or decide to accept the risk.

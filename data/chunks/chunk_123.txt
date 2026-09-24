@@ -1,0 +1,13 @@
+he people factor, not technology, is a critical factor that is often
+overlooked in the security equation. It is for this reason that the Federal Information
+Security Management Act (FISMA) and the Office of Personnel Management (OPM)
+have mandated that more and better attention must be devoted to awareness
+activities and role-based training, as they are the only security controls that can
+minimize the inherent risk that results from the people who use, manage, operate,
+and maintain information systems and networks.31 Robust and enterprise-wide
+awareness and training programs are needed to address this growing concern.
+National Institute of Standards and Technology (NIST) Special Publication (SP)
+800-50, Building an Information Technology Security Awareness and Training
+Program, provides guidelines that can help federal departments and agencies meet
+their information security awareness and training responsibilities defined in FISMA
+and in Office of Management and Budget (OMB) policy. Th

@@ -1,0 +1,28 @@
+s.
+Enterprise-wide initiative
+information security status
+Enterprise-level information security
+metrics or an aggregation of information
+security compliance percentages from risk
+assessments, security certification and
+accreditation, or other sources, organized
+according to the prioritization criteria
+categories
+Risk assessments and security certification
+and accreditation activities are required for all
+agencies. Required data can be easily
+aggregated in the required form.
+Cost of implementing
+remaining required security
+controls for enterprise-wide
+initiatives
+Program POA&M POA&M is a required activity for all agencies.
+Required data can be easily aggregated in
+the required form.
+
+Some of the data inputs need to be manipulated further to support the corrective
+action prioritization process:
+
+39 See Chapter 8, Security Planning, Chapter 10, Risk Management, Chapter 11, Certification,
+Accreditation, and Security Assessments, and Chapter 14, Configuration Management, of this guide for
+a

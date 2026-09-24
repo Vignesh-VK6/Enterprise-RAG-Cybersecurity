@@ -1,0 +1,18 @@
+d to
+systems). They often require technical or specialized expertise and rely on
+management activities and technical controls.
+Technical Services
+Technical services focused on security controls a computer system executes.
+These services are dependent on the proper function of the system for
+effectiveness.
+
+Selecting the most appropriate services, service mix, and service level is a
+complex decision, as is deciding who should provide the needed services. A broad
+range of possible service arrangements exists. An organization may select its
+internal employees and teams to provide the service required, or it may choose to
+fully export the service to an external service provider. This external service
+provider could be any organization, including an external group from a subsidiary
+organization, a business unit, or a commercial service provider.
+12.2.1 Selecting Information Security Services Management Tools
+Because of the potential harm caused by inadequate security, information
+security p

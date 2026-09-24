@@ -1,0 +1,13 @@
+ for full internal review (e.g., IRB, CIO). More importantly, Exhibit 300 is
+the document that OMB uses to assess investments and ultimately make funding
+decisions, and therefore should be leveraged by agencies to clearly demonstrate the
+need for life cycle and annual funding requests. The Exhibit 300 is completed for
+new IT investments and is resubmitted annually for mixed life-cycle and steady-state
+investments. Operating units should evaluate their prioritized corrective actions and
+security controls identified during the prioritization process and determine whether
+the outputs need to be incorporated into an existing investment’s Exhibit 300 or
+whether they will need to create an independent Exhibit 300 for a new investment.
+5.8 IRB and Portfolio Management
+The IRB reviews and selects investments for the agency portfolio based on the
+Exhibit 300s forwarded by the operating units. Like the prioritization that occurs at
+the operating-unit level, the IRB typically uses strategic selec

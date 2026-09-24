@@ -1,0 +1,16 @@
+7 See Chapter 5, Capital Planning; Chapter 8, Security Planning; Chapter 11, Certification, Accreditation,
+and Security Assessments; and Chapter 14, Configuration Management; of this guide for additional
+guidance on system-specific security roles and responsibilities.
+8
+CHAPTER 2 Information Security Governance
+2.2.3.1 Agency Head
+The Clinger-Cohen Act assigns the responsibility for ensuring “that the
+information security policies, procedures, and practices of the executive agency are
+adequate.”8 FISMA provides the following details on agency head responsibilities for
+information security:
+• Providing information security protections commensurate with the risk and
+magnitude of the harm resulting from unauthorized access, use, disclosure,
+disruption, modification, or destruction of information collected or maintained
+by or on behalf of an agency, and on information systems used or operated by
+an agency or by a contractor of an agency or other organization on behalf of an
+agency;

@@ -1,0 +1,8 @@
+question are implemented and operating as intended and provide the desired level of security. For the “Integrated” maturity
+level, to answer “Yes,” the policies, procedures, implementation, and testing are continually monitored and improvements are
+made as a normal business process of the agency.
+Program Questions Policy Procedures Implemented Tested Integrated Comments
+1. Security Control Review Process
+Does management ensure that corrective
+information security actions are tracked using the
+Plan of Action & Milestones (POA&M) process?

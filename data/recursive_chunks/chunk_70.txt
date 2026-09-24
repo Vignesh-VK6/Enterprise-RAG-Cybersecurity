@@ -1,0 +1,15 @@
+sites;
+• Ensuring organizational implementation and monitoring of access controls (i.e.,
+authorization, access, visitor control, transmission medium, display medium,
+logging)
+• Coordinating organizational environmental controls (i.e., ongoing and
+emergency power support and backups, fire protection, temperature and
+humidity controls, water damage); and
+• Overseeing and managing controls for delivery and removal of assets.
+Personnel Security Officer or other designated official with personnel
+security responsibilities. This responsibility is often resident within the Human
+Resources or Human Capital organization. The personnel security officer is
+responsible for the overall implementation and management of personnel security
+controls across an organization, to include integration with specific information
+security controls. As information security programs are developed, senior agency
+officials should work to ensure this coordination of complementary controls. In

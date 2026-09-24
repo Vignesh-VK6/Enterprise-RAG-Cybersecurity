@@ -1,0 +1,10 @@
+..............................................................................103
+11.7 Program Assessments ............................................................................................103
+12. Security Services and Products Acquisition ................................................. 113
+12.1 Information Security Services Life Cycle.................................................................114
+12.2 Selecting Information Security Services..................................................................115
+12.2.1 Selecting Information Security Services Management Tools...............116
+12.2.2 Information Security Services Issues .............................................116
+12.2.3 General Considerations for Information Security Services..................117
+12.3 Selecting Information Security Products .................................................................119
+12.4 Security Checklists for IT Products .....................................................

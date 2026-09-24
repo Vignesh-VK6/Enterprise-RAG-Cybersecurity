@@ -1,0 +1,23 @@
+s use POA&Ms for their respective systems and
+programs as management tools for weakness mitigation.
+ POA&M is updated as weaknesses are closed and
+discovered, and therefore reflects the latest weakness
+mitigation status for the agency.
+ POA&M can be easily provided to appropriate parties
+(OMB, IG, GAO) on demand at any point in time.
+ A POA&M summary synopsizing agency POA&M progress
+is required to be submitted to OMB quarterly.
+
+13 See NIST SP 800-37, Guide for the Security Certification and Accreditation of Federal Information
+Systems, and Chapter 11, Certification, Accreditation and Security Assessments, of this guide for
+additional guidance on the POA&M process.
+15
+CHAPTER 2 Information Security Governance
+Activities Description of Activities Supporting Processes and Information
+Measurement
+and Metrics14
+Metrics are tools designed to improve
+performance and accountability
+through the collection, analysis, and
+reporting of relevant performance-
+related data. Information security

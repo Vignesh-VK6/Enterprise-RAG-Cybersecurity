@@ -1,0 +1,14 @@
+contingency plan. This policy may exist at the department, agency, and/or
+program level of the organization. The statement should define the organizations
+overall contingency objectives; identify leadership, roles and responsibilities,
+resource requirements, test, training, and exercise schedules; and plan
+maintenance schedules and the minimum required backup frequency.
+Q. What is a business impact analysis (BIA)?
+A. The BIA is a critical step to understanding the information systems components,
+interdependencies, and potential downtime impacts. The contingency plan
+strategy and procedures should be designed specifically around the results of the
+BIA. A BIA is conducted by identifying the system’s critical resources. Each
+critical resource is then further examined to determine how long functionality of
+the resource could be withheld from the information system before an
+unacceptable impact is experienced.
+Q. What is Maximum Allowable Outage (MAO)?

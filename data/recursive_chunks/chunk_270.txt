@@ -1,0 +1,13 @@
+factors, identify corrective actions that could be applied to each performance
+issue. Corrective actions may include changing system configurations; training
+security staff, system administrator staff, or regular users; purchasing security
+tools; changing system architecture; establishing new processes and
+procedures; and updating security policies.
+• Prioritize Corrective Actions Based on Overall Risk Mitigation Goals.
+Several corrective actions may be applicable to a single performance issue;
+however, some may be inappropriate if they are inconsistent with the
+magnitude of the problem or are too costly. Applicable corrective actions
+should be prioritized for each performance issue in the ascending order of cost
+and descending order of impact. The risk management process, described in
+NIST SP 800-30, Risk Management Guide for Information Technology Systems,
+should be used for prioritizing corrective actions.48 If weights were assigned to

@@ -1,0 +1,14 @@
+Q. What are federal civilian agencies accountable for in terms of reporting
+security incidents?
+A. According to OMB Memorandum 05-15, FY 2005 Reporting Instructions for the
+Federal Information Security and Management Act Report and Privacy
+Management Report (June 13, 2005), agencies must identify and report the total
+number of successful incidents in the following categories: unauthorized access,
+denial of service attacks, malicious code, improper usage, or other, consistent
+with NIST Special Publication 800-61, Computer Security Incident Handling Guide
+(January 2004). Successful incidents must be recorded and reported internally,
+to US-CERT, and depending on their severity, to law enforcement. As stated in
+the US-CERT Concept of Operations, each incident category has a specific
+timeframe of when it needs to be reported to US-CERT. These time frames are
+as follows:
+• Unauthorized Access: Within one (1) hour of discovery and/or detection;

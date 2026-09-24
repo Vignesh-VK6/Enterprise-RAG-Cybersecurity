@@ -1,0 +1,14 @@
+• Ensuring that the agency has trained personnel to support compliance with
+information security policies, processes, standards, and guidelines; and
+• Ensuring that the CIO, in coordination with the other senior agency officials,
+reports annually to the agency head on the effectiveness of the agency
+information security program, including the progress of remedial actions.
+2.2.3.2 Chief Information Officer
+FISMA assigns the agency CIO the following responsibilities:
+• Designating a senior agency information security officer (SAISO);
+• Developing and maintaining an agency-wide information security program;
+• Developing and maintaining information security policies, procedures, and
+control techniques to address all applicable requirements;
+• Ensuring compliance with applicable information security requirements; and
+• Reporting annually, in coordination with the other senior agency officials, to the
+agency head on the effectiveness of the agency information security program,

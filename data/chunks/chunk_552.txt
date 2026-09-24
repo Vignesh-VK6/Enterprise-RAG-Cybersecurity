@@ -1,0 +1,15 @@
+ntrols. By accrediting an
+information system, an agency official accepts responsibility for the security of
+the system and is fully accountable for any adverse impacts to the agency if a
+breach of security occurs. Thus, responsibility and accountability are core
+principles that characterize security accreditation.
+Q. Are there any necessary activities to support security accreditation?
+A. Yes. The assessment of risk and the development of system security plans are
+two important activities in an agency’s information security program that directly
+support security accreditation and are required by FISMA and OMB Circular
+A-130, Appendix III.
+Risk assessments influence the development of the security controls for
+information systems and generate much of the information needed for the
+associated system security plans. Risk assessments can be accomplished in a
+variety of ways depending on the specific needs of the agency. The assessment
+of risk is a process that should be incorporated into t

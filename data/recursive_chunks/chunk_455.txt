@@ -1,0 +1,12 @@
+3. What staff will <the service provider> assign to this task? What are their skills?
+4. How will <the service provider> ensure the staff stays current in the
+technology/service field?
+Policy/Process 1. Does <the service provider> foresee changes to the organization’s policies and/or
+processes?
+2. How do <the service provider’s> security policies (e.g., contingency planning) differ
+from that of the organization? If the organization’s policy meets a higher standard,
+will <the service provider’s> have trouble meeting this higher standard? If lower, will
+<the service provider> abide by the stricter policies of the organization?
+3. How does <the service provider> address the commingling of its data with that of
+another organization? Are processes in place to ensure that an organization’s data is
+protected?

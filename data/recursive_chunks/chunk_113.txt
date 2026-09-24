@@ -1,0 +1,17 @@
+SDLC Activities Security Activities and Definitions
+A. Initiation Phase
+Needs
+Determination
+ Define a problem that might be solved thr ough product acquisition. Traditional components
+of needs determination are establishing a basic system idea, defining preliminary
+requirements, assessing feasibility, assessing technology, and identifying a form of approval
+to further investigate the problem.
+ Establish and document need and purpose of the system.
+Security
+Categorization
+ Identify information that will be transmitted, processed, or stored by the system and define
+applicable levels of information categorization according to NIST SP 800-60 and FIPS
+199.22The handling and safeguarding of personally identifiable information should be
+considered.
+Preliminary Risk
+Assessment23

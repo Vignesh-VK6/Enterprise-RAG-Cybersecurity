@@ -1,0 +1,19 @@
+results of actions performed by individuals serving in
+delegated roles.
+11.3 The Security Certification and Accreditation Process
+The security certification and accreditation process consists of four distinct
+phases, each further divided into well-defined tasks and subtasks. The four phases
+are:
+• Initiation Phase;
+• Security Certification Phase;
+• Security Accreditation Phase; and
+• Continuous Monitoring Phase.
+100
+Chapter 11 Certification, Accreditation, and Security Assessments
+The Initiation phase consists of three tasks: (1) preparation, (2) notification
+and resource identification, and (3) system security plan review, analysis, and
+acceptance. This phase will ensure that the authorizing official and the SAISO agree
+with the contents of the system security plan before the certification agent begins
+assessing the security controls in the information system.
+The Security Certification phase consists of two tasks: (1) security control
+assessment, and (2) security certification docume

@@ -1,0 +1,16 @@
+ 5 Capital Planning and Investment Control
+
+Figure 5-6. Joint Prioritization with Costs
+Drawn from the perspective of the enterprise, Figure 5-6 plots agency-
+determined security controls importance along the vertical axis and corrective action
+impact along the horizontal axis. The numbers (1-17) represent the seventeen NIST
+SP 800-53 security control areas used for this example. Security control area 12
+ranked “high” in importance but had a “basic” corrective action impact.
+The dollar figures in Figure 5-6 represent the total cost to implement all
+corrective actions within that cell. For example, looking at cell HG, it would cost the
+agency $85,961 to implement corrective actions for systems “N” and “F” and topic
+area “4.” After plotting all of its systems, the agency should perform executive
+validation of the placement of the various systems to ensure that stakeholders’
+priorities are met.
+Agency information security stakeholders should review the prioritization results
+to ensure tha

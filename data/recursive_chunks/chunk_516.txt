@@ -1,0 +1,4 @@
+potential risk is exploited. Risk identification involves determining the possible effect
+on an information system due to a risk. During this phase, initial baselines of security
+controls are being selected based on assessing the risk level of a network. After the
+security controls are established, the CM process can begin. The documented CM

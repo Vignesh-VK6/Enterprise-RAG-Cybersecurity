@@ -1,0 +1,29 @@
+process.
+Product  Have known product vulnerabilities been addressed
+by reviewing the relevant vulnerabilities for a
+product?
+Known vulnerabilities for many products
+can be found using the NIST National
+Vulnerability Database (NVD)
+(http://nvd.nist.gov) (formerly known as
+I-CAT)
+Product  Have all relevant patches been tested and
+implemented?
+
+Product  Have Common Criteria (CC) protection profiles
+been reviewed, when available
+(http://www.commoncriteria.org/protection_profiles/p
+p.html), to identify protection profiles that express
+security requirements applicable to the
+organization’s needs in the anticipated threat
+environment?
+If existing protection profiles are not
+adequate, consider the usefulness of
+similar protection profiles as a starting
+point for examining products that might
+satisfy requirements applicable to the
+new environment.
+Product  Has the CC Centralized Certified Product List been
+reviewed?
+The CC Centralized Certified Product List
+should be reviewed to ensure that

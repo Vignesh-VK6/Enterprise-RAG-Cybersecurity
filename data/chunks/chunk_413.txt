@@ -1,0 +1,19 @@
+ice offering align with and
+enhance the organization’s ability to meet our mission?
+4. Describe < the service provider’s> business, specifying number of staff, customers,
+locations, and business revenues. Is <the service provider> planning any major
+strategic/mission changes or anticipating any budget/financial viability issues during
+the period of performance?
+5. Is the < service> inherently governmental?
+Budgetary/
+Funding
+1. At what cost will < the service provider> provide the service?
+2. How much would the service cost at a higher service level? At a lower service level?
+3. How will < the service provider> protect against cost overruns?
+4. What remedies would < the service provider> offer for cost overruns?
+Technical/
+Architectural
+1. How will <the service provider> perform the information security service?
+2. Who will provide, i.e., own, the hardware/software needed?
+3. At what level will <the service provider> provide the service (e.g., percent availability,
+metrics reports, mai

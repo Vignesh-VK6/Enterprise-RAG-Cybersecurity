@@ -1,0 +1,13 @@
+• Identify causes of poor performance; and
+• Identify areas requiring improvement.
+The causes of poor performance can often be identified using the data from more
+than one metric. For example, determining that the percentage of approved security
+plans is unacceptably low would not be helpful for determining how to correct the
+problem. To determine the cause of low compliance, collect information on the
+reasons for low percentages (e.g., lack of guidance, insufficient expertise, or
+conflicting priorities). This information can be collected as separate metrics or as
+implementation evidence for the percentage of approved security plans. Once this
+information is collected and compiled, the agency should develop a correction plan to
+address the root cause of the problem.
+Root causes for faulty security run the gamut between highly technical
+misconfiguration issues to lack of training or outdated policies or practices. Below

@@ -1,0 +1,19 @@
+ty Controls for Federal Information Systems, February 2006.
+National Institute of Standards and Technology Special Publication 800-55, Security
+Metrics Guide for Information Technology Systems, July 2003.
+National Institute of Standards and Technology Special Publication 800-60, Guide for
+Mapping Types of Information and Information Systems to Security Categories, June
+2004.
+National Institute of Standards and Technology Special Publication 800-65,
+Integrating Information Security into the Capital Planning and Investment Control
+Process, January 2005.
+Office of Management and Budget Circular A-11, Preparation, Submission, and
+Execution of the Budget, 2003.
+45
+CHAPTER 6 Interconnecting Systems
+Chapter 6
+6. Interconnecting Systems
+A system interconnection is defined as the direct connection of two or more
+information systems for sharing data and other information resources. Organizations
+choose to interconnect their information systems for a variety of reasons based on
+their organization

@@ -1,0 +1,15 @@
+dent response team’s
+expertise should be used to establish recommendations for securing systems and
+preventing incidents, as much as possible. This section provides an overview of
+actions needed to prevent and handle incidents, including incident data collection
+preparation.
+13.1.1 Preparing for Incident Response
+Organizing an effective incident response capability involves the participation of
+many people within the organization. Making the right planning and implementation
+decisions is key to establishing a successful incident response program. One of the
+first planning tasks should be to develop an organization-specific definition of the
+term “incident” so that the scope of the term is clear. Additional tasks that should
+be performed during the preparation phase include the following:
+• Create an Incident Response Policy. The policy should define what events
+are considered incidents, establish the organizational structure for incident
+response, define roles and responsibilities, and

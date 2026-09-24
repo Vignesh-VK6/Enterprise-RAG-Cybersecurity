@@ -1,0 +1,15 @@
+help security practitioners and managers identify funding needs to secure systems
+and provide strategies for obtaining the necessary funding.
+5.1 Legislative Overview
+Implementation of information security within the federal government is guided
+by a combination of legislation, rules and regulations, and agency-specific policies.
+FISMA is the overarching information security legislation for federal information
+systems. Signed into law in 2002, FISMA:
+• Charges the Office of Management and Budget (OMB) and NIST to develop
+security standards and identify tolerable security risk levels;
+• Makes NIST standards compulsory for all agencies; FISMA eliminated an
+agency’s ability to obtain waivers on NIST standards (Federal Information
+Processing Standard [FIPS]); and
+• Charges agencies to integrate information security into CPIC.
+• NIST SP 800-53 identifies a set of minimum security controls applicable to
+information systems based on FIPS 199 categorization (low, moderate, high).

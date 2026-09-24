@@ -1,0 +1,14 @@
+and associated security issues emerge. Training needs will shift as
+new skills and capabilities become necessary to respond to new architectural and
+technology changes. A change in the organizational mission and/or objectives can
+also influence ideas on how best to design training solutions and content. Emerging
+issues, such as homeland defense, will also impact the nature and extent of security
+awareness and training activities necessary to keep users informed and/or trained
+about the latest threats, vulnerabilities, and countermeasures. New laws and court
+decisions may also impact agency policy that, in turn, may affect the development
+and/or implementation of awareness and training material. Finally, as security
+policies evolve, awareness and training material should reflect these changes.
+4.6 Program Success Indicators
+CIOs, program officials, and SAISOs should be primary advocates for awareness,
+training, education, and professionalization. Securing an organization’s information
+a

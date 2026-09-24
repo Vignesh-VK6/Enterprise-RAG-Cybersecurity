@@ -1,0 +1,19 @@
+he process to issue a Federal
+employee or contractor an identification credential, and also by specifying the
+electronic and physical properties of the credential itself. The HSPD-12
+credential is known as the Personal Identity Verification card.
+Figure 2-1 illustrates key roles of legislative, regulatory, and oversight bodies in
+establishing governance and information security governance requirements for the
+federal enterprise.
+
+2 FISMA, H.R. 2458–48, ‘Federal Information Security Management Act,’ 2002.
+3 OMB, ‘Office of Management and Budget Circular A-130, Appendix III,’ 1996.
+4 OMB, M-05-24, ‘Implementation of Homeland Security Presidential Directive (HSPD) 12 – Policy for a
+Common Identification Standard for Federal Employees and Contractors.’
+4
+CHAPTER 2 Information Security Governance
+
+Figure 2-1. Key Legislative, Regulatory, and Oversight Roles
+
+The need to identify and implement appropriate federal government and agency-
+specific information security governance practices can b

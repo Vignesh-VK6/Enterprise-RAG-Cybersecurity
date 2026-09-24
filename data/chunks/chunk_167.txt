@@ -1,0 +1,16 @@
+d security program (FISMA, Executive Orders, and
+supporting NIST standards and guidance); for example, implementing the
+security controls outlined in NIST SP 800-53;
+• Safeguarding national and agency mission-critical assets (Homeland Security
+Presidential Directives);
+• Improving information security program status; and
+• Completing a security certification and accreditation of all systems in
+accordance with NIST SP 800-37, Guide for the Security Certification and
+Accreditation of Federal Information Systems.
+A variety of taxonomies can be used to organize prioritization criteria, including
+FIPS 200 security control families or other agency-specific categories.
+5.6 Conduct System- and Enterprise-Level Prioritization38
+Once agency management and stakeholders agree on the prioritization of
+investments, the agency can begin the prioritizing process by rank-ordering
+requirements against the prioritization criteria. The objective of this activity is to
+fund first the most critical security

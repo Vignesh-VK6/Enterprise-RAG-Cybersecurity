@@ -1,0 +1,19 @@
+permitted;
+• Deploying software throughout the organization to detect and stop malicious
+code; and
+• Making users aware of policies and procedures concerning the appropriate use
+of networks, systems, and applications.
+Q. Why is it important to have an incident response capability?
+A. Policy guidance issued by OMB Circul ar A-130, Appendix III, requires that
+agencies have a capability to provide help to users when security incidents occur
+in their systems and to share information concerning common vulnerabilities and
+threats.
+Q. What does an incident response capability do?
+A. A well-defined incident resp onse capability helps an organization detect incidents
+rapidly, minimize losses and destruction, identify weaknesses, and restore IT
+operations without delay.
+B-26
+Appendix B Frequently Asked Questions
+Q. What are federal civilian agencies accountable for in terms of reporting
+security incidents?
+A. According to OMB Memorandum 05-15, FY 2005 Reporting Instructions for the

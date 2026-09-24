@@ -1,0 +1,15 @@
+products. A security configuration
+checklist (sometimes called a lockdown or hardening guide or benchmark) is, in its
+simplest form, a series of instructions for configuring a product to a particular
+operating environment.
+12.5 Organizational Conflict of Interest
+An organizational conflict of interest (OCI) may exist when a party to an
+agreement has a past, present, or future interest related to the work performed (or
+to be performed), which may diminish its capacity to provide technically sound,
+objective service or which may result in an unfair competitive advantage. Agencies
+should do their best to avoid organizational conflicts before they arise. However, if
+an organization determines that an OCI exists but cannot be avoided and the
+organization wishes to proceed nonetheless, the head of the organization must
+formally waive the OCI.
+Identifying the existence of OCIs, mitigating the effect of the OCI to an
+acceptable level, or waiving the OCI are important steps for consideration wh

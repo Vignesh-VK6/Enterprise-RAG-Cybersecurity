@@ -1,0 +1,21 @@
+stem performance using
+alternate equipment
+• Coordination among recovery teams • Restoration of normal operations
+• Internal and external connectivity • Notification procedures.
+Personnel training should include:
+• Purpose of the plan • Security requirements
+• Cross-team coordination and
+communication
+• Team-specific processes
+• Individual responsibilities.
+• Reporting procedures
+
+Plan exercises should be designed to individually and then collectively examine
+various components of the entire plan. Exercises may be conducted in a classroom
+setting: discussing specific components of the plan and/or impact issues; or they
+may be functional exercises: simulating the recovery using actual replacement
+equipment, data, and alternate sites.
+9.7 Step 7: Plan Maintenance
+The IT contingency plan must always be maintained in a ready state for use
+immediately upon notification. Periodic reviews of the plan must be conducted for
+currency of key personnel and vendor information, system components and

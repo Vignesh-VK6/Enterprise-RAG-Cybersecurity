@@ -1,0 +1,16 @@
+115
+CHAPTER 12 Security Services and Products Acquisition
+Table 12-2. Information Security Services Categories
+Categories Description
+Management Services
+Techniques and concerns normally addressed by management in the
+organization’s computer security program. They focus on managing the computer
+security program and the risk within the organization.
+Operational Services
+Services focused on controls implemented and executed by people (as opposed to
+systems). They often require technical or specialized expertise and rely on
+management activities and technical controls.
+Technical Services
+Technical services focused on security controls a computer system executes.
+These services are dependent on the proper function of the system for
+effectiveness.

@@ -1,0 +1,10 @@
+13.2 Detection and Analysis............................................................................................128
+13.3 Containment, Eradication, and Recovery................................................................128
+13.4 Post-Incident Activity ...............................................................................................129
+ix
+Table of Contents
+14. Configuration Management ......................................................................... 131
+14.1 Configuration Management in the System Development Life Cycle .......................132
+14.2 Configuration Management Roles and Responsibilities..........................................134
+14.3 Configuration Management Process .......................................................................135
+Appendix A – Acronyms List................................................................................A-1

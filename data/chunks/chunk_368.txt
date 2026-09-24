@@ -1,0 +1,14 @@
+, Guide for Assessing the Security Controls in Federal
+Information Systems.72
+The security certification phase determines the extent to which the security
+controls in the information system are implemented correctly, operating as intended,
+and producing the desired system security posture. This phase also identifies specific
+actions taken or planned to correct security control deficiencies and to reduce or
+eliminate known system vulnerabilities. At the conclusion of this phase, the
+authorizing official should have sufficient data to assess the level of risk the system
+poses to the agency, and render a security accreditation decision.
+The Security Accreditation phase consists of two tasks: (1) security
+accreditation decision and (2) security accreditation documentation. This phase is
+intended to help the accreditation authority determine whether the remaining known
+vulnerabilities in the system (after implementing an agreed-upon set of security
+controls) pose an acceptable level of risk

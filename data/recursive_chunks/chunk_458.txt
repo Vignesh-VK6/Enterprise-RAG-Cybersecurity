@@ -1,0 +1,14 @@
+To facilitate identification and review of these considerations, security program
+managers may use a set of questions when considering security products for their
+programs. Table 12-6 lists questions that are product-independent and should be
+posed during the product selection phase. These questions are organized into three
+categories: those that apply to the organization, those that apply to the product or
+its operation, and those that apply to the vendor. It should be noted, however, that
+these questions are neither exhaustive nor relevant in all circumstances.
+Organizations should use these questions as a guide, and edit and supplement the
+questions as required by their unique circumstances in addition to ensuring that their
+decisions are consistent with their architecture and a well-established business case.
+Table 12-6. Information Security Product Selection Questions
+Consideration
+Type Questions Comments
+Organizational  Is the anticipated user community identified?

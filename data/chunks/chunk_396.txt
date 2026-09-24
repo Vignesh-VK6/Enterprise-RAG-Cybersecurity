@@ -1,0 +1,13 @@
+for information systems are widely
+available in the marketplace today, and are frequently used by federal agencies.
+Security products and services should be selected and used within the organization’s
+overall program to manage the design, development, and maintenance of its
+information security infrastructure, and to protect its mission-critical information. In
+the acquisition of both, agencies should apply risk management principles to aide in
+the identification and mitigation of risks associated with the acquisition.
+In the acquisition of information security products, agencies are encouraged to
+conduct a cost-benefit analysis as part of the product-selection process – one that
+also includes the costs associated with risk mitigation. This cost-benefit analysis
+should include a life cycle cost (LCC) estimate for the status quo and one for each
+identified alternative while highlighting the benefits associated with each alternative.
+National Institute of Standards and Technology (NIST) 

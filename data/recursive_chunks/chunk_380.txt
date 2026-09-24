@@ -1,0 +1,16 @@
+95
+Chapter 11 Certification, Accreditation, and Security Assessments
+Chapter 11
+11. Certification, Accreditation, and
+Security Assessments
+Security certification and accreditation are important activities that support a risk
+management process and an integral part of an agency's information security
+program. The security certification and accreditation process is designed to ensure
+that an information system will operate with the appropriate management review,
+that there is ongoing monitoring of security controls, and that reaccreditation occurs
+periodically.
+Required by Office of Management and Budget (OMB) Circular A-130, Appendix
+III, Security of Federal Automated Information Resources, security certification and
+accreditation serves a function similar to quality control. It is the official
+management decision given by a senior agency official to authorize operation of an
+information system and to explicitly accept the risk on behalf of the agency. In this

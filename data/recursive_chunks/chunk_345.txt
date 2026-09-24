@@ -1,0 +1,12 @@
+destruction of…information…and …information systems” collected by and used by the
+federal government, and “ensuring that information security management processes
+are integrated with agency strategic and operational planning processes.”
+10.1 Risk Assessment
+To understand the risk assessment process, it is essential to define the term risk.
+NIST SP 800-30 defines risk as “a function of the likelihood of a given threat source’s
+exercising a particular potential vulnerability, and the resulting impact of that
+adverse event on the organization.” In other words, where a threat intersects with a
+vulnerability, risk is present. With this definition of risk in mind, the goal of the risk
+assessment process is to identify and assess the risks to a given environment. The
+depth of the risk assessment performed can vary greatly and is determined by the
+criticality and sensitivity of the system, as applied to confidentiality, integrity, and

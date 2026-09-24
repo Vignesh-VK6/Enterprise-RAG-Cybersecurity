@@ -1,0 +1,15 @@
+Material Changes to System Configuration: Planned technical changes to the system
+architecture will be reported to technical staff before such changes are implemented. The
+initiating party agrees to conduct a risk assessment based on the new system architecture and to
+modify and re-sign the ISA within one (1) month of implementation.
+
+New Interconnections: The initiating party will notify the other party at least one (1) month
+before it connects its information system with any other information system, including systems
+that are owned and operated by third parties.
+
+Personnel Changes: The parties agree to provide notification of the separation or long-term
+absence of their respective system owner or technical lead. In addition, both parties will provide
+notification of any changes in point of contact information. Both parties also will provide
+notification of changes to user profiles, including users who resign or change job responsibilities.
+
+INTERCONNECTION SECURITY AGREEMENT

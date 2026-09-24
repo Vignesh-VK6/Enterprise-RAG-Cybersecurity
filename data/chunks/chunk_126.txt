@@ -1,0 +1,16 @@
+by adding “at least annually,” and requires agencies to provide “role-
+specific training” in accordance with NIST guidance. Although there is no federal
+27
+CHAPTER 4 Awareness and Training
+mandate for formal education (provided by colleges or universities) and certification
+of information security professionals, they are mentioned in this section since some
+agencies include them as part of a comprehensive training solution for federal
+employees.
+4.2 Components: Awareness, Training, Education, and Certification
+An agency’s information security program policy should contain a clear and
+distinct section devoted to agency-wide requirements for the awareness and training
+program. Although security awareness and training is generally referred to as “a”
+program, many organizations consider awareness and training to be two distinct
+functions, each with separate purposes, goals, and approaches. Proper
+implementation of these components (with consideration of options like education
+and professio

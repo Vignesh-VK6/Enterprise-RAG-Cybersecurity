@@ -1,0 +1,18 @@
+es is sometimes referred to as the computer information security officer
+(CISO) or the chief security officer (CSO).
+9
+CHAPTER 2 Information Security Governance
+• Heading an office with the mission and resources to assist in ensuring agency
+compliance with information security requirements;
+• Periodically assessing risk and magnitude of the harm resulting from
+unauthorized access, use, disclosure, disruption, modification, or destruction of
+information and information systems that support the operations and assets of
+the agency;
+• Developing and maintaining risk-based, cost-effective information security
+policies, procedures, and control techniques to address all applicable
+requirements throughout the life cycle of each agency information system to
+ensure compliance with applicable requirements;
+• Facilitating development of subordinate plans for providing adequate
+information security for networks, facilities, and systems or groups of
+information systems;
+• Ensuring that agency person

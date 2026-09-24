@@ -1,0 +1,18 @@
+Program
+The development of an information security awareness and training program
+involves three major steps:
+1. Designing the program (including the development of the information security
+awareness and training program plan);
+30
+CHAPTER 4 Awareness and Training
+2. Developing the awareness and training material; and
+3. Implementing the program.
+Even a small amount of information security awareness and training can go a
+long way toward improving the security posture of, and vigilance within, an
+organization.
+4.3.1 Designing an Awareness and Training Program
+Awareness and training programs must be designed with the mission of the
+agency in mind. The awareness and training program must support the business
+needs of the organization and be relevant to the organization’s culture and
+information technology architecture. The most successful programs are those that
+users feel are relevant to the subject matter and issues presented.

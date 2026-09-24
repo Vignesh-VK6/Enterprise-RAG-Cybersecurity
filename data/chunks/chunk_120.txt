@@ -1,0 +1,18 @@
+ublication 800-30, Risk
+Management Guide for Information Technology Systems, July 2002.
+National Institute of Standards and Technology Special Publication 800-37, Guide for
+the Security Certification and Accreditation of Federal Information System, May
+2004.
+National Institute of Standards and Technology Special Publication 800-53,
+Recommended Security Controls for Federal Information Systems, February 2005.
+National Institute of Standards and Technology Special Publication 800-60, Guide for
+Mapping Types of Information and Information Systems to Security Categories, June
+2004.
+National Institute of Standards and Technology Special Publication 800-64, Security
+Considerations in the Information System Development Life Cycle, Rev. 1, June
+2004.
+National Institute of Standards and Technology Special Publication 800-65,
+Integrating Security into the Capital Planning and Investment Control Process,
+January 2005.
+National Institute of Standards and Technology Special Publication 800-88,
+Guid

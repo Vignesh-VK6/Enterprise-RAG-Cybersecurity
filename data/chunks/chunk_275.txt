@@ -1,0 +1,16 @@
+or developing and deploying the
+information systems. For information systems currently in the federal inventory, management control
+can be interpreted as having budgetary/operational authority for the day-to-day operation and
+maintenance of the information systems.
+71
+CHAPTER 8 Security Planning
+8.4.2 Security Controls
+FIPS 200 provides seventeen minimum security requirements for federal
+information and information systems. The requirements represent a broad-based,
+balanced information security program that addresses the management, operational,
+and technical aspects of protecting the confidentiality, integrity, and availability of
+federal information and information systems. An agency must meet the minimum
+security requirements in this standard by applying security controls selected in
+accordance with NIST SP 800-53 and the designated impact levels of the information
+systems. An agency has the flexibility to tailor the security control baseline in
+accordance with the terms and conditi

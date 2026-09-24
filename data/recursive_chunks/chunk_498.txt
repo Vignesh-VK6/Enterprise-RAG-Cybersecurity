@@ -1,0 +1,13 @@
+indicate otherwise. In addition to prioritization guidelines, organizations should also
+establish an escalation process for those instances when the incident response team
+fails to respond to an incident within the designated time.
+The incident response team should maintain records about the status of
+incidents, along with other pertinent information. Using an application or database
+for this purpose is necessary to ensure that incidents are handled and resolved in a
+timely manner. The incident response team should safeguard this data and other
+data related to incidents because it often contains sensitive information concerning
+recent security breaches, exploited vulnerabilities, and users that may have
+performed inappropriate actions.
+13.3 Containment, Eradication, and Recovery
+It is important to contain an incident before it spreads to avoid overwhelming
+resources and increasing damage caused by the incident. Most incidents require

@@ -1,0 +1,13 @@
+s an overview of the common types of alternate sites.
+The recovery strategy requires personnel to implement the procedures and test
+operability. Generally, a member of the organization’s senior leadership is selected
+to activate the plan and lead overall recovery operations. Appropriate teams of
+personnel (at least two people to ensure there is a primary and alternate available to
+execute procedures) are identified to be responsible for specific aspects of the plan.
+Personnel should be chosen to staff the teams based on their normal
+responsibilities, system knowledge, and availability to recover the system on an on-
+call basis. A line of succession should be defined to ensure that someone can
+assume the role of senior leadership if the plan leader is unable to respond.
+Having selected choices for each component of the recovery strategy, the final
+consideration should be given to cost. The recovery strategy must meet criticality,
+availability, and RTO requirements while remaining within

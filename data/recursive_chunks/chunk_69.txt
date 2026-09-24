@@ -1,0 +1,15 @@
+Physical Security Officer or other designated official with physical
+security responsibilities. The physical security officer is responsible for the overall
+implementation and management of physical security controls across an
+organization, to include integration with applicable information security controls. As
+information security programs are developed, senior agency officials should work to
+11
+CHAPTER 2 Information Security Governance
+ensure this coordination of complementary controls. In consideration of information
+security, the physical security officer serves as the senior official responsible for:
+• Developing, promulgating, implementing, and monitoring the organization’s
+physical security programs, to include appropriate controls for alternate work
+sites;
+• Ensuring organizational implementation and monitoring of access controls (i.e.,
+authorization, access, visitor control, transmission medium, display medium,
+logging)

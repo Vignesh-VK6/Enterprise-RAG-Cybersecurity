@@ -1,0 +1,17 @@
+he organization can be
+derived by multiplying the ratings assigned for threat likelihood (e.g., probability)
+and threat impact. Table 10-1 shows how to calculate an overall risk rating using
+inputs from the threat likelihood and impact categories using a 3X3 matrix.
+Depending on the requirements of the system and the granularity of risk assessment
+desired, 4x4 and 5x5 matrices may be used instead. The latter can include a Very
+Low/Very High threat likelihood and a Very Low/Very High threat impact to generate
+a Very Low/Very High risk level. A Very High risk level may require possible system
+shutdown or stopping all information system integration and testing effort.
+
+89
+CHAPTER 10 Risk Management
+Table 10-1. Risk Level Matrix
+Because the determination of risk ratings for impact and threat likelihood is largely
+subjective, it is best to assign each rating a numeric value for ease of calculation.
+The rationale for this justification can be explained in terms of the probability
+assigned fo

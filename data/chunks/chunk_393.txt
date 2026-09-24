@@ -1,0 +1,21 @@
+Operational Physical and Environmental Protection PE
+Operational Contingency Planning CP
+Operational Configuration Management CM
+Operational Maintenance MA
+Operational System and Information Integrity SI
+Operational Media Protection MP
+Operational Incident Response IR
+Operational Awareness and Training AT
+Technical Identification and Authentication IA
+Technical Access Control AC
+Technical Audit and Accountability AU
+Technical System and Communications Protection SC
+
+Table 11-1: Security Control Class, Family, and Identifier
+
+Security control class designations (i.e., management, operational, and technical) are defined
+below for clarification in preparation of system security plans.
+Management controls focus on the management of the information system and the management
+of risk for a system. They are techniques and concerns that are normally addressed by
+management. Operational controls address security methods focusing on mechanisms primarily
+implemented and executed by people (as oppo

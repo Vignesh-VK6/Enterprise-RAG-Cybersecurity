@@ -1,0 +1,9 @@
+47 See NIST SP 800-30, Risk Management Guide for Information Technology Systems, Chapter 10, Risk
+Management, and Chapter 11, Certification, Accreditation, and Security Assessments, of this guide for
+additional guidance on security assessments.
+62
+CHAPTER 7 Performance Measures
+7.4 Metrics Program Implementation
+Information security metrics should be used for monitoring information security
+control performance and initiating performance improvement actions. This iterative
+process consists of six phases, depicted in Figure 7-2.

@@ -1,0 +1,12 @@
+requirements defined in FIPS 200 by using the security controls in National Institute
+of Standards and Technology (NIST) Special Publication (SP) 800-53, Recommended
+Security Controls for Federal Information Systems, and NIST SP 800-18 Rev.1, Guide
+for Developing Security Plans for Federal Information Systems, which provides a
+Systems Security Plan Template in Appendix A of the document. The guidance below
+provides basic information on how to prepare a system security plan in accordance
+with applicable federal requirements, and it is easily adaptable to a variety of
+organizational structures.
+8.1 Major Applications, General Support Systems, and Minor Applications
+All information systems must be covered by a system security plan and labeled
+as a major application (MA)50
+or general support system (GSS).51 Specific system

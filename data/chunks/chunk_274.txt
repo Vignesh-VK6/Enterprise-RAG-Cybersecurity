@@ -1,0 +1,14 @@
+or an information system to contain multiple subsystems. A subsystem
+is a major subdivision or component of an information system consisting of
+information, information technology (IT), and personnel that perform one or more
+specific functions.
+
+59 See NIST SP 800-60, Guide for Mapping Types of Information and Information Systems to Security
+Categories, for supporting guidance on system categorization.
+60 Information resources consist of information and related resources such as personnel, equipment,
+funds, and information technology.
+61 Direct management control typically involves budgetary, programmatic, or operational authority and
+associated responsibility. For new information systems, management control can be interpreted as
+having budgetary/programmatic authority and responsibility for developing and deploying the
+information systems. For information systems currently in the federal inventory, management control
+can be interpreted as having budgetary/operational authority for the

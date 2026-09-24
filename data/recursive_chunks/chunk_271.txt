@@ -1,0 +1,14 @@
+NIST SP 800-30, Risk Management Guide for Information Technology Systems,
+should be used for prioritizing corrective actions.48 If weights were assigned to
+metrics in Phase 1, Prepare for Data Collection, they should be used to
+prioritize corrective actions. Alternatively, weights may be assigned to
+corrective actions in Phase 3, Identify Corrective Actions, based on the
+criticality of implementing specific corrective actions, the cost of corrective
+actions, and the magnitude of corrective actions’ impact on the organization’s
+security posture.
+• Select Most Appropriate Corrective Actions. Up to three corrective actions
+from the top of the list of prioritized corrective actions should be selected for
+conducting a full cost-benefit analysis. These selections should then be
+appropriately reflected in the agency or system POA&Ms.
+7.4.4 Develop Business Case and Obtain Resources
+Phases 4 and 5, Develop Business Case and Obtain Resources, respectively,

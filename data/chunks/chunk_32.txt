@@ -1,0 +1,14 @@
+plementing appropriate information security controls to support their
+mission in a cost-effective manner, while managing evolving information security
+risks. As such, information security governance has its own set of requirements,
+challenges, activities, and types of possible structures. Information security
+governance also has a defining role in identifying key information security roles and
+responsibilities, and it influences information security policy development and
+oversight and ongoing monitoring activities.
+To ensure an appropriate level of support of agency missions and the proper
+implementation of current and future information security requirements, each agency
+should establish a formal information security governance structure.
+Information security governance can be defined as the process of establishing
+and maintaining a framework and supporting management structure and
+processes to provide assurance that information security strategies are aligned
+with and support busine

@@ -1,0 +1,14 @@
+36
+CHAPTER 5 Capital Planning and Investment Control
+Figure 5-1 illustrates the relationship between security drivers in the GAO Select-
+Control-Evaluate investment lifecycle and the System Development Life Cycle
+(SDLC). During the Select phase, security drivers include assessment activities to
+ensure that IT security investments comply with security requirements. During the
+Control phase, investments are monitored through the use of security metrics to
+ensure that security controls are in place and operational, and that investments
+remain compliant with requirements. During the Evaluate phase, security drivers
+include self-assessment activities to ensure compliance and media sanitization efforts
+following removal from operation and prior to disposition.
+5.2 Integrating Information Security into the CPIC Process
+National Institute of Standards and Technology (NIST) Special Publication (SP)
+800-65, Integrating IT Security into the Capital Planning and Investment Control

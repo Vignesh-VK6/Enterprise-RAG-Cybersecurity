@@ -1,0 +1,25 @@
+Subsystem Boundary
+LOCAL AREA
+NETWORK ALPHA
+FIPS 199
+Hi
+LOCAL AREA
+NETWORK BRAVO
+FIPS 199
+Moderate Impact
+Subsystem Boundary
+gh Impact
+Subsystem Boundary
+General Support System Boundary
+72
+CHAPTER 8 Security Planning
+8.4.4 Compensating Controls
+Compensating security controls are the management, operational, or technical
+controls used by an agency in lieu of prescribed controls in the low, moderate, or
+high security control baselines, which provide equivalent or comparable protection
+for an information system. Compensating security controls for an information system
+will be used by an agency only under the following conditions: (1) the agency selects
+the compensating controls from the security control catalog in NIST SP 800-53, (2)
+the agency provides a complete and convincing rationale and justification for how the
+compensating controls provide an equivalent security capability or level of protection
+for the information system, and (3) the agency assesses and formally accepts the

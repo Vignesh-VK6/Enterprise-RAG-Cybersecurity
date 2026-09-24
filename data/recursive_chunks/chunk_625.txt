@@ -1,0 +1,14 @@
+Q. What is configuration management?
+A. NIST SP 800-64, Security Considerations in the Information System Development
+Life Cycle, states, “Configuration management and control procedures are critical
+to establishing an initial baseline of hardware, software, and firmware
+components for the information system and subsequently to controlling and
+maintaining an accurate inventory of any changes to the system. Changes to the
+hardware, software, or firmware of a system can have a significant impact on the
+security of the system…changes should be documented, and their potential
+impact on security should be assessed regularly.”
+Q. Why is configuration management important?
+A. With the complexity and uniqueness of each information system (often due to
+various user accounts and privileges, department software, or a user’s personal
+preferences), it is difficult for each system to be identically configured to all
+others on any given network. CM needs to exist to minimize the effects on an

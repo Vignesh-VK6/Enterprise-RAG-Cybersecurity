@@ -1,0 +1,13 @@
+POA&Ms that are required to track remedial actions, and update the system security
+plan, thus providing the factual basis for an authorizing official to render a security
+accreditation decision.53
+The roles and responsibilities in this section are specific to information system
+security planning. Recognizing that agencies have widely varying missions and
+organizational structures, there may be differences in naming conventions for
+security planning-related roles and how the associated responsibilities are allocated
+among agency personnel (e.g., multiple individuals filling a single role or one
+individual filling multiple roles).54,55
+8.2.1 Chief Information Officer
+The chief information officer (CIO)56 is the agency official responsible for
+developing and maintaining an agency-wide information security program and has
+the following system security planning responsibilities:

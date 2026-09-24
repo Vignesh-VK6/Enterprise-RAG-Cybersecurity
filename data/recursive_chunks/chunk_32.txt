@@ -1,0 +1,16 @@
+1.3 Audience
+The intended audience includes agency heads, CIOs, SAISOs (also commonly
+referred to as CISOs), and security managers. The handbook provides information
+that the audience can use in building their information security program strategy.
+While there are differences between federal and private sector environments,
+especially in terms of priorities and legal requirements, the underlying principles of
+information security are the same. The handbook is therefore useful to any manager
+who requires a broad overview of information security practices.
+1
+CHAPTER 2 Information Security Governance
+Chapter 2
+2. Information Security Governance
+Federal agencies rely heavily on information technology (IT) to run their daily
+operations and deliver products and services. With an increasing reliability on IT, a
+growing complexity of federal government IT infrastructure, and a constantly
+changing information security threat and risk environment, information security has

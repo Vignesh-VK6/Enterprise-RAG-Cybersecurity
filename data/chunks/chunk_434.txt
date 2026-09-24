@@ -1,0 +1,17 @@
+L Bulletin: Selecting Information
+Technology Security Products, April 2004
+National Institute of Standards and Technology ITL Bulletin: Information Technology
+Security Services; How to Select, Implement, and Manage, June 2004.
+123
+CHAPTER 13 Incident Response
+Chapter 13
+13. Incident Response
+Attacks on information systems and networks have become more numerous,
+sophisticated, and severe in recent years. While preventing such attacks would be
+the ideal course of action for organizations, not all information system security
+incidents can be prevented. Every organization that depends on information systems
+and networks to carry out its mission should identify and assess the risks to its
+systems and its information and reduce those risks to an acceptable level.78 An
+important component of this risk management process is the trending analysis of
+past computer security incidents and identifying effective ways to deal with them. A
+well-defined incident response capability helps the organizati

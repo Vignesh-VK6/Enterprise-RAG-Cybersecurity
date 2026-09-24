@@ -1,0 +1,14 @@
+and/or modifications to the system are developed and tested, and hardware and/or
+software is added or replaced. During this phase, the organization should
+continuously monitor performance of the system to ensure that it is consistent with
+preestablished user and security requirements, and needed system modifications are
+incorporated.
+For configuration management (CM) and control, it is important to document the
+proposed or actual changes in the security plan of the system. Information systems
+are typically in a constant state of evolution with upgrades to hardware, software,
+firmware, and possible modifications to the surrounding environment where the
+system resides. Documenting information system changes and assessing the
+potential impact of these changes on the security of a system is an essential part of
+continuous monitoring, and key to avoiding a lapse in the system security
+accreditation.20
+Monitoring security controls helps to identify potential security-related problems

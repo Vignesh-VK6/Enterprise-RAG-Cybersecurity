@@ -1,0 +1,12 @@
+75 Security control families in NIST SP 800-53 are associated with one of three security control classes
+(i.e., management, operational, technical). Families are assigned to their respective classes based on
+the dominant characteristics of the controls in that family. Many security controls, however, can be
+logically associated with more than one class. For example, CP-1, the policy and procedures control
+from the Contingency Planning family, is listed as an operational control but also has characteristics that
+are consistent with security management as well.
+
+111
+
+Technical controls focus on security controls that the computer system executes. The controls
+can provide automated protection for unauthorized access or misuse, facilitate detection of
+security violations, and support security requirements for applications and data.

@@ -1,0 +1,12 @@
+the performance or security posture of the system. Agencies can achieve the goals
+of continuous system monitoring by performing configuration verification tests to
+ensure that the selected configuration for a given system has not been altered
+outside of the established CM process. In addition to configuration verification tests,
+agencies can also perform system audits. Both configuration verification tests and
+system audits entail an examination of characteristics of the system and supporting
+documentation to verify that the configuration meets user needs and ensure that the
+current configuration is the approved system configuration baseline.
+As part of the overall CM process, agencies should also perform patch
+management activities during this step. Patch management assists in the process of
+lowering the potential risk to a network by “patching” or repairing known
+vulnerabilities in any of the network or system environments. Increasingly, vendors

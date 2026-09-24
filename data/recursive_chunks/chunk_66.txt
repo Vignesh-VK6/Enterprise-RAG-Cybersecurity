@@ -1,0 +1,15 @@
+primary senior management roles and their coinciding responsibilities are listed
+below. The scope of each role will depend on whether or not these roles should be
+redundant in the decentralized governance structure. These individuals should work
+collaboratively to ensure that information security exists within their organizational
+responsibility.
+Inspector General (IG). The IG is a statutory office within an organization that,
+in addition to other responsibilities, works to assess an organization’s information
+security practices and identifies vulnerabilities and the possible need to modify
+security measures. The IG completes this task by:
+• Detecting fraud or instances of waste, abuse, or misuse of an organization’s
+funds;
+• Identifying operational deficiencies within the organization;
+• Ensuring that the underlying problems that permit such failings are rectified;
+and
+• Offering recommendations for preventing problems in the future.

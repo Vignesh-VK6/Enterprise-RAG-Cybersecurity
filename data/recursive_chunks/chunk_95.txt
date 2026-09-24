@@ -1,0 +1,15 @@
+CM, training and awareness, and other available sources.
+ Information security managers and system owners are able
+to receive and use incident statistics to assess security
+posture of systems under their purview.
+2.3 Information Security Governance Challenges and Keys to Success
+There are many diverse, and sometimes conflicting, priorities an organization
+must account for in meeting information security governance requirements. These
+criteria present challenges an organization is likely to face in its efforts to establish
+information security governance.
+Some of the most common challenges include:
+• Balancing extensive requirements originating from multiple governing
+bodies. Several different governing and oversight bodies establish governance
+and information security requirements for the federal government. While these
+requirements are seldom contradictory, they are not always complementary,
+and organizations may be faced with the challenge of implementing different

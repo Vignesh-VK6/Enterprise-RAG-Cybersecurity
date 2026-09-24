@@ -1,0 +1,16 @@
+is the Federal Information Security Management Act of 2002 (FISMA), December 17,
+2002.
+Office of Management and Budget Circular A-130, Management of Federal
+Information Resources, November 2000.
+Federal Information Processing Standard 199, Standards for Security Categorization
+of Federal Information and Information Systems, February 2004.
+Federal Information Processing Standard 200, Minimum Security Requirements for
+Federal Information and Information Systems, March 2006.
+National Institute of Standards and Technology Special Publication 800-18 Revision
+1, Guide for Developing Security Plans for Federal Information Systems, February
+2006.
+National Institute of Standards and Technology Special Publication 800-30, Risk
+Management Guide for Information Technology Systems, July 2002.
+National Institute of Standards and Technology Special Publication 800-37, Guide for
+the Security Certification and Accreditation of Federal Information System, May
+2004.

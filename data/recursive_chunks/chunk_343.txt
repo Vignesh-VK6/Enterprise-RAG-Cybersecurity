@@ -1,0 +1,7 @@
+Figure 10-1. Risk Management in the System Security Life Cycle
+
+67 See National Institute of Standards and Technology (NIST) Special Publication (SP) 800-64, Security
+Considerations in the Information System Development Life Cycle, and Chapter 3, System Development
+Life Cycle, of this guide for additional information on the SDLC.
+84
+CHAPTER 10 Risk Management

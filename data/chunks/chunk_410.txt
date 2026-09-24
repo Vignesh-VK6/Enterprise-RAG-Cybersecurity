@@ -1,0 +1,16 @@
+r time due to natural business unit
+divisions or regulatory requirements may have to be reconsidered when an
+information security service provider is engaged.
+Personnel
+Issues related to the organization’s contractors and employees. Managers must
+remain aware of the impact of their decisions on their employees. Depending on the
+service arrangement implemented, major ramifications could exist for current
+employees; understanding these potential implications and dealing with them early
+will ensure the employees remain an important resource for the organization.
+Policy/Process Effective security starts with strong policy, and implications to policies and process
+must be considered to ensure appropriate transitions and implementations.
+
+12.2.3 General Considerations for Information Security Services
+In identifying the service provider that best meets an organization’s needs,
+decision makers will need to have many questions answered. Specifically, depending
+on the nature of the data the ser

@@ -1,0 +1,12 @@
+monitor compliance and effectiveness. An automated tracking system should be
+designed to capture key information on program activity (e.g., courses, dates,
+audience, costs, sources). The tracking system should capture this data at an
+agency level, so it can be used to provide enterprise-wide analysis and reporting
+regarding awareness, training, and education initiatives.
+Tracking compliance involves assessing the status of the program as indicated by
+the database information and mapping it to standards established by the agency.
+Reports can be generated and used to identify gaps or problems. Corrective action
+and necessary follow-up can then be taken. This follow-up may take the form of
+formal reminders to management; additional awareness, training, or education
+offerings; and/or the establishment of a corrective plan with scheduled completion
+dates.

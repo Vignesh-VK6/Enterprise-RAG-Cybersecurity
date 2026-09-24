@@ -1,0 +1,15 @@
+preferences), it is difficult for each system to be identically configured to all
+others on any given network. CM needs to exist to minimize the effects on an
+information system or network due to these changes or differences in
+configurations. With multiple system platforms, each differing item (hardware or
+software) poses a potential vulnerability that can be compromised and
+significantly affect a network.
+Q. What should be taken into account when developing a configuration
+management process?
+A. Each organization must take into acco unt the associated costs and expenses, the
+required planning and scheduling, and the necessary training associated with a
+thorough and effective CM process.
+Q. What steps should be performed before implementing a change?
+A. It is very important to test possible configuration changes before implementing
+them. The assigned changes should be tested in a controlled environment to
+ensure minimal risk of an adverse effect.

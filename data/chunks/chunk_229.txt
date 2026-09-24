@@ -1,0 +1,15 @@
+f must emphasize consistent, periodic analysis of the metrics
+data. The results of this analysis are used to apply lessons learned, improve the
+effectiveness of existing security controls, and plan future controls to meet new
+security requirements as they occur. Accurate data collection must be a priority with
+stakeholders and users if the collected data is to be meaningful to the management
+and improvement of the overall security program.
+A number of existing laws, rules, and regulations cite information technology (IT)
+performance measurement in general and information security performance
+measurement in particular, as requirements. These laws include the Clinger-Cohen
+Act, Government Performance and Results Act (GPRA), Government Paperwork
+Elimination Act (GPEA), and the Federal Information Security Management Act
+(FISMA).
+National Institute of Standards and Technology (NIST) Special Publication (SP)
+800-55, Security Metrics Guide for Information Technology Systems, provides
+guidanc

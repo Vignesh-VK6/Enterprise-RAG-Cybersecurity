@@ -1,0 +1,16 @@
+uirements for the interconnection. It does not replace an
+MOU/MOA. As older MOUs/MOAs are updated, they should be changed to refer to
+the appropriate ISA covering the connectivity addressed by the MOU/MOA. An
+ISA can be signed only by the two AOs/DAAs (or other authorizing management
+officials as designated by the organizations involved) whose names appear in
+Section 4 of the agreement. The ISA should be formally signed before the
+interconnection is declared operational.
+Q. Is it acceptable to combine the MOU/MOA and the ISA?
+A. Yes. Organizations may combine I SAs and MOUs/MOAs to simplify their
+management processes and reduce paperwork. When combining ISAs and
+MOUs/MOAs, organizations must ensure that the contents and the intent of these
+two documents remain intact.
+Q. When does C&A need to occur?
+A. Before interconnecting their informatio n systems, each organization should
+ensure that its respective system is properly certified and accredited in
+accordance with federal C&A guidelin

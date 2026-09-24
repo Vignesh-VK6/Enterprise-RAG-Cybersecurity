@@ -1,0 +1,7 @@
+Cost
+Considerations and
+Reporting25
+ Determine how much of the product acquisiti on and integration cost can be attributed to
+information security over the life cycle of the system. These costs include hardware,
+software, personnel, and training.
+Security Planning26

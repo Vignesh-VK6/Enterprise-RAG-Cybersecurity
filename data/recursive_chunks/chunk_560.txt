@@ -1,0 +1,17 @@
+need for the interconnection and the security controls required and implemented
+to protect the confidentiality, integrity, and availability of the systems and data.
+The extent of the information should be sufficient for the two OAs to make a
+prudent decision about approving the interconnection. The four sections are as
+follows:
+• Section 1: Interconnection Statement of Requirements;
+• Section 2: Systems Security Considerations;
+• Section 3: Topological Drawing; and
+• Section 4: Signatory Authority.
+Q. What is an MOU/MOA?
+A. A Memorandum of Understanding/Memo randum of Agreement (MOU/MOA) is a
+document that defines the responsibilities of two or more organizations in
+establishing, operating, and securing a system interconnection. It defines the
+purpose of the interconnection, identifies relevant authorities, specifies the
+responsibilities of each organization, defines the apportionment of costs, and
+identifies the timeline for terminating or reauthorizing the interconnection. The
+B-8

@@ -1,0 +1,15 @@
+Figure 7-2. Information Security Metrics Program Implementation Process
+7.4.1 Prepare for Data Collection
+Phase 1 of the process, Prepare for Data Collection, involves activities that are
+key for establishing a comprehensive information security metrics program. These
+activities include the information security metrics identification, definition,
+development, and selection activities, and developing a metrics program
+implementation plan.
+After the metrics have been identified, specific implementation steps should be
+defined on how to collect, analyze, and report the metrics. These steps should be
+documented in the metrics program implementation plan. The following items may
+be included in the plan:
+• Metrics roles and responsibilities, including responsibilities for data collection
+(both soliciting and submitting), analysis, and reporting;
+• An audience for the plan;
+• Process of metrics collection, analysis, and reporting that is tailored to the

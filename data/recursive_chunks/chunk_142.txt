@@ -1,0 +1,13 @@
+effective outreach tool. Policy, frequently asked questions (FAQs), security e-
+newsletters, links to resources, and other useful information are easily
+accessible to all employees. This tool promotes a consistent and standard
+message. The interagency element promotes sharing among agencies and is
+used to leverage awareness and training resources.
+4.2.2 Training
+Information security training strives to produce relevant and needed security
+knowledge and skills within the workforce. Training supports competency
+development and helps personnel understand and learn how to perform their security
+role. The most important difference between training and awareness is that training
+seeks to teach skills that allow a person to perform a specific function, while
+awareness seeks to focus an individual’s attention on an issue or a set of issues.
+Role-based training provides security courses that are tailored to the specific

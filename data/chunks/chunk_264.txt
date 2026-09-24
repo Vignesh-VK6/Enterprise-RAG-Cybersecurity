@@ -1,0 +1,19 @@
+or system security
+plans; and
+• Identifying and developing common security controls for the agency.
+8.2.2 Information System Owner
+The information system owner57
+is the agency official responsible for the overall
+procurement, development, integration, modification, and operation and
+maintenance of the information system. The information system owner has the
+following responsibilities related to system security plans:
+• Developing the system security plan in coordination with information owners,
+the system administrator, the information system security officer (ISSO), the
+SAISO, and functional "end users";
+• Maintaining the system security plan and ensuring that the system is deployed
+and operated according to the agreed-upon security requirements; and
+• Ensuring that system users and support personnel receive the requisite security
+training (e.g., instruction in rules of behavior) and assisting in the
+identification, implementation, and assessment of the common security
+controls.
+8.2.3

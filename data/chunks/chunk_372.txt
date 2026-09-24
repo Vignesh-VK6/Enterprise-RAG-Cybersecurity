@@ -1,0 +1,19 @@
+ plan,
+configuration management plan, security configuration checklists, and any system
+interconnection agreements.
+The security assessment report (SAR) summarizes the results of the activities
+undertaken by the certification agent. The security assessment report can also
+contain a list of recommended corrective actions and the completed system reporting
+form.
+The POA&M describes the measures that have been implemented or planned to
+correct any deficiencies noted during the assessment of the security controls and to
+reduce or eliminate known system vulnerabilities. Figure 11-1 provides an overview
+of the key sections of the security accreditation package.
+
+Figure 11-1. Key Security Accreditation Components
+
+11.5 Accreditation Decisions
+The security accreditation package documents the results of the security
+certification. To ensure that the agency's business and operational needs are fully
+considered, the authorizing official should meet with the system owner prior to
+issuing the secur

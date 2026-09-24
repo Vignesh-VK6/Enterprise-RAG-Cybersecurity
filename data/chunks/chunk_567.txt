@@ -1,0 +1,17 @@
+identified to provide for these controls.
+Q. Who should be involved during the security product selection process?
+A. Product selection involves numerous people throughout an organization.
+Depending on its needs, an organization may include all of the following
+personnel or a combination of particular positions relevant to information security
+needs: information security program manager, chief information officer, IT
+investment review board (or equivalent), program manager/system owner/data,
+owner/procurement initiator, acquisition personnel, contracting officer,
+contracting officer’s technical representative, or system security officer.
+B-25
+Appendix B Frequently Asked Questions
+B.10 Incident Response – Summary of FAQs
+Q. What are the four phases of the incident response life cycle?
+Q. What are some practices that may prevent incidents?
+Q. What does an incident response capability do?
+Q. Why is it important to have an incident response capability?
+Q. What are federal civilian agencies

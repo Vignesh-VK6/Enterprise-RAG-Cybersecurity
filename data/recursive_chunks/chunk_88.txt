@@ -1,0 +1,8 @@
+ Metrics/performance measures provide meaningful data to
+assess the impact of changes over time.
+ Agency collects data to calculate metrics/performance
+measures at the most discrete, unanalyzed level possible.
+ Agency uses well-defined and specified
+metrics/performance measures.
+Continuous
+Assessment15

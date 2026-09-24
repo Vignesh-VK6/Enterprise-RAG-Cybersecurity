@@ -1,0 +1,8 @@
+assurance requirements for agency information systems to achieve adequate
+security62
+is a multifaceted, risk-based activity involving management and
+operational personnel within the agency. Security categorization of federal
+information and information systems, as required by FIPS 199, is the first
+risk management process.
+step in the
+an

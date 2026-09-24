@@ -1,0 +1,15 @@
+toring and maintaining the security accreditation.”87
+Lastly, in Phase 4, Operations/Maintenance, CM change control and auditing
+steps take place. If there was a significant change addressed in the CM process,
+then the system must be recertified and reaccredited. Constant monitoring of the
+system is performed to identify possible risks to the system so these can be
+addressed through the risk management, security certification and accreditation, and
+CM processes.
+14.2 Configuration Management Roles and Responsibilities
+There are many roles associated with implementing an effective CM process.
+Note that an individual is not limited to a single role (e.g., an individual can be both
+the system owner and the CM manager). An organization must ensure that
+management is aware of proposed changes and verify that a thorough review and
+approval process is in place. Also, separation of duties must be addressed to ensure
+that changes are being implemented only after being tested and approved. An
+ex

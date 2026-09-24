@@ -1,0 +1,6 @@
+Security Controls for Federal Information Systems). ISAs are also mentioned in
+the FY05 FISMA Reporting Guidance. The NIST SP 800-53 requirement states:
+“The organization authorizes all connectio ns from the information system to other
+information systems outside of the accreditation boundary and monitors/controls
+the system interconnections on an ongoing basis. Appropriate organizational
+officials approve information system interconnection agreements.”

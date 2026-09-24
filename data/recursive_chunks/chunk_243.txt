@@ -1,0 +1,16 @@
+K Are there documented rules of behavior for users of each system in the
+interconnection?
+
+L Are there titles of the formal security policy(ies) that govern each system?
+M Are there procedures for incidents related to the interconnection?
+N Are there audit requirements?
+3 Topological Drawing:
+A Is there a descriptive technical specification for the connections?
+4 Signatory Authority: ISA is valid for one year after the last date on either
+signature below. At that time, it will be reviewed, updated if necessary, and
+revalidated. This agreement may be terminated upon 30 days advanced notice
+by either party or in the event of a security exception that would necessitate an
+immediate response.
+
+57
+CHAPTER 6 Interconnecting Systems

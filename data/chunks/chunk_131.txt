@@ -1,0 +1,16 @@
+y element promotes sharing among agencies and is
+used to leverage awareness and training resources.
+4.2.2 Training
+Information security training strives to produce relevant and needed security
+knowledge and skills within the workforce. Training supports competency
+development and helps personnel understand and learn how to perform their security
+role. The most important difference between training and awareness is that training
+seeks to teach skills that allow a person to perform a specific function, while
+awareness seeks to focus an individual’s attention on an issue or a set of issues.
+Role-based training provides security courses that are tailored to the specific
+needs of each group of people who have been identified as having significant
+responsibilities for information security in their organization. NIST SP 800-16
+provides guidance for establishing role- and performance-based security training
+programs.
+4.2.3 Education
+Education integrates all of the security skills and competenc

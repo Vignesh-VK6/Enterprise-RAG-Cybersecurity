@@ -1,0 +1,16 @@
+anning and communication processes that
+influence the metrics.
+7.4.3 Identify Corrective Actions
+Phase 3 of the process, Identify Corrective Actions, involves developing a plan
+that will provide the roadmap of how to close the implementation gap identified in
+Phase 2. This phase includes the following activities:
+• Determine Range of Corrective Actions. Based on the results and causation
+factors, identify corrective actions that could be applied to each performance
+issue. Corrective actions may include changing system configurations; training
+security staff, system administrator staff, or regular users; purchasing security
+tools; changing system architecture; establishing new processes and
+procedures; and updating security policies.
+• Prioritize Corrective Actions Based on Overall Risk Mitigation Goals.
+Several corrective actions may be applicable to a single performance issue;
+however, some may be inappropriate if they are inconsistent with the
+magnitude of the problem or are too cost

@@ -1,0 +1,18 @@
+responsibilities of each organization, defines the apportionment of costs, and
+identifies the timeline for terminating or reauthorizing the interconnection. The
+B-8
+Appendix B Frequently Asked Questions
+MOU/MOA documents the terms and conditions for sharing data and information
+resources and should be signed by an organizational official.
+Q. What are the components of MOU/MOA?
+A. Each organization may use its own MOU/MOA format, if appropriate, while
+keeping in mind that the MOU/MOA is a management document and should not
+contain technical details of the interconnection. Each section should contain
+general information. Those details should be addressed separately in the ISA. An
+MOU/MOA should contain a dated cover sheet with both participating
+organizations listed. In addition to the cover sheet, the MOU/MOA should contain
+the following sections:
+• Section 1: Supersession
+– If there is a superseded document, the title and date of the document is
+listed.
+• Section 2: Introduction

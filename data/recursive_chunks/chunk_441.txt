@@ -1,0 +1,12 @@
+12.2 Selecting Information Security Services
+Before selecting specific services, organizations should review the current status
+of their security programs and the security controls that are either planned or in
+place to protect information systems and data. Organizations should use the risk
+management process to identify an effective mix of management, operational, and
+technical security controls that will mitigate risk to an acceptable level. The number
+and type of appropriate security controls and their corresponding information
+security services may vary throughout a particular system’s services life cycle. The
+relative maturity of an organization’s security architecture is likely to influence the
+types of security controls that are appropriate for a particular system. The blend of
+security controls is tied to the mission of the organization and the role of the system
+within the organization as it supports that mission. A more in-depth look at the

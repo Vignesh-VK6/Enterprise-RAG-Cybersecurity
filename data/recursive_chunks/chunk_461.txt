@@ -1,0 +1,6 @@
+Organizational  Has appropriate contract language been used for
+the specific product under selection?
+
+Organizational  Have operational issues such as daily operation,
+maintenance, contingency planning, awareness and
+training, and documentation been considered?

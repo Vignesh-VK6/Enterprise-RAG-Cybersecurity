@@ -1,0 +1,27 @@
+tisfy requirements applicable to the
+new environment.
+Product  Has the CC Centralized Certified Product List been
+reviewed?
+The CC Centralized Certified Product List
+should be reviewed to ensure that
+evaluated products are used whenever
+appropriate. Products independently
+tested and validated (or mutually
+recognized) under NIAP-CCEVS with
+some level of security assurance that the
+security functions of the product work as
+specified. In general, third-party testing
+and evaluation can provide a significantly
+greater basis for customer confidence
+that is available from unevaluated
+products. Note, however, that
+purchasing an evaluated product simply
+because it is evaluated and without due
+consideration of applicable functional and
+assurance requirements and vendor
+reliability may be neither useful nor cost
+effective. Organizations should consider
+their overall requirements and select the
+best products accordingly.
+Product  Have the FIPS 140-2 program Validated Products
+lists been reviewed

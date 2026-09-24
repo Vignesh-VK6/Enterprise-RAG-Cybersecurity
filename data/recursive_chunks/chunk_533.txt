@@ -1,0 +1,30 @@
+OIG Office of the Inspector General
+OMB Office of Management and Budget
+OPM Office of Personnel Management
+PCIE President’s Council on Integrity and Efficiency
+PII Personally Identifiable Information
+P.L. Public Law
+PKI Public Key Infrastructure
+PMA President’s Management Agenda
+POA&M Plan of Action and Milestones
+POC Point of Contact
+PRA Paperwork Reduction Act
+PRISMA Program Review for Information Security Management Assistance
+PRM Performance Reference Model
+PY Prior Year
+RTO Recovery Time Objective
+SAISO Senior Agency Information Security Officer
+A-2
+Appendix A Acronyms List
+SANS SysAdmin, Audit, Network, Security
+SDLC System Development Life Cycle
+SLA Service-Level Agreement
+SOP Standard Operating Procedure
+SP Special Publication
+SPP Security and Privacy Profile
+SRM Service Component Reference Model
+ST&E Security, Test, and Evaluation
+TRM Technical Reference Model
+U.S. United States
+U.S.C. United States Code
+UPS Uninterruptible Power Supply

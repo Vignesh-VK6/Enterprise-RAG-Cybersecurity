@@ -1,0 +1,16 @@
+s are:
+• Centralized. Departmental CIO or, in some instances, the SAISO has line-item
+budget control over all information security activities throughout the
+department. All information security practitioners within the department report
+to the departmental SAISO, who is responsible for ensuring implementation
+and monitoring of information security controls throughout the entire
+department.
+• Decentralized. Departmental SAISOs have policy development and oversight
+responsibilities. Departmental SAISOs have budget responsibilities over the
+departmental information security program, but not over the operating units’
+information security programs. Operating unit SAISOs report to the unit head,
+not to the departmental SAISO. Operating unit SAISOs are responsible for
+implementing and monitoring information security practices within their
+respective operating units.
+Completely centralized or decentralized information security governance
+implementations are quite rare. In reality, the variety 

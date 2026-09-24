@@ -1,0 +1,15 @@
+81 See Chapter 7, Performance Measures, for additional guidance on collecting and reporting incident data.
+127
+CHAPTER 13 Incident Response
+• Deploying software throughout the organization to detect and stop malicious
+code; and
+• Making users aware of policies and procedures on the appropriate use of
+networks, systems, and applications.
+13.2 Detection and Analysis
+Detection and analysis are, for many organizations, the most challenging aspects
+of the incident response process, in other words, accurately detecting and assessing
+possible incidents—determining whether an incident has occurred and, if so, the
+type, extent, and magnitude of the problem. Incidents can be detected through
+many different means, with varying levels of detail and fidelity. Automated detection
+capabilities include network-based and host-based intrusion detection systems
+(IDSs), antivirus software, and log analyzers. Incidents may also be detected

@@ -1,0 +1,17 @@
+ential long-term risks associated with
+potential loss of employee morale, attrition, and intellectual capital. Table 12-3
+provides a list of general factors and issues associated with acquiring security
+services, grouped into six categories. This list is not intended to be exhaustive; it
+provides the most common, but not all, related factors and issues.
+116
+CHAPTER 12 Security Services and Products Acquisition
+Table 12-3. Information Security Service Issue Categories
+Categories Issues
+Strategic/Mission
+For all the importance of security in general and information security in particular, it
+must support the mission or business function. When thinking about the implications
+of any decision, ultimately, decision makers must ask themselves what is best for the
+organization from a strategic point of view and what best helps the organization meet
+its mission.
+Budgetary/Funding Though funding is often at the heart of any business decision, cost is only one of
+many issues. The focus should be 

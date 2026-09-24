@@ -1,0 +1,12 @@
+information security governance structure will fall somewhere between the extremes
+of a completely centralized or decentralized structure, as depicted in Figure 2-3. An
+organization’s placement on this continuum may also shift over time in response to
+changing internal factors or external requirements.
+Since information security governance structure is highly dependent on the
+overall organizational structure, organizations are often limited in their choices about
+how to organize their information security governance activities. Agencies should be
+cognizant of the characteristics and challenges that a centralized or decentralized
+structure presents and work within their respective organizations to ensure the best
+use of information security resources within the boundaries of their own structure.
+2.2.3 Key Governance Roles and Responsibilities7
+There are several governance stakeholders common to most organizations that

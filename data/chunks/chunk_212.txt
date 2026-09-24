@@ -1,0 +1,20 @@
+r own MOU/MOAs. This sample does not cover all possible scenarios and should
+be used as an example only.
+
+FOR OFFICIAL USE ONLY
+(MEMORANDUM OF UNDERSTANDING / MEMORANDUM OF AGREEMENT)
+
+SUPERSEDES: (None or document title and date)
+
+INTRODUCTION The purpose of this memorandum is to establish a management agreement
+between “Organization A” and “Organization B” regarding the development, management,
+operation, and security of a connection between "System A," owned by Organization A, and
+"System B,” owned by Organization B. This agreement will govern the relationship between
+Organization A and Organization B, including designated managerial and technical staff, in the
+absence of a common management authority.
+
+AUTHORITY The authority for this agreement is based on "Proclamation A" issued by the
+Agency Head on (date).
+
+BACKGROUND It is the intent of both parties to this agreement to interconnect the following
+information technology (IT) systems to exchange data between "ABC database" and "X

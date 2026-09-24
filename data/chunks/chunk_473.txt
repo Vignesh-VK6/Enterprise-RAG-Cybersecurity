@@ -1,0 +1,17 @@
+nd verify that a thorough review and
+approval process is in place. Also, separation of duties must be addressed to ensure
+that changes are being implemented only after being tested and approved. An
+example of the roles and responsibilities for a sample CM process are listed below:88
+• Chief information officer (CIO). The CIO is responsible for setting forth
+policies concerning CM and implementing CM at the highest level for the
+organization.
+• System owner. The system owner serves as the authority for all matters of
+CM for the system. The system owner is responsible for developing functional
+requirements and verifying that the requirements are implemented
+appropriately.
+• Information systems security officer (ISSO). The ISSO is primarily
+responsible for addressing security concerns related to the CM program and for
+providing expertise and decision support to the Configuration Control Review
+Board (CCRB).
+
+87 NIST SP 800-37, Guide for the Security Certification and Accreditation of Fede

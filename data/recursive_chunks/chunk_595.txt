@@ -1,0 +1,17 @@
+risk as, “a function of the likelihood of a given threat-source’s exercising a
+particular potential vulnerability, and the resulting impact of that adverse event
+on the organization.”
+Q. Is it possible to calculate the likelihood of a threat exploiting a given
+vulnerability?
+A. Yes. The likelihood of a given threat successfully exploiting a given vulnerability
+is estimated by evaluating the threat’s motivation, opportunity, and methods for
+conducting such exploitation. The impact of a successful exploitation is estimated
+through an analysis of the effect the exploitation can have on the confidentiality,
+integrity, and availability of the system and the data it processes.
+Q. What are the steps in the risk assessment process?
+A. The risk assessment process has six steps:
+• Step 1: System characterization;
+• Step 2: Threat identification;
+• Step 3: Vulnerability identification;
+• Step 4: Control analysis, likelihood determination, impact analysis, risk
+determination;

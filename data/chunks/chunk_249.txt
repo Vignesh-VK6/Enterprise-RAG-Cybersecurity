@@ -1,0 +1,15 @@
+igation Goals.
+Several corrective actions may be applicable to a single performance issue;
+however, some may be inappropriate if they are inconsistent with the
+magnitude of the problem or are too costly. Applicable corrective actions
+should be prioritized for each performance issue in the ascending order of cost
+and descending order of impact. The risk management process, described in
+NIST SP 800-30, Risk Management Guide for Information Technology Systems,
+should be used for prioritizing corrective actions.48 If weights were assigned to
+metrics in Phase 1, Prepare for Data Collection, they should be used to
+prioritize corrective actions. Alternatively, weights may be assigned to
+corrective actions in Phase 3, Identify Corrective Actions, based on the
+criticality of implementing specific corrective actions, the cost of corrective
+actions, and the magnitude of corrective actions’ impact on the organization’s
+security posture.
+• Select Most Appropriate Corrective Actions. Up to three cor

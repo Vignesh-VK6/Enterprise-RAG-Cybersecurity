@@ -1,0 +1,26 @@
+Table 2-1. Ongoing Monitoring Activities
+Activities Description of Activities Supporting Processes and Information
+Plans of
+Action and
+Milestones
+(POA&M)13
+POA&Ms assist in identifying,
+assessing, prioritizing, and monitoring
+the progress of corrective efforts for
+security weaknesses found in
+programs and systems. The POA&M
+tracks the measures implemented to
+correct deficiencies and to reduce or
+eliminate known vulnerabilities.
+POA&Ms can also assist in identifying
+performance gaps, evaluating an
+agency’s security performance and
+efficiency, and conducting oversight.
+ Agency maintains separate program and system POA&Ms.
+ Weaknesses are listed according to OMB criteria, identified
+in annual OMB FISMA guidance.
+ System POA&Ms are tied to capital planning documents.
+ Number of ongoing POA&M actions is either constant or is
+increasing, while the number of completed POA&M actions
+is increasing and the number of delayed POA&M actions is
+decreasing.

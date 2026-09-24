@@ -1,0 +1,18 @@
+an identify “spam” e-mail traffic and reduce it.
+• FISMA scores improve.
+B-3
+Appendix B Frequently Asked Questions
+• Scores on pre-awareness assessments indicate retention of security knowledge
+from prior year.
+• Personnel are more responsive/proficient in performing their security duties.
+• Personnel at all levels demonstrate a minimum level of security literacy.
+• Personnel are less susceptible to social engineering.
+• Users are implementing stronger passwords.
+Q. What is the difference between “certificates” that are awarded by
+vendors, third parties, or universities?
+A. There are distinct differences among training “certifications” that are offered by a
+variety of organizations. Primarily, one will encounter certificates of completion,
+certifications awarded by an industry and/or vendors, and graduate-level
+certificates awarded by academic institutions:
+• Certificates of completion are provided to individuals to verify that they
+attended a course—these certificates do not make any 

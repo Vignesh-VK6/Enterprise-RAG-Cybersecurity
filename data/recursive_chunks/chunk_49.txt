@@ -1,0 +1,10 @@
+Agencies should integrate information security into the agency strategic planning
+processes by establishing and documenting information security strategies that
+directly support agency strategic and performance planning activities. The
+organization’s information security strategy should establish a comprehensive
+framework to enable the development, institutionalization, assessment, and
+improvement of the agency’s information security program. The information security
+strategy should support the overall agency strategic and performance plans and IT
+strategic plan (if applicable) with its content clearly traceable to these higher-level
+sources. Each agency should define the following for its information security
+program:

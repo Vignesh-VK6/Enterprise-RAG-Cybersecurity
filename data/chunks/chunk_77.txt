@@ -1,0 +1,14 @@
+ments is checked against external
+federal requirements as, for example, a change to an information system’s security
+posture may alter its subsequent reporting requirements.
+To facilitate ongoing monitoring, the SAISO and other officials can compare and
+correlate a variety of real-time and static information available from a number of
+ongoing activities within and outside of their programs. FISMA requires agencies to
+perform an annual assessment of their information security programs and report
+information security performance measures quarterly and annually. The intent of
+these reporting requirements is to facilitate close to real-time assessment and
+monitoring of information security program activities. Ongoing monitoring combines
+the use of existing data to oversee a security program, and typically occurs
+throughout all phases of the program life cycle. Agencies can use a variety of data
+originating from the ongoing information security program activities to monitor
+performance of p

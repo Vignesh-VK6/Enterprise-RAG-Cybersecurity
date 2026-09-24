@@ -1,0 +1,14 @@
+o create the
+Risk Analysis step (see Figures 10-2 and 10-3). Depicted in Figure 10-2, below, is a
+high-level depiction of risk assessment process.
+The likelihood of a given threat successfully exploiting a given vulnerability is
+estimated by evaluating the threat source’s motivation, opportunity, and methods for
+conducting such an exploitation. The impact of a successful exploitation is estimated
+through an analysis of the effect the exploitation can have on the confidentiality,
+integrity, and availability of the system and the data it processes. The determination
+of the criticality and sensitivity of the system, in terms of its confidentiality, integrity,
+and availability, is found by applying the concepts and processes discussed in detail
+within FIPS 199, Standards for Security Categorization of Federal Information and
+Information Systems.
+As mandated by OMB Circular A-130, the risk assessment process is usually
+repeated at least every three years for federal agencies. However, risk 

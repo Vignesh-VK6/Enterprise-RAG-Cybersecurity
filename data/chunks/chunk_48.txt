@@ -1,0 +1,16 @@
+
+major change in the agency information security environment occurs, including:
+• Change in applicable legislation, regulations, or directives;
+• Change in agency mission priorities; and
+• Emerging information security issues, such as changes in threat and
+vulnerability environment or the introduction of new technologies.
+2.2.2 Information Security Governance Structures
+Information security governance structures can be characterized in a number of
+ways. There are two basic models of information security governance structures:
+centralized and decentralized. While agency heads are ultimately responsible for
+managing and governing their respective agency, the authority and responsibility
+over information security differs in the two types of structures. Key characteristics of
+the two structures are:
+• Centralized. Departmental CIO or, in some instances, the SAISO has line-item
+budget control over all information security activities throughout the
+department. All information security practi

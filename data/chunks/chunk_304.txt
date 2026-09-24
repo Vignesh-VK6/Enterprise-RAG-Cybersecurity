@@ -1,0 +1,15 @@
+g data backups.
+The frequency of backup methods—daily or weekly, incremental or full—should be
+selected based on system criticality when new information is introduced. The backup
+method selected should be based on system and data availability and integrity
+requirements (as defined in the BIA). Data that is backed up may need to be stored
+offsite and rotated frequently, depending upon the criticality of the system.
+Major disruptions to system operations may require restoration activities to be
+implemented at an alternate site. The type of alternate site selected must be based
+on RTO requirements and budget limitations. Equipment for recovering and/or
+replacing the information system must be provided as part of the recovery strategy.
+Cost, delivery time, and compatibility factors must also be considered when
+Recovery Strategy Tip
+The chosen strategy must also be coordinated with the IT
+contingency plans of interdependent systems and business
+continuity plans of interdependent business pr

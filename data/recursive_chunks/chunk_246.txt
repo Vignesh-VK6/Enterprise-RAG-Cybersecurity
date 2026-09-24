@@ -1,0 +1,13 @@
+benefits to federal agencies. Agencies can develop information security metrics that
+measure the effectiveness of their security program, and provide data to be analyzed
+and used by program managers and system owners to isolate problems, justify
+investment requests, and target funds specifically to the areas in need of
+improvement. By using metrics to target security investments, agencies can get the
+best value from available resources. The typical information performance
+management program consists of four interdependent components: senior
+management support, security policies and procedures, quantifiable performance
+metrics, and analyses.
+Strong senior management support establishes a focus on security within the
+highest levels of the organization. Without a solid foundation (e.g., proactive support
+of those persons in positions that control information resources), the effectiveness of
+the security metrics program can fail when pressured by politics and budget

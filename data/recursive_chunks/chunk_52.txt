@@ -1,0 +1,14 @@
+centralized and decentralized. While agency heads are ultimately responsible for
+managing and governing their respective agency, the authority and responsibility
+over information security differs in the two types of structures. Key characteristics of
+the two structures are:
+• Centralized. Departmental CIO or, in some instances, the SAISO has line-item
+budget control over all information security activities throughout the
+department. All information security practitioners within the department report
+to the departmental SAISO, who is responsible for ensuring implementation
+and monitoring of information security controls throughout the entire
+department.
+• Decentralized. Departmental SAISOs have policy development and oversight
+responsibilities. Departmental SAISOs have budget responsibilities over the
+departmental information security program, but not over the operating units’
+information security programs. Operating unit SAISOs report to the unit head,

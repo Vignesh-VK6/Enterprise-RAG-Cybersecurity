@@ -1,0 +1,16 @@
+ts. Incident response
+teams should handle each incident with the appropriate priority, based on the
+criticality of the affected resources and the current and potential technical
+effect of the incident. For example, data destruction on a user workstation
+might result in a minor loss of productivity, whereas root compromise of a
+public Web server might result in a major loss of revenue, productivity, access
+to services, and reputation, as well as the release of confidential data (e.g.,
+credit card numbers, social security numbers). Because incident responders
+normally work under stressful conditions ripe for human error, it is important to
+clearly define and articulate the incident handling priority process. The incident
+126
+CHAPTER 13 Incident Response
+handling priority process should include a description of how the incident
+response team should react under various circumstances, as well as a service-
+level agreement (SLA) that documents appropriate actions and maximum
+response times. 

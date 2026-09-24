@@ -1,0 +1,25 @@
+nce includes security
+product disposal requirements.
+
+77 Product considerations for Common Criteria, National Information Assurance Partnership (NIAP) CMVP
+are further addressed in NIST SP 800-23, Guidelines to Federal Organizations on Security Assurance
+and Acquisition/Use of Testing/Evaluated Products.
+120
+CHAPTER 12 Security Services and Products Acquisition
+Consideration Questions Comments Type
+Product  Have test requirements for acceptance and
+integration testing and configuration management
+(CM) been developed?
+If the product has been evaluated under
+the National Information Assurance
+Partnership Common Criteria Evaluation
+and Validation Scheme (NIAP-CCEVS),
+validation test reports can be examined
+to avoid duplication of tests already
+performed as part of the independent
+evaluation process.
+Product  Have known product vulnerabilities been addressed
+by reviewing the relevant vulnerabilities for a
+product?
+Known vulnerabilities for many products
+can be found using the NIST Nation

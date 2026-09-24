@@ -1,0 +1,15 @@
+Responsibilities
+While federal agencies have in place widely varied naming
+conventions/nomenclatures for IT security or security certification and accreditation
+roles, most basic functions in security certification and accreditation process are
+essentially the same throughout all agencies.71 The security certification and
+accreditation process described in this Special Publication is flexible, allowing each
+agency to accomplish the intent of the specific tasks within their respective
+organization.
+11.1.1 Chief Information Officer
+The chief information officer (CIO) works closely with authorizing officials and
+their designated representatives to ensure that an agency-wide security program is
+implemented effectively, including all aspects of the security certification and
+accreditation program component. The CIO has the following responsibilities in
+relation to security certification and accreditation:
+• Promulgate cost-effective practices such as encouraging maximum reuse and

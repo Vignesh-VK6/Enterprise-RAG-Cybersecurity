@@ -1,0 +1,17 @@
+rnately, the systems may be connected over a
+public network (e.g., Internet) using a virtual private network (VPN).
+Figure 6-1 depicts the concept of information system interconnection.
+
+Figure 6-1. Information System Interconnection
+The following are examples of interconnections:
+• System A is connected to System B over a subscriber line leased by System A
+or System B.
+• System A is segmented such that System A1 is integrated with System A but is
+under different management control: Authorizing Official (AO).
+• System B provides data transport services between System A and System C.
+Here, System B is engaged in two interconnections with Systems A and C.
+Levels of system interconnection may vary. For example, some organizations
+may choose to establish a limited interconnection, whereby users are restricted to a
+single application or file location with rules governing access. Other organizations
+may establish a broader interconnection, enabling users to access multiple
+applications or da

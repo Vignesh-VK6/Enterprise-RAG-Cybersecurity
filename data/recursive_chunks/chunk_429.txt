@@ -1,0 +1,20 @@
+CLASS FAMILY IDENTIFIER
+Management Risk Assessment RA
+Management Planning PL
+Management System and Services Acquisition SA
+Management Certification, Accredita tion, and Security Assessments CA
+Operational Personnel Security PS
+Operational Physical and Environmental Protection PE
+Operational Contingency Planning CP
+Operational Configuration Management CM
+Operational Maintenance MA
+Operational System and Information Integrity SI
+Operational Media Protection MP
+Operational Incident Response IR
+Operational Awareness and Training AT
+Technical Identification and Authentication IA
+Technical Access Control AC
+Technical Audit and Accountability AU
+Technical System and Communications Protection SC
+
+Table 11-1: Security Control Class, Family, and Identifier

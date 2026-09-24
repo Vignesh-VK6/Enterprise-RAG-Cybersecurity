@@ -1,0 +1,14 @@
+managing contracts and overseeing their implementation. Personnel executing this
+function have the following responsibilities in regards to information security:
+• Collaborating with the agency’s SAISO or other appropriate official to ensure
+that the agency’s contracting policies adequately address the agency’s
+information security requirements;
+• Coordinating with the SAISO or other appropriate official as required to ensure
+that all agency contracts and procurements are compliant with the agency’s
+information security policy;
+• Ensuring that all personnel with responsibilities in the agency’s procurement
+process are properly trained in information security; and
+• In concert with the SAISO, facilitating the monitoring of contract performance
+for compliance with the agency’s information security policy.
+2.2.4 Federal Enterprise Architecture (FEA)
+FEA is a business-based framework for governmentwide improvement. The

@@ -1,0 +1,17 @@
+Q. How can an organization benefit from metrics?
+A. Metrics bring multiple benefits to organizations, including:
+• Improving accountability for security;
+• Enabling management to pinpoint specific technical, operational, or
+management controls that are not being implemented or are being
+implemented incorrectly;
+• Justifying investment requests using quantitative vs. qualitative data;
+• Targeting investments specifically to the areas in need of improvement to
+maximize investment value; and
+• Determining the effectiveness of implemented information security processes,
+procedures, and controls by relating results of information security activities
+(e.g., incident data, revenue lost to cyber attacks) to the respective
+requirements and to information security investments.
+Q. What are the interdependent components of the security metrics
+program?
+A. The interdependent components of the security metrics program are:
+1. Strong upper-level management support, which establishes a focus on

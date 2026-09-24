@@ -1,0 +1,9 @@
+security certification.
+Security certification is a comprehensive assessment of the management,
+operational, and technical security controls in an information system, made in
+support of security accreditation, to determine the extent to which the controls are
+implemented correctly, operating as intended, and producing the desired outcome
+with respect to meeting the security requirements for the system. The results of a
+security certification are used to reassess the risks and update the system security
+plan, thus providing the factual basis for an authorizing official to render a security
+accreditation decision.

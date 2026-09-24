@@ -1,0 +1,16 @@
+Identifier Title Control
+CA-3 Information
+System
+Connections
+The organization authorizes all connections from the information system to
+other information systems outside of the accreditation boundary and regularly
+monitors/controls the system interconnections. Appropriate organizational
+officials approve information system interconnection agreements.
+It is critical that both organizations maintain clear lines of communication to:
+• Ensure that the interconnection is properly maintained and that security
+controls remain effective;
+• Facilitate effective change management activities by making it easy for both
+sides to notify each other about planned system changes that could affect the
+interconnection; and
+• Enable prompt notification by both sides of security incidents and system
+disruptions and facilitate coordinated response, if necessary.

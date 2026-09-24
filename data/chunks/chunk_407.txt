@@ -1,0 +1,13 @@
+organization requesting the service that specifies all services the service
+provider is to provide, to what extent, the duration of services, etc.
+12.2.2 Information Security Services Issues
+Implementing a security service and service arrangement can be complex. Each
+security service carries its own costs and associated risks, as does each service
+arrangement. Making a decision based on one single issue can have major
+implications for the organization in other areas. For example, if it becomes clear that
+an external organization can provide the service more cost-effectively than the
+current internal service provider, security decision makers will have to consider the
+implications to the organization’s current personnel. The decision makers will have
+to balance near-term cost/value with potential long-term risks associated with
+potential loss of employee morale, attrition, and intellectual capital. Table 12-3
+provides a list of general factors and issues associated with acquiring securi

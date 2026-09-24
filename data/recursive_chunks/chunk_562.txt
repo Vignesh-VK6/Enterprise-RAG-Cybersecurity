@@ -1,0 +1,19 @@
+the following sections:
+• Section 1: Supersession
+– If there is a superseded document, the title and date of the document is
+listed.
+• Section 2: Introduction
+– The introduction states the purpose of the memorandum between the parties
+and what the agreement will govern (e.g., the relationship between
+“Organization A” and “Organization B”).
+• Section 3: Authorities
+– An example for this section would be: “The authority for this agreement is
+based on "Proclamation A" issued by the Agency Head on (date).”
+• Section 4: Background
+– In the background, the parties should state the intent of the agreement
+(e.g., “it is the intent of both parties to this agreement to interconnect the
+following information systems…”).
+• Section 5: Communications
+– Frequent formal communications are essential to ensure the successful
+management and operation of the interconnection. In this section, the
+parties agree to maintain open lines of communication among designated

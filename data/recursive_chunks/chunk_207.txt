@@ -1,0 +1,16 @@
+connecting their information systems to other systems, based on a mutually
+acceptable level of risk. National Institute of Standards and Technology (NIST)
+46
+CHAPTER 6 Interconnecting Systems
+Special Publication (SP) 800-47, Security Guide for Interconnecting Information
+Technology Systems, provides detailed guidance on interconnecting information
+systems.
+6.1 Managing System Interconnections
+All federal agencies must explicitly address the subject of interconnecting
+information systems by establishing formal agreements that specify the technical
+and security requirements of the interconnection, define the responsibilities of the
+participating organizations, and specify the rules governing these interconnections.
+In addition to an A-130, Appendix III, requirement to obtain written management
+authority before interconnecting information systems, OMB recommends that
+agencies use NIST SP 800-47 to ensure compliance for connections to non-agency
+systems.43

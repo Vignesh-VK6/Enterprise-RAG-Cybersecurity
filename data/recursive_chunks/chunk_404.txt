@@ -1,0 +1,13 @@
+compiling C&A documentation. However, the system
+owner should work closely with the information owner, the
+ISSO, and the certification authority to ensure that the
+package meets all agency requirements.
+Security Plan Contents
+Documents typically attached or referenced in a security
+plan include: risk assessment, privacy impact
+assessment, contingency plan, incident response plan,
+CM plan, security configuration checklists, and any
+system interconnection agreement.
+• Approved system security plan,
+• Security assessment report, and
+• Plan of Action and Milestones.

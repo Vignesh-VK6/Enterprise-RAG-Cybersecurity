@@ -1,0 +1,17 @@
+ts of the security
+certification. To ensure that the agency's business and operational needs are fully
+considered, the authorizing official should meet with the system owner prior to
+issuing the security accreditation decision. In this meeting, the certification and
+accreditation authorities should clearly explain the rationale for their risk-based
+decision and, where appropriate, fully explain the terms and conditions of the
+authorization.
+The security accreditation decision communicates the accreditation authority’s
+decision and provides the information system owner with the:
+• Security accreditation decision – official decision by the authorizing official on
+whether to accredit the system, accredit the system with conditions, or deny
+system accreditation;
+
+73 See NIST 800-18, Guide for Developing Security Plans for Federal Information Systems, Revision 1, and
+Chapter 8, Security Planning, of this guide for additional guidance on system security planning.
+102
+Chapter 11 Certification

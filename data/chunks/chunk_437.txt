@@ -1,0 +1,18 @@
+de, details a four-phase incident
+
+Figure 13-1. Incident Response Life Cycle
+
+78 See NIST Federal Information Processing Standard (FIPS) 199, Standards for Security Categorization of
+Federal Information and Information Systems; NIST 800-30, Risk Management Guide for Information
+Technology Systems; Chapter 10, Risk Management; and Chapter 11, Certification, Accreditation, and
+Security Assessments, of this guide for additional guidance on system classification and risk
+management.
+79 OMB, M-06-20,’FY 2006 Reporting Instructions for the Federal Information Security Management Act
+and Agency Privacy Management.’
+80 OMB, M-06-19, ‘Reporting Incidents Involving Personally Identifiable Information and Incorporating the
+Cost for Security in Agency Information Technology Investments.’
+124
+CHAPTER 13 Incident Response
+response process. The major phases of the incident response process—preparation,
+detection and analysis, containment/eradication/recovery, and post-incident activity,
+are described

@@ -1,0 +1,15 @@
+information systems and generate much of the information needed for the
+associated system security plans. Risk assessments can be accomplished in a
+variety of ways depending on the specific needs of the agency. The assessment
+of risk is a process that should be incorporated into the SDLC. At a minimum,
+documentation should be produced that describes the process used and the
+results obtained.
+B-21
+Appendix B Frequently Asked Questions
+System security plans provide an overview of the information security
+requirements and describe the security controls that are in place or planned for
+meeting those requirements. System security plans can include as references or
+attachments, other important security-related documents that are produced as
+part of an agency’s information security program (e.g., risk assessments,
+contingency plans, incident response plans, security awareness and training
+plans, information system rules of behavior, configuration management (CM)

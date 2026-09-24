@@ -1,0 +1,9 @@
+ Known vulnerabilities are rarely discovered during various
+assessments.
+ Staff who are responsible for CM receive appropriate
+information security training and are aware of their security-
+related responsibilities.
+ Agency drafts and publishes standardized configuration
+policies, and tracks the number and frequency of
+implementations of configurations throughout its
+organization.

@@ -1,0 +1,16 @@
+roach, it may take some time to get the maximum benefits
+from security control partitioning and the associated reuse of assessment evidence.
+Because of the potential dependence on common security controls by many of an
+agency's information systems, a failure of such common controls may result in a
+significant increase in agency-level risk—risk that arises from operating the systems
+that depend on these security controls.
+8.5 Security Control Selection
+An agency must meet the minimum security requirements in FIPS 199 by
+selecting the appropriate security controls and assurance requirements as described
+in NIST SP 800-53. The process of selecting the appropriate security controls and
+assurance requirements for agency information systems to achieve adequate
+security62
+is a multifaceted, risk-based activity involving management and
+operational personnel within the agency. Security categorization of federal
+information and information systems, as required by FIPS 199, is the first
+risk mana

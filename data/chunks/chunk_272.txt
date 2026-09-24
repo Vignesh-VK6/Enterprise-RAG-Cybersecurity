@@ -1,0 +1,13 @@
+the information system and
+the information resident within that system must be categorized based on a FIPS 199
+impact analysis.59 Then a determination can be made as to which systems in the
+inventory can be logically grouped into GSSs or MAs. The FIPS 199 impact levels
+must be considered when the system boundaries are drawn and when selecting the
+initial set of security controls (e.g., control baseline). The baseline security controls
+can then be tailored based on an assessment of risk and local conditions, including
+organization-specific security requirements, specific threat information, cost-benefit
+analyses, the availability of compensating controls, or special circumstances.
+Common security controls, which is one of the tailoring considerations, must be
+identified prior to system security plan preparation to identify those controls covered
+at the agency level that are not system-specific. These common security controls can
+then be incorporated into the system security plan by refe

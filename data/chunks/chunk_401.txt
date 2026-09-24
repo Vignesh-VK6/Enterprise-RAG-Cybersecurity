@@ -1,0 +1,26 @@
+on, security categorization, and the preliminary risk assessment
+Phase 2 –
+Assessment
+ Involves developing an accurate portrait of t he current environment before decision makers can
+implement a service and install a service provider
+ Baselines the existing environment; metrics creat ion, gathering, and analysis; total cost of
+ownership
+ Analyzes opportunities and barriers
+ Identifies options and risks
+Phase 3 –
+Solution
+ Decision makers choose the appropriate solution from the viable options identified during the
+assessment phase
+ Develops the business case
+ Develops the service arrangement
+ Develops the implementation plan
+Phase 4 –
+Implementation
+ The service providers are implemented during this phase
+ Identify the service provider and develop the service agreement
+ Finalize and execute the implementation plan
+ Manage expectations
+Phase 5 –
+Operations
+ The service’s life cycle becomes iterative; the service is operational, the service provided is fully
+installed, and a

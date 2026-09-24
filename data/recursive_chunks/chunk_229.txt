@@ -1,0 +1,16 @@
+specify when and under what conditions the interconnection may be restored, if
+appropriate.
+6.3.2 Restoration of Interconnection
+Both organizations may choose to restore the system interconnection after it has
+been terminated. The decision to restore the interconnection should be based on the
+cause and duration of the disconnection. For example, if the interconnection was
+terminated because of an attack, intrusion, or other contingency, both parties should
+implement appropriate countermeasures to prevent a recurrence of the problem. If
+52
+CHAPTER 6 Interconnecting Systems
+necessary, they also should modify the ISA and MOU/MOA to address issues
+requiring attention. Alternately, if the interconnection has been terminated for more
+than 90 days, each party should perform a risk assessment on its respective system
+and reexamine all relevant planning and implementation requirements, including
+developing a new ISA and MOU/MOA.
+Sample MOU/MOA and ISA Checklist follow.

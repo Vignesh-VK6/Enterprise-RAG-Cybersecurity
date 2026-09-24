@@ -1,0 +1,12 @@
+security requirements of the system and describe the controls in place or planned for
+meeting those requirements. The system security plan also delineates responsibilities
+and expected behavior of all individuals who access the system. It should reflect
+input from various managers with responsibilities concerning the system, including
+information owners, the system owner, and the senior agency information security
+officer (SAISO). Agencies, at their discretion, can include additional information in
+the basic plan and add sections to the basic format prescribed herein, as long as the
+major sections described in this document are adequately covered and readily
+identifiable.
+Program managers, system owners, and security personnel in the organization
+must understand the system security planning process. In addition, users of the
+information system and those responsible for defining system requirements should

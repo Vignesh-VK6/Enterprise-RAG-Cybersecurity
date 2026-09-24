@@ -1,0 +1,3 @@
+have an impact by showing that fewer interruptions or losses of data due to
+security incidents are experienced among correctly accredited systems than
+among incorrectly accredited or nonaccredited systems.

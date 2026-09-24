@@ -1,0 +1,18 @@
+continued effectiveness of those controls over time) and reporting the security status of the
+information system to appropriate agency officials is an essential activity of a comprehensive
+information security program. Monitor to ensure system security controls are functioning as
+required.
+ Perform self-administered or independent securi ty audits or other assessments periodically.
+Types: using automated tools, internal control audits, security checklists, and penetration
+testing.
+ Monitor system and/or users. Methods: re view system logs and reports, use automated
+tools, review change management, monitor external sources (trade literature, publications,
+electronic news, etc.), and perform periodic reaccreditation.
+− POA&Ms
+− Measurement and metrics
+− Network monitoring
+E. Disposal Phase:
+Information
+Preservation
+ Retain information, as necessary, to conform to current legal requirements and to
+accommodate future technology changes that may render the retrieval method obsolete.

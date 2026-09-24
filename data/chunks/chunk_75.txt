@@ -1,0 +1,19 @@
+ty policies, agencies should work to
+ensure that all internal security policies (i.e., physical and personnel) are sufficiently
+coordinated to ensure effective implementation of crosscutting and convergent
+security objectives, such as access control initiatives.
+2.2.6 Ongoing Monitoring
+An effective information security governance program requires constant review.
+Agencies should monitor the status of their programs to ensure that:
+• Ongoing information security activities are providing appropriate support to the
+agency mission;
+• Policies and procedures are current and aligned with evolving technologies, if
+appropriate; and
+• Controls are accomplishing their intended purpose.
+
+12 NIST SP 800-53, Revision 1, ‘Recommended Security Controls for Federal Information Systems,’ 2006.
+14
+CHAPTER 2 Information Security Governance
+Over time, policies and procedures may become inadequate because of changes
+in agency mission and operational requirements, threats, environment, deterioration
+in the

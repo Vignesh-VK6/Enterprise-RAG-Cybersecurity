@@ -1,0 +1,14 @@
+R 8 Security Planning
+The objective of system security planning is to improve the protection of
+information system resources. All federal systems have some level of sensitivity and
+require protection as part of good management practice. The protection of a system
+must be documented in a system security plan. The completion of system security
+plans is a requirement of the OMB Circular A-130, Management of Federal
+Information Resources, Appendix III, Security of Federal Automated Information
+Resources, and Title III of the E-Government Act, FISMA.
+For the plans to adequately reflect the protection of the resources, a senior
+management official must authorize a system to process information or operate. This
+authorization provides an important quality control. By authorizing processing in a
+system, the manager accepts its associated risk.
+Management authorization should be based on an assessment of management,
+operational, and technical controls. Since the system security plan establishes 

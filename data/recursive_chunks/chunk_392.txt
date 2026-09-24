@@ -1,0 +1,16 @@
+denying authority to operate system; and
+• Appoint, if so chosen, a designated representative to act on the authorizing
+official’s behalf in coordinating and carrying out the necessary activities
+required during the security certification and accreditation of a system.
+11.1.3 Senior Agency Information Security Officer
+The SAISO (or supporting staff member) may serve as the authorizing official's
+designated representative. The SAISO serves as the CIO’s primary liaison to the
+agency’s authorizing officials, information system owners, and Information System
+Security Officers (ISSOs).
+11.1.4 Information System Owner
+The information system owner is responsible for the overall procurement,
+development, integration, modification, or operation and maintenance of an
+information system. The information system owner has the following responsibilities
+in relation to security certification and accreditation:
+98
+Chapter 11 Certification, Accreditation, and Security Assessments

@@ -1,0 +1,21 @@
+at are some practices that may prevent incidents?
+Q. What does an incident response capability do?
+Q. Why is it important to have an incident response capability?
+Q. What are federal civilian agencies accountable for in terms of reporting security
+incidents?
+Q. Is it possible to prepare for incident response?
+Q. What should be included in the incident response policy?
+Q. What elements should be considered when selecting a team structure and
+staffing model?
+
+Q. What are the four phases of the incident response life cycle?
+A. NIST SP 800-61, Computer Security Incident Handling Guide, states that the four
+phases of the incident response life cycle are:
+• Preparation;
+• Detection and Analysis;
+• Containment, Eradication, and Recovery; and
+• Post-Incident Recovery.
+Q. What are some practices that may prevent incidents?
+A. Examples of practices that help to prevent incidents are:
+• Having a patch management program to assist system administrators in
+identifying, acquiring, testing, and deplo

@@ -1,0 +1,19 @@
+owing responsibilities:
+• Designating a senior agency information security officer (SAISO);
+• Developing and maintaining an agency-wide information security program;
+• Developing and maintaining information security policies, procedures, and
+control techniques to address all applicable requirements;
+• Ensuring compliance with applicable information security requirements; and
+• Reporting annually, in coordination with the other senior agency officials, to the
+agency head on the effectiveness of the agency information security program,
+including progress of remedial actions.
+2.2.3.3 Senior Agency Information Security Officer9
+FISMA assigns SAISO the following responsibilities:
+• Performing information security duties as the primary duty;
+
+8 Clinger-Cohen Act, 1996.
+9 The SAISO in some agencies is sometimes referred to as the computer information security officer
+(CISO) or the chief security officer (CSO).
+9
+CHAPTER 2 Information Security Governance
+• Heading an office with the mission an

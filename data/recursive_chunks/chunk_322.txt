@@ -1,0 +1,12 @@
+appropriate backup methods and procedures for implementing data recovery and
+reconstitution against IT risks.65 Risks to information systems may be natural,
+technological, or human in nature. Contingency planning consists of a process for
+recovery and documentation of procedures for conducting recovery. National
+Institute of Standards and Technology (NIST) Special Publication (SP) 800-34,
+Contingency Planning for Information Technology Systems, details a seven-step
+methodology for developing an IT contingency process and plan. Planning,
+implementing, and testing the contingency strategy are addressed by six of the
+seven steps; documenting the plan and establishing procedures and personnel
+organization to implement the strategy is the final step. SP 800-34 also includes
+technical considerations for developing recovery strategies.
+Figure 9-1 highlights contingency planning activities involved in each step that

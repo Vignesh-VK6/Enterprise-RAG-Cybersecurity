@@ -1,0 +1,18 @@
+etails of coordination between the CIO and other functions within the agency,
+external to the CIO (e.g., Information Assurance (IA), if separate from the CIO;
+physical security; personnel security; and critical infrastructure protection
+[CIP]) to ensure that the metrics data collection is streamlined and
+nonintrusive;
+• Creation or selection of data collection and tracking tools;
+63
+CHAPTER 7 Performance Measures
+• Modifications of data collection and tracking tools; and
+• Metrics summary reporting formats.
+7.4.2 Collect Data and Analyze Results
+Phase 2 of the process, Collect Data and Analyze Results, involves activities that
+are essential for ensuring that the collected metrics are used to gain an
+understanding of system security and to identify appropriate improvement actions.
+This phase includes the following activities:
+• Collect metrics data according to the processes defined in the metrics program
+implementation plan;
+• Consolidate collected data and store in a format (i.e., a d

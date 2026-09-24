@@ -1,0 +1,19 @@
+established by following a five-phase process, designed to populate an awareness
+and training program:
+1. Analysis;
+2. Design;
+3. Development;
+4. Implementation; and
+5. Evaluation.
+Specific details can be found in NIST SP 800-50, Building an Information
+Technology Security Awareness and Training Program, and NIST SP 800-16,
+Information Technology Security Training Requirements: A Role-and
+Performance-Based Model.
+Q. How can an organization enhance security awareness?
+A. An organization can enhance security awareness by establishing a continual
+program that uses a variety of methods, including:
+• Tools to promote the security cause, including events, such as a security
+awareness day promotional materials, and rules of behavior;
+• Communication of security-related material with users, managers, executives,
+system owners, and others through activities, such as assessment (as is/to be
+models), strategic plan, and program implementation;

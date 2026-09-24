@@ -1,0 +1,16 @@
+zation
+responsible for conducting a security certification or a comprehensive assessment of
+the effectiveness of security controls in an information system. The impartiality and
+independence of the certification agent are important factors in assessing the
+credibility of the security assessment results and ensuring that the authorizing
+official receives the most objective information possible to make an informed, risk-
+based accreditation decision. The certification agent has the following responsibilities
+in relation to security certification and accreditation:
+• Assess the system security plan to ensure the plan provides applicable security
+controls prior to initializing the certification process;
+• Performs a comprehensive assessment of the management, operational, and
+technical controls in the information system; and
+• Recommend corrective actions to reduce or eliminate vulnerabilities in the
+information system.
+11.1.8 User Representatives
+Users are responsible for identifying miss

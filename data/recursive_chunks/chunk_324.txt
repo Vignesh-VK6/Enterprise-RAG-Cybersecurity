@@ -1,0 +1,5 @@
+contingency to the replaced information system until, at least, the new system has
+been sufficiently tested. At some point, the legacy system may no longer support
+the needs of the organization, and the recovery strategy may transition away from
+the legacy system to a new recovery strategy designed during the Development
+phase of the new system.

@@ -1,0 +1,11 @@
+.3.3 Senior Agency Information Security Officer............................. 9
+2.2.3.4 Chief Enterprise Architect................................................... 10
+2.2.3.5 Related Roles ................................................................... 11
+2.2.4 Federal Enterprise Architecture (FEA).............................................. 12
+2.2.5 Information Security Policy and Guidance........................................ 14
+2.2.6 Ongoing Monitoring ...................................................................... 14
+2.3 Information Security Governance Challenges and Keys to Success ........................17
+3. System Development Life Cycle..................................................................... 19
+3.1 Initiation Phase..........................................................................................................19
+3.2 Development/Acquisition Phase................................................................................20
+3.3 Implement

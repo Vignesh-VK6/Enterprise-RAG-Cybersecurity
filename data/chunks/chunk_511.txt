@@ -1,0 +1,18 @@
+on 1: Interconnection Statement of Requirements;
+• Section 2: Systems Security Considerations;
+• Section 3: Topological Drawing; and
+• Section 4: Signatory Authority.
+Q. What is an MOU/MOA?
+A. A Memorandum of Understanding/Memo randum of Agreement (MOU/MOA) is a
+document that defines the responsibilities of two or more organizations in
+establishing, operating, and securing a system interconnection. It defines the
+purpose of the interconnection, identifies relevant authorities, specifies the
+responsibilities of each organization, defines the apportionment of costs, and
+identifies the timeline for terminating or reauthorizing the interconnection. The
+B-8
+Appendix B Frequently Asked Questions
+MOU/MOA documents the terms and conditions for sharing data and information
+resources and should be signed by an organizational official.
+Q. What are the components of MOU/MOA?
+A. Each organization may use its own MOU/MOA format, if appropriate, while
+keeping in mind that the MOU/MOA is a management 

@@ -1,0 +1,15 @@
+{
+    "benchmark_name": "Enterprise RAG Retrieval Benchmark",
+    "total_questions": 50,
+    "successful_runs": 50,
+    "error_count": 0,
+    "document_retrieval_routes": 30,
+    "outside_knowledge_base_routes": 20,
+    "document_route_rate_percent": 60.0,
+    "outside_route_rate_percent": 40.0,
+    "top1_retrieval_success_rate_percent": 46.0,
+    "top3_retrieval_success_rate_percent": 58.0,
+    "average_best_top3_relevance_percent": 24.63,
+    "average_retrieval_latency_seconds": 0.0065,
+    "results_file": "benchmark/benchmark_results.csv"
+}

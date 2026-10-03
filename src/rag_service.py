@@ -39,6 +39,7 @@ from rank_bm25 import BM25Okapi
 from transformers import AutoTokenizer
 import onnxruntime as ort
 from dotenv import load_dotenv
+from huggingface_hub import snapshot_download
 
 from src.query_router import classify_query
 from src.llm_answer_generation import generate_answer
@@ -174,10 +175,14 @@ print(
 
 
 # ============================================================
-# FIND ONNX MODEL
+# FIND / DOWNLOAD ONNX MODEL
 # ============================================================
 
 def find_onnx_model():
+
+    # --------------------------------------------------------
+    # FIRST: CHECK LOCAL HUGGING FACE CACHE
+    # --------------------------------------------------------
 
     hf_cache = os.path.expanduser(
         "~/.cache/huggingface/hub"
@@ -196,14 +201,53 @@ def find_onnx_model():
         search_pattern
     )
 
-    if not model_files:
+    if model_files:
 
-        raise FileNotFoundError(
-            "BGE ONNX model.onnx "
-            "not found in Hugging Face cache."
+        print(
+            "BGE ONNX model found in Hugging Face cache."
         )
 
-    return model_files[0]
+        return model_files[0]
+
+    # --------------------------------------------------------
+    # SECOND: DOWNLOAD FROM HUGGING FACE
+    # --------------------------------------------------------
+
+    print(
+        "BGE ONNX model not found in local cache."
+    )
+
+    print(
+        "Downloading BGE ONNX model from Hugging Face..."
+    )
+
+    model_dir = snapshot_download(
+        repo_id=EMBEDDING_MODEL,
+        allow_patterns=[
+            "onnx/model.onnx"
+        ]
+    )
+
+    onnx_model_path = os.path.join(
+        model_dir,
+        "onnx",
+        "model.onnx"
+    )
+
+    if not os.path.exists(
+        onnx_model_path
+    ):
+
+        raise FileNotFoundError(
+            "BGE ONNX model download failed: "
+            f"{onnx_model_path}"
+        )
+
+    print(
+        "BGE ONNX model downloaded successfully."
+    )
+
+    return onnx_model_path
 
 
 print(

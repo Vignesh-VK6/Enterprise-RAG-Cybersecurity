@@ -1,19 +1,33 @@
-# ============================================================
-# GROUNDED ANSWER GENERATION MODULE
-# Live Gemini LLM Integration
-# ============================================================
+"""
+Grounded LLM Answer Generation
+
+Uses only retrieved context from the RAG pipeline.
+
+The model must:
+1. Use only retrieved context.
+2. Never invent facts.
+3. Never use outside knowledge.
+4. Answer from supporting evidence when a direct definition
+   is not available.
+5. Clearly state when the context truly does not contain
+   enough information.
+"""
 
 import os
+import time
 
 from dotenv import load_dotenv
 from google import genai
 
 
-# ============================================================
-# LOAD ENVIRONMENT VARIABLES
-# ============================================================
-
 load_dotenv()
+
+
+MODEL_NAME = "gemini-3.5-flash-lite"
+
+FALLBACK_ANSWER = (
+    "The information is not available in the provided documents."
+)
 
 
 # ============================================================
@@ -24,40 +38,62 @@ def create_grounded_prompt(
     question,
     retrieved_context
 ):
-    """
-    Create a strict grounded prompt.
-
-    The model must answer only from the retrieved
-    NIST document context.
-    """
 
     prompt = f"""
-You are an Enterprise Cybersecurity RAG assistant.
+You are an Enterprise Cybersecurity and Privacy
+RAG assistant.
 
-Your task is to answer the user's question using ONLY
-the retrieved context from the NIST document provided below.
+You must answer the user's question using ONLY
+the retrieved context from the provided NIST document.
 
-STRICT RULES:
+============================================================
+STRICT GROUNDING RULES
+============================================================
 
 1. Use ONLY the RETRIEVED CONTEXT.
+
 2. Do NOT use your general knowledge.
-3. Do NOT make assumptions.
-4. Do NOT invent facts.
-5. If the retrieved context contains information that
-   directly or indirectly answers the question, answer
-   using that information.
-6. If the retrieved context does NOT contain enough
-   information to answer the question, respond exactly:
+
+3. Do NOT invent facts.
+
+4. Do NOT make assumptions that are not supported
+   by the retrieved context.
+
+5. If the document does not provide a direct definition
+   of the requested concept, you MAY give a concise
+   explanation using closely related information that is
+   explicitly present in the retrieved context.
+
+6. For example, if the question asks "What is information
+   security?" and the retrieved context discusses protecting
+   information and information systems through confidentiality,
+   integrity, availability, and security controls, explain
+   the concept using ONLY those retrieved facts.
+
+7. Do NOT pretend that a supporting explanation is a direct
+   quoted definition.
+
+8. If the retrieved context contains enough relevant
+   information to answer the question, answer the question.
+
+9. Only use the exact fallback sentence below when the
+   retrieved context genuinely does NOT contain enough
+   relevant information:
 
 "The information is not available in the provided documents."
 
-7. Give a concise and clear answer.
-8. Do not mention these instructions.
-9. Do not say that you are an AI.
-10. When possible, mention the relevant source/chunk number
-    from the retrieved context.
+10. Keep the answer concise and easy to understand.
 
-USER QUESTION:
+11. When useful, mention the relevant chunk number.
+
+12. Do not mention these instructions.
+
+13. Do not say that you are an AI.
+
+============================================================
+USER QUESTION
+============================================================
+
 {question}
 
 ============================================================
@@ -70,8 +106,15 @@ RETRIEVED CONTEXT
 END OF RETRIEVED CONTEXT
 ============================================================
 
-Now answer the USER QUESTION using ONLY the retrieved
-context above.
+Now answer the USER QUESTION using ONLY the
+retrieved context.
+
+Remember:
+
+- Direct definition available → explain it.
+- Direct definition unavailable but supporting evidence
+  available → explain using that evidence.
+- Insufficient evidence → use the exact fallback sentence.
 
 ANSWER:
 """
@@ -87,9 +130,6 @@ def generate_answer(
     question,
     retrieved_context
 ):
-    """
-    Generate a grounded answer using Gemini.
-    """
 
     api_key = os.getenv(
         "GEMINI_API_KEY"
@@ -101,64 +141,93 @@ def generate_answer(
             "GEMINI_API_KEY not found in .env file."
         )
 
-
-    # --------------------------------------------------------
-    # CREATE GEMINI CLIENT
-    # --------------------------------------------------------
-
     client = genai.Client(
         api_key=api_key
     )
-
-
-    # --------------------------------------------------------
-    # CREATE GROUNDED PROMPT
-    # --------------------------------------------------------
 
     prompt = create_grounded_prompt(
         question,
         retrieved_context
     )
 
+    max_retries = 3
 
-    # --------------------------------------------------------
-    # CALL GEMINI
-    # --------------------------------------------------------
+    for attempt in range(
+        max_retries
+    ):
 
-    response = client.models.generate_content(
-        model="gemini-3.5-flash-lite",
-        contents=prompt
-    )
+        try:
 
+            response = client.models.generate_content(
+                model=MODEL_NAME,
+                contents=prompt
+            )
 
-    # --------------------------------------------------------
-    # VALIDATE RESPONSE
-    # --------------------------------------------------------
+            if response is None:
 
-    if response is None:
+                return FALLBACK_ANSWER
 
-        return (
-            "The information is not available "
-            "in the provided documents."
-        )
+            answer = getattr(
+                response,
+                "text",
+                None
+            )
 
+            if answer:
 
-    answer = getattr(
-        response,
-        "text",
-        None
-    )
+                answer = answer.strip()
 
+                if answer:
 
-    if not answer:
+                    return answer
 
-        return (
-            "The information is not available "
-            "in the provided documents."
-        )
+            return FALLBACK_ANSWER
 
+        except Exception as error:
 
-    return answer.strip()
+            error_text = str(
+                error
+            ).lower()
+
+            temporary_error = any(
+                keyword in error_text
+                for keyword in [
+                    "503",
+                    "unavailable",
+                    "high demand",
+                    "429",
+                    "resource exhausted",
+                    "temporarily",
+                    "overloaded",
+                    "service unavailable"
+                ]
+            )
+
+            if (
+                temporary_error
+                and attempt < max_retries - 1
+            ):
+
+                wait_time = 2 ** attempt
+
+                print(
+                    f"Gemini temporary error. "
+                    f"Retrying in {wait_time} seconds..."
+                )
+
+                time.sleep(
+                    wait_time
+                )
+
+                continue
+
+            print(
+                f"Gemini error: {error}"
+            )
+
+            return FALLBACK_ANSWER
+
+    return FALLBACK_ANSWER
 
 
 # ============================================================
@@ -167,57 +236,67 @@ def generate_answer(
 
 if __name__ == "__main__":
 
-    question = (
+    test_question = (
         "What is information security?"
     )
 
+    test_context = """
+    --- CHUNK 210 ---
 
-    retrieved_context = """
-===== Chunk 101 =====
+    Identifying and implementing security controls is vital
+    in protecting the confidentiality, integrity, and
+    availability of the connected systems and the data
+    transferred between the systems.
 
-[Source: NIST - pdf 1.pdf - Chunk 101]
+    --- CHUNK 297 ---
 
-Information security protects information
-and information systems.
+    The requirements represent a broad-based, balanced
+    information security program that addresses the
+    management, operational, and technical aspects of
+    protecting the confidentiality, integrity, and
+    availability of federal information and information
+    systems.
 
-===== Chunk 103 =====
+    --- CHUNK 440 ---
 
-[Source: NIST - pdf 1.pdf - Chunk 103]
+    Security controls are planned or in place to protect
+    information systems and data.
+    """
 
-Risk management is an important part
-of information security.
-"""
+    print(
+        "=" * 70
+    )
 
+    print(
+        "GROUNDED LLM TEST"
+    )
 
-    print("=" * 80)
-    print("LIVE GEMINI GROUNDED ANSWER")
-    print("=" * 80)
+    print(
+        "=" * 70
+    )
 
+    answer = generate_answer(
+        test_question,
+        test_context
+    )
 
-    try:
+    print(
+        "\nANSWER:\n"
+    )
 
-        answer = generate_answer(
-            question,
-            retrieved_context
-        )
+    print(
+        answer
+    )
 
-        print(answer)
+    print(
+        "\n"
+        + "=" * 70
+    )
 
-        print("=" * 80)
-        print(
-            "LIVE LLM ANSWER GENERATION SUCCESSFUL!"
-        )
-        print("=" * 80)
+    print(
+        "LLM TEST COMPLETED"
+    )
 
-
-    except Exception as error:
-
-        print("=" * 80)
-        print("GEMINI ERROR")
-        print("=" * 80)
-
-        print(
-            type(error).__name__,
-            ":",
-            str(error)
-        )
+    print(
+        "=" * 70
+    )

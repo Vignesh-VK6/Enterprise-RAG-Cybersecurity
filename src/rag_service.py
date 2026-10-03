@@ -1,92 +1,154 @@
+"""
+Enterprise RAG Service
+Cybersecurity & Privacy Knowledge Assistant
+
+Pipeline:
+User Query
+    ↓
+Query Router
+    ↓
+Conversation Follow-up Resolution
+    ↓
+Query Expansion
+    ↓
+Hybrid Retrieval
+    ├── FAISS Vector Search
+    └── BM25 Keyword Search
+    ↓
+RRF Fusion
+    ↓
+Conservative Definition / Relevance Bonus
+    ↓
+Top-K Context Construction
+    ↓
+Grounded Gemini Answer
+    ↓
+Source Citations
+    ↓
+Monitoring Logs
+"""
+
 import os
 import re
 import time
-import numpy as np
-import faiss
+import glob
 
+import faiss
+import numpy as np
 from rank_bm25 import BM25Okapi
+from transformers import AutoTokenizer
+import onnxruntime as ort
 from dotenv import load_dotenv
 
 from src.query_router import classify_query
 from src.llm_answer_generation import generate_answer
 from src.monitoring import log_retrieval
+from src.conversational_rag import resolve_follow_up
 
 
 # ============================================================
-# ENVIRONMENT
+# CONFIGURATION
 # ============================================================
 
-load_dotenv()
+BASE_DIR = os.path.dirname(
+    os.path.dirname(
+        os.path.abspath(__file__)
+    )
+)
 
-
-# ============================================================
-# PATHS
-# ============================================================
-
-BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-
-CHUNKS_PATH = os.path.join(
+CHUNKS_FILE = os.path.join(
     BASE_DIR,
     "vector_db",
     "chunks.txt"
 )
 
-FAISS_INDEX_PATH = os.path.join(
+FAISS_INDEX_FILE = os.path.join(
     BASE_DIR,
     "vector_db",
     "onnx_faiss.index"
 )
 
+EMBEDDING_MODEL = "BAAI/bge-small-en-v1.5"
 
-# ============================================================
-# BGE ONNX MODEL
-# ============================================================
+TOP_K_FAISS = 50
+TOP_K_BM25 = 50
+TOP_K_FINAL = 3
 
-MODEL_PATH = (
-    r"C:\Users\ELCOT\.cache\huggingface\hub"
-    r"\models--BAAI--bge-small-en-v1.5"
-    r"\snapshots\5c38ec7c405ec4b44b94cc5a9bb96e735b38267a"
-    r"\onnx\model.onnx"
+DEFINITION_TOP_K = 10
+
+RRF_K = 60
+
+FALLBACK_ANSWER = (
+    "The information is not available in the provided documents."
 )
 
-TOKENIZER_PATH = (
-    r"C:\Users\ELCOT\.cache\huggingface\hub"
-    r"\models--BAAI--bge-small-en-v1.5"
-    r"\snapshots\5c38ec7c405ec4b44b94cc5a9bb96e735b38267a"
-    r"\tokenizer.json"
-)
+load_dotenv()
 
 
 # ============================================================
 # LOAD CHUNKS
 # ============================================================
 
-with open(CHUNKS_PATH, "r", encoding="utf-8") as file:
-    chunks_text = file.read()
+def load_chunks():
+
+    if not os.path.exists(CHUNKS_FILE):
+
+        raise FileNotFoundError(
+            f"Chunks file not found: {CHUNKS_FILE}"
+        )
+
+    with open(
+        CHUNKS_FILE,
+        "r",
+        encoding="utf-8"
+    ) as file:
+
+        content = file.read()
+
+    pattern = r"--- CHUNK \d+ ---"
+
+    parts = re.split(
+        pattern,
+        content
+    )
+
+    chunks = []
+
+    for part in parts:
+
+        part = part.strip()
+
+        if not part:
+            continue
+
+        chunks.append(part)
+
+    return chunks
 
 
-# IMPORTANT:
-# chunks.txt uses "--- CHUNK N ---" markers.
-chunks = re.split(
-    r"(?=--- CHUNK \d+ ---)",
-    chunks_text
+chunks = load_chunks()
+
+print(
+    f"Loaded chunks: {len(chunks)}"
 )
 
-chunks = [
-    chunk.strip()
-    for chunk in chunks
-    if chunk.strip()
-]
-
-print(f"Loaded chunks: {len(chunks)}")
-
 
 # ============================================================
-# LOAD FAISS
+# LOAD FAISS INDEX
 # ============================================================
+
+if not os.path.exists(
+    FAISS_INDEX_FILE
+):
+
+    raise FileNotFoundError(
+        f"FAISS index not found: "
+        f"{FAISS_INDEX_FILE}"
+    )
+
 
 faiss_index = faiss.read_index(
-    FAISS_INDEX_PATH
+    FAISS_INDEX_FILE
 )
 
 print(
@@ -95,315 +157,205 @@ print(
 
 
 # ============================================================
-# LOAD TOKENIZER
+# LOAD BGE TOKENIZER
 # ============================================================
 
-print("Loading BGE tokenizer...")
-
-from tokenizers import Tokenizer
-
-tokenizer = Tokenizer.from_file(
-    TOKENIZER_PATH
+print(
+    "Loading BGE tokenizer..."
 )
 
-print("Tokenizer loaded.")
-
-
-# ============================================================
-# LOAD ONNX MODEL
-# ============================================================
-
-print("Loading BGE ONNX model...")
-
-import onnxruntime as ort
-
-session = ort.InferenceSession(
-    MODEL_PATH,
-    providers=["CPUExecutionProvider"]
+tokenizer = AutoTokenizer.from_pretrained(
+    EMBEDDING_MODEL
 )
 
-print("BGE ONNX model loaded.")
+print(
+    "Tokenizer loaded."
+)
 
 
 # ============================================================
-# TOKENIZATION FOR BM25
+# FIND ONNX MODEL
 # ============================================================
 
-def tokenize_text(text):
-    """
-    Convert text into simple word tokens.
+def find_onnx_model():
 
-    Example:
-    "What is information security?"
-    ->
-    ["what", "is", "information", "security"]
-    """
-
-    return re.findall(
-        r"\b[a-zA-Z0-9]+\b",
-        text.lower()
+    hf_cache = os.path.expanduser(
+        "~/.cache/huggingface/hub"
     )
 
+    search_pattern = os.path.join(
+        hf_cache,
+        "models--BAAI--bge-small-en-v1.5",
+        "snapshots",
+        "*",
+        "onnx",
+        "model.onnx"
+    )
+
+    model_files = glob.glob(
+        search_pattern
+    )
+
+    if not model_files:
+
+        raise FileNotFoundError(
+            "BGE ONNX model.onnx "
+            "not found in Hugging Face cache."
+        )
+
+    return model_files[0]
+
+
+print(
+    "Loading BGE ONNX model..."
+)
+
+ONNX_MODEL_PATH = find_onnx_model()
+
+print(
+    f"ONNX model path: "
+    f"{ONNX_MODEL_PATH}"
+)
+
 
 # ============================================================
-# BUILD BM25 OVER ALL 630 CHUNKS
+# LOAD ONNX SESSION
 # ============================================================
 
-bm25_documents = [
-    tokenize_text(chunk)
+onnx_session = ort.InferenceSession(
+    ONNX_MODEL_PATH,
+    providers=[
+        "CPUExecutionProvider"
+    ]
+)
+
+print(
+    "BGE ONNX model loaded."
+)
+
+ONNX_INPUTS = [
+    input_node.name
+    for input_node
+    in onnx_session.get_inputs()
+]
+
+print(
+    f"ONNX inputs: {ONNX_INPUTS}"
+)
+
+
+# ============================================================
+# CREATE EMBEDDING
+# ============================================================
+
+def create_embedding(text):
+    """
+    Create a normalized 384-dimensional
+    BGE embedding.
+    """
+
+    encoded = tokenizer(
+        text,
+        padding=True,
+        truncation=True,
+        max_length=512,
+        return_tensors="np"
+    )
+
+    model_inputs = {}
+
+    for input_name in ONNX_INPUTS:
+
+        if input_name in encoded:
+
+            model_inputs[
+                input_name
+            ] = encoded[input_name]
+
+        elif input_name == "token_type_ids":
+
+            model_inputs[
+                input_name
+            ] = np.zeros_like(
+                encoded["input_ids"],
+                dtype=np.int64
+            )
+
+    outputs = onnx_session.run(
+        None,
+        model_inputs
+    )
+
+    token_embeddings = outputs[0]
+
+    attention_mask = (
+        encoded["attention_mask"]
+    )
+
+    mask = (
+        attention_mask[..., None]
+        .astype(np.float32)
+    )
+
+    masked_embeddings = (
+        token_embeddings * mask
+    )
+
+    summed = masked_embeddings.sum(
+        axis=1
+    )
+
+    counts = np.clip(
+        mask.sum(axis=1),
+        a_min=1e-9,
+        a_max=None
+    )
+
+    sentence_embedding = (
+        summed / counts
+    )
+
+    sentence_embedding = (
+        sentence_embedding.astype(
+            np.float32
+        )
+    )
+
+    norm = np.linalg.norm(
+        sentence_embedding,
+        axis=1,
+        keepdims=True
+    )
+
+    sentence_embedding = (
+        sentence_embedding
+        / np.clip(
+            norm,
+            1e-12,
+            None
+        )
+    )
+
+    return sentence_embedding
+
+
+# ============================================================
+# BM25
+# ============================================================
+
+tokenized_documents = [
+    chunk.lower().split()
     for chunk in chunks
 ]
 
 bm25 = BM25Okapi(
-    bm25_documents
+    tokenized_documents
 )
 
 print(
-    f"BM25 documents: {len(bm25_documents)}"
+    f"BM25 documents: "
+    f"{len(tokenized_documents)}"
 )
-
-
-# ============================================================
-# EMBEDDING FUNCTION
-# ============================================================
-
-def create_embedding(text):
-
-    encoded = tokenizer.encode(
-        text,
-        add_special_tokens=True
-    )
-
-    max_length = 512
-
-    input_ids_list = encoded.ids[:max_length]
-    attention_mask_list = encoded.attention_mask[:max_length]
-    token_type_ids_list = encoded.type_ids[:max_length]
-
-    input_ids = np.array(
-        [input_ids_list],
-        dtype=np.int64
-    )
-
-    attention_mask = np.array(
-        [attention_mask_list],
-        dtype=np.int64
-    )
-
-    token_type_ids = np.array(
-        [token_type_ids_list],
-        dtype=np.int64
-    )
-
-    outputs = session.run(
-        None,
-        {
-            "input_ids": input_ids,
-            "attention_mask": attention_mask,
-            "token_type_ids": token_type_ids
-        }
-    )
-
-    hidden_state = outputs[0]
-
-    mask = attention_mask[:, :, None]
-
-    pooled = (
-        hidden_state * mask
-    ).sum(axis=1) / mask.sum(axis=1)
-
-    embedding = pooled[0]
-
-    norm = np.linalg.norm(
-        embedding
-    )
-
-    if norm > 0:
-        embedding = embedding / norm
-
-    return embedding.astype(
-        "float32"
-    )
-
-
-# ============================================================
-# EXTRACT CHUNK ID
-# ============================================================
-
-def extract_chunk_id(chunk_text):
-
-    match = re.search(
-        r"--- CHUNK (\d+) ---",
-        chunk_text
-    )
-
-    if match:
-        return int(match.group(1))
-
-    return -1
-
-
-# ============================================================
-# FAISS SEARCH
-# ============================================================
-
-def faiss_search(question, top_k=20):
-
-    query_embedding = create_embedding(
-        question
-    )
-
-    query_embedding = np.array(
-        [query_embedding],
-        dtype="float32"
-    )
-
-    scores, indices = faiss_index.search(
-        query_embedding,
-        top_k
-    )
-
-    results = []
-
-    for score, index in zip(
-        scores[0],
-        indices[0]
-    ):
-
-        if index < 0:
-            continue
-
-        if index >= len(chunks):
-            continue
-
-        results.append(
-            {
-                "chunk_id": extract_chunk_id(
-                    chunks[index]
-                ),
-                "text": chunks[index],
-                "faiss_score": float(score),
-                "bm25_score": 0.0,
-                "rrf_score": 0.0
-            }
-        )
-
-    return results
-
-
-# ============================================================
-# BM25 SEARCH
-# ============================================================
-
-def bm25_search(question, top_k=20):
-
-    query_tokens = tokenize_text(
-        question
-    )
-
-    scores = bm25.get_scores(
-        query_tokens
-    )
-
-    ranked_indices = np.argsort(
-        scores
-    )[::-1][:top_k]
-
-    results = []
-
-    for index in ranked_indices:
-
-        if index >= len(chunks):
-            continue
-
-        results.append(
-            {
-                "chunk_id": extract_chunk_id(
-                    chunks[index]
-                ),
-                "text": chunks[index],
-                "faiss_score": 0.0,
-                "bm25_score": float(
-                    scores[index]
-                ),
-                "rrf_score": 0.0
-            }
-        )
-
-    return results
-
-
-# ============================================================
-# RECIPROCAL RANK FUSION
-# ============================================================
-
-def reciprocal_rank_fusion(
-    faiss_results,
-    bm25_results,
-    k=60
-):
-
-    fused = {}
-
-    # --------------------------------------------------------
-    # FAISS RESULTS
-    # --------------------------------------------------------
-
-    for rank, item in enumerate(
-        faiss_results,
-        start=1
-    ):
-
-        chunk_id = item["chunk_id"]
-
-        if chunk_id not in fused:
-
-            fused[chunk_id] = {
-                "chunk_id": chunk_id,
-                "text": item["text"],
-                "faiss_score": item["faiss_score"],
-                "bm25_score": 0.0,
-                "rrf_score": 0.0
-            }
-
-        fused[chunk_id]["rrf_score"] += (
-            1.0 / (k + rank)
-        )
-
-    # --------------------------------------------------------
-    # BM25 RESULTS
-    # --------------------------------------------------------
-
-    for rank, item in enumerate(
-        bm25_results,
-        start=1
-    ):
-
-        chunk_id = item["chunk_id"]
-
-        if chunk_id not in fused:
-
-            fused[chunk_id] = {
-                "chunk_id": chunk_id,
-                "text": item["text"],
-                "faiss_score": 0.0,
-                "bm25_score": item["bm25_score"],
-                "rrf_score": 0.0
-            }
-
-        else:
-
-            fused[chunk_id]["bm25_score"] = (
-                item["bm25_score"]
-            )
-
-        fused[chunk_id]["rrf_score"] += (
-            1.0 / (k + rank)
-        )
-
-    return list(
-        fused.values()
-    )
 
 
 # ============================================================
@@ -411,125 +363,177 @@ def reciprocal_rank_fusion(
 # ============================================================
 
 def expand_query(question):
-
     """
-    Add simple domain terms when useful.
+    Lightweight query expansion.
 
-    This does NOT generate an answer.
-    It only improves retrieval.
+    Keeps the original query and adds
+    useful terminology without making
+    the query overly broad.
     """
 
-    q = question.lower().strip()
+    question_lower = (
+        question.lower()
+    )
 
     expansions = []
 
-    if (
-        "information security" in q
-        or "info security" in q
-    ):
-        expansions.extend(
-            [
-                "information security",
-                "protect information",
-                "protect information systems",
-                "confidentiality integrity availability",
-                "security requirements",
-                "security controls"
-            ]
-        )
+    if "information security" in question_lower:
 
-    if "governance" in q:
-        expansions.extend(
-            [
-                "information security governance",
-                "security governance",
-                "management structure",
-                "business objectives",
-                "manage risk"
-            ]
-        )
+        expansions.extend([
+            "protect information",
+            "information security controls",
+            "confidentiality integrity availability",
+            "protect information systems"
+        ])
 
-    if "security awareness" in q:
-        expansions.extend(
-            [
-                "security awareness",
-                "awareness program",
-                "security knowledge"
-            ]
-        )
+    elif "risk management" in question_lower:
 
-    if "risk management" in q:
-        expansions.extend(
-            [
-                "risk management",
-                "risk assessment",
-                "identifying analyzing responding to risk"
-            ]
-        )
+        expansions.extend([
+            "risk assessment",
+            "risk mitigation",
+            "threat vulnerability"
+        ])
+
+    elif "security awareness" in question_lower:
+
+        expansions.extend([
+            "security training",
+            "security awareness program",
+            "security knowledge"
+        ])
 
     if expansions:
 
-        return question + " " + " ".join(
-            expansions
+        return (
+            question
+            + " "
+            + " ".join(expansions)
         )
 
     return question
 
 
 # ============================================================
-# PHRASE BONUS
+# DEFINITION QUESTION DETECTION
 # ============================================================
 
-def calculate_phrase_bonus(
-    question,
-    chunk_text
-):
+def is_definition_question(question):
 
-    query_tokens = tokenize_text(
-        question
+    question_lower = (
+        question.lower().strip()
     )
 
-    if not query_tokens:
+    return (
+        question_lower.startswith(
+            "what is "
+        )
+        or question_lower.startswith(
+            "what are "
+        )
+        or question_lower.startswith(
+            "define "
+        )
+        or question_lower.startswith(
+            "definition of "
+        )
+    )
+
+
+# ============================================================
+# INFORMATION SECURITY EVIDENCE SCORE
+# ============================================================
+
+def information_security_definition_score(
+    chunk
+):
+    """
+    Conservative evidence score.
+
+    Does not reward a chunk merely because
+    it contains 'information security'.
+
+    Rewards supporting evidence such as:
+
+    - protection of information
+    - unauthorized access
+    - confidentiality
+    - integrity
+    - availability
+    - security controls
+    """
+
+    text = chunk.lower()
+
+    if "information security" not in text:
+
         return 0.0
 
-    chunk_lower = chunk_text.lower()
+    score = 0.0
 
-    normalized_question = " ".join(
-        query_tokens
-    )
+    protection_patterns = [
 
-    normalized_chunk = " ".join(
-        tokenize_text(chunk_text)
-    )
+        "protect information",
+        "protecting information",
+        "protection of information",
+        "protect information systems",
+        "protecting information systems",
+        "unauthorized access",
+        "unauthorized use",
+        "unauthorized disclosure",
+        "unauthorized modification",
+        "unauthorized destruction",
+    ]
 
-    # Exact normalized phrase
-    if normalized_question in normalized_chunk:
+    for pattern in protection_patterns:
 
-        return 0.05
+        if pattern in text:
 
-    # Important phrase:
-    # information security
-    if (
-        "information security" in question.lower()
-        and "information security" in chunk_lower
-    ):
+            score += 0.10
 
-        return 0.03
+    cia_patterns = [
 
-    matched_tokens = sum(
+        "confidentiality",
+        "integrity",
+        "availability",
+    ]
+
+    cia_count = sum(
         1
-        for token in query_tokens
-        if token in normalized_chunk
+        for pattern in cia_patterns
+        if pattern in text
     )
 
-    overlap_ratio = (
-        matched_tokens /
-        len(set(query_tokens))
-    )
+    if cia_count == 1:
+
+        score += 0.06
+
+    elif cia_count == 2:
+
+        score += 0.12
+
+    elif cia_count >= 3:
+
+        score += 0.18
+
+    context_patterns = [
+
+        "information security program",
+        "information security requirements",
+        "information security policy",
+        "information security controls",
+        "security requirements",
+        "security controls",
+    ]
+
+    for pattern in context_patterns:
+
+        if pattern in text:
+
+            score += 0.04
 
     return min(
-        overlap_ratio * 0.02,
-        0.02
+        score,
+        1.0
     )
 
 
@@ -539,77 +543,172 @@ def calculate_phrase_bonus(
 
 def calculate_definition_bonus(
     question,
-    chunk_text
+    chunk
 ):
 
-    """
-    Give a small retrieval bonus when the question
-    asks for a definition and the chunk contains
-    definition-style language.
+    if not is_definition_question(
+        question
+    ):
 
-    This does NOT create information.
-    """
-
-    question_lower = question.lower()
-    chunk_lower = chunk_text.lower()
-
-    definition_question = any(
-        phrase in question_lower
-        for phrase in [
-            "what is",
-            "what are",
-            "define",
-            "definition of",
-            "meaning of",
-            "refers to"
-        ]
-    )
-
-    if not definition_question:
         return 0.0
 
-    definition_patterns = [
-        "can be defined as",
+    question_lower = (
+        question.lower()
+    )
+
+    if "information security" in question_lower:
+
+        evidence_score = (
+            information_security_definition_score(
+                chunk
+            )
+        )
+
+        return (
+            evidence_score * 0.08
+        )
+
+    text = chunk.lower()
+
+    direct_definition_patterns = [
+
         "is defined as",
         "are defined as",
         "refers to",
+        "means",
         "is the process of",
-        "is a process of",
-        "is an aggregate of",
-        "constitutes the",
-        "is the",
-        "is a"
+        "is a process",
     ]
 
-    for pattern in definition_patterns:
+    score = 0.0
 
-        if pattern in chunk_lower:
+    for pattern in direct_definition_patterns:
 
-            return 0.025
+        if pattern in text:
 
-    return 0.0
+            score += 0.08
+
+    return min(
+        score,
+        0.15
+    )
+
+
+# ============================================================
+# SPECIAL DEFINITION SEARCH
+# ============================================================
+
+def definition_search(
+    question,
+    max_candidates=DEFINITION_TOP_K
+):
+    """
+    Conservative definition search.
+    """
+
+    if not is_definition_question(
+        question
+    ):
+
+        return []
+
+    question_lower = (
+        question.lower()
+    )
+
+    if "information security" not in question_lower:
+
+        return []
+
+    candidates = []
+
+    for index, chunk in enumerate(
+        chunks
+    ):
+
+        score = (
+            information_security_definition_score(
+                chunk
+            )
+        )
+
+        if score >= 0.20:
+
+            candidates.append(
+                (
+                    index,
+                    score
+                )
+            )
+
+    candidates.sort(
+        key=lambda item: item[1],
+        reverse=True
+    )
+
+    return candidates[
+        :max_candidates
+    ]
+
+
+# ============================================================
+# PHRASE BONUS
+# ============================================================
+
+def calculate_phrase_bonus(
+    question,
+    chunk
+):
+
+    question_lower = (
+        question.lower()
+    )
+
+    chunk_lower = (
+        chunk.lower()
+    )
+
+    bonus = 0.0
+
+    important_phrases = [
+
+        "information security",
+        "risk management",
+        "security controls",
+        "security awareness",
+        "security planning",
+        "confidentiality",
+        "integrity",
+        "availability",
+    ]
+
+    for phrase in important_phrases:
+
+        if (
+            phrase in question_lower
+            and phrase in chunk_lower
+        ):
+
+            bonus += 0.03
+
+    return min(
+        bonus,
+        0.12
+    )
 
 
 # ============================================================
 # HYBRID RETRIEVAL
 # ============================================================
 
-def hybrid_retrieval(
-    question,
-    top_k=3
-):
+def hybrid_retrieval(question):
 
-    print()
     print(
-        "========== HYBRID RETRIEVAL =========="
+        "\n========== HYBRID RETRIEVAL =========="
     )
 
-    # --------------------------------------------------------
-    # QUERY EXPANSION
-    # --------------------------------------------------------
-
-    expanded_query = expand_query(
-        question
+    expanded_query = (
+        expand_query(question)
     )
 
     if expanded_query != question:
@@ -619,113 +718,319 @@ def hybrid_retrieval(
         )
 
     # --------------------------------------------------------
-    # FAISS
+    # FAISS VECTOR SEARCH
     # --------------------------------------------------------
 
-    faiss_results = faiss_search(
-        expanded_query,
-        top_k=20
+    query_embedding = (
+        create_embedding(
+            expanded_query
+        )
     )
 
+    query_embedding = np.asarray(
+        query_embedding,
+        dtype=np.float32
+    ).reshape(
+        1,
+        -1
+    )
+
+    faiss_distances, faiss_indices = (
+        faiss_index.search(
+            query_embedding,
+            TOP_K_FAISS
+        )
+    )
+
+    faiss_results = {}
+
+    for rank, (
+        index,
+        score
+    ) in enumerate(
+        zip(
+            faiss_indices[0],
+            faiss_distances[0]
+        ),
+        start=1
+    ):
+
+        index = int(index)
+
+        if (
+            index < 0
+            or index >= len(chunks)
+        ):
+
+            continue
+
+        faiss_results[index] = {
+
+            "rank": rank,
+
+            "score": float(
+                score
+            )
+        }
+
     # --------------------------------------------------------
-    # BM25
+    # BM25 SEARCH
     # --------------------------------------------------------
 
-    bm25_results = bm25_search(
-        expanded_query,
-        top_k=20
+    bm25_query_tokens = (
+        question.lower().split()
+    )
+
+    bm25_scores_all = (
+        bm25.get_scores(
+            bm25_query_tokens
+        )
+    )
+
+    bm25_top_indices = (
+        np.argsort(
+            bm25_scores_all
+        )[::-1][:TOP_K_BM25]
+    )
+
+    bm25_results = {}
+
+    for rank, index in enumerate(
+        bm25_top_indices,
+        start=1
+    ):
+
+        index = int(index)
+
+        bm25_results[index] = {
+
+            "rank": rank,
+
+            "score": float(
+                bm25_scores_all[index]
+            )
+        }
+
+    # --------------------------------------------------------
+    # DEFINITION SEARCH
+    # --------------------------------------------------------
+
+    definition_candidates = (
+        definition_search(
+            question
+        )
+    )
+
+    definition_map = {
+
+        index: score
+
+        for index, score
+        in definition_candidates
+    }
+
+    print(
+        f"FAISS candidates: "
+        f"{len(faiss_results)}"
     )
 
     print(
-        f"FAISS candidates: {len(faiss_results)}"
+        f"BM25 candidates: "
+        f"{len(bm25_results)}"
     )
 
     print(
-        f"BM25 candidates: {len(bm25_results)}"
+        f"Definition candidates: "
+        f"{len(definition_candidates)}"
     )
 
     # --------------------------------------------------------
-    # RRF
+    # MERGE CANDIDATES
     # --------------------------------------------------------
 
-    fused_results = reciprocal_rank_fusion(
-        faiss_results,
-        bm25_results
+    candidate_indices = set()
+
+    candidate_indices.update(
+        faiss_results.keys()
     )
 
-    # --------------------------------------------------------
-    # FINAL SCORING
-    # --------------------------------------------------------
+    candidate_indices.update(
+        bm25_results.keys()
+    )
 
-    for item in fused_results:
+    candidate_indices.update(
+        definition_map.keys()
+    )
 
-        phrase_bonus = calculate_phrase_bonus(
-            question,
-            item["text"]
+    ranked_results = []
+
+    for index in candidate_indices:
+
+        faiss_rank = (
+            faiss_results.get(
+                index,
+                {}
+            ).get(
+                "rank"
+            )
         )
 
-        definition_bonus = calculate_definition_bonus(
-            question,
-            item["text"]
+        faiss_score = (
+            faiss_results.get(
+                index,
+                {}
+            ).get(
+                "score",
+                0.0
+            )
         )
 
-        item["phrase_bonus"] = (
-            phrase_bonus
+        bm25_rank = (
+            bm25_results.get(
+                index,
+                {}
+            ).get(
+                "rank"
+            )
         )
 
-        item["definition_bonus"] = (
-            definition_bonus
+        bm25_score = (
+            bm25_results.get(
+                index,
+                {}
+            ).get(
+                "score",
+                0.0
+            )
         )
 
-        item["final_score"] = (
-            item["rrf_score"]
+        # ----------------------------------------------------
+        # RRF
+        # ----------------------------------------------------
+
+        rrf_score = 0.0
+
+        if faiss_rank is not None:
+
+            rrf_score += (
+                1.0
+                / (
+                    RRF_K
+                    + faiss_rank
+                )
+            )
+
+        if bm25_rank is not None:
+
+            rrf_score += (
+                1.0
+                / (
+                    RRF_K
+                    + bm25_rank
+                )
+            )
+
+        # ----------------------------------------------------
+        # PHRASE BONUS
+        # ----------------------------------------------------
+
+        phrase_bonus = (
+            calculate_phrase_bonus(
+                question,
+                chunks[index]
+            )
+        )
+
+        # ----------------------------------------------------
+        # DEFINITION BONUS
+        # ----------------------------------------------------
+
+        definition_bonus = (
+            calculate_definition_bonus(
+                question,
+                chunks[index]
+            )
+        )
+
+        # ----------------------------------------------------
+        # FINAL SCORE
+        # ----------------------------------------------------
+
+        final_score = (
+            rrf_score
             + phrase_bonus
             + definition_bonus
         )
+
+        ranked_results.append({
+
+            "index": index,
+
+            "faiss_score": faiss_score,
+
+            "bm25_score": bm25_score,
+
+            "rrf_score": rrf_score,
+
+            "phrase_bonus": phrase_bonus,
+
+            "definition_bonus":
+                definition_bonus,
+
+            "final_score": final_score
+        })
 
     # --------------------------------------------------------
     # SORT
     # --------------------------------------------------------
 
-    fused_results.sort(
-        key=lambda x: x["final_score"],
+    ranked_results.sort(
+        key=lambda item:
+            item["final_score"],
         reverse=True
     )
 
-    final_results = fused_results[
-        :top_k
-    ]
-
-    # --------------------------------------------------------
-    # DEBUG OUTPUT
-    # --------------------------------------------------------
-
-    print()
-    print(
-        "Top Hybrid Chunks:"
+    top_results = (
+        ranked_results[
+            :TOP_K_FINAL
+        ]
     )
 
-    for rank, item in enumerate(
-        final_results,
+    # --------------------------------------------------------
+    # PRINT RESULTS
+    # --------------------------------------------------------
+
+    print(
+        "\nTop Hybrid Chunks:"
+    )
+
+    for rank, result in enumerate(
+        top_results,
         start=1
     ):
 
         print(
             f"Rank {rank} | "
-            f"Chunk {item['chunk_id']} | "
-            f"FAISS: {item['faiss_score']:.4f} | "
-            f"BM25: {item['bm25_score']:.4f} | "
-            f"RRF: {item['rrf_score']:.6f} | "
-            f"Phrase Bonus: {item['phrase_bonus']:.4f} | "
-            f"Definition Bonus: {item['definition_bonus']:.4f} | "
-            f"Final: {item['final_score']:.6f}"
+            f"Chunk {result['index']} | "
+            f"FAISS: "
+            f"{result['faiss_score']:.4f} | "
+            f"BM25: "
+            f"{result['bm25_score']:.4f} | "
+            f"RRF: "
+            f"{result['rrf_score']:.6f} | "
+            f"Phrase Bonus: "
+            f"{result['phrase_bonus']:.4f} | "
+            f"Definition Bonus: "
+            f"{result['definition_bonus']:.4f} | "
+            f"Final: "
+            f"{result['final_score']:.6f}"
         )
 
     print(
-        "========================================"
+        "========================================\n"
     )
 
-    return final_results
+    return top_results
 
 
 # ============================================================
@@ -736,11 +1041,34 @@ def build_context(results):
 
     context_parts = []
 
-    for item in results:
+    print(
+        "========== RETRIEVED CONTEXT =========="
+    )
+
+    for result in results:
+
+        index = result["index"]
+
+        chunk = chunks[index]
 
         context_parts.append(
-            item["text"]
+            f"--- CHUNK {index} ---\n"
+            f"{chunk}"
         )
+
+        print(
+            f"--- CHUNK {index} ---"
+        )
+
+        print(
+            chunk[:2500]
+        )
+
+        print()
+
+    print(
+        "========================================"
+    )
 
     return "\n\n".join(
         context_parts
@@ -748,31 +1076,51 @@ def build_context(results):
 
 
 # ============================================================
-# SOURCE INFORMATION
+# SOURCE CITATIONS
 # ============================================================
 
 def build_sources(results):
 
     sources = []
 
-    for item in results:
+    for result in results:
 
-        sources.append(
-            {
-                "source": "pdf 1.pdf",
-                "chunk_id": item["chunk_id"],
-                "faiss_score": item["faiss_score"],
-                "bm25_score": item["bm25_score"],
-                "rrf_score": item["rrf_score"],
-                "final_score": item["final_score"]
-            }
-        )
+        index = result["index"]
+
+        sources.append({
+
+            "chunk": index,
+
+            "score": round(
+                result["final_score"],
+                6
+            ),
+
+            "source": "pdf 1.pdf"
+        })
 
     return sources
 
 
 # ============================================================
-# MAIN RAG SERVICE
+# RETRIEVAL SCORES
+# ============================================================
+
+def get_retrieval_scores(results):
+
+    return [
+
+        round(
+            result["final_score"],
+            6
+        )
+
+        for result in results
+    ]
+
+
+# ============================================================
+# MAIN RAG FUNCTION
 # ============================================================
 
 def ask_rag(
@@ -782,213 +1130,350 @@ def ask_rag(
 
     start_time = time.time()
 
-    if conversation_history is None:
-        conversation_history = []
-
-    # --------------------------------------------------------
-    # QUERY ROUTING
-    # --------------------------------------------------------
-
-    router_result = classify_query(
-        question,
-        conversation_history
-    )
-
-    # Support tuple result
-    if isinstance(
-        router_result,
-        tuple
-    ):
-
-        route = router_result[0]
-
-        reason = (
-            router_result[1]
-            if len(router_result) > 1
-            else ""
-        )
-
-    # Support dictionary result
-    elif isinstance(
-        router_result,
-        dict
-    ):
-
-        route = router_result.get(
-            "route",
-            "DOCUMENT_RETRIEVAL"
-        )
-
-        reason = router_result.get(
-            "reason",
-            ""
-        )
-
-    # Support string result
-    else:
-
-        route = str(
-            router_result
-        )
-
-        reason = ""
-
-    print()
-    print(
-        f"Query: {question}"
-    )
-
-    print(
-        f"Route: {route}"
-    )
-
-    print(
-        f"Reason: {reason}"
-    )
-
-    # --------------------------------------------------------
-    # OUTSIDE KNOWLEDGE BASE
-    # --------------------------------------------------------
-
-    if route == "OUTSIDE_KNOWLEDGE_BASE":
-
-        answer = (
-            "The information is not available "
-            "in the provided documents."
-        )
-
-        response_time = (
-            time.time() - start_time
-        )
-
-        return {
-            "answer": answer,
-            "route": route,
-            "reason": reason,
-            "response_time": response_time,
-            "sources": [],
-            "retrieved_context": ""
-        }
-
-    # --------------------------------------------------------
-    # CLARIFICATION
-    # --------------------------------------------------------
-
-    if route == "CLARIFICATION":
-
-        answer = (
-            "Could you please clarify what "
-            "you are referring to?"
-        )
-
-        response_time = (
-            time.time() - start_time
-        )
-
-        return {
-            "answer": answer,
-            "route": route,
-            "reason": reason,
-            "response_time": response_time,
-            "sources": [],
-            "retrieved_context": ""
-        }
-
-    # --------------------------------------------------------
-    # CONVERSATION HISTORY
-    # --------------------------------------------------------
-
-    # For now, retrieve from the document knowledge base
-    # when a follow-up question needs factual grounding.
-    #
-    # The conversation history is still passed to the router.
-
-    # --------------------------------------------------------
-    # HYBRID RETRIEVAL
-    # --------------------------------------------------------
-
-    results = hybrid_retrieval(
-        question,
-        top_k=3
-    )
-
-    # --------------------------------------------------------
-    # BUILD CONTEXT
-    # --------------------------------------------------------
-
-    retrieved_context = build_context(
-        results
-    )
-
-    # --------------------------------------------------------
-    # GENERATE GROUNDED ANSWER
-    # --------------------------------------------------------
+    route = None
 
     try:
 
-        answer = generate_answer(
+        # ----------------------------------------------------
+        # QUERY ROUTER
+        # ----------------------------------------------------
+
+        route_result = classify_query(
             question,
+            conversation_history
+        )
+
+        if isinstance(
+            route_result,
+            tuple
+        ):
+
+            route = route_result[0]
+
+            reason = (
+                route_result[1]
+                if len(route_result) > 1
+                else ""
+            )
+
+        elif isinstance(
+            route_result,
+            dict
+        ):
+
+            route = route_result.get(
+                "route",
+                "DOCUMENT_RETRIEVAL"
+            )
+
+            reason = route_result.get(
+                "reason",
+                ""
+            )
+
+        else:
+
+            route = str(
+                route_result
+            )
+
+            reason = ""
+
+        print(
+            f"\nQuery: {question}"
+        )
+
+        print(
+            f"Route: {route}"
+        )
+
+        if reason:
+
+            print(
+                f"Reason: {reason}"
+            )
+
+        # ----------------------------------------------------
+        # OUTSIDE KNOWLEDGE BASE
+        # ----------------------------------------------------
+
+        if (
+            route
+            == "OUTSIDE_KNOWLEDGE_BASE"
+        ):
+
+            response_time = (
+                time.time()
+                - start_time
+            )
+
+            log_retrieval(
+                query=question,
+                route=route,
+                retrieved_documents=[],
+                retrieval_scores=[],
+                response_time=response_time,
+                error=None
+            )
+
+            return {
+
+                "answer":
+                    FALLBACK_ANSWER,
+
+                "route": route,
+
+                "sources": [],
+
+                "retrieval_scores": []
+            }
+
+        # ----------------------------------------------------
+        # CLARIFICATION
+        # ----------------------------------------------------
+
+        if route == "CLARIFICATION":
+
+            response_time = (
+                time.time()
+                - start_time
+            )
+
+            log_retrieval(
+                query=question,
+                route=route,
+                retrieved_documents=[],
+                retrieval_scores=[],
+                response_time=response_time,
+                error=None
+            )
+
+            return {
+
+                "answer": (
+                    "Could you please clarify "
+                    "what you are referring to?"
+                ),
+
+                "route": route,
+
+                "sources": [],
+
+                "retrieval_scores": []
+            }
+
+        # ----------------------------------------------------
+        # FOLLOW-UP RESOLUTION
+        # ----------------------------------------------------
+
+        retrieval_question = question
+
+        if conversation_history:
+
+            try:
+
+                retrieval_question = (
+                    resolve_follow_up(
+                        question,
+                        conversation_history
+                    )
+                )
+
+                print(
+                    f"Resolved Question: "
+                    f"{retrieval_question}"
+                )
+
+            except Exception as resolution_error:
+
+                print(
+                    "Follow-up resolution "
+                    f"warning: "
+                    f"{resolution_error}"
+                )
+
+                retrieval_question = question
+
+        # ----------------------------------------------------
+        # DOCUMENT RETRIEVAL
+        # ----------------------------------------------------
+
+        results = hybrid_retrieval(
+            retrieval_question
+        )
+
+        if not results:
+
+            response_time = (
+                time.time()
+                - start_time
+            )
+
+            log_retrieval(
+                query=question,
+                route=route,
+                retrieved_documents=[],
+                retrieval_scores=[],
+                response_time=response_time,
+                error=None
+            )
+
+            return {
+
+                "answer":
+                    FALLBACK_ANSWER,
+
+                "route": route,
+
+                "sources": [],
+
+                "retrieval_scores": [],
+
+                "response_time":
+                    response_time
+            }
+
+        # ----------------------------------------------------
+        # CONTEXT
+        # ----------------------------------------------------
+
+        retrieved_context = (
+            build_context(
+                results
+            )
+        )
+
+        # ----------------------------------------------------
+        # SOURCES
+        # ----------------------------------------------------
+
+        sources = (
+            build_sources(
+                results
+            )
+        )
+
+        retrieval_scores = (
+            get_retrieval_scores(
+                results
+            )
+        )
+
+        # ----------------------------------------------------
+        # GEMINI GROUNDED ANSWER
+        # ----------------------------------------------------
+
+        answer = generate_answer(
+            retrieval_question,
             retrieved_context
         )
 
-    except TypeError:
+        # ----------------------------------------------------
+        # RESPONSE TIME
+        # ----------------------------------------------------
 
-        # Compatibility fallback if the existing function
-        # expects keyword arguments.
-
-        answer = generate_grounded_answer(
-            question=question,
-            context=retrieved_context
+        response_time = (
+            time.time()
+            - start_time
         )
 
-    # --------------------------------------------------------
-    # RESPONSE TIME
-    # --------------------------------------------------------
-
-    response_time = (
-        time.time() - start_time
-    )
-
-    # --------------------------------------------------------
-    # SOURCES
-    # --------------------------------------------------------
-
-    sources = build_sources(
-        results
-    )
-
-    # --------------------------------------------------------
-    # MONITORING
-    # --------------------------------------------------------
-
-    try:
+        # ----------------------------------------------------
+        # MONITORING
+        # ----------------------------------------------------
 
         log_retrieval(
+
             query=question,
-            retrieved_documents=sources,
-            response_time=response_time,
+
+            route=route,
+
+            retrieved_documents=[
+
+                f"chunk_{result['index']}"
+
+                for result in results
+            ],
+
+            retrieval_scores=
+                retrieval_scores,
+
+            response_time=
+                response_time,
+
             error=None
         )
 
-    except Exception as monitoring_error:
+        # ----------------------------------------------------
+        # RETURN
+        # ----------------------------------------------------
 
-        print(
-            "Monitoring warning:",
-            monitoring_error
+        return {
+
+            "answer": answer,
+
+            "route": route,
+
+            "sources": sources,
+
+            "retrieval_scores":
+                retrieval_scores,
+
+            "response_time":
+                response_time,
+
+            "resolved_question":
+                retrieval_question
+        }
+
+    except Exception as error:
+
+        response_time = (
+            time.time()
+            - start_time
         )
 
-    # --------------------------------------------------------
-    # FINAL RESULT
-    # --------------------------------------------------------
+        print(
+            f"\nRAG ERROR: {error}"
+        )
 
-    return {
-        "answer": answer,
-        "route": route,
-        "reason": reason,
-        "response_time": response_time,
-        "sources": sources,
-        "retrieved_context": retrieved_context
-    }
+        try:
+
+            log_retrieval(
+
+                query=question,
+
+                route=route,
+
+                retrieved_documents=[],
+
+                retrieval_scores=[],
+
+                response_time=
+                    response_time,
+
+                error=str(error)
+            )
+
+        except Exception:
+
+            pass
+
+        return {
+
+            "answer":
+                FALLBACK_ANSWER,
+
+            "route": route,
+
+            "sources": [],
+
+            "retrieval_scores": [],
+
+            "error": str(error),
+
+            "response_time":
+                response_time
+        }
 
 
 # ============================================================
@@ -996,6 +1481,20 @@ def ask_rag(
 # ============================================================
 
 if __name__ == "__main__":
+
+    print("\n")
+
+    print(
+        "=" * 70
+    )
+
+    print(
+        "ENTERPRISE RAG SERVICE TEST"
+    )
+
+    print(
+        "=" * 70
+    )
 
     test_question = (
         "What is information security?"
@@ -1005,34 +1504,80 @@ if __name__ == "__main__":
         test_question
     )
 
-    print()
+    print("\n")
+
     print(
-        "========== FINAL ANSWER =========="
+        "=" * 70
     )
 
     print(
-        result["answer"]
-    )
-
-    print()
-    print(
-        "Route:",
-        result["route"]
+        "FINAL ANSWER"
     )
 
     print(
-        "Response Time:",
-        f"{result['response_time']:.3f}",
-        "seconds"
+        "=" * 70
     )
 
-    print()
     print(
-        "Sources:"
+        result.get(
+            "answer",
+            FALLBACK_ANSWER
+        )
     )
 
-    for source in result["sources"]:
+    print("\n")
+
+    print(
+        "=" * 70
+    )
+
+    print(
+        "ROUTE"
+    )
+
+    print(
+        "=" * 70
+    )
+
+    print(
+        result.get(
+            "route"
+        )
+    )
+
+    print("\n")
+
+    print(
+        "=" * 70
+    )
+
+    print(
+        "SOURCES"
+    )
+
+    print(
+        "=" * 70
+    )
+
+    for source in result.get(
+        "sources",
+        []
+    ):
 
         print(
             source
         )
+
+    print("\n")
+
+    print(
+        "=" * 70
+    )
+
+    print(
+        "RAG TEST COMPLETED"
+    )
+
+    print(
+        "=" * 70
+    )
